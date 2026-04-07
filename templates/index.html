@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div id="start-screen">
+    <div class="banner">ESCAPE TAB</div>
+    <button id="start-button">Enter</button>
+</div>
+
+<div id="game-wrapper" style="display:none;">
+<div id="banner" class="banner">ESCAPE TAB</div>
+<input type="hidden" id="client_id" value=""/>
+<input type="hidden" id="questionNum" value="0"/>
+
+<div id="game-container">
+    <div id="progress">
+        <div class="progress-segment" id="seg-0"></div>
+        <div class="progress-segment" id="seg-1"></div>
+        <div class="progress-segment" id="seg-2"></div>
+    </div>
+    <div id="problem-box">
+        <div id="problem-text"></div>
+    </div>
+    <div id="options-container"></div>
+    <div id="aime-input-container" style="display:none;">
+        <input type="text" id="aime-answer" placeholder="Enter answer (integer)" maxlength="3" />
+        <button id="aime-submit">Submit</button>
+    </div>
+    <div id="message"></div>
+</div>
+
+<div id="escape-screen" style="display:none;">
+    <h1>You Escaped!</h1>
+    <p>Congratulations! You solved all 3 problems.</p>
+</div>
+</div>
+{% endblock %}

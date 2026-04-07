@@ -1,0 +1,610 @@
+{
+  "year": 2017,
+  "contest": "AMC 10",
+  "variants": {
+    "A": [
+      {
+        "number": 1,
+        "problem": "What is the value of $(2(2(2(2(2(2+1)+1)+1)+1)+1)+1)$?",
+        "options": {
+          "A": "$70$",
+          "B": "$97$",
+          "C": "$127$",
+          "D": "$159$",
+          "E": "$729$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 2,
+        "problem": "Pablo buys popsicles for his friends. The store sells single popsicles for $\\$1$ each, $3$-popsicle boxes for $\\$2$ each, and $5$-popsicle boxes for $\\$3$. What is the greatest number of popsicles that Pablo can buy with $\\$8$?",
+        "options": {
+          "A": "$8$",
+          "B": "$11$",
+          "C": "$12$",
+          "D": "$13$",
+          "E": "$15$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 3,
+        "problem": "Tamara has three rows of two $6$-feet by $2$-feet flower beds in her garden. The beds are separated and also surrounded by $1$-foot-wide walkways, as shown on the diagram. What is the total area of the walkways, in square feet? [IMG:AMC10_2017_A_3.png]",
+        "options": {
+          "A": "$72$",
+          "B": "$78$",
+          "C": "$90$",
+          "D": "$120$",
+          "E": "$150$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 4,
+        "problem": "Mia is \u201chelping\u201d her mom pick up $30$ toys that are strewn on the floor. Mia\u2019s mom manages to put $3$ toys into the toy box every $30$ seconds, but each time immediately after those $30$ seconds have elapsed, Mia takes $2$ toys out of the box. How much time, in minutes, will it take Mia and her mom to put all $30$ toys into the box for the first time?",
+        "options": {
+          "A": "$13.5$",
+          "B": "$14$",
+          "C": "$14.5$",
+          "D": "$15$",
+          "E": "$15.5$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 5,
+        "problem": "The sum of two nonzero real numbers is $4$ times their product. What is the sum of the reciprocals of the two numbers?",
+        "options": {
+          "A": "$1$",
+          "B": "$2$",
+          "C": "$4$",
+          "D": "$8$",
+          "E": "$12$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 6,
+        "problem": "Ms. Carroll promised that anyone who got all the multiple choice questions right on the upcoming exam would receive an A on the exam. Which of these statements necessarily follows logically?",
+        "options": {
+          "A": "$\\text{If Lewis did not receive an A, then he got all of the multiple choice questions wrong.}\\\\$",
+          "B": "$\\text{If Lewis did not receive an A, then he got at least one of the multiple choice questions wrong.}\\\\$",
+          "C": "$\\text{If Lewis got at least one of the multiple choice questions wrong, then he did not receive an A. }\\\\$",
+          "D": "$\\text{If Lewis received an A, then he got all of the multiple choice questions right.}\\\\$",
+          "E": "$\\text{If Lewis received an A, then he got at least one of the multiple choice questions right.}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 7,
+        "problem": "Jerry and Silvia wanted to go from the southwest corner of a square field to the northeast corner. Jerry walked due east and then due north to reach the goal, but Silvia headed northeast and reached the goal walking in a straight line. Which of the following is closest to how much shorter Silvia's trip was, compared to Jerry's trip?",
+        "options": {
+          "A": "$30\\%$",
+          "B": "$40\\%$",
+          "C": "$50\\%$",
+          "D": "$60\\%$",
+          "E": "$70\\%$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 8,
+        "problem": "At a gathering of $30$ people, there are $20$ people who all know each other and $10$ people who know no one. People who know each other hug, and people who do not know each other shake hands. How many handshakes occur?",
+        "options": {
+          "A": "$240$",
+          "B": "$245$",
+          "C": "$290$",
+          "D": "$480$",
+          "E": "$490$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 9,
+        "problem": "Minnie rides on a flat road at $20$ kilometers per hour (kph), downhill at $30$ kph, and uphill at $5$ kph. Penny rides on a flat road at $30$ kph, downhill at $40$ kph, and uphill at $10$ kph. Minnie goes from town $A$ to town $B$, a distance of $10$ km all uphill, then from town $B$ to town $C$, a distance of $15$ km all downhill, and then back to town $A$, a distance of $20$ km on the flat. Penny goes the other way around using the same route. How many more minutes does it take Minnie to complete the $45$-km ride than it takes Penny?",
+        "options": {
+          "A": "$45$",
+          "B": "$60$",
+          "C": "$65$",
+          "D": "$90$",
+          "E": "$95$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 10,
+        "problem": "Joy has $30$ thin rods, one each of every integer length from $1$ cm through $30$ cm. She places the rods with lengths $3$ cm, $7$ cm, and $15$ cm on a table. She then wants to choose a fourth rod that she can put with these three to form a quadrilateral with positive area. How many of the remaining rods can she choose as the fourth rod?",
+        "options": {
+          "A": "$16$",
+          "B": "$17$",
+          "C": "$18$",
+          "D": "$19$",
+          "E": "$20$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 11,
+        "problem": "The region consisting of all points in three-dimensional space within $3$ units of line segment $\\overline{AB}$ has volume $216\\pi$. What is the length $\\textit{AB}$?",
+        "options": {
+          "A": "$6$",
+          "B": "$12$",
+          "C": "$18$",
+          "D": "$20$",
+          "E": "$24$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 12,
+        "problem": "Let $S$ be a set of points $(x,y)$ in the coordinate plane such that two of the three quantities $3,~x+2,$ and $y-4$ are equal and the third of the three quantities is no greater than this common value. Which of the following is a correct description for $S?$",
+        "options": {
+          "A": "$\\text{a single point}$",
+          "B": "$\\text{two intersecting lines} \\\\$",
+          "C": "$\\text{ three lines whose pairwise intersections are three distinct points} \\\\$",
+          "D": "$\\text{a triangle}$",
+          "E": "$\\text{three rays with a common endpoint}$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 13,
+        "problem": "Define a sequence recursively by $F_{0}=0,~F_{1}=1,$ and $F_{n}=$ the remainder when $F_{n-1}+F_{n-2}$ is divided by $3,$ for all $n\\geq 2.$ Thus the sequence starts $0,1,1,2,0,2,\\ldots$ What is $F_{2017}+F_{2018}+F_{2019}+F_{2020}+F_{2021}+F_{2022}+F_{2023}+F_{2024}?$",
+        "options": {
+          "A": "$6$",
+          "B": "$7$",
+          "C": "$8$",
+          "D": "$9$",
+          "E": "$10$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 14,
+        "problem": "Every week Roger pays for a movie ticket and a soda out of his allowance. Last week, Roger's allowance was $A$ dollars. The cost of his movie ticket was $20\\%$ of the difference between $A$ and the cost of his soda, while the cost of his soda was $5\\%$ of the difference between $A$ and the cost of his movie ticket. To the nearest whole percent, what fraction of $A$ did Roger pay for his movie ticket and soda?",
+        "options": {
+          "A": "$9\\%$",
+          "B": "$19\\%$",
+          "C": "$22\\%$",
+          "D": "$23\\%$",
+          "E": "$25\\%$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 15,
+        "problem": "Chlo\u00e9 chooses a real number uniformly at random from the interval $[0, 2017]$. Independently, Laurent chooses a real number uniformly at random from the interval $[0, 4034]$. What is the probability that Laurent's number is greater than Chlo\u00e9's number?",
+        "options": {
+          "A": "$\\frac{1}{2}$",
+          "B": "$\\frac{2}{3}$",
+          "C": "$\\frac{3}{4}$",
+          "D": "$\\frac{5}{6}$",
+          "E": "$\\frac{7}{8}$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 16,
+        "problem": "There are 10 horses, named Horse 1, Horse 2, $\\ldots$, Horse 10. They get their names from how many minutes it takes them to run one lap around a circular race track: Horse $k$ runs one lap in exactly $k$ minutes. At time 0 all the horses are together at the starting point on the track. The horses start running in the same direction, and they keep running around the circular track at their constant speeds. The least time $S>0$, in minutes, at which all 10 horses will again simultaneously be at the starting point is $S=2520$. Let $T>0$ be the least time, in minutes, such that at least 5 of the horses are again at the starting point. What is the sum of the digits of $T$?",
+        "options": {
+          "A": "$2$",
+          "B": "$3$",
+          "C": "$4$",
+          "D": "$5$",
+          "E": "$6$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 17,
+        "problem": "Distinct points $P$, $Q$, $R$, $S$ lie on the circle $x^2+y^2=25$ and have integer coordinates. The distances $PQ$ and $RS$ are irrational numbers. What is the greatest possible value of the ratio $\\frac{PQ}{RS}$?",
+        "options": {
+          "A": "$3$",
+          "B": "$5$",
+          "C": "$3\\sqrt{5}$",
+          "D": "$7$",
+          "E": "$5\\sqrt{2}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 18,
+        "problem": "Amelia has a coin that lands heads with probability $\\tfrac{1}{3}$, and Blaine has a coin that lands on heads with probability $\\tfrac{2}{5}$. Amelia and Blaine alternately toss their coins until someone gets a head; the first one to get a head wins. All coin tosses are independent. Amelia goes first. The probability that Amelia wins is $\\tfrac{p}{q}$, where $p$ and $q$ are relatively prime positive integers. What is $q-p$?",
+        "options": {
+          "A": "$1$",
+          "B": "$2$",
+          "C": "$3$",
+          "D": "$4$",
+          "E": "$5$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 19,
+        "problem": "Alice refuses to sit next to either Bob or Carla. Derek refuses to sit next to Eric. How many ways are there for the five of them to sit in a row of 5 chairs under these conditions?",
+        "options": {
+          "A": "$12$",
+          "B": "$16$",
+          "C": "$28$",
+          "D": "$32$",
+          "E": "$40$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 20,
+        "problem": "Let $S(n)$ equal the sum of the digits of positive integer $n$. For example, $S(1507) = 13$. For a particular positive integer $n$, $S(n) = 1274$. Which of the following could be the value of $S(n+1)$?",
+        "options": {
+          "A": "$1$",
+          "B": "$3$",
+          "C": "$12$",
+          "D": "$1239$",
+          "E": "$1265$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 21,
+        "problem": "A square with side length $x$ is inscribed in a right triangle with sides of length $3$, $4$, and $5$ so that one vertex of the square coincides with the right-angle vertex of the triangle. A square with side length $y$ is inscribed in another right triangle with sides of length $3$, $4$, and $5$ so that one side of the square lies on the hypotenuse of the triangle. What is $\\tfrac{x}{y}$?",
+        "options": {
+          "A": "$\\dfrac{12}{13}$",
+          "B": "$\\dfrac{35}{37}$",
+          "C": "$1$",
+          "D": "$\\dfrac{37}{35}$",
+          "E": "$\\dfrac{13}{12}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 22,
+        "problem": "Sides $\\overline{AB}$ and $\\overline{AC}$ of equilateral triangle $ABC$ are tangent to a circle at points $B$ and $C$ respectively. What fraction of the area of $\\triangle ABC$ lies outside the circle?",
+        "options": {
+          "A": "$\\frac{4\\sqrt{3}\\pi}{27}-\\frac{1}{3}$",
+          "B": "$\\frac{\\sqrt{3}}{2}-\\frac{\\pi}{8}$",
+          "C": "$\\frac{1}{2}$",
+          "D": "$\\sqrt{3}-\\frac{2\\sqrt{3}\\pi}{9}$",
+          "E": "$\\frac{4}{3}-\\frac{4\\sqrt{3}\\pi}{27}$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 23,
+        "problem": "How many triangles with positive area have all their vertices at points $(i,j)$ in the coordinate plane, where $i$ and $j$ are integers between $1$ and $5$, inclusive?",
+        "options": {
+          "A": "$2128$",
+          "B": "$2148$",
+          "C": "$2160$",
+          "D": "$2200$",
+          "E": "$2300$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 24,
+        "problem": "For certain real numbers $a$, $b$, and $c$, the polynomial [IMG:AMC10_2017_A_24_0.png] [IMG:AMC10_2017_A_24_1.png] has three distinct roots, and each root of $g(x)$ is also a root of the polynomial [IMG:AMC10_2017_A_24_0.png] [IMG:AMC10_2017_A_24_1.png] What is $f(1)$?",
+        "options": {
+          "A": "$-9009$",
+          "B": "$-8008$",
+          "C": "$-7007$",
+          "D": "$-6006$",
+          "E": "$-5005$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 25,
+        "problem": "How many integers between $100$ and $999$, inclusive, have the property that some permutation of its digits is a multiple of $11$ between $100$ and $999?$ For example, both $121$ and $211$ have this property.",
+        "options": {
+          "A": "$226$",
+          "B": "$243$",
+          "C": "$270$",
+          "D": "$469$",
+          "E": "$486$"
+        },
+        "answer": "A"
+      }
+    ],
+    "B": [
+      {
+        "number": 1,
+        "problem": "Mary thought of a positive two-digit number. She multiplied it by $3$ and added $11$. Then she switched the digits of the result, obtaining a number between $71$ and $75$, inclusive. What was Mary's number?",
+        "options": {
+          "A": "$11$",
+          "B": "$12$",
+          "C": "$13$",
+          "D": "$14$",
+          "E": "$15$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 2,
+        "problem": "Sofia ran $5$ laps around the $400$-meter track at her school. For each lap, she ran the first $100$ meters at an average speed of $4$ meters per second and the remaining $300$ meters at an average speed of $5$ meters per second. How much time did Sofia take running the $5$ laps?",
+        "options": {
+          "A": "$\\text{5 minutes and 35 seconds}$",
+          "B": "$\\text{6 minutes and 40 seconds}$",
+          "C": "$\\text{7 minutes and 5 seconds}\\qquad$",
+          "D": "$\\text{7 minutes and 25 seconds}\\$",
+          "E": "$\\text{8 minutes and 10 seconds}$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 3,
+        "problem": "Real numbers $x$, $y$, and $z$ satisfy the inequalities $0<x<1$, $-1<y<0$, and $1<z<2$. Which of the following numbers is necessarily positive?",
+        "options": {
+          "A": "$y+x^2$",
+          "B": "$y+xz$",
+          "C": "$y+y^2$",
+          "D": "$y+2y^2$",
+          "E": "$y+z$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 4,
+        "problem": "Suppose that $x$ and $y$ are nonzero real numbers such that $\\frac{3x+y}{x-3y}=-2$. What is the value of $\\frac{x+3y}{3x-y}$?",
+        "options": {
+          "A": "$-3$",
+          "B": "$-1$",
+          "C": "$1$",
+          "D": "$2$",
+          "E": "$3$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 5,
+        "problem": "Camilla had twice as many blueberry jelly beans as cherry jelly beans. After eating $10$ pieces of each kind, she now has three times as many blueberry jelly beans as cherry jelly beans. How many blueberry jelly beans did she originally have?",
+        "options": {
+          "A": "$10$",
+          "B": "$20$",
+          "C": "$30$",
+          "D": "$40$",
+          "E": "$50$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 6,
+        "problem": "What is the largest number of solid $2\\text{ in.}$ by $2\\text{ in.}$ by $1\\text{ in.}$ blocks that can fit in a $3\\text{ in.}$ by $2\\text{ in.}$ by $3\\text{ in.}$ box?",
+        "options": {
+          "A": "$3$",
+          "B": "$4$",
+          "C": "$5$",
+          "D": "$6$",
+          "E": "$7$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 7,
+        "problem": "Samia set off on her bicycle to visit her friend, traveling at an average speed of $17$ kilometers per hour. When she had gone half the distance to her friend's house, a tire went flat, and she walked the rest of the way at $5$ kilometers per hour. In all it took her $44$ minutes to reach her friend's house. In kilometers rounded to the nearest tenth, how far did Samia walk?",
+        "options": {
+          "A": "$2.0$",
+          "B": "$2.2$",
+          "C": "$2.8$",
+          "D": "$3.4$",
+          "E": "$4.4$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 8,
+        "problem": "Points $A(11, 9)$ and $B(2, -3)$ are vertices of $\\triangle ABC$ with $AB=AC$. The altitude from $A$ meets the opposite side at $D(-1, 3)$. What are the coordinates of point $C$?",
+        "options": {
+          "A": "$(-8, 9)$",
+          "B": "$(-4, 8)$",
+          "C": "$(-4, 9)$",
+          "D": "$(-2, 3)$",
+          "E": "$(-1, 0)$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 9,
+        "problem": "A radio program has a quiz consisting of $3$ multiple-choice questions, each with $3$ choices. A contestant wins if he or she gets $2$ or more of the questions right. The contestant answers randomly to each question. What is the probability of winning?",
+        "options": {
+          "A": "$\\frac{1}{27}$",
+          "B": "$\\frac{1}{9}$",
+          "C": "$\\frac{2}{9}$",
+          "D": "$\\frac{7}{27}$",
+          "E": "$\\frac{1}{2}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 10,
+        "problem": "The lines with equations $ax-2y=c$ and $2x+by=-c$ are perpendicular and intersect at $(1, -5)$. What is $c$?",
+        "options": {
+          "A": "$-13$",
+          "B": "$-8$",
+          "C": "$2$",
+          "D": "$8$",
+          "E": "$13$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 11,
+        "problem": "At Typico High School, $60\\%$ of the students like dancing, and the rest dislike it. Of those who like dancing, $80\\%$ say that they like it, and the rest say that they dislike it. Of those who dislike dancing, $90\\%$ say that they dislike it, and the rest say that they like it. What fraction of students who say they dislike dancing actually like it?",
+        "options": {
+          "A": "$10\\%$",
+          "B": "$12\\%$",
+          "C": "$20\\%$",
+          "D": "$25\\%$",
+          "E": "$33\\frac{1}{3}\\%$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 12,
+        "problem": "Elmer's new car gives $50\\%$ better fuel efficiency. However, the new car uses diesel fuel, which is $20\\%$ more expensive per liter than the gasoline the old car used. By what percent will Elmer save money if he uses his new car instead of his old car for a long trip?",
+        "options": {
+          "A": "$20\\%$",
+          "B": "$26\\tfrac23\\%$",
+          "C": "$27\\tfrac79\\%$",
+          "D": "$33\\tfrac13\\%$",
+          "E": "$66\\tfrac23\\%$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 13,
+        "problem": "There are $20$ students participating in an after-school program offering classes in yoga, bridge, and painting. Each student must take at least one of these three classes, but may take two or all three. There are $10$ students taking yoga, $13$ taking bridge, and $9$ taking painting. There are $9$ students taking at least two classes. How many students are taking all three classes?",
+        "options": {
+          "A": "$1$",
+          "B": "$2$",
+          "C": "$3$",
+          "D": "$4$",
+          "E": "$5$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 14,
+        "problem": "An integer $N$ is selected at random in the range $1\\leq N \\leq 2020$. What is the probability that the remainder when $N^{16}$ is divided by $5$ is $1$?",
+        "options": {
+          "A": "$\\frac{1}{5}$",
+          "B": "$\\frac{2}{5}$",
+          "C": "$\\frac{3}{5}$",
+          "D": "$\\frac{4}{5}$",
+          "E": "$1$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 15,
+        "problem": "Rectangle $ABCD$ has $AB=3$ and $BC=4$. Point $E$ is the foot of the perpendicular from $B$ to diagonal $\\overline{AC}$. What is the area of $\\triangle AED$?",
+        "options": {
+          "A": "$1$",
+          "B": "$\\frac{42}{25}$",
+          "C": "$\\frac{28}{15}$",
+          "D": "$2$",
+          "E": "$\\frac{54}{25}$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 16,
+        "problem": "How many of the base-ten numerals for the positive integers less than or equal to $2017$ contain the digit $0$?",
+        "options": {
+          "A": "$469$",
+          "B": "$471$",
+          "C": "$475$",
+          "D": "$478$",
+          "E": "$481$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 17,
+        "problem": "Call a positive integer $\\textbf{monotonous}$ if it is a one-digit number or its digits, when read from left to right, form either a strictly increasing or a strictly decreasing sequence. For example, $3$, $23578$, and $987620$ are monotonous, but $88$, $7434$, and $23557$ are not. How many monotonous positive integers are there?",
+        "options": {
+          "A": "$1024$",
+          "B": "$1524$",
+          "C": "$1533$",
+          "D": "$1536$",
+          "E": "$2048$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 18,
+        "problem": "In the figure below, $3$ of the $6$ disks are to be painted blue, $2$ are to be painted red, and $1$ is to be painted green. Two paintings that can be obtained from one another by a rotation or a reflection of the entire figure are considered the same. How many different paintings are possible? [IMG:AMC10_2017_B_18.png]",
+        "options": {
+          "A": "$6$",
+          "B": "$8$",
+          "C": "$9$",
+          "D": "$12$",
+          "E": "$15$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 19,
+        "problem": "Let $ABC$ be an equilateral triangle. Extend side $\\overline{AB}$ beyond $B$ to a point $B&#39;$ so that $BB&#39;=3 \\cdot AB$. Similarly, extend side $\\overline{BC}$ beyond $C$ to a point $C&#39;$ so that $CC&#39;=3 \\cdot BC$, and extend side $\\overline{CA}$ beyond $A$ to a point $A&#39;$ so that $AA&#39;=3 \\cdot CA$. What is the ratio of the area of $\\triangle A&#39;B&#39;C&#39;$ to the area of $\\triangle ABC$?",
+        "options": {
+          "A": "$9:1$",
+          "B": "$16:1$",
+          "C": "$25:1$",
+          "D": "$36:1$",
+          "E": "$37:1$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 20,
+        "problem": "The number $21!=51,090,942,171,709,440,000$ has over $60,000$ positive integer divisors. One of them is chosen at random. What is the probability that it is odd?",
+        "options": {
+          "A": "$\\frac{1}{21}$",
+          "B": "$\\frac{1}{19}$",
+          "C": "$\\frac{1}{18}$",
+          "D": "$\\frac{1}{2}$",
+          "E": "$\\frac{11}{21}$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 21,
+        "problem": "In $\\triangle ABC$, $AB=6$, $AC=8$, $BC=10$, and $D$ is the midpoint of $\\overline{BC}$. What is the sum of the radii of the circles inscribed in $\\triangle ADB$ and $\\triangle ADC$?",
+        "options": {
+          "A": "$\\sqrt{5}$",
+          "B": "$\\frac{11}{4}$",
+          "C": "$2\\sqrt{2}$",
+          "D": "$\\frac{17}{6}$",
+          "E": "$3$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 22,
+        "problem": "The diameter $AB$ of a circle of radius $2$ is extended to a point $D$ outside the circle so that $BD=3$. Point $E$ is chosen so that $ED=5$ and line $ED$ is perpendicular to line $AD$. Segment $AE$ intersects the circle at a point $C$ between $A$ and $E$. What is the area of $\\triangle ABC$?",
+        "options": {
+          "A": "$\\frac{120}{37}$",
+          "B": "$\\frac{140}{39}$",
+          "C": "$\\frac{145}{39}$",
+          "D": "$\\frac{140}{37}$",
+          "E": "$\\frac{120}{31}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 23,
+        "problem": "Let $N=123456789101112\\dots4344$ be the $79$-digit number that is formed by writing the integers from $1$ to $44$ in order, one after the other. What is the remainder when $N$ is divided by $45$?",
+        "options": {
+          "A": "$1$",
+          "B": "$4$",
+          "C": "$9$",
+          "D": "$18$",
+          "E": "$44$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 24,
+        "problem": "The vertices of an equilateral triangle lie on the hyperbola $xy=1$, and a vertex of this hyperbola is the centroid of the triangle. What is the square of the area of the triangle?",
+        "options": {
+          "A": "$48$",
+          "B": "$60$",
+          "C": "$108$",
+          "D": "$120$",
+          "E": "$169$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 25,
+        "problem": "Last year Isabella took $7$ math tests and received $7$ different scores, each an integer between $91$ and $100$, inclusive. After each test she noticed that the average of her test scores was an integer. Her score on the seventh test was $95$. What was her score on the sixth test?",
+        "options": {
+          "A": "$92$",
+          "B": "$94$",
+          "C": "$96$",
+          "D": "$98$",
+          "E": "$100$"
+        },
+        "answer": "E"
+      }
+    ]
+  }
+}

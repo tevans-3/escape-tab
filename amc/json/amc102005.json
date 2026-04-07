@@ -1,0 +1,586 @@
+{
+  "year": 2005,
+  "contest": "AMC 10",
+  "variants": {
+    "A": [
+      {
+        "number": 1,
+        "problem": "While eating out, Mike and Joe each tipped their server $\\$2$. Mike tipped $10\\%$ of his bill and Joe tipped $20\\%$ of his bill. What was the difference, in dollars, between their bills?",
+        "options": {
+          "A": "$2$",
+          "B": "$4$",
+          "C": "$5$",
+          "D": "$10$",
+          "E": "$20$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 2,
+        "problem": "For each pair of real numbers $a \\neq b$, define the operation $\\star$ as [IMG:AMC10_2005_A_2.png] What is the value of $\\left(\\left(1 \\star 2\\right) \\star 3\\right)$?",
+        "options": {
+          "A": "$-\\frac{2}{3}$",
+          "B": "$-\\frac{1}{5}$",
+          "C": "$0$",
+          "D": "$\\frac{1}{2}$",
+          "E": "$\\text{This value is not defined.}$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 3,
+        "problem": "The equations $2x + 7 = 3$ and $bx - 10 = -2$ have the same solution $x$. What is the value of $b$?",
+        "options": {
+          "A": "$-8$",
+          "B": "$-4$",
+          "C": "$-2$",
+          "D": "$4$",
+          "E": "$8$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 4,
+        "problem": "A rectangle with a diagonal of length $x$ is twice as long as it is wide. What is the area of the rectangle?",
+        "options": {
+          "A": "$\\frac{1}{4}x^2$",
+          "B": "$\\frac{2}{5}x^2$",
+          "C": "$\\frac{1}{2}x^2$",
+          "D": "$x^2$",
+          "E": "$\\frac{3}{2}x^2$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 5,
+        "problem": "A store normally sells windows at $\\$100$ each. This week the store is offering one free window for each purchase of four. Dave needs seven windows and Doug needs eight windows. How many dollars will they save if they purchase the windows together rather than separately?",
+        "options": {
+          "A": "$100$",
+          "B": "$200$",
+          "C": "$300$",
+          "D": "$400$",
+          "E": "$500$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 6,
+        "problem": "The average (mean) of $20$ numbers is $30$, and the average of $30$ other numbers is $20$. What is the average of all $50$ numbers?",
+        "options": {
+          "A": "$23$",
+          "B": "$24$",
+          "C": "$25$",
+          "D": "$26$",
+          "E": "$27$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 7,
+        "problem": "Josh and Mike live $13$ miles apart. Yesterday Josh started to ride his bicycle toward Mike's house. A little later Mike started to ride his bicycle toward Josh's house. When they met, Josh had ridden for twice the length of time as Mike and at four-fifths of Mike's rate. How many miles had Mike ridden when they met?",
+        "options": {
+          "A": "$4$",
+          "B": "$5$",
+          "C": "$6$",
+          "D": "$7$",
+          "E": "$8$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 8,
+        "problem": "In the figure, the length of side $AB$ of square $ABCD$ is $\\sqrt{50}$, $E$ is between $B$ and $H$, and $BE = 1$. What is the area of the inner square $EFGH$? [IMG:AMC10_2005_A_8.png]",
+        "options": {
+          "A": "$25$",
+          "B": "$32$",
+          "C": "$36$",
+          "D": "$40$",
+          "E": "$42$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 9,
+        "problem": "Three tiles are marked $X$ and two other tiles are marked $O$. The five tiles are randomly arranged in a row. What is the probability that the arrangement reads $XOXOX$?",
+        "options": {
+          "A": "$\\frac{1}{12}$",
+          "B": "$\\frac{1}{10}$",
+          "C": "$\\frac{1}{6}$",
+          "D": "$\\frac{1}{4}$",
+          "E": "$\\frac{1}{3}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 10,
+        "problem": "There are two values of $a$ for which the equation $4x^2 + ax + 8x + 9 = 0$ has only one solution for $x$. What is the sum of those values of $a$?",
+        "options": {
+          "A": "$-16$",
+          "B": "$-8$",
+          "C": "$0$",
+          "D": "$8$",
+          "E": "$20$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 11,
+        "problem": "A wooden cube $n$ units on a side is painted red on all six faces and then cut into $n^3$ unit cubes. Exactly one-fourth of the total number of faces of the unit cubes are red. What is $n$?",
+        "options": {
+          "A": "$3$",
+          "B": "$4$",
+          "C": "$5$",
+          "D": "$6$",
+          "E": "$7$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 12,
+        "problem": "The figure shown is called a trefoil and is constructed by drawing circular sectors about sides of the congruent equilateral triangles. What is the area of a trefoil whose horizontal base has length $2$? [IMG:AMC10_2005_A_12.png]",
+        "options": {
+          "A": "$\\frac{1}{3}\\pi+\\frac{\\sqrt{3}}{2}$",
+          "B": "$\\frac{2}{3}\\pi$",
+          "C": "$\\frac{2}{3}\\pi+\\frac{\\sqrt{3}}{4}$",
+          "D": "$\\frac{2}{3}\\pi+\\frac{\\sqrt{3}}{3}$",
+          "E": "$\\frac{2}{3}\\pi+\\frac{\\sqrt{3}}{2}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 13,
+        "problem": "How many positive integers $n$ satisfy the following condition: [IMG:AMC10_2005_A_13.png]",
+        "options": {
+          "A": "$0$",
+          "B": "$7$",
+          "C": "$12$",
+          "D": "$65$",
+          "E": "$125$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 14,
+        "problem": "How many three-digit numbers satisfy the property that the middle digit is the average of the first and the last digits?",
+        "options": {
+          "A": "$41$",
+          "B": "$42$",
+          "C": "$43$",
+          "D": "$44$",
+          "E": "$45$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 15,
+        "problem": "How many positive cubes divide $3! \\cdot 5! \\cdot 7!$?",
+        "options": {
+          "A": "$2$",
+          "B": "$3$",
+          "C": "$4$",
+          "D": "$5$",
+          "E": "$6$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 16,
+        "problem": "The sum of the digits of a two-digit number is subtracted from the number. The units digit of the result is $6$. How many two-digit numbers have this property?",
+        "options": {
+          "A": "$5$",
+          "B": "$7$",
+          "C": "$9$",
+          "D": "$10$",
+          "E": "$19$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 17,
+        "problem": "In the five-sided star shown, the letters $A$, $B$, $C$, $D$, and $E$ are replaced by the numbers $3$, $5$, $6$, $7$, and $9$, although not necessarily in this order. The sums of the numbers at the ends of the line segments $\\overline{AB}$, $\\overline{BC}$, $\\overline{CD}$, $\\overline{DE}$, and $\\overline{EA}$ form an arithmetic sequence, although not necessarily in this order. What is the middle term of the arithmetic sequence? [IMG:AMC10_2005_A_17.png]",
+        "options": {
+          "A": "$9$",
+          "B": "$10$",
+          "C": "$11$",
+          "D": "$12$",
+          "E": "$13$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 18,
+        "problem": "Team $A$ and team $B$ play a series. The first team to win three games wins the series. Each team is equally likely to win each game, there are no ties, and the outcomes of the individual games are independent. If team $B$ wins the second game and team $A$ wins the series, what is the probability that team $B$ wins the first game?",
+        "options": {
+          "A": "$\\frac{1}{5}$",
+          "B": "$\\frac{1}{4}$",
+          "C": "$\\frac{1}{3}$",
+          "D": "$\\frac{1}{2}$",
+          "E": "$\\frac{2}{3}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 19,
+        "problem": "Three one-inch squares are placed with their bases on a line. The center square is lifted out and rotated $45^{\\circ}$, as shown. Then it is centered and lowered into its original location until it touches both of the adjoining squares. How many inches is the point $B$ from the line on which the bases of the original squares were placed? [IMG:AMC10_2005_A_19.png]",
+        "options": {
+          "A": "$1$",
+          "B": "$\\sqrt{2}$",
+          "C": "$\\frac{3}{2}$",
+          "D": "$\\sqrt{2}+\\frac{1}{2}$",
+          "E": "$2$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 20,
+        "problem": "An equiangular octagon has four sides of length $1$ and four sides of length $\\sqrt{2}/2$, arranged so that no two consecutive sides have the same length. What is the area of the octagon?",
+        "options": {
+          "A": "$\\frac{7}{2}$",
+          "B": "$\\frac{7\\sqrt{2}}{2}$",
+          "C": "$\\frac{5+4\\sqrt{2}}{2}$",
+          "D": "$\\frac{4+5\\sqrt{2}}{2}$",
+          "E": "$7$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 21,
+        "problem": "For how many positive integers $n$ does $1+2+\\dotsb+n$ evenly divide $6n$?",
+        "options": {
+          "A": "$3$",
+          "B": "$5$",
+          "C": "$7$",
+          "D": "$9$",
+          "E": "$11$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 22,
+        "problem": "Let $S$ be the set of the $2005$ smallest positive multiples of $4$, and let $T$ be the set of the $2005$ smallest positive multiples of $6$. How many elements are common to $S$ and $T$?",
+        "options": {
+          "A": "$166$",
+          "B": "$333$",
+          "C": "$500$",
+          "D": "$668$",
+          "E": "$1001$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 23,
+        "problem": "Let $\\overline{AB}$ be a diameter of a circle and $C$ be a point on $\\overline{AB}$ with $2 \\cdot AC = BC$. Let $D$ and $E$ be points on the circle such that $\\overline{DC} \\perp \\overline{AB}$ and $\\overline{DE}$ is a second diameter. What is the ratio of the area of $\\triangle DCE$ to the area of $\\triangle ABD$? [IMG:AMC10_2005_A_23.png]",
+        "options": {
+          "A": "$\\frac{1}{6}$",
+          "B": "$\\frac{1}{4}$",
+          "C": "$\\frac{1}{3}$",
+          "D": "$\\frac{1}{2}$",
+          "E": "$\\frac{2}{3}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 24,
+        "problem": "For each positive integer $m > 1$, let $P(m)$ denote the greatest prime factor of $m$. For how many positive integers $n$ is it true that both $P(n) = \\sqrt{n}$ and $P(n+48) = \\sqrt{n+48}$?",
+        "options": {
+          "A": "$0$",
+          "B": "$1$",
+          "C": "$3$",
+          "D": "$4$",
+          "E": "$5$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 25,
+        "problem": "In $\\triangle ABC$ we have $AB = 25$, $BC = 39$, and $AC = 42$. Points $D$ and $E$ are on $\\overline{AB}$ and $\\overline{AC}$ respectively, with $AD = 19$ and $AE = 14$. What is the ratio of the area of triangle $ADE$ to the area of the quadrilateral $BCED$?",
+        "options": {
+          "A": "$\\frac{266}{1521}$",
+          "B": "$\\frac{19}{75}$",
+          "C": "$\\frac{1}{3}$",
+          "D": "$\\frac{19}{56}$",
+          "E": "$1$"
+        },
+        "answer": "B"
+      }
+    ],
+    "B": [
+      {
+        "number": 1,
+        "problem": "A scout troop buys $1000$ candy bars at a price of five for &#36;$2$. They sell all the candy bars at a price of two for &#36;$1$. What was the profit, in dollars?",
+        "options": {
+          "A": "$100$",
+          "B": "$200$",
+          "C": "$300$",
+          "D": "$400$",
+          "E": "$500$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 2,
+        "problem": "A positive number $x$ has the property that $x\\%$ of $x$ is $4$. What is $x$?",
+        "options": {
+          "A": "$2$",
+          "B": "$4$",
+          "C": "$10$",
+          "D": "$20$",
+          "E": "$40$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 3,
+        "problem": "A gallon of paint is used to paint a room. One third of the paint is used on the first day. On the second day, one third of the remaining paint is used. What fraction of the original amount of paint is available to use on the third day?",
+        "options": {
+          "A": "$frac{1}{10}$",
+          "B": "$frac{1}{9}$",
+          "C": "$frac{1}{3}$",
+          "D": "$frac{4}{9}$",
+          "E": "$frac{5}{9}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 4,
+        "problem": "For real numbers $a$ and $b$, define $a \\diamond b = \\sqrt{a^2 + b^2}$. What is the value of $(5 \\diamond 12) \\diamond ((-12) \\diamond (-5))$?",
+        "options": {
+          "A": "$0$",
+          "B": "$frac{17}{2}$",
+          "C": "$13$",
+          "D": "$13\\sqrt{2}$",
+          "E": "$26$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 5,
+        "problem": "Brianna is using part of the money she earned on her weekend job to buy several equally-priced CDs. She used one fifth of her money to buy one third of the CDs. What fraction of her money will she have left after she buys all the CDs?",
+        "options": {
+          "A": "$frac{1}{5}$",
+          "B": "$frac{1}{3}$",
+          "C": "$frac{2}{5}$",
+          "D": "$frac{2}{3}$",
+          "E": "$frac{4}{5}$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 6,
+        "problem": "At the beginning of the school year, Lisa's goal was to earn an A on at least $80\\%$ of her $50$ quizzes for the year. She earned an A on $22$ of the first $30$ quizzes. If she is to achieve her goal, on at most how many of the remaining quizzes can she earn a grade lower than an A?",
+        "options": {
+          "A": "$1$",
+          "B": "$2$",
+          "C": "$3$",
+          "D": "$4$",
+          "E": "$5$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 7,
+        "problem": "A circle is inscribed in a square, then a square is inscribed in this circle, and finally, a circle is inscribed in this square. What is the ratio of the area of the smaller circle to the area of the larger square?",
+        "options": {
+          "A": "$frac{\\pi}{16}$",
+          "B": "$frac{\\pi}{8}$",
+          "C": "$frac{3\\pi}{16}$",
+          "D": "$frac{\\pi}{4}$",
+          "E": "$frac{\\pi}{2}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 9,
+        "problem": "One fair die has faces $1$, $1$, $2$, $2$, $3$, $3$ and another has faces $4$, $4$, $5$, $5$, $6$, $6$. The dice are rolled and the numbers on the top faces are added. What is the probability that the sum will be odd?",
+        "options": {
+          "A": "$frac{1}{3}$",
+          "B": "$frac{4}{9}$",
+          "C": "$frac{1}{2}$",
+          "D": "$frac{5}{9}$",
+          "E": "$frac{2}{3}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 10,
+        "problem": "In $\\triangle ABC$, we have $AC = BC = 7$ and $AB = 2$. Suppose that $D$ is a point on line $AB$ such that $B$ lies between $A$ and $D$ and $CD = 8$. What is $BD$?",
+        "options": {
+          "A": "$3$",
+          "B": "$2\\sqrt{3}$",
+          "C": "$4$",
+          "D": "$5$",
+          "E": "$4\\sqrt{2}$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 11,
+        "problem": "The first term of a sequence is $2005$. Each succeeding term is the sum of the cubes of the digits of the previous term. What is the ${2005}^{\\text{th}}$ term of the sequence?",
+        "options": {
+          "A": "$29$",
+          "B": "$55$",
+          "C": "$85$",
+          "D": "$133$",
+          "E": "$250$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 12,
+        "problem": "Twelve fair dice are rolled. What is the probability that the product of the numbers on the top faces is prime?",
+        "options": {
+          "A": "$left(\\frac{1}{12}\\right)^{12}$",
+          "B": "$left(\\frac{1}{6}\\right)^{12}$",
+          "C": "$2\\left(\\frac{1}{6}\\right)^{11}$",
+          "D": "$frac{5}{2}\\left(\\frac{1}{6}\\right)^{11}$",
+          "E": "$left(\\frac{1}{6}\\right)^{10}$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 13,
+        "problem": "How many numbers between $1$ and $2005$ are integer multiples of $3$ or $4$ but not $12$?",
+        "options": {
+          "A": "$501$",
+          "B": "$668$",
+          "C": "$835$",
+          "D": "$1002$",
+          "E": "$1169$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 15,
+        "problem": "An envelope contains eight bills: $2$ ones, $2$ fives, $2$ tens, and $2$ twenties. Two bills are drawn at random without replacement. What is the probability that their sum is &#36;$20$ or more?",
+        "options": {
+          "A": "$frac{1}{4}$",
+          "B": "$frac{2}{5}$",
+          "C": "$frac{3}{7}$",
+          "D": "$frac{1}{2}$",
+          "E": "$frac{2}{3}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 16,
+        "problem": "The quadratic equation $x^2 + mx + n = 0$ has roots that are twice those of $x^2 + px + m = 0$, and none of $m$, $n$, and $p$ is zero. What is the value of $n/p$?",
+        "options": {
+          "A": "$1$",
+          "B": "$2$",
+          "C": "$4$",
+          "D": "$8$",
+          "E": "$16$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 17,
+        "problem": "Suppose that $4^a = 5$, $5^b = 6$, $6^c = 7$, and $7^d = 8$. What is $a \\cdot b \\cdot c \\cdot d$?",
+        "options": {
+          "A": "$1$",
+          "B": "$frac{3}{2}$",
+          "C": "$2$",
+          "D": "$frac{5}{2}$",
+          "E": "$3$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 18,
+        "problem": "All of David's telephone numbers have the form $555-abc-defg$, where $a$, $b$, $c$, $d$, $e$, $f$, and $g$ are distinct digits and in increasing order, and none is either $0$ or $1$. How many different telephone numbers can David have?",
+        "options": {
+          "A": "$1$",
+          "B": "$2$",
+          "C": "$7$",
+          "D": "$8$",
+          "E": "$9$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 19,
+        "problem": "On a certain math exam, $10\\%$ of the students got $70$ points, $25\\%$ got $80$ points, $20\\%$ got $85$ points, $15\\%$ got $90$ points, and the rest got $95$ points. What is the difference between the mean and the median score on this exam?",
+        "options": {
+          "A": "$0$",
+          "B": "$1$",
+          "C": "$2$",
+          "D": "$4$",
+          "E": "$5$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 20,
+        "problem": "What is the average (mean) of all $5$-digit numbers that can be formed by using each of the digits $1$, $3$, $5$, $7$, and $8$ exactly once?",
+        "options": {
+          "A": "$48000$",
+          "B": "$49999.5$",
+          "C": "$53332.8$",
+          "D": "$55555$",
+          "E": "$56432.8$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 21,
+        "problem": "Forty slips are placed into a hat, each bearing a number $1$, $2$, $3$, $4$, $5$, $6$, $7$, $8$, $9$, or $10$, with each number entered on four slips. Four slips are drawn from the hat at random and without replacement. Let $p$ be the probability that all four slips bear the same number. Let $q$ be the probability that two of the slips bear a number $a$ and the other two bear a number $b \\neq a$. What is the value of $\\frac{q}{p}$?",
+        "options": {
+          "A": "$162$",
+          "B": "$180$",
+          "C": "$324$",
+          "D": "$360$",
+          "E": "$720$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 22,
+        "problem": "For how many positive integers $n$ less than or equal to $24$ is $n!$ evenly divisible by $1 + 2 + \\ldots + n$?",
+        "options": {
+          "A": "$8$",
+          "B": "$12$",
+          "C": "$16$",
+          "D": "$17$",
+          "E": "$21$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 23,
+        "problem": "In trapezoid $ABCD$ we have $\\overline{AB}$ parallel to $\\overline{DC}$, $E$ as the midpoint of $\\overline{BC}$, and $F$ as the midpoint of $\\overline{DA}$. The area of $ABEF$ is twice the area of $FECD$. What is $AB/DC$?",
+        "options": {
+          "A": "$2$",
+          "B": "$3$",
+          "C": "$5$",
+          "D": "$6$",
+          "E": "$8$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 24,
+        "problem": "Let $x$ and $y$ be two-digit integers such that $y$ is obtained by reversing the digits of $x$. The integers $x$ and $y$ satisfy $x^2 - y^2 = m^2$ for some positive integer $m$. What is $x + y + m$?",
+        "options": {
+          "A": "$88$",
+          "B": "$112$",
+          "C": "$116$",
+          "D": "$144$",
+          "E": "$154$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 25,
+        "problem": "A subset $B$ of the set of integers from $1$ to $100$, inclusive, has the property that no two elements of $B$ sum to $125$. What is the maximum possible number of elements in $B$?",
+        "options": {
+          "A": "$50$",
+          "B": "$51$",
+          "C": "$62$",
+          "D": "$65$",
+          "E": "$68$"
+        },
+        "answer": "C"
+      }
+    ]
+  }
+}

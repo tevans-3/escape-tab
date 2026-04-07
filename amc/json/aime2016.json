@@ -1,0 +1,160 @@
+{
+  "year": 2016,
+  "contest": "AIME",
+  "variants": {
+    "I": [
+      {
+        "number": 1,
+        "problem": "For $-1<r<1$, let $S(r)$ denote the sum of the geometric series [IMG:AIME_2016_I_1.png] Let $a$ between $-1$ and $1$ satisfy $S(a)S(-a)=2016$. Find $S(a)+S(-a)$.",
+        "answer": "336"
+      },
+      {
+        "number": 2,
+        "problem": "Two dice appear to be normal dice with their faces numbered from $1$ to $6$, but each dice is weighted so that the probability of rolling the number $k$ is directly proportional to $k$. The probability of rolling a $7$ with this pair of dice is $\\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$.",
+        "answer": "071"
+      },
+      {
+        "number": 3,
+        "problem": "A regular icosahedron is a $20$-faced solid where each face is an equilateral triangle and five triangles meet at every vertex. The regular icosahedron shown below has one vertex at the top, one vertex at the bottom, an upper pentagon of five vertices all adjacent to the top vertex and all in the same horizontal plane, and a lower pentagon of five vertices all adjacent to the bottom vertex and all in another horizontal plane. Find the number of paths from the top vertex to the bottom vertex such that each part of a path goes downward or horizontally along an edge of the icosahedron, and no vertex is repeated. [IMG:AIME_2016_I_3.png]",
+        "answer": "810"
+      },
+      {
+        "number": 4,
+        "problem": "A right prism with height $h$ has bases that are regular hexagons with sides of length $12$. A vertex $A$ of the prism and its three adjacent vertices are the vertices of a triangular pyramid. The dihedral angle (the angle between the two planes) formed by the face of the pyramid that lies in a base of the prism and the face of the pyramid that does not contain $A$ measures $60^\\circ$. Find $h^2$.",
+        "answer": "108"
+      },
+      {
+        "number": 5,
+        "problem": "Anh read a book. On the first day she read $n$ pages in $t$ minutes, where $n$ and $t$ are positive integers. On the second day Anh read $n + 1$ pages in $t + 1$ minutes. Each day thereafter Anh read one more page than she read on the previous day, and it took her one more minute than on the previous day until she completely read the $374$ page book. It took her a total of $319$ minutes to read the book. Find $n + t$.",
+        "answer": "053"
+      },
+      {
+        "number": 6,
+        "problem": "In $\\triangle ABC$ let $I$ be the center of the inscribed circle, and let the bisector of $\\angle ACB$ intersect $\\overline{AB}$ at $L$. The line through $C$ and $L$ intersects the circumscribed circle of $\\triangle ABC$ at the two points $C$ and $D$. If $LI=2$ and $LD=3$, then $IC= \\frac{p}{q}$, where $p$ and $q$ are relatively prime positive integers. Find $p+q$.",
+        "answer": "013"
+      },
+      {
+        "number": 7,
+        "problem": "For integers $a$ and $b$ consider the complex number [IMG:AIME_2016_I_7.png] Find the number of ordered pairs of integers $(a,b)$ such that this complex number is a real number.",
+        "answer": "103"
+      },
+      {
+        "number": 8,
+        "problem": "For a permutation $p = (a_1,a_2,\\ldots,a_9)$ of the digits $1,2,\\ldots,9$, let $s(p)$ denote the sum of the three $3$-digit numbers $a_1a_2a_3$ , $a_4a_5a_6$, and $a_7a_8a_9$. Let $m$ be the minimum value of $s(p)$ subject to the condition that the units digit of $s(p)$ is $0$. Let $n$ denote the number of permutations $p$ with $s(p) = m$. Find $|m - n|$.",
+        "answer": "162"
+      },
+      {
+        "number": 9,
+        "problem": "Triangle $ABC$ has $AB=40,AC=31,$ and $\\sin{A}=\\frac{1}{5}$. This triangle is inscribed in rectangle $AQRS$ with $B$ on $\\overline{QR}$ and $C$ on $\\overline{RS}$. Find the maximum possible area of $AQRS$.",
+        "answer": "744"
+      },
+      {
+        "number": 10,
+        "problem": "A strictly increasing sequence of positive integers $a_1$, $a_2$, $a_3$, $\\cdots$ has the property that for every positive integer $k$, the subsequence $a_{2k-1}$, $a_{2k}$, $a_{2k+1}$ is geometric and the subsequence $a_{2k}$, $a_{2k+1}$, $a_{2k+2}$ is arithmetic. Suppose that $a_{13} = 2016$. Find $a_1$.",
+        "answer": "504"
+      },
+      {
+        "number": 11,
+        "problem": "Let $P(x)$ be a nonzero polynomial such that $(x-1)P(x+1)=(x+2)P(x)$ for every real $x$, and $\\left(P(2)\\right)^2 = P(3)$. Then $P(\\tfrac72)=\\tfrac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m + n$.",
+        "answer": "109"
+      },
+      {
+        "number": 12,
+        "problem": "Find the least positive integer $m$ such that $m^2 - m + 11$ is a product of at least four not necessarily distinct primes.",
+        "answer": "132"
+      },
+      {
+        "number": 13,
+        "problem": "Freddy the frog is jumping around the coordinate plane searching for a river, which lies on the horizontal line $y = 24$. A fence is located at the horizontal line $y = 0$. On each jump Freddy randomly chooses a direction parallel to one of the coordinate axes and moves one unit in that direction. When he is at a point where $y=0$, with equal likelihoods he chooses one of three directions where he either jumps parallel to the fence or jumps away from the fence, but he never chooses the direction that would have him cross over the fence to where $y < 0$. Freddy starts his search at the point $(0, 21)$ and will stop once he reaches a point on the river. Find the expected number of jumps it will take Freddy to reach the river.",
+        "answer": "273"
+      },
+      {
+        "number": 14,
+        "problem": "Centered at each lattice point in the coordinate plane are a circle radius $\\frac{1}{10}$ and a square with sides of length $\\frac{1}{5}$ whose sides are parallel to the coordinate axes. The line segment from $(0,0)$ to $(1001, 429)$ intersects $m$ of the squares and $n$ of the circles. Find $m + n$.",
+        "answer": "574"
+      },
+      {
+        "number": 15,
+        "problem": "Circles $\\omega_1$ and $\\omega_2$ intersect at points $X$ and $Y$. Line $\\ell$ is tangent to $\\omega_1$ and $\\omega_2$ at $A$ and $B$, respectively, with line $AB$ closer to point $X$ than to $Y$. Circle $\\omega$ passes through $A$ and $B$ intersecting $\\omega_1$ again at $D \\neq A$ and intersecting $\\omega_2$ again at $C \\neq B$. The three points $C$, $Y$, $D$ are collinear, $XC = 67$, $XY = 47$, and $XD = 37$. Find $AB^2$.",
+        "answer": "270"
+      }
+    ],
+    "II": [
+      {
+        "number": 1,
+        "problem": "Initially Alex, Betty, and Charlie had a total of $444$ peanuts. Charlie had the most peanuts, and Alex had the least. The three numbers of peanuts that each person had formed a geometric progression. Alex eats $5$ of his peanuts, Betty eats $9$ of her peanuts, and Charlie eats $25$ of his peanuts. Now the three numbers of peanuts each person has forms an arithmetic progression. Find the number of peanuts Alex had initially.",
+        "answer": "108"
+      },
+      {
+        "number": 2,
+        "problem": "There is a $40\\%$ chance of rain on Saturday and a $30\\%$ chance of rain on Sunday. However, it is twice as likely to rain on Sunday if it rains on Saturday than if it does not rain on Saturday. The probability that it rains at least one day this weekend is $\\frac{a}{b}$, where $a$ and $b$ are relatively prime positive integers. Find $a+b$.",
+        "answer": "107"
+      },
+      {
+        "number": 3,
+        "problem": "Let $x,y,$ and $z$ be real numbers satisfying the system [IMG:AIME_2016_II_3.png] Find the value of $|\\log_5 x|+|\\log_5 y|+|\\log_5 z|$.",
+        "answer": "265"
+      },
+      {
+        "number": 4,
+        "problem": "An $a \\times b \\times c$ rectangular box is built from $a \\cdot b \\cdot c$ unit cubes. Each unit cube is colored red, green, or yellow. Each of the $a$ layers of size $1 \\times b \\times c$ parallel to the $(b \\times c)$ faces of the box contains exactly $9$ red cubes, exactly $12$ green cubes, and some yellow cubes. Each of the $b$ layers of size $a \\times 1 \\times c$ parallel to the $(a \\times c)$ faces of the box contains exactly $20$ green cubes, exactly $25$ yellow cubes, and some red cubes. Find the smallest possible volume of the box.",
+        "answer": "180"
+      },
+      {
+        "number": 5,
+        "problem": "Triangle $ABC_0$ has a right angle at $C_0$. Its side lengths are pairwise relatively prime positive integers, and its perimeter is $p$. Let $C_1$ be the foot of the altitude to $\\overline{AB}$, and for $n \\geq 2$, let $C_n$ be the foot of the altitude to $\\overline{C_{n-2}B}$ in $\\triangle C_{n-2}C_{n-1}B$. The sum $\\sum_{n=2}^\\infty C_{n-2}C_{n-1} = 6p$. Find $p$.",
+        "answer": "182"
+      },
+      {
+        "number": 6,
+        "problem": "For polynomial $P(x)=1-\\dfrac{1}{3}x+\\dfrac{1}{6}x^{2}$, define $Q(x)=P(x)P(x^{3})P(x^{5})P(x^{7})P(x^{9})=\\sum_{i=0}^{50} a_ix^{i}$. Then $\\sum_{i=0}^{50} |a_i|=\\dfrac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$.",
+        "answer": "275"
+      },
+      {
+        "number": 7,
+        "problem": "Squares $ABCD$ and $EFGH$ have a common center and $\\overline{AB} || \\overline{EF}$. The area of $ABCD$ is 2016, and the area of $EFGH$ is a smaller positive integer. Square $IJKL$ is constructed so that each of its vertices lies on a side of $ABCD$ and each vertex of $EFGH$ lies on a side of $IJKL$. Find the difference between the largest and smallest positive integer values for the area of $IJKL$.",
+        "answer": "840"
+      },
+      {
+        "number": 8,
+        "problem": "Find the number of sets $\\{a,b,c\\}$ of three distinct positive integers with the property that the product of $a,b,$ and $c$ is equal to the product of $11,21,31,41,51,$ and $61$.",
+        "answer": "728"
+      },
+      {
+        "number": 9,
+        "problem": "The sequences of positive integers $1,a_2, a_3,...$ and $1,b_2, b_3,...$ are an increasing arithmetic sequence and an increasing geometric sequence, respectively. Let $c_n=a_n+b_n$. There is an integer $k$ such that $c_{k-1}=100$ and $c_{k+1}=1000$. Find $c_k$.",
+        "answer": "262"
+      },
+      {
+        "number": 10,
+        "problem": "Triangle $ABC$ is inscribed in circle $\\omega$. Points $P$ and $Q$ are on side $\\overline{AB}$ with $AP<AQ$. Rays $CP$ and $CQ$ meet $\\omega$ again at $S$ and $T$ (other than $C$), respectively. If $AP=4,PQ=3,QB=6,BT=5,$ and $AS=7$, then $ST=\\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$.",
+        "answer": "043"
+      },
+      {
+        "number": 11,
+        "problem": "For positive integers $N$ and $k$, define $N$ to be $k$-nice if there exists a positive integer $a$ such that $a^{k}$ has exactly $N$ positive divisors. Find the number of positive integers less than $1000$ that are neither $7$-nice nor $8$-nice.",
+        "answer": "749"
+      },
+      {
+        "number": 12,
+        "problem": "The figure below shows a ring made of six small sections which you are to paint on a wall. You have four paint colors available and you will paint each of the six sections a solid color. Find the number of ways you can choose to paint the sections if no two adjacent sections can be painted with the same color. [IMG:AIME_2016_II_12.png]",
+        "answer": "732"
+      },
+      {
+        "number": 13,
+        "problem": "Beatrix is going to place six rooks on a $6 \\times 6$ chessboard where both the rows and columns are labeled $1$ to $6$; the rooks are placed so that no two rooks are in the same row or the same column. The value of a square is the sum of its row number and column number. The score of an arrangement of rooks is the least value of any occupied square. The average score over all valid configurations is $\\frac{p}{q}$, where $p$ and $q$ are relatively prime positive integers. Find $p+q$.",
+        "answer": "371"
+      },
+      {
+        "number": 14,
+        "problem": "Equilateral $\\triangle ABC$ has side length $600$. Points $P$ and $Q$ lie outside the plane of $\\triangle ABC$ and are on opposite sides of the plane. Furthermore, $PA=PB=PC$, and $QA=QB=QC$, and the planes of $\\triangle PAB$ and $\\triangle QAB$ form a $120^{\\circ}$ dihedral angle (the angle between the two planes). There is a point $O$ whose distance from each of $A,B,C,P,$ and $Q$ is $d$. Find $d$.",
+        "answer": "450"
+      },
+      {
+        "number": 15,
+        "problem": "For $1 \\leq i \\leq 215$ let $a_i = \\dfrac{1}{2^{i}}$ and $a_{216} = \\dfrac{1}{2^{215}}$. Let $x_1, x_2, ..., x_{216}$ be positive real numbers such that $\\sum_{i=1}^{216} x_i=1$ and $\\sum_{1 \\leq i < j \\leq 216} x_ix_j = \\dfrac{107}{215} + \\sum_{i=1}^{216} \\dfrac{a_i x_i^{2}}{2(1-a_i)}$. The maximum possible value of $x_2=\\dfrac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$.",
+        "answer": "863"
+      }
+    ]
+  }
+}

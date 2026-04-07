@@ -1,0 +1,610 @@
+{
+  "year": 2024,
+  "contest": "AMC 12",
+  "variants": {
+    "A": [
+      {
+        "number": 1,
+        "problem": "What is the value of $9901\\cdot101-99\\cdot10101?$",
+        "options": {
+          "A": "$~2$",
+          "B": "$~20$",
+          "C": "$~200$",
+          "D": "$~202$",
+          "E": "$~2020$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 2,
+        "problem": "A model used to estimate the time it will take to hike to the top of the mountain on a trail is of the form $T=aL+bG,$ where $a$ and $b$ are constants, $T$ is the time in minutes, $L$ is the length of the trail in miles, and $G$ is the altitude gain in feet. The model estimates that it will take $69$ minutes to hike to the top if a trail is $1.5$ miles long and ascends $800$ feet, as well as if a trail is $1.2$ miles long and ascends $1100$ feet. How many minutes does the model estimates it will take to hike to the top if the trail is $4.2$ miles long and ascends $4000$ feet?",
+        "options": {
+          "A": "$240$",
+          "B": "$246$",
+          "C": "$252$",
+          "D": "$258$",
+          "E": "$264$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 3,
+        "problem": "The number $2024$ is written as the sum of not necessarily distinct two-digit numbers. What is the least number of two-digit numbers needed to write this sum?",
+        "options": {
+          "A": "$20$",
+          "B": "$21$",
+          "C": "$22$",
+          "D": "$23$",
+          "E": "$24$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 4,
+        "problem": "What is the least value of $n$ such that $n!$ is a multiple of $2024$?",
+        "options": {
+          "A": "$11$",
+          "B": "$21$",
+          "C": "$22$",
+          "D": "$23$",
+          "E": "$253 \\qquad$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 5,
+        "problem": "A data set containing $20$ numbers, some of which are $6$, has mean $45$. When all the 6s are removed, the data set has mean $66$. How many 6s were in the original data set?",
+        "options": {
+          "A": "$4$",
+          "B": "$5$",
+          "C": "$6$",
+          "D": "$7$",
+          "E": "$8$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 6,
+        "problem": "The product of three integers is $60$. What is the least possible positive sum of the three integers?",
+        "options": {
+          "A": "$2$",
+          "B": "$3$",
+          "C": "$5$",
+          "D": "$6$",
+          "E": "$13$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 7,
+        "problem": "In $\\Delta ABC$, $\\angle ABC = 90^\\circ$ and $BA = BC = \\sqrt{2}$. Points $P_1, P_2, \\dots, P_{2024}$ lie on hypotenuse $\\overline{AC}$ so that $AP_1= P_1P_2 = P_2P_3 = \\dots = P_{2023}P_{2024} = P_{2024}C$. What is the length of the vector sum [IMG:AMC12_2024_A_7.png]",
+        "options": {
+          "A": "$1011$",
+          "B": "$1012$",
+          "C": "$2023$",
+          "D": "$2024$",
+          "E": "$2025 \\qquad$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 8,
+        "problem": "How many angles $\\theta$ with $0\\le\\theta\\le2\\pi$ satisfy $\\log(\\sin(3\\theta))+\\log(\\cos(2\\theta))=0$?",
+        "options": {
+          "A": "$0$",
+          "B": "$1$",
+          "C": "$2$",
+          "D": "$3$",
+          "E": "$4 \\qquad$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 9,
+        "problem": "Let $M$ be the greatest integer such that both $M + 1213$ and $M + 3773$ are perfect squares. What is the units digit of $M$?",
+        "options": {
+          "A": "$1$",
+          "B": "$2$",
+          "C": "$3$",
+          "D": "$6$",
+          "E": "$8 \\qquad$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 10,
+        "problem": "Let $\\alpha$ be the radian measure of the smallest angle in a $3{-}4{-}5$ right triangle. Let $\\beta$ be the radian measure of the smallest angle in a $7{-}24{-}25$ right triangle. In terms of $\\alpha$, what is $\\beta$?",
+        "options": {
+          "A": "$\\frac{\\alpha}{3}$",
+          "B": "$\\alpha - \\frac{\\pi}{8}$",
+          "C": "$\\frac{\\pi}{2} - 2\\alpha$",
+          "D": "$\\frac{\\alpha}{2}$",
+          "E": "$\\pi - 4\\alpha\\qquad$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 11,
+        "problem": "There are exactly $K$ positive integers $b$ with $5 \\leq b \\leq 2024$ such that the base-$b$ integer $2024_b$ is divisible by $16$ (where $16$ is in base ten). What is the sum of the digits of $K$?",
+        "options": {
+          "A": "$16$",
+          "B": "$17$",
+          "C": "$18$",
+          "D": "$20$",
+          "E": "$21$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 12,
+        "problem": "The first three terms of a geometric sequence are the integers $a,\\,720,$ and $b,$ where $a<720<b.$ What is the sum of the digits of the least possible value of $b?$",
+        "options": {
+          "A": "$9$",
+          "B": "$12$",
+          "C": "$16$",
+          "D": "$18$",
+          "E": "$21$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 13,
+        "problem": "The graph of $y=e^{x+1}+e^{-x}-2$ has an axis of symmetry. What is the reflection of the point $(-1,\\tfrac{1}{2})$ over this axis?",
+        "options": {
+          "A": "$\\left(-1,-\\frac{3}{2}\\right)$",
+          "B": "$(-1,0)$",
+          "C": "$\\left(-1,\\tfrac{1}{2}\\right)$",
+          "D": "$\\left(0,\\frac{1}{2}\\right)$",
+          "E": "$\\left(3,\\frac{1}{2}\\right)$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 14,
+        "problem": "The numbers, in order, of each row and the numbers, in order, of each column of a $5 \\times 5$ array of integers form an arithmetic progression of length $5{.}$ The numbers in positions $(5, 5), \\,(2,4),\\,(4,3),$ and $(3, 1)$ are $0, 48, 16,$ and $12{,}$ respectively. What number is in position $(1, 2)?$ [IMG:AMC12_2024_A_14.png]",
+        "options": {
+          "A": "$19$",
+          "B": "$24$",
+          "C": "$29$",
+          "D": "$34$",
+          "E": "$39$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 15,
+        "problem": "The roots of $x^3 + 2x^2 - x + 3$ are $p, q,$ and $r.$ What is the value of [IMG:AMC12_2024_A_15.png]",
+        "options": {
+          "A": "$64$",
+          "B": "$75$",
+          "C": "$100$",
+          "D": "$125$",
+          "E": "$144$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 16,
+        "problem": "A set of $12$ tokens ---- $3$ red, $2$ white, $1$ blue, and $6$ black ---- is to be distributed at random to $3$ game players, $4$ tokens per player. The probability that some player gets all the red tokens, another gets all the white tokens, and the remaining player gets the blue token can be written as $\\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. What is $m+n$?",
+        "options": {
+          "A": "$387$",
+          "B": "$388$",
+          "C": "$389$",
+          "D": "$390$",
+          "E": "$391 \\qquad$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 17,
+        "problem": "Integers $a$, $b$, and $c$ satisfy $ab + c = 100$, $bc + a = 87$, and $ca + b = 60$. What is $ab + bc + ca$?",
+        "options": {
+          "A": "$212$",
+          "B": "$247$",
+          "C": "$258$",
+          "D": "$276$",
+          "E": "$284 \\qquad$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 18,
+        "problem": "On top of a rectangular card with sides of length $1$ and $2+\\sqrt{3}$, an identical card is placed so that two of their diagonals line up, as shown ($\\overline{AC}$, in this case). [IMG:AMC12_2024_A_18.png] Continue the process, adding a third card to the second, and so on, lining up successive diagonals after rotating clockwise. In total, how many cards must be used until a vertex of a new card lands exactly on the vertex labeled $B$ in the figure?",
+        "options": {
+          "A": "$6$",
+          "B": "$8$",
+          "C": "$10$",
+          "D": "$12$",
+          "E": "$\\text{No new vertex will land on }B.$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 19,
+        "problem": "Cyclic quadrilateral $ABCD$ has lengths $BC=CD=3$ and $DA=5$ with $\\angle CDA=120^\\circ$. What is the length of the shorter diagonal of $ABCD$?",
+        "options": {
+          "A": "$\\frac{31}7$",
+          "B": "$\\frac{33}7$",
+          "C": "$5$",
+          "D": "$\\frac{39}7$",
+          "E": "$\\frac{41}7 \\qquad$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 20,
+        "problem": "Points $P$ and $Q$ are chosen uniformly and independently at random on sides $\\overline {AB}$ and $\\overline{AC},$ respectively, of equilateral triangle $\\Delta ABC.$ Which of the following intervals contains the probability that the area of $\\triangle APQ$ is less than half the area of $\\triangle ABC?$",
+        "options": {
+          "A": "$\\left[\\frac 38, \\frac 12\\right]$",
+          "B": "$\\left(\\frac 12, \\frac 23\\right]$",
+          "C": "$\\left(\\frac 23, \\frac 34\\right]$",
+          "D": "$\\left(\\frac 34, \\frac 78\\right]$",
+          "E": "$\\left(\\frac 78, 1\\right]$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 21,
+        "problem": "Suppose that $a_1 = 2$ and the sequence $(a_n)$ satisfies the recurrence relation [IMG:AMC12_2024_A_21_0.png] [IMG:AMC12_2024_A_21_1.png] for all $n \\ge 2.$ What is the greatest integer less than or equal to [IMG:AMC12_2024_A_21_0.png] [IMG:AMC12_2024_A_21_1.png]",
+        "options": {
+          "A": "$338{,}550$",
+          "B": "$338{,}551$",
+          "C": "$338{,}552$",
+          "D": "$338{,}553$",
+          "E": "$338{,}554$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 22,
+        "problem": "The figure below shows a dotted grid $8$ cells wide and $3$ cells tall consisting of $1&#39;&#39;\\times1&#39;&#39;$ squares. Carl places $1$-inch toothpicks along some of the sides of the squares to create a closed loop that does not intersect itself. The numbers in the cells indicate the number of sides of that square that are to be covered by toothpicks, and any number of toothpicks are allowed if no number is written. In how many ways can Carl place the toothpicks? [IMG:AMC12_2024_A_22.png]",
+        "options": {
+          "A": "$130$",
+          "B": "$144$",
+          "C": "$146$",
+          "D": "$162$",
+          "E": "$196$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 23,
+        "problem": "What is the value of [IMG:AMC12_2024_A_23.png]",
+        "options": {
+          "A": "$28$",
+          "B": "$68$",
+          "C": "$70$",
+          "D": "$72$",
+          "E": "$84$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 24,
+        "problem": "A $\\textit{disphenoid}$ is a tetrahedron whose triangular faces are congruent to one another. What is the least total surface area of a disphenoid whose faces are scalene triangles with integer side lengths?",
+        "options": {
+          "A": "$\\sqrt{3}$",
+          "B": "$3\\sqrt{15}$",
+          "C": "$15$",
+          "D": "$15\\sqrt{7}$",
+          "E": "$24\\sqrt{6}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 25,
+        "problem": "A graph is $\\textit{symmetric}$ about a line if the graph remains unchanged after reflection in that line. For how many quadruples of integers $(a,b,c,d)$, where $|a|,|b|,|c|,|d|\\le5$ and $c$ and $d$ are not both $0$, is the graph of [IMG:AMC12_2024_A_25.png] symmetric about the line $y=x$?",
+        "options": {
+          "A": "$1282$",
+          "B": "$1292$",
+          "C": "$1310$",
+          "D": "$1320$",
+          "E": "$1330$"
+        },
+        "answer": "B"
+      }
+    ],
+    "B": [
+      {
+        "number": 1,
+        "problem": "In a long line of people arranged left to right, the 1013th person from the left is also the 1010th person from the right. How many people are in the line?",
+        "options": {
+          "A": "$2021$",
+          "B": "$2022$",
+          "C": "$2023$",
+          "D": "$2024$",
+          "E": "$2025$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 2,
+        "problem": "What is $10! - 7! \\cdot 6!$?",
+        "options": {
+          "A": "$-120$",
+          "B": "$0$",
+          "C": "$120$",
+          "D": "$600$",
+          "E": "$720 \\qquad$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 3,
+        "problem": "For how many integer values of $x$ is $|2x|\\leq 7\\pi?$",
+        "options": {
+          "A": "$16$",
+          "B": "$17$",
+          "C": "$19$",
+          "D": "$20$",
+          "E": "$21$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 4,
+        "problem": "Balls numbered $1,2,3,\\ldots$ are deposited in $5$ bins, labeled $A,B,C,D,$ and $E$, using the following procedure. Ball $1$ is deposited in bin $A$, and balls $2$ and $3$ are deposited in $B$. The next three balls are deposited in bin $C$, the next $4$ in bin $D$, and so on, cycling back to bin $A$ after balls are deposited in bin $E$. (For example, $22,23,\\ldots,28$ are deposited in bin $B$ at step 7 of this process.) In which bin is ball $2024$ deposited?",
+        "options": {
+          "A": "$A$",
+          "B": "$B$",
+          "C": "$C$",
+          "D": "$D$",
+          "E": "$E$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 5,
+        "problem": "In the following expression, Melanie changed some of the plus signs to minus signs: [IMG:AMC12_2024_B_5.png] When the new expression was evaluated, it was negative. What is the least number of plus signs that Melanie could have changed to minus signs?",
+        "options": {
+          "A": "$14$",
+          "B": "$15$",
+          "C": "$16$",
+          "D": "$17$",
+          "E": "$18 \\qquad$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 6,
+        "problem": "The national debt of the United States is on track to reach $5 \\cdot 10^{13}$ dollars by $2033$. How many digits does this number of dollars have when written as a numeral in base $5$? (The approximation of $\\log_{10} 5$ as $0.7$ is sufficient for this problem.)",
+        "options": {
+          "A": "$18$",
+          "B": "$20$",
+          "C": "$22$",
+          "D": "$24$",
+          "E": "$26 \\qquad$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 7,
+        "problem": "In the figure below $WXYZ$ is a rectangle with $WX=4$ and $WZ=8$. Point $M$ lies $\\overline{XY}$, point $A$ lies on $\\overline{YZ}$, and $\\angle WMA$ is a right angle. The areas of $\\triangle WXM$ and $\\triangle WAZ$ are equal. What is the area of $\\triangle WMA$? [IMG:AMC12_2024_B_7.png]",
+        "options": {
+          "A": "$13$",
+          "B": "$14$",
+          "C": "$15$",
+          "D": "$16$",
+          "E": "$17 \\qquad$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 8,
+        "problem": "What value of $x$ satisfies [IMG:AMC12_2024_B_8.png]",
+        "options": {
+          "A": "$25$",
+          "B": "$32$",
+          "C": "$36$",
+          "D": "$42$",
+          "E": "$48\\qquad$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 9,
+        "problem": "A dartboard is the region $B$ in the coordinate plane consisting of points $(x,y)$ such that $|x| + |y| \\le 8$ . A target $T$ is the region where $(x^2 + y^2 - 25)^2 \\le 49.$ A dart is thrown and lands at a random point in $B$. The probability that the dart lands in $T$ can be expressed as $\\frac{m}{n} \\cdot \\pi,$ where $m$ and $n$ are relatively prime positive integers. What is $m + n?$",
+        "options": {
+          "A": "$39$",
+          "B": "$71$",
+          "C": "$73$",
+          "D": "$75$",
+          "E": "$135 \\qquad$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 10,
+        "problem": "A list of 9 real numbers consists of $1$, $2.2$, $3.2$, $5.2$, $6.2$, and $7$, as well as $x, y,z$ with $x\\leq y\\leq z$. The range of the list is $7$, and the mean and median are both positive integers. How many ordered triples $(x,y,z)$ are possible?",
+        "options": {
+          "A": "$1$",
+          "B": "$2$",
+          "C": "$3$",
+          "D": "$4$",
+          "E": "$\\text{infinitely many}\\qquad$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 11,
+        "problem": "Let $x_{n} = \\sin^2(n^\\circ)$. What is the mean of $x_{1}, x_{2}, x_{3}, \\cdots, x_{90}$?",
+        "options": {
+          "A": "$\\frac{11}{45}$",
+          "B": "$\\frac{22}{45}$",
+          "C": "$\\frac{89}{180}$",
+          "D": "$\\frac{1}{2}$",
+          "E": "$\\frac{91}{180} \\qquad$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 12,
+        "problem": "Suppose $z$ is a complex number with positive imaginary part, with real part greater than $1$, and with $|z| = 2$. In the complex plane, the four points $0$, $z$, $z^{2}$, and $z^{3}$ are the vertices of a quadrilateral with area $15$. What is the imaginary part of $z$?",
+        "options": {
+          "A": "$~\\frac{3}{4}$",
+          "B": "$~1$",
+          "C": "$~\\frac{4}{3}$",
+          "D": "$~\\frac{3}{2}$",
+          "E": "$~\\frac{5}{3}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 13,
+        "problem": "There are real numbers $x,y,h$ and $k$ that satisfy the system of equations [IMG:AMC12_2024_B_13_0.png] [IMG:AMC12_2024_B_13_1.png] [IMG:AMC12_2024_B_13_0.png] [IMG:AMC12_2024_B_13_1.png] What is the minimum possible value of $h+k$?",
+        "options": {
+          "A": "$-54$",
+          "B": "$-46$",
+          "C": "$-34$",
+          "D": "$-16$",
+          "E": "$16 \\qquad$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 14,
+        "problem": "How many different remainders can result when the $100$th power of an integer is divided by $125$?",
+        "options": {
+          "A": "$1$",
+          "B": "$2$",
+          "C": "$5$",
+          "D": "$25$",
+          "E": "$125 \\qquad$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 15,
+        "problem": "A triangle in the coordinate plane has vertices $A(\\log_21,\\log_22)$, $B(\\log_23,\\log_24)$, and $C(\\log_27,\\log_28)$. What is the area of $\\triangle ABC$?",
+        "options": {
+          "A": "$\\log_2\\frac{\\sqrt3}7$",
+          "B": "$\\log_2\\frac3{\\sqrt7}$",
+          "C": "$\\log_2\\frac7{\\sqrt3}$",
+          "D": "$\\log_2\\frac{11}{\\sqrt7}$",
+          "E": "$\\log_2\\frac{11}{\\sqrt3}\\qquad$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 16,
+        "problem": "A group of $16$ people will be partitioned into $4$ indistinguishable $4$-person committees. Each committee will have one chairperson and one secretary. The number of different ways to make these assignments can be written as $3^{r}M$, where $r$ and $M$ are positive integers and $M$ is not divisible by $3$. What is $r$?",
+        "options": {
+          "A": "$5$",
+          "B": "$6$",
+          "C": "$7$",
+          "D": "$8$",
+          "E": "$9 \\qquad$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 17,
+        "problem": "Integers $a$ and $b$ are randomly chosen without replacement from the set of integers with absolute value not exceeding $10$. What is the probability that the polynomial $x^3 + ax^2 + bx + 6$ has $3$ distinct integer roots?",
+        "options": {
+          "A": "$\\frac{1}{240}$",
+          "B": "$\\frac{1}{221}$",
+          "C": "$\\frac{1}{105}$",
+          "D": "$\\frac{1}{84}$",
+          "E": "$\\frac{1}{63}$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 18,
+        "problem": "The Fibonacci numbers are defined by $F_1=1,$ $F_2=1,$ and $F_n=F_{n-1}+F_{n-2}$ for $n\\geq 3.$ What is [IMG:AMC12_2024_B_18.png]",
+        "options": {
+          "A": "$318$",
+          "B": "$319$",
+          "C": "$320$",
+          "D": "$321$",
+          "E": "$322$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 19,
+        "problem": "Equilateral $\\triangle ABC$ with side length $14$ is rotated about its center by angle $\\theta$, where $0 < \\theta < 60^{\\circ}$, to form $\\triangle DEF$. See the figure. The area of hexagon $ADBECF$ is $91\\sqrt{3}$. What is $\\tan\\theta$? [IMG:AMC12_2024_B_19.png]",
+        "options": {
+          "A": "$~\\frac{3}{4}$",
+          "B": "$~\\frac{5\\sqrt{3}}{11}$",
+          "C": "$~\\frac{4}{5}$",
+          "D": "$~\\frac{11}{13}$",
+          "E": "$~\\frac{7\\sqrt{3}}{13}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 20,
+        "problem": "Suppose $A$, $B$, and $C$ are points in the plane with $AB=40$ and $AC=42$, and let $x$ be the length of the line segment from $A$ to the midpoint of $\\overline{BC}$. Define a function $f$ by letting $f(x)$ be the area of $\\triangle ABC$. Then the domain of $f$ is an open interval $(p,q)$, and the maximum value $r$ of $f(x)$ occurs at $x=s$. What is $p+q+r+s$?",
+        "options": {
+          "A": "$909$",
+          "B": "$910$",
+          "C": "$911$",
+          "D": "$912$",
+          "E": "$913\\qquad$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 21,
+        "problem": "The measures of the smallest angles of three different right triangles sum to $90^\\circ$. All three triangles have side lengths that are primitive Pythagorean triples. Two of them are $3-4-5$ and $5-12-13$. What is the perimeter of the third triangle?",
+        "options": {
+          "A": "$40$",
+          "B": "$126$",
+          "C": "$154$",
+          "D": "$176$",
+          "E": "$208 \\qquad$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 22,
+        "problem": "Let $\\triangle ABC$ be a triangle with integer side lengths and the property that $\\angle{B} = 2\\angle{A}$. What is the least possible perimeter of such a triangle?",
+        "options": {
+          "A": "$13$",
+          "B": "$14$",
+          "C": "$15$",
+          "D": "$16$",
+          "E": "$17 \\qquad$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 23,
+        "problem": "A right pyramid has regular octagon $ABCDEFGH$ with side length $1$ as its base and apex $V.$ Segments $\\overline{AV}$ and $\\overline{DV}$ are perpendicular. What is the square of the height of the pyramid?",
+        "options": {
+          "A": "$1$",
+          "B": "$\\frac{1+\\sqrt2}{2}$",
+          "C": "$\\sqrt2$",
+          "D": "$\\frac32$",
+          "E": "$\\frac{2+\\sqrt2}{3} \\qquad$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 24,
+        "problem": "What is the number of ordered triples $(a,b,c)$ of positive integers, with $a\\le b\\le c\\le 9$, such that there exists a (non-degenerate) triangle $\\triangle ABC$ with an integer inradius for which $a$, $b$, and $c$ are the lengths of the altitudes from $A$ to $\\overline{BC}$, $B$ to $\\overline{AC}$, and $C$ to $\\overline{AB}$, respectively? (Recall that the inradius of a triangle is the radius of the largest possible circle that can be inscribed in the triangle.)",
+        "options": {
+          "A": "$2$",
+          "B": "$3$",
+          "C": "$4$",
+          "D": "$5$",
+          "E": "$6\\qquad$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 25,
+        "problem": "Pablo will decorate each of $6$ identical white balls with either a striped or a dotted pattern, using either red or blue paint. He will decide on the color and pattern for each ball by flipping a fair coin for each of the $12$ decisions he must make. After the paint dries, he will place the $6$ balls in an urn. Frida will randomly select one ball from the urn and note its color and pattern. The events \"the ball Frida selects is red\" and \"the ball Frida selects is striped\" may or may not be independent, depending on the outcome of Pablo's coin flips. The probability that these two events are independent can be written as $\\frac mn,$ where $m$ and $n$ are relatively prime positive integers. What is $m?$ (Recall that two events $A$ and $B$ are independent if $P(A \\text{ and }B) = P(A) \\cdot P(B).$)",
+        "options": {
+          "A": "$243$",
+          "B": "$245$",
+          "C": "$247$",
+          "D": "$249$",
+          "E": "$251$"
+        },
+        "answer": "A"
+      }
+    ]
+  }
+}

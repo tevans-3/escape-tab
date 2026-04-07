@@ -1,0 +1,160 @@
+{
+  "year": 2011,
+  "contest": "AIME",
+  "variants": {
+    "I": [
+      {
+        "number": 1,
+        "problem": "Jar $A$ contains four liters of a solution that is $45\\%$ acid. Jar $B$ contains five liters of a solution that is $48\\%$ acid. Jar $C$ contains one liter of a solution that is $k\\%$ acid. From jar $C$, $\\frac{m}{n}$ liters of the solution is added to jar $A$, and the remainder of the solution in jar $C$ is added to jar B. At the end both jar $A$ and jar $B$ contain solutions that are $50\\%$ acid. Given that $m$ and $n$ are relatively prime positive integers, find $k + m + n$.",
+        "answer": "085"
+      },
+      {
+        "number": 2,
+        "problem": "In rectangle $ABCD$, $AB = 12$ and $BC = 10$. Points $E$ and $F$ lie inside rectangle $ABCD$ so that $BE = 9$, $DF = 8$, $\\overline{BE} \\parallel \\overline{DF}$, $\\overline{EF} \\parallel \\overline{AB}$, and line $BE$ intersects segment $\\overline{AD}$. The length $EF$ can be expressed in the form $m \\sqrt{n} - p$, where $m$, $n$, and $p$ are positive integers and $n$ is not divisible by the square of any prime. Find $m + n + p$.",
+        "answer": "036"
+      },
+      {
+        "number": 3,
+        "problem": "Let $L$ be the line with slope $\\frac{5}{12}$ that contains the point $A = (24,-1)$, and let $M$ be the line perpendicular to line $L$ that contains the point $B = (5,6)$. The original coordinate axes are erased, and line $L$ is made the $x$-axis and line $M$ the $y$-axis. In the new coordinate system, point $A$ is on the positive $x$-axis, and point $B$ is on the positive $y$-axis. The point $P$ with coordinates $(-14,27)$ in the original system has coordinates $(\\alpha,\\beta)$ in the new coordinate system. Find $\\alpha + \\beta$.",
+        "answer": "031"
+      },
+      {
+        "number": 4,
+        "problem": "In triangle $ABC$, $AB = 125$, $AC = 117$, and $BC = 120$. The angle bisector of angle $A$ intersects $\\overline{BC}$ at point $L$, and the angle bisector of angle $B$ intersects $\\overline{AC}$ at point $K$. Let $M$ and $N$ be the feet of the perpendiculars from $C$ to $\\overline{BK}$ and $\\overline{AL}$, respectively. Find $MN$.",
+        "answer": "056"
+      },
+      {
+        "number": 5,
+        "problem": "The vertices of a regular nonagon (9-sided polygon) are to be labeled with the digits 1 through 9 in such a way that the sum of the numbers on every three consecutive vertices is a multiple of 3. Two acceptable arrangements are considered to be indistinguishable if one can be obtained from the other by rotating the nonagon in the plane. Find the number of distinguishable acceptable arrangements.",
+        "answer": "144"
+      },
+      {
+        "number": 6,
+        "problem": "Suppose that a parabola has vertex $\\left(\\frac{1}{4},-\\frac{9}{8}\\right)$ and equation $y = ax^2 + bx + c$, where $a > 0$ and $a + b + c$ is an integer. The minimum possible value of $a$ can be written in the form $\\frac{p}{q}$, where $p$ and $q$ are relatively prime positive integers. Find $p + q$.",
+        "answer": "011"
+      },
+      {
+        "number": 7,
+        "problem": "Find the number of positive integers $m$ for which there exist nonnegative integers $x_0$, $x_1$ , $\\dots$ , $x_{2011}$ such that [IMG:AIME_2011_I_7.png]",
+        "answer": "016"
+      },
+      {
+        "number": 8,
+        "problem": "In triangle $ABC$, $BC = 23$, $CA = 27$, and $AB = 30$. Points $V$ and $W$ are on $\\overline{AC}$ with $V$ on $\\overline{AW}$, points $X$ and $Y$ are on $\\overline{BC}$ with $X$ on $\\overline{CY}$, and points $Z$ and $U$ are on $\\overline{AB}$ with $Z$ on $\\overline{BU}$. In addition, the points are positioned so that $\\overline{UV} \\parallel \\overline{BC}$, $\\overline{WX} \\parallel \\overline{AB}$, and $\\overline{YZ} \\parallel \\overline{CA}$. Right angle folds are then made along $\\overline{UV}$, $\\overline{WX}$, and $\\overline{YZ}$. The resulting figure is placed on a level floor to make a table with triangular legs. Let $h$ be the maximum possible height of a table constructed from triangle $ABC$ whose top is parallel to the floor. Then $h$ can be written in the form $\\frac{k \\sqrt{m}}{n}$, where $k$ and $n$ are relatively prime positive integers and $m$ is a positive integer that is not divisible by the square of any prime. Find $k + m + n$. [IMG:AIME_2011_I_8.png]",
+        "answer": "318"
+      },
+      {
+        "number": 9,
+        "problem": "Suppose $x$ is in the interval $[0,\\pi/2]$ and $\\log_{24 \\sin x} (24 \\cos x) = \\frac{3}{2}$. Find $24 \\cot^2 x$.",
+        "answer": "192"
+      },
+      {
+        "number": 10,
+        "problem": "The probability that a set of three distinct vertices chosen at random from among the vertices of a regular $n$-gon determine an obtuse triangle is $\\frac{93}{125}$. Find the sum of all possible values of $n$.",
+        "answer": "503"
+      },
+      {
+        "number": 11,
+        "problem": "Let $R$ be the set of all possible remainders when a number of the form $2^n$, $n$ a nonnegative integer, is divided by 1000. Let $S$ be the sum of the elements in $R$. Find the remainder when $S$ is divided by 1000.",
+        "answer": "007"
+      },
+      {
+        "number": 12,
+        "problem": "Six men and some number of women stand in a line in random order. Let $p$ be the probability that a group of at least four men stand together in the line, given that every man stands next to at least one other man. Find the least number of women in the line such that $p$ does not exceed 1 percent.",
+        "answer": "594"
+      },
+      {
+        "number": 13,
+        "problem": "A cube with side length 10 is suspended above a plane. The vertex closest to the plane is labeled $A$. The three vertices adjacent to vertex $A$ are at heights 10, 11, and 12 above the plane. The distance from vertex $A$ to the plane can be expressed as $\\frac{r - \\sqrt{s}}{t}$, where $r$, $s$, and $t$ are positive integers. Find $r + s + t$.",
+        "answer": "330"
+      },
+      {
+        "number": 14,
+        "problem": "Let $A_1 A_2 A_3 A_4 A_5 A_6 A_7 A_8$ be a regular octagon. Let $M_1$, $M_3$, $M_5$, and $M_7$ be the midpoints of sides $\\overline{A_1 A_2}$, $\\overline{A_3 A_4}$, $\\overline{A_5 A_6}$, and $\\overline{A_7 A_8}$, respectively. For $i = 1, 3, 5, 7$, ray $R_i$ is constructed from $M_i$ towards the interior of the octagon such that $R_1 \\perp R_3$, $R_3 \\perp R_5$, $R_5 \\perp R_7$, and $R_7 \\perp R_1$. Pairs of rays $R_1$ and $R_3$, $R_3$ and $R_5$, $R_5$ and $R_7$, and $R_7$ and $R_1$ meet at $B_1$, $B_3$, $B_5$, $B_7$ respectively. If $B_1 B_3 = A_1 A_2$, then $\\cos 2 \\angle A_3 M_3 B_1$ can be written in the form $m - \\sqrt{n}$, where $m$ and $n$ are positive integers. Find $m + n$.",
+        "answer": "037"
+      },
+      {
+        "number": 15,
+        "problem": "For some integer $m$, the polynomial $x^3 - 2011x + m$ has the three integer roots $a$, $b$, and $c$. Find $|a| + |b| + |c|$.",
+        "answer": "098"
+      }
+    ],
+    "II": [
+      {
+        "number": 1,
+        "problem": "Gary purchased a large beverage, but only drank $m/n$ of it, where $m$ and $n$ are relatively prime positive integers. If he had purchased half as much and drunk twice as much, he would have wasted only $2/9$ as much beverage. Find $m+n$.",
+        "answer": "037"
+      },
+      {
+        "number": 2,
+        "problem": "On square $ABCD$, point $E$ lies on side $AD$ and point $F$ lies on side $BC$, so that $BE=EF=FD=30$. Find the area of the square $ABCD$.",
+        "answer": "810"
+      },
+      {
+        "number": 3,
+        "problem": "The degree measures of the angles in a convex 18-sided polygon form an increasing arithmetic sequence with integer values. Find the degree measure of the smallest angle.",
+        "answer": "143"
+      },
+      {
+        "number": 4,
+        "problem": "In triangle $ABC$, $AB=20$ and $AC=11$. The angle bisector of angle $A$ intersects $BC$ at point $D$, and point $M$ is the midpoint of $AD$. Let $P$ be the point of intersection of $AC$ and the line $BM$. The ratio of $CP$ to $PA$ can be expressed in the form $\\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$.",
+        "answer": "051"
+      },
+      {
+        "number": 5,
+        "problem": "The sum of the first $2011$ terms of a geometric sequence is $200$. The sum of the first $4022$ terms is $380$. Find the sum of the first $6033$ terms.",
+        "answer": "542"
+      },
+      {
+        "number": 6,
+        "problem": "Define an ordered quadruple of integers $(a, b, c, d)$ as interesting if $1 \\le a<b<c<d \\le 10$, and $a+d>b+c$. How many interesting ordered quadruples are there?",
+        "answer": "080"
+      },
+      {
+        "number": 7,
+        "problem": "Ed has five identical green marbles, and a large supply of identical red marbles. He arranges the green marbles and some of the red ones in a row and finds that the number of marbles whose right hand neighbor is the same color as themselves is equal to the number of marbles whose right hand neighbor is the other color. An example of such an arrangement is GGRRRGGRG. Let $m$ be the maximum number of red marbles for which such an arrangement is possible, and let $N$ be the number of ways he can arrange the $m+5$ marbles to satisfy the requirement. Find the remainder when $N$ is divided by $1000$.",
+        "answer": "003"
+      },
+      {
+        "number": 8,
+        "problem": "Let $z_1,z_2,z_3,\\dots,z_{12}$ be the 12 zeroes of the polynomial $z^{12}-2^{36}$. For each $j$, let $w_j$ be one of $z_j$ or $i z_j$. Then the maximum possible value of the real part of $\\sum_{j=1}^{12} w_j$ can be written as $m+\\sqrt{n}$ where $m$ and $n$ are positive integers. Find $m+n$.",
+        "answer": "784"
+      },
+      {
+        "number": 9,
+        "problem": "Let $x_1$, $x_2$, $\\dots$, $x_6$ be nonnegative real numbers such that $x_1 + x_2 + x_3 + x_4 + x_5 + x_6 = 1$, and $x_1x_3x_5 + x_2x_4x_6 \\ge {\\frac{1}{540}}$. Let $p$ and $q$ be relatively prime positive integers such that $\\frac{p}{q}$ is the maximum possible value of $x_1x_2x_3 + x_2x_3x_4 + x_3x_4x_5 + x_4x_5x_6 + x_5x_6x_1 + x_6x_1x_2$. Find $p + q$.",
+        "answer": "559"
+      },
+      {
+        "number": 10,
+        "problem": "A circle with center $O$ has radius 25. Chord $\\overline{AB}$ of length 30 and chord $\\overline{CD}$ of length 14 intersect at point $P$. The distance between the midpoints of the two chords is 12. The quantity $OP^2$ can be represented as $\\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find the remainder when $m + n$ is divided by 1000.",
+        "answer": "057"
+      },
+      {
+        "number": 11,
+        "problem": "Let $M_n$ be the $n \\times n$ matrix with entries as follows: for $1 \\le i \\le n$, $m_{i,i} = 10$; for $1 \\le i \\le n - 1$, $m_{i+1,i} = m_{i,i+1} = 3$; all other entries in $M_n$ are zero. Let $D_n$ be the determinant of matrix $M_n$. Then $\\sum_{n=1}^{\\infty} \\frac{1}{8D_n+1}$ can be represented as $\\frac{p}{q}$, where $p$ and $q$ are relatively prime positive integers. Find $p + q$. Note: The determinant of the $1 \\times 1$ matrix $[a]$ is $a$, and the determinant of the $2 \\times 2$ matrix $\\left[ {\\begin{array}{cc} a & b \\\\ c & d \\\\ \\end{array} } \\right] = ad - bc$; for $n \\ge 2$, the determinant of an $n \\times n$ matrix with first row or first column $a_1$ $a_2$ $a_3$ $\\dots$ $a_n$ is equal to $a_1C_1 - a_2C_2 + a_3C_3 - \\dots + (-1)^{n+1}a_nC_n$, where $C_i$ is the determinant of the $(n - 1) \\times (n - 1)$ matrix formed by eliminating the row and column containing $a_i$.",
+        "answer": "073"
+      },
+      {
+        "number": 12,
+        "problem": "Nine delegates, three each from three different countries, randomly select chairs at a round table that seats nine people. Let the probability that each delegate sits next to at least one delegate from another country be $\\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m + n$.",
+        "answer": "097"
+      },
+      {
+        "number": 13,
+        "problem": "Point $P$ lies on the diagonal $AC$ of square $ABCD$ with $AP > CP$. Let $O_1$ and $O_2$ be the circumcenters of triangles $ABP$ and $CDP$, respectively. Given that $AB = 12$ and $\\angle O_1PO_2 = 120 ^{\\circ}$, then $AP = \\sqrt{a} + \\sqrt{b}$, where $a$ and $b$ are positive integers. Find $a + b$.",
+        "answer": "096"
+      },
+      {
+        "number": 14,
+        "problem": "There are $N$ permutations $(a_1, a_2, \\dots, a_{30})$ of $1, 2, \\dots, 30$ such that for $m \\in \\{2,3,5\\}$, $m$ divides $a_{n+m} - a_n$ for all integers $n$ with $1 \\le n < n+m \\le 30$. Find the remainder when $N$ is divided by 1000.",
+        "answer": "440"
+      },
+      {
+        "number": 15,
+        "problem": "Let $P(x) = x^2 - 3x - 9$. A real number $x$ is chosen at random from the interval $5 \\le x \\le 15$. The probability that $\\left\\lfloor\\sqrt{P(x)}\\right\\rfloor = \\sqrt{P(\\lfloor x \\rfloor)}$ is equal to $\\frac{\\sqrt{a} + \\sqrt{b} + \\sqrt{c} - d}{e}$ , where $a$, $b$, $c$, $d$, and $e$ are positive integers. Find $a + b + c + d + e$.",
+        "answer": "850"
+      }
+    ]
+  }
+}

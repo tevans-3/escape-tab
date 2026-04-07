@@ -1,0 +1,610 @@
+{
+  "year": 2013,
+  "contest": "AMC 12",
+  "variants": {
+    "A": [
+      {
+        "number": 1,
+        "problem": "Square $ABCD$ has side length $10$. Point $E$ is on $\\overline{BC}$, and the area of $\\bigtriangleup ABE$ is $40$. What is $BE$? [IMG:AMC12_2013_A_1.png]",
+        "options": {
+          "A": "$4$",
+          "B": "$5$",
+          "C": "$6$",
+          "D": "$7$",
+          "E": "$8$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 2,
+        "problem": "A softball team played ten games, scoring $1,2,3,4,5,6,7,8,9$, and $10$ runs. They lost by one run in exactly five games. In each of the other games, they scored twice as many runs as their opponent. How many total runs did their opponents score? $\\textbf {",
+        "options": {
+          "A": "$35 \\qquad \\textbf {$",
+          "B": "$40 \\qquad \\textbf {$",
+          "C": "$45 \\qquad \\textbf {$",
+          "D": "$50 \\qquad \\textbf {$",
+          "E": "$55$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 3,
+        "problem": "A flower bouquet contains pink roses, red roses, pink carnations, and red carnations. One third of the pink flowers are roses, three fourths of the red flowers are carnations, and six tenths of the flowers are pink. What percent of the flowers are carnations?",
+        "options": {
+          "A": "$15$",
+          "B": "$30$",
+          "C": "$40$",
+          "D": "$60$",
+          "E": "$70$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 4,
+        "problem": "What is the value of [IMG:AMC12_2013_A_4.png]",
+        "options": {
+          "A": "$-1$",
+          "B": "$1$",
+          "C": "$\\frac{5}{3}$",
+          "D": "$2013$",
+          "E": "$2^{4024}$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 5,
+        "problem": "Tom, Dorothy, and Sammy went on a vacation and agreed to split the costs evenly. During their trip Tom paid &#36;$105$, Dorothy paid &#36;$125$, and Sammy paid &#36;$175$. In order to share the costs equally, Tom gave Sammy $t$ dollars, and Dorothy gave Sammy $d$ dollars. What is $t-d$?",
+        "options": {
+          "A": "$15$",
+          "B": "$20$",
+          "C": "$25$",
+          "D": "$30$",
+          "E": "$35$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 6,
+        "problem": "In a recent basketball game, Shenille attempted only three-point shots and two-point shots. She was successful on $20\\%$ of her three-point shots and $30\\%$ of her two-point shots. Shenille attempted $30$ shots. How many points did she score?",
+        "options": {
+          "A": "$12$",
+          "B": "$18$",
+          "C": "$24$",
+          "D": "$30$",
+          "E": "$36$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 7,
+        "problem": "The sequence $S_1, S_2, S_3, \\cdots, S_{10}$ has the property that every term beginning with the third is the sum of the previous two. That is, [IMG:AMC12_2013_A_7.png] Suppose that $S_9 = 110$ and $S_7 = 42$. What is $S_4$?",
+        "options": {
+          "A": "$4$",
+          "B": "$6$",
+          "C": "$10$",
+          "D": "$12$",
+          "E": "$16$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 8,
+        "problem": "Given that $x$ and $y$ are distinct nonzero real numbers such that $x+\\tfrac{2}{x} = y + \\tfrac{2}{y}$, what is $xy$?",
+        "options": {
+          "A": "$\\frac{1}{4}$",
+          "B": "$\\frac{1}{2}$",
+          "C": "$1$",
+          "D": "$2$",
+          "E": "$4$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 9,
+        "problem": "In $\\triangle ABC$, $AB=AC=28$ and $BC=20$. Points $D,E,$ and $F$ are on sides $\\overline{AB}$, $\\overline{BC}$, and $\\overline{AC}$, respectively, such that $\\overline{DE}$ and $\\overline{EF}$ are parallel to $\\overline{AC}$ and $\\overline{AB}$, respectively. What is the perimeter of parallelogram $ADEF$? [IMG:AMC12_2013_A_9.png]",
+        "options": {
+          "A": "$48$",
+          "B": "$52$",
+          "C": "$56$",
+          "D": "$60$",
+          "E": "$72\\qquad$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 10,
+        "problem": "Let $S$ be the set of positive integers $n$ for which $\\tfrac{1}{n}$ has the repeating decimal representation $0.\\overline{ab} = 0.ababab\\cdots,$ with $a$ and $b$ different digits. What is the sum of the elements of $S$?",
+        "options": {
+          "A": "$11$",
+          "B": "$44$",
+          "C": "$110$",
+          "D": "$143$",
+          "E": "$155$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 11,
+        "problem": "Triangle $ABC$ is equilateral with $AB=1$. Points $E$ and $G$ are on $\\overline{AC}$ and points $D$ and $F$ are on $\\overline{AB}$ such that both $\\overline{DE}$ and $\\overline{FG}$ are parallel to $\\overline{BC}$. Furthermore, triangle $ADE$ and trapezoids $DFGE$ and $FBCG$ all have the same perimeter. What is $DE+FG$? [IMG:AMC12_2013_A_11.png]",
+        "options": {
+          "A": "$1$",
+          "B": "$\\dfrac{3}{2}$",
+          "C": "$\\dfrac{21}{13}$",
+          "D": "$\\dfrac{13}{8}$",
+          "E": "$\\dfrac{5}{3}\\qquad$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 12,
+        "problem": "The angles in a particular triangle are in arithmetic progression, and the side lengths are $4,5,x$. The sum of the possible values of $x$ equals $a+\\sqrt{b}+\\sqrt{c}$ where $a, b$, and $c$ are positive integers. What is $a+b+c$?",
+        "options": {
+          "A": "$36$",
+          "B": "$38$",
+          "C": "$40$",
+          "D": "$42$",
+          "E": "$44$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 13,
+        "problem": "Let points $A = (0,0) , \\ B = (1,2), \\ C = (3,3),$ and $D = (4,0)$. Quadrilateral $ABCD$ is cut into equal area pieces by a line passing through $A$. This line intersects $\\overline{CD}$ at point $\\left (\\frac{p}{q}, \\frac{r}{s} \\right )$, where these fractions are in lowest terms. What is $p + q + r + s$?",
+        "options": {
+          "A": "$54$",
+          "B": "$58$",
+          "C": "$62$",
+          "D": "$70$",
+          "E": "$75$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 14,
+        "problem": "The sequence $\\log_{12}{162}$, $\\log_{12}{x}$, $\\log_{12}{y}$, $\\log_{12}{z}$, $\\log_{12}{1250}$ is an arithmetic progression. What is $x$?",
+        "options": {
+          "A": "$125\\sqrt{3}$",
+          "B": "$270$",
+          "C": "$162\\sqrt{5}$",
+          "D": "$434$",
+          "E": "$225\\sqrt{6}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 15,
+        "problem": "Rabbits Peter and Pauline have three offspring\u2014Flopsie, Mopsie, and Cotton-tail. These five rabbits are to be distributed to four different pet stores so that no store gets both a parent and a child. It is not required that every store gets a rabbit. In how many different ways can this be done?",
+        "options": {
+          "A": "$96$",
+          "B": "$108$",
+          "C": "$156$",
+          "D": "$204$",
+          "E": "$372$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 16,
+        "problem": "$A$, $B$, $C$ are three piles of rocks. The mean weight of the rocks in $A$ is $40$ pounds, the mean weight of the rocks in $B$ is $50$ pounds, the mean weight of the rocks in the combined piles $A$ and $B$ is $43$ pounds, and the mean weight of the rocks in the combined piles $A$ and $C$ is $44$ pounds. What is the greatest possible integer value for the mean in pounds of the rocks in the combined piles $B$ and $C$?",
+        "options": {
+          "A": "$55$",
+          "B": "$56$",
+          "C": "$57$",
+          "D": "$58$",
+          "E": "$59$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 17,
+        "problem": "A group of $12$ pirates agree to divide a treasure chest of gold coins among themselves as follows. The $k^\\text{th}$ pirate to take a share takes $\\frac{k}{12}$ of the coins that remain in the chest. The number of coins initially in the chest is the smallest number for which this arrangement will allow each pirate to receive a positive whole number of coins. How many coins does the $12^{\\text{th}}$ pirate receive?",
+        "options": {
+          "A": "$720$",
+          "B": "$1296$",
+          "C": "$1728$",
+          "D": "$1925$",
+          "E": "$3850$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 18,
+        "problem": "Six spheres of radius $1$ are positioned so that their centers are at the vertices of a regular hexagon of side length $2$. The six spheres are internally tangent to a larger sphere whose center is the center of the hexagon. An eighth sphere is externally tangent to the six smaller spheres and internally tangent to the larger sphere. What is the radius of this eighth sphere?",
+        "options": {
+          "A": "$\\sqrt{2}$",
+          "B": "$\\frac{3}{2}$",
+          "C": "$\\frac{5}{3}$",
+          "D": "$\\sqrt{3}$",
+          "E": "$2$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 19,
+        "problem": "In $\\bigtriangleup ABC$, $AB = 86$, and $AC = 97$. A circle with center $A$ and radius $AB$ intersects $\\overline{BC}$ at points $B$ and $X$. Moreover $\\overline{BX}$ and $\\overline{CX}$ have integer lengths. What is $BC$?",
+        "options": {
+          "A": "$11$",
+          "B": "$28$",
+          "C": "$33$",
+          "D": "$61$",
+          "E": "$72$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 20,
+        "problem": "Let $S$ be the set $\\{1,2,3,...,19\\}$. For $a,b \\in S$, define $a \\succ b$ to mean that either $0 < a - b \\le 9$ or $b - a > 9$. How many ordered triples $(x,y,z)$ of elements of $S$ have the property that $x \\succ y$, $y \\succ z$, and $z \\succ x$?",
+        "options": {
+          "A": "$810$",
+          "B": "$855$",
+          "C": "$900$",
+          "D": "$950$",
+          "E": "$988$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 21,
+        "problem": "Consider $A = \\log (2013 + \\log (2012 + \\log (2011 + \\log (\\cdots + \\log (3 + \\log 2) \\cdots ))))$. Which of the following intervals contains $A$?",
+        "options": {
+          "A": "$(\\log 2016, \\log 2017)$",
+          "B": "$(\\log 2017, \\log 2018)$",
+          "C": "$(\\log 2018, \\log 2019)$",
+          "D": "$(\\log 2019, \\log 2020)$",
+          "E": "$(\\log 2020, \\log 2021)$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 22,
+        "problem": "A palindrome is a nonnegative integer number that reads the same forwards and backwards when written in base 10 with no leading zeros. A 6-digit palindrome $n$ is chosen uniformly at random. What is the probability that $\\frac{n}{11}$ is also a palindrome?",
+        "options": {
+          "A": "$\\frac{8}{25}$",
+          "B": "$\\frac{33}{100}$",
+          "C": "$\\frac{7}{20}$",
+          "D": "$\\frac{9}{25}$",
+          "E": "$\\frac{11}{30}$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 23,
+        "problem": "$ABCD$ is a square of side length $\\sqrt{3} + 1$. Point $P$ is on $\\overline{AC}$ such that $AP = \\sqrt{2}$. The square region bounded by $ABCD$ is rotated $90^{\\circ}$ counterclockwise with center $P$, sweeping out a region whose area is $\\frac{1}{c} (a \\pi + b)$, where $a$, $b$, and $c$ are positive integers and $\\text{gcd}(a,b,c) = 1$. What is $a + b + c$?",
+        "options": {
+          "A": "$15$",
+          "B": "$17$",
+          "C": "$19$",
+          "D": "$21$",
+          "E": "$23$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 24,
+        "problem": "Three distinct segments are chosen at random among the segments whose end-points are the vertices of a regular $12$-gon. What is the probability that the lengths of these three segments are the three side lengths of a triangle with positive area?",
+        "options": {
+          "A": "$\\frac{553}{715}$",
+          "B": "$\\frac{443}{572}$",
+          "C": "$\\frac{111}{143}$",
+          "D": "$\\frac{81}{104}$",
+          "E": "$\\frac{223}{286}$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 25,
+        "problem": "Let $f : \\mathbb{C} \\to \\mathbb{C}$ be defined by $f(z) = z^2 + iz + 1$. How many complex numbers $z$ are there such that $\\text{Im}(z) > 0$ and both the real and the imaginary parts of $f(z)$ are integers with absolute value at most $10$?",
+        "options": {
+          "A": "$399$",
+          "B": "$401$",
+          "C": "$413$",
+          "D": "$431$",
+          "E": "$441$"
+        },
+        "answer": "A"
+      }
+    ],
+    "B": [
+      {
+        "number": 1,
+        "problem": "On a particular January day, the high temperature in Lincoln, Nebraska, was $16$ degrees higher than the low temperature, and the average of the high and low temperatures was $3$. In degrees, what was the low temperature in Lincoln that day?",
+        "options": {
+          "A": "$-13$",
+          "B": "$-8$",
+          "C": "$-5$",
+          "D": "$-3$",
+          "E": "$11$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 2,
+        "problem": "Mr. Green measures his rectangular garden by walking two of the sides and finds that it is $15$ steps by $20$ steps. Each of Mr. Green\u2019s steps is $2$ feet long. Mr. Green expects a half a pound of potatoes per square foot from his garden. How many pounds of potatoes does Mr. Green expect from his garden?",
+        "options": {
+          "A": "$600$",
+          "B": "$800$",
+          "C": "$1000$",
+          "D": "$1200$",
+          "E": "$1400$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 3,
+        "problem": "When counting from $3$ to $201$, $53$ is the $51^{\\text{st}}$ number counted. When counting backwards from $201$ to $3$, $53$ is the $n^{\\text{th}}$ number counted. What is $n$?",
+        "options": {
+          "A": "$146$",
+          "B": "$147$",
+          "C": "$148$",
+          "D": "$149$",
+          "E": "$150$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 4,
+        "problem": "Ray's car averages $40$ miles per gallon of gasoline, and Tom's car averages $10$ miles per gallon of gasoline. Ray and Tom each drive the same number of miles. What is the cars' combined rate of miles per gallon of gasoline?",
+        "options": {
+          "A": "$10$",
+          "B": "$16$",
+          "C": "$25$",
+          "D": "$30$",
+          "E": "$40$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 5,
+        "problem": "The average age of $33$ fifth-graders is $11$. The average age of $55$ of their parents is $33$. What is the average age of all of these parents and fifth-graders?",
+        "options": {
+          "A": "$22$",
+          "B": "$23.25$",
+          "C": "$24.75$",
+          "D": "$26.25$",
+          "E": "$28$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 6,
+        "problem": "Real numbers $x$ and $y$ satisfy the equation $x^2 + y^2 = 10x - 6y - 34$. What is $x + y$?",
+        "options": {
+          "A": "$1$",
+          "B": "$2$",
+          "C": "$3$",
+          "D": "$6$",
+          "E": "$8$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 7,
+        "problem": "Jo and Blair take turns counting from $1$ to one more than the last number said by the other person. Jo starts by saying $``1&quot;$, so Blair follows by saying $``1, 2&quot;$. Jo then says $``1, 2, 3&quot;$, and so on. What is the $53^{\\text{rd}}$ number said?",
+        "options": {
+          "A": "$2$",
+          "B": "$3$",
+          "C": "$5$",
+          "D": "$6$",
+          "E": "$8$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 8,
+        "problem": "Line $l_1$ has equation $3x - 2y = 1$ and goes through $A = (-1, -2)$. Line $l_2$ has equation $y = 1$ and meets line $l_1$ at point $B$. Line $l_3$ has positive slope, goes through point $A$, and meets $l_2$ at point $C$. The area of $\\triangle ABC$ is $3$. What is the slope of $l_3$?",
+        "options": {
+          "A": "$\\frac{2}{3}$",
+          "B": "$\\frac{3}{4}$",
+          "C": "$1$",
+          "D": "$\\frac{4}{3}$",
+          "E": "$\\frac{3}{2}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 9,
+        "problem": "What is the sum of the exponents of the prime factors of the square root of the largest perfect square that divides $12!$ ?",
+        "options": {
+          "A": "$5$",
+          "B": "$7$",
+          "C": "$8$",
+          "D": "$10$",
+          "E": "$12$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 10,
+        "problem": "Alex has $75$ red tokens and $75$ blue tokens. There is a booth where Alex can give two red tokens and receive in return a silver token and a blue token, and another booth where Alex can give three blue tokens and receive in return a silver token and a red token. Alex continues to exchange tokens until no more exchanges are possible. How many silver tokens will Alex have at the end?",
+        "options": {
+          "A": "$62$",
+          "B": "$82$",
+          "C": "$83$",
+          "D": "$102$",
+          "E": "$103$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 11,
+        "problem": "Two bees start at the same spot and fly at the same rate in the following directions. Bee $A$ travels $1$ foot north, then $1$ foot east, then $1$ foot upwards, and then continues to repeat this pattern. Bee $B$ travels $1$ foot south, then $1$ foot west, and then continues to repeat this pattern. In what directions are the bees traveling when they are exactly $10$ feet away from each other?",
+        "options": {
+          "A": "$A$ east, $B$ west$",
+          "B": "$A$ north, $B$ south$",
+          "C": "$A$ north, $B$ west$",
+          "D": "$A$ up, $B$ south$",
+          "E": "$A$ up, $B$ west$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 12,
+        "problem": "Cities $A$, $B$, $C$, $D$, and $E$ are connected by roads $\\widetilde{AB}$, $\\widetilde{AD}$, $\\widetilde{AE}$, $\\widetilde{BC}$, $\\widetilde{BD}$, $\\widetilde{CD}$, and $\\widetilde{DE}$. How many different routes are there from $A$ to $B$ that use each road exactly once? (Such a route will necessarily visit some cities more than once.) [IMG:AMC12_2013_B_12.png]",
+        "options": {
+          "A": "$7$",
+          "B": "$9$",
+          "C": "$12$",
+          "D": "$16$",
+          "E": "$18$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 13,
+        "problem": "The internal angles of quadrilateral $ABCD$ form an arithmetic progression. Triangles $ABD$ and $DCB$ are similar with $\\angle DBA = \\angle DCB$ and $\\angle ADB = \\angle CBD$. Moreover, the angles in each of these two triangles also form an arithmetic progression. In degrees, what is the largest possible sum of the two largest angles of $ABCD$?",
+        "options": {
+          "A": "$210$",
+          "B": "$220$",
+          "C": "$230$",
+          "D": "$240$",
+          "E": "$250$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 14,
+        "problem": "Two non-decreasing sequences of nonnegative integers have different first terms. Each sequence has the property that each term beginning with the third is the sum of the previous two terms, and the seventh term of each sequence is $N$. What is the smallest possible value of $N$ ?",
+        "options": {
+          "A": "$55$",
+          "B": "$89$",
+          "C": "$104$",
+          "D": "$144$",
+          "E": "$273$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 15,
+        "problem": "The number $2013$ is expressed in the form $2013 = \\frac {a_1!a_2!...a_m!}{b_1!b_2!...b_n!}$, where $a_1 \\ge a_2 \\ge ... \\ge a_m$ and $b_1 \\ge b_2 \\ge ... \\ge b_n$ are positive integers and $a_1 + b_1$ is as small as possible. What is $|a_1 - b_1|$?",
+        "options": {
+          "A": "$1$",
+          "B": "$2$",
+          "C": "$3$",
+          "D": "$4$",
+          "E": "$5$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 16,
+        "problem": "Let $ABCDE$ be an equiangular convex pentagon of perimeter $1$. The pairwise intersections of the lines that extend the sides of the pentagon determine a five-pointed star polygon. Let $s$ be the perimeter of this star. What is the difference between the maximum and the minimum possible values of $s$?",
+        "options": {
+          "A": "$0$",
+          "B": "$\\frac{1}{2}$",
+          "C": "$\\frac{\\sqrt{5}-1}{2}$",
+          "D": "$\\frac{\\sqrt{5}+1}{2}$",
+          "E": "$\\sqrt{5}$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 17,
+        "problem": "Let $a,b,$ and $c$ be real numbers such that [IMG:AMC12_2013_B_17_0.png] [IMG:AMC12_2013_B_17_1.png] [IMG:AMC12_2013_B_17_0.png] [IMG:AMC12_2013_B_17_1.png] What is the difference between the maximum and minimum possible values of $c$?",
+        "options": {
+          "A": "$2$",
+          "B": "$\\frac{10}{3}$",
+          "C": "$4$",
+          "D": "$\\frac{16}{3}$",
+          "E": "$\\frac{20}{3}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 18,
+        "problem": "Barbara and Jenna play the following game, in which they take turns. A number of coins lie on a table. When it is Barbara\u2019s turn, she must remove $2$ or $4$ coins, unless only one coin remains, in which case she loses her turn. When it is Jenna\u2019s turn, she must remove $1$ or $3$ coins. A coin flip determines who goes first. Whoever removes the last coin wins the game. Assume both players use their best strategy. Who will win when the game starts with $2013$ coins and when the game starts with $2014$ coins?",
+        "options": {
+          "A": "$ Barbara will win with $2013$ coins and Jenna will win with $2014$ coins.$",
+          "B": "$ Jenna will win with $2013$ coins, and whoever goes first will win with $2014$ coins.$",
+          "C": "$ Barbara will win with $2013$ coins, and whoever goes second will win with $2014$ coins.$",
+          "D": "$ Jenna will win with $2013$ coins, and Barbara will win with $2014$ coins.$",
+          "E": "$ Whoever goes first will win with $2013$ coins, and whoever goes second will win with $2014$ coins.$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 19,
+        "problem": "In triangle $ABC$, $AB=13$, $BC=14$, and $CA=15$. Distinct points $D$, $E$, and $F$ lie on segments $\\overline{BC}$, $\\overline{CA}$, and $\\overline{DE}$, respectively, such that $\\overline{AD}\\perp\\overline{BC}$, $\\overline{DE}\\perp\\overline{AC}$, and $\\overline{AF}\\perp\\overline{BF}$. The length of segment $\\overline{DF}$ can be written as $\\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. What is $m+n$?",
+        "options": {
+          "A": "$18$",
+          "B": "$21$",
+          "C": "$24$",
+          "D": "$27$",
+          "E": "$30$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 20,
+        "problem": "For $135^\\circ < x < 180^\\circ$, points $P=(\\cos x, \\cos^2 x), Q=(\\cot x, \\cot^2 x), R=(\\sin x, \\sin^2 x)$ and $S =(\\tan x, \\tan^2 x)$ are the vertices of a trapezoid. What is $\\sin(2x)$?",
+        "options": {
+          "A": "$2-2\\sqrt{2}$",
+          "B": "$3\\sqrt{3}-6$",
+          "C": "$3\\sqrt{2}-5$",
+          "D": "$-\\frac{3}{4}$",
+          "E": "$1-\\sqrt{3}$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 21,
+        "problem": "Consider the set of $30$ parabolas defined as follows: all parabolas have as focus the point $(0,0)$ and the directrix lines have the form $y=ax+b$ with $a$ and $b$ integers such that $a\\in \\{-2,-1,0,1,2\\}$ and $b\\in \\{-3,-2,-1,1,2,3\\}$. No three of these parabolas have a common point. How many points in the plane are on two of these parabolas?",
+        "options": {
+          "A": "$720$",
+          "B": "$760$",
+          "C": "$810$",
+          "D": "$840$",
+          "E": "$870$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 22,
+        "problem": "Let $m>1$ and $n>1$ be integers. Suppose that the product of the solutions for $x$ of the equation [IMG:AMC12_2013_B_22.png] is the smallest possible integer. What is $m+n$?",
+        "options": {
+          "A": "$12$",
+          "B": "$20$",
+          "C": "$24$",
+          "D": "$48$",
+          "E": "$272$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 23,
+        "problem": "Bernardo chooses a three-digit positive integer $N$ and writes both its base-$5$ and base-$6$ representations on a blackboard. Later LeRoy sees the two numbers Bernardo has written. Treating the two numbers as base-$10$ integers, he adds them to obtain an integer $S$. For example, if $N=749$, Bernardo writes the numbers $10444$ and $3245$, and LeRoy obtains the sum $S=13,689$. For how many choices of $N$ are the two rightmost digits of $S$, in order, the same as those of $2N$?",
+        "options": {
+          "A": "$5$",
+          "B": "$10$",
+          "C": "$15$",
+          "D": "$20$",
+          "E": "$25$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 24,
+        "problem": "Let $ABC$ be a triangle where $M$ is the midpoint of $\\overline{AC}$, and $\\overline{CN}$ is the angle bisector of $\\angle{ACB}$ with $N$ on $\\overline{AB}$. Let $X$ be the intersection of the median $\\overline{BM}$ and the bisector $\\overline{CN}$. In addition $\\triangle BXN$ is equilateral with $AC=2$. What is $BX^2$?",
+        "options": {
+          "A": "$\\frac{10-6\\sqrt{2}}{7}$",
+          "B": "$\\frac{2}{9}$",
+          "C": "$\\frac{5\\sqrt{2}-3\\sqrt{3}}{8}$",
+          "D": "$\\frac{\\sqrt{2}}{6}$",
+          "E": "$\\frac{3\\sqrt{3}-4}{5}$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 25,
+        "problem": "Let $G$ be the set of polynomials of the form [IMG:AMC12_2013_B_25.png] where $c_1,c_2,\\cdots, c_{n-1}$ are integers and $P(z)$ has distinct roots of the form $a+ib$ with $a$ and $b$ integers. How many polynomials are in $G$?",
+        "options": {
+          "A": "$288$",
+          "B": "$528$",
+          "C": "$576$",
+          "D": "$992$",
+          "E": "$1056$"
+        },
+        "answer": "B"
+      }
+    ]
+  }
+}

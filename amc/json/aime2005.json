@@ -1,0 +1,160 @@
+{
+  "year": 2005,
+  "contest": "AIME",
+  "variants": {
+    "I": [
+      {
+        "number": 1,
+        "problem": "Six congruent circles form a ring with each circle externally tangent to two circles adjacent to it. All circles are internally tangent to a circle $C$ with radius 30. Let $K$ be the area of the region inside circle $C$ and outside of the six circles in the ring. Find $\\lfloor K \\rfloor.$",
+        "answer": "942"
+      },
+      {
+        "number": 2,
+        "problem": "For each positive integer $k,$ let $S_k$ denote the increasing arithmetic sequence of integers whose first term is 1 and whose common difference is $k.$ For example, $S_3$ is the sequence $1,4,7,10,\\ldots.$ For how many values of $k$ does $S_k$ contain the term 2005?",
+        "answer": "012"
+      },
+      {
+        "number": 3,
+        "problem": "How many positive integers have exactly three proper divisors (positive integral divisors excluding itself), each of which is less than 50?",
+        "answer": "109"
+      },
+      {
+        "number": 4,
+        "problem": "The director of a marching band wishes to place the members into a formation that includes all of them and has no unfilled positions. If they are arranged in a square formation, there are 5 members left over. The director realizes that if he arranges the group in a formation with 7 more rows than columns, there are no members left over. Find the maximum number of members this band can have.",
+        "answer": "294"
+      },
+      {
+        "number": 5,
+        "problem": "Robert has 4 indistinguishable gold coins and 4 indistinguishable silver coins. Each coin has an engraving of one face on one side, but not on the other. He wants to stack the eight coins on a table into a single stack so that no two adjacent coins are face to face. Find the number of possible distinguishable arrangements of the 8 coins.",
+        "answer": "630"
+      },
+      {
+        "number": 6,
+        "problem": "Let $P$ be the product of the nonreal roots of $x^4-4x^3+6x^2-4x=2005.$ Find $\\lfloor P\\rfloor.$",
+        "answer": "045"
+      },
+      {
+        "number": 7,
+        "problem": "In quadrilateral $ABCD, BC=8, CD=12, AD=10,$ and $m\\angle A= m\\angle B = 60^\\circ.$ Given that $AB = p + \\sqrt{q},$ where $p$ and $q$ are positive integers, find $p+q.$",
+        "answer": "150"
+      },
+      {
+        "number": 8,
+        "problem": "The equation $2^{333x-2} + 2^{111x+2} = 2^{222x+1} + 1$ has three real roots. Given that their sum is $\\frac mn$ where $m$ and $n$ are relatively prime positive integers, find $m+n.$",
+        "answer": "113"
+      },
+      {
+        "number": 9,
+        "problem": "Twenty-seven unit cubes are painted orange on a set of four faces so that the two unpainted faces share an edge. The 27 cubes are then randomly arranged to form a $3\\times 3 \\times 3$ cube. Given that the probability that the entire surface of the larger cube is orange is $\\frac{p^a}{q^br^c},$ where $p,q,$ and $r$ are distinct primes and $a,b,$ and $c$ are positive integers, find $a+b+c+p+q+r.$",
+        "answer": "074"
+      },
+      {
+        "number": 10,
+        "problem": "Triangle $ABC$ lies in the Cartesian Plane and has an area of 70. The coordinates of $B$ and $C$ are $(12,19)$ and $(23,20),$ respectively, and the coordinates of $A$ are $(p,q).$ The line containing the median to side $BC$ has slope $-5.$ Find the largest possible value of $p+q.$",
+        "answer": "047"
+      },
+      {
+        "number": 11,
+        "problem": "A semicircle with diameter $d$ is contained in a square whose sides have length 8. Given the maximum value of $d$ is $m - \\sqrt{n},$ find $m+n.$",
+        "answer": "544"
+      },
+      {
+        "number": 12,
+        "problem": "For positive integers $n,$ let $\\tau (n)$ denote the number of positive integer divisors of $n,$ including 1 and $n.$ For example, $\\tau (1)=1$ and $\\tau(6) =4.$ Define $S(n)$ by $S(n)=\\tau(1)+ \\tau(2) + \\cdots + \\tau(n).$ Let $a$ denote the number of positive integers $n \\leq 2005$ with $S(n)$ odd, and let $b$ denote the number of positive integers $n \\leq 2005$ with $S(n)$ even. Find $|a-b|.$",
+        "answer": "025"
+      },
+      {
+        "number": 13,
+        "problem": "A particle moves in the Cartesian Plane according to the following rules: From any lattice point $(a,b),$ the particle may only move to $(a+1,b), (a,b+1),$ or $(a+1,b+1).$ There are no right angle turns in the particle's path. How many different paths can the particle take from $(0,0)$ to $(5,5)$?",
+        "answer": "083"
+      },
+      {
+        "number": 14,
+        "problem": "Consider the points $A(0,12), B(10,9), C(8,0),$ and $D(-4,7).$ There is a unique square $S$ such that each of the four points is on a different side of $S.$ Let $K$ be the area of $S.$ Find the remainder when $10K$ is divided by 1000.",
+        "answer": "936"
+      },
+      {
+        "number": 15,
+        "problem": "Triangle $ABC$ has $BC=20.$ The incircle of the triangle evenly trisects the median $AD.$ If the area of the triangle is $m \\sqrt{n}$ where $m$ and $n$ are integers and $n$ is not divisible by the square of a prime, find $m+n.$",
+        "answer": "038"
+      }
+    ],
+    "II": [
+      {
+        "number": 1,
+        "problem": "A game uses a deck of $n$ different cards, where $n$ is an integer and $n \\geq 6.$ The number of possible sets of 6 cards that can be drawn from the deck is 6 times the number of possible sets of 3 cards that can be drawn. Find $n.$",
+        "answer": "013"
+      },
+      {
+        "number": 2,
+        "problem": "A hotel packed breakfast for each of three guests. Each breakfast should have consisted of three types of rolls, one each of nut, cheese, and fruit rolls. The preparer wrapped each of the nine rolls and once wrapped, the rolls were indistinguishable from one another. She then randomly put three rolls in a bag for each of the guests. Given that the probability each guest got one roll of each type is $\\frac mn,$ where $m$ and $n$ are relatively prime integers, find $m+n.$",
+        "answer": "079"
+      },
+      {
+        "number": 3,
+        "problem": "An infinite geometric series has sum 2005. A new series, obtained by squaring each term of the original series, has 10 times the sum of the original series. The common ratio of the original series is $\\frac mn$ where $m$ and $n$ are relatively prime integers. Find $m+n.$",
+        "answer": "802"
+      },
+      {
+        "number": 4,
+        "problem": "Find the number of positive integers that are divisors of at least one of $10^{10},15^7,18^{11}.$",
+        "answer": "435"
+      },
+      {
+        "number": 5,
+        "problem": "Determine the number of ordered pairs $(a,b)$ of integers such that $\\log_a b + 6\\log_b a=5, 2 \\leq a \\leq 2005,$ and $2 \\leq b \\leq 2005.$",
+        "answer": "054"
+      },
+      {
+        "number": 6,
+        "problem": "The cards in a stack of $2n$ cards are numbered consecutively from 1 through $2n$ from top to bottom. The top $n$ cards are removed, kept in order, and form pile $A.$ The remaining cards form pile $B.$ The cards are then restacked by taking cards alternately from the tops of pile $B$ and $A,$ respectively. In this process, card number $(n+1)$ becomes the bottom card of the new stack, card number 1 is on top of this card, and so on, until piles $A$ and $B$ are exhausted. If, after the restacking process, at least one card from each pile occupies the same position that it occupied in the original stack, the stack is named magical. Find the number of cards in the magical stack in which card number 131 retains its original position.",
+        "answer": "392"
+      },
+      {
+        "number": 7,
+        "problem": "Let $x=\\frac{4}{(\\sqrt{5}+1)(\\sqrt[4]{5}+1)(\\sqrt[8]{5}+1)(\\sqrt[16]{5}+1)}.$ Find $(x+1)^{48}.$",
+        "answer": "125"
+      },
+      {
+        "number": 8,
+        "problem": "Circles $C_1$ and $C_2$ are externally tangent, and they are both internally tangent to circle $C_3.$ The radii of $C_1$ and $C_2$ are 4 and 10, respectively, and the centers of the three circles are all collinear. A chord of $C_3$ is also a common external tangent of $C_1$ and $C_2.$ Given that the length of the chord is $\\frac{m\\sqrt{n}}p$ where $m,n,$ and $p$ are positive integers, $m$ and $p$ are relatively prime, and $n$ is not divisible by the square of any prime, find $m+n+p.$",
+        "answer": "405"
+      },
+      {
+        "number": 9,
+        "problem": "For how many positive integers $n$ less than or equal to 1000 is $(\\sin t + i \\cos t)^n = \\sin nt + i \\cos nt$ true for all real $t$?",
+        "answer": "250"
+      },
+      {
+        "number": 10,
+        "problem": "Given that $O$ is a regular octahedron, that $C$ is the cube whose vertices are the centers of the faces of $O,$ and that the ratio of the volume of $O$ to that of $C$ is $\\frac mn,$ where $m$ and $n$ are relatively prime integers, find $m+n.$",
+        "answer": "011"
+      },
+      {
+        "number": 11,
+        "problem": "Let $m$ be a positive integer, and let $a_0, a_1,\\ldots,a_m$ be a sequence of reals such that $a_0 = 37, a_1 = 72, a_m = 0,$ and $a_{k+1} = a_{k-1} - \\frac 3{a_k}$ for $k = 1,2,\\ldots, m-1.$ Find $m.$",
+        "answer": "889"
+      },
+      {
+        "number": 12,
+        "problem": "Square $ABCD$ has center $O, AB=900, E$ and $F$ are on $AB$ with $AE<BF$ and $E$ between $A$ and $F, m\\angle EOF =45^\\circ,$ and $EF=400.$ Given that $BF=p+q\\sqrt{r},$ where $p,q,$ and $r$ are positive integers and $r$ is not divisible by the square of any prime, find $p+q+r.$",
+        "answer": "307"
+      },
+      {
+        "number": 13,
+        "problem": "Let $P(x)$ be a polynomial with integer coefficients that satisfies $P(17)=10$ and $P(24)=17.$ Given that $P(n)=n+3$ has two distinct integer solutions $n_1$ and $n_2,$ find the product $n_1\\cdot n_2.$",
+        "answer": "418"
+      },
+      {
+        "number": 14,
+        "problem": "In triangle $ABC, AB=13, BC=15,$ and $CA = 14.$ Point $D$ is on $\\overline{BC}$ with $CD=6.$ Point $E$ is on $\\overline{BC}$ such that $\\angle BAE\\cong \\angle CAD.$ Given that $BE=\\frac pq$ where $p$ and $q$ are relatively prime positive integers, find $q.$",
+        "answer": "463"
+      },
+      {
+        "number": 15,
+        "problem": "Let $w_1$ and $w_2$ denote the circles $x^2+y^2+10x-24y-87=0$ and $x^2 +y^2-10x-24y+153=0,$ respectively. Let $m$ be the smallest positive value of $a$ for which the line $y=ax$ contains the center of a circle that is externally tangent to $w_2$ and internally tangent to $w_1.$ Given that $m^2=\\frac pq,$ where $p$ and $q$ are relatively prime integers, find $p+q.$",
+        "answer": "169"
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "year": 2015,
+  "contest": "AIME",
+  "variants": {
+    "I": [
+      {
+        "number": 1,
+        "problem": "The expressions $A$ = $1 \\times 2 + 3 \\times 4 + 5 \\times 6 + \\cdots + 37 \\times 38 + 39$ and $B$ = $1 + 2 \\times 3 + 4 \\times 5 + \\cdots + 36 \\times 37 + 38 \\times 39$ are obtained by writing multiplication and addition operators in an alternating pattern between successive integers. Find the positive difference between integers $A$ and $B$.",
+        "answer": "722"
+      },
+      {
+        "number": 2,
+        "problem": "The nine delegates to the Economic Cooperation Conference include $2$ officials from Mexico, $3$ officials from Canada, and $4$ officials from the United States. During the opening session, three of the delegates fall asleep. Assuming that the three sleepers were determined randomly, the probability that exactly two of the sleepers are from the same country is $\\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$.",
+        "answer": "139"
+      },
+      {
+        "number": 3,
+        "problem": "There is a prime number $p$ such that $16p+1$ is the cube of a positive integer. Find $p$.",
+        "answer": "307"
+      },
+      {
+        "number": 4,
+        "problem": "Point $B$ lies on line segment $\\overline{AC}$ with $AB=16$ and $BC=4$. Points $D$ and $E$ lie on the same side of line $AC$ forming equilateral triangles $\\triangle ABD$ and $\\triangle BCE$. Let $M$ be the midpoint of $\\overline{AE}$, and $N$ be the midpoint of $\\overline{CD}$. The area of $\\triangle BMN$ is $x$. Find $x^2$.",
+        "answer": "507"
+      },
+      {
+        "number": 5,
+        "problem": "In a drawer Sandy has $5$ pairs of socks, each pair a different color. On Monday, Sandy selects two individual socks at random from the $10$ socks in the drawer. On Tuesday Sandy selects $2$ of the remaining $8$ socks at random, and on Wednesday two of the remaining $6$ socks at random. The probability that Wednesday is the first day Sandy selects matching socks is $\\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$.",
+        "answer": "341"
+      },
+      {
+        "number": 6,
+        "problem": "Point $A,B,C,D,$ and $E$ are equally spaced on a minor arc of a circle. Points $E,F,G,H,I$ and $A$ are equally spaced on a minor arc of a second circle with center $C$ as shown in the figure below. The angle $\\angle ABD$ exceeds $\\angle AHG$ by $12^\\circ$. Find the degree measure of $\\angle BAG$. [IMG:AIME_2015_I_6.png]",
+        "answer": "058"
+      },
+      {
+        "number": 7,
+        "problem": "In the diagram below, $ABCD$ is a square. Point $E$ is the midpoint of $\\overline{AD}$. Points $F$ and $G$ lie on $\\overline{CE}$, and $H$ and $J$ lie on $\\overline{AB}$ and $\\overline{BC}$, respectively, so that $FGHJ$ is a square. Points $K$ and $L$ lie on $\\overline{GH}$, and $M$ and $N$ lie on $\\overline{AD}$ and $\\overline{AB}$, respectively, so that $KLMN$ is a square. The area of $KLMN$ is 99. Find the area of $FGHJ$. [IMG:AIME_2015_I_7.png]",
+        "answer": "539"
+      },
+      {
+        "number": 8,
+        "problem": "For positive integer $n$, let $s(n)$ denote the sum of the digits of $n$. Find the smallest positive integer satisfying $s(n) = s(n+864) = 20$.",
+        "answer": "695"
+      },
+      {
+        "number": 9,
+        "problem": "Let $S$ be the set of all ordered triple of integers $(a_1,a_2,a_3)$ with $1 \\le a_1,a_2,a_3 \\le 10$. Each ordered triple in $S$ generates a sequence according to the rule $a_n=a_{n-1}\\cdot | a_{n-2}-a_{n-3} |$ for all $n\\ge 4$. Find the number of such sequences for which $a_n=0$ for some $n$.",
+        "answer": "494"
+      },
+      {
+        "number": 10,
+        "problem": "Let $f(x)$ be a third-degree polynomial with real coefficients satisfying [IMG:AIME_2015_I_10.png] Find $|f(0)|$.",
+        "answer": "072"
+      },
+      {
+        "number": 11,
+        "problem": "Triangle $ABC$ has positive integer side lengths with $AB=AC$. Let $I$ be the intersection of the bisectors of $\\angle B$ and $\\angle C$. Suppose $BI=8$. Find the smallest possible perimeter of $\\triangle ABC$.",
+        "answer": "108"
+      },
+      {
+        "number": 12,
+        "problem": "Consider all 1000-element subsets of the set $\\{ 1, 2, 3, ... , 2015 \\}$. From each such subset choose the least element. The arithmetic mean of all of these least elements is $\\frac{p}{q}$, where $p$ and $q$ are relatively prime positive integers. Find $p + q$.",
+        "answer": "431"
+      },
+      {
+        "number": 13,
+        "problem": "With all angles measured in degrees, the product $\\prod_{k=1}^{45} \\csc^2(2k-1)^\\circ=m^n$, where $m$ and $n$ are integers greater than 1. Find $m+n$.",
+        "answer": "091"
+      },
+      {
+        "number": 14,
+        "problem": "For each integer $n \\ge 2$, let $A(n)$ be the area of the region in the coordinate plane defined by the inequalities $1\\le x \\le n$ and $0\\le y \\le x \\left\\lfloor \\sqrt x \\right\\rfloor$, where $\\left\\lfloor \\sqrt x \\right\\rfloor$ is the greatest integer not exceeding $\\sqrt x$. Find the number of values of $n$ with $2\\le n \\le 1000$ for which $A(n)$ is an integer.",
+        "answer": "483"
+      },
+      {
+        "number": 15,
+        "problem": "A block of wood has the shape of a right circular cylinder with radius $6$ and height $8$, and its entire surface has been painted blue. Points $A$ and $B$ are chosen on the edge of one of the circular faces of the cylinder so that $\\overarc{AB}$ on that face measures $120^\\text{o}$. The block is then sliced in half along the plane that passes through point $A$, point $B$, and the center of the cylinder, revealing a flat, unpainted face on each half. The area of one of these unpainted faces is $a\\cdot\\pi + b\\sqrt{c}$, where $a$, $b$, and $c$ are integers and $c$ is not divisible by the square of any prime. Find $a+b+c$. [IMG:AIME_2015_I_15.png]",
+        "answer": "053"
+      }
+    ],
+    "II": [
+      {
+        "number": 1,
+        "problem": "Let $N$ be the least positive integer that is both $22$ percent less than one integer and $16$ percent greater than another integer. Find the remainder when $N$ is divided by $1000$.",
+        "answer": "131"
+      },
+      {
+        "number": 2,
+        "problem": "In a new school, $40$ percent of the students are freshmen, $30$ percent are sophomores, $20$ percent are juniors, and $10$ percent are seniors. All freshmen are required to take Latin, and $80$ percent of sophomores, $50$ percent of the juniors, and $20$ percent of the seniors elect to take Latin. The probability that a randomly chosen Latin student is a sophomore is $\\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$.",
+        "answer": "025"
+      },
+      {
+        "number": 3,
+        "problem": "Let $m$ be the least positive integer divisible by $17$ whose digits sum to $17$. Find $m$.",
+        "answer": "476"
+      },
+      {
+        "number": 4,
+        "problem": "In an isosceles trapezoid, the parallel bases have lengths $\\log 3$ and $\\log 192$, and the altitude to these bases has length $\\log 16$. The perimeter of the trapezoid can be written in the form $\\log 2^p 3^q$, where $p$ and $q$ are positive integers. Find $p + q$.",
+        "answer": "018"
+      },
+      {
+        "number": 5,
+        "problem": "Two unit squares are selected at random without replacement from an $n \\times n$ grid of unit squares. Find the least positive integer $n$ such that the probability that the two selected unit squares are horizontally or vertically adjacent is less than $\\frac{1}{2015}$.",
+        "answer": "090"
+      },
+      {
+        "number": 6,
+        "problem": "Steve says to Jon, \"I am thinking of a polynomial whose roots are all positive integers. The polynomial has the form $P(x) = 2x^3-2ax^2+(a^2-81)x-c$ for some positive integers $a$ and $c$. Can you tell me the values of $a$ and $c$?\" After some calculations, Jon says, \"There is more than one such polynomial.\" Steve says, \"You're right. Here is the value of $a$.\" He writes down a positive integer and asks, \"Can you tell me the value of $c$?\" Jon says, \"There are still two possible values of $c$.\" Find the sum of the two possible values of $c$.",
+        "answer": "440"
+      },
+      {
+        "number": 7,
+        "problem": "Triangle $ABC$ has side lengths $AB = 12$, $BC = 25$, and $CA = 17$. Rectangle $PQRS$ has vertex $P$ on $\\overline{AB}$, vertex $Q$ on $\\overline{AC}$, and vertices $R$ and $S$ on $\\overline{BC}$. In terms of the side length $PQ = w$, the area of $PQRS$ can be expressed as the quadratic polynomial [IMG:AIME_2015_II_7.png] Then the coefficient $\\beta = \\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$.",
+        "answer": "161"
+      },
+      {
+        "number": 8,
+        "problem": "Let $a$ and $b$ be positive integers satisfying $\\frac{ab+1}{a+b} < \\frac{3}{2}$. The maximum possible value of $\\frac{a^3b^3+1}{a^3+b^3}$ is $\\frac{p}{q}$, where $p$ and $q$ are relatively prime positive integers. Find $p+q$.",
+        "answer": "036"
+      },
+      {
+        "number": 9,
+        "problem": "A cylindrical barrel with radius $4$ feet and height $10$ feet is full of water. A solid cube with side length $8$ feet is set into the barrel so that the diagonal of the cube is vertical. The volume of water thus displaced is $v$ cubic feet. Find $v^2$. [IMG:AIME_2015_II_9.png]",
+        "answer": "384"
+      },
+      {
+        "number": 10,
+        "problem": "Call a permutation $a_1, a_2, \\ldots, a_n$ of the integers $1, 2, \\ldots, n$ quasi-increasing if $a_k \\leq a_{k+1} + 2$ for each $1 \\leq k \\leq n-1$. For example, $53421$ and $14253$ are quasi-increasing permutations of the integers $1, 2, 3, 4, 5$, but $45123$ is not. Find the number of quasi-increasing permutations of the integers $1, 2, \\ldots, 7$.",
+        "answer": "486"
+      },
+      {
+        "number": 11,
+        "problem": "The circumcircle of acute $\\triangle ABC$ has center $O$. The line passing through point $O$ perpendicular to $\\overline{OB}$ intersects lines $AB$ and $BC$ at $P$ and $Q$, respectively. Also $AB=5$, $BC=4$, $BQ=4.5$, and $BP=\\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$.",
+        "answer": "023"
+      },
+      {
+        "number": 12,
+        "problem": "There are $2^{10} = 1024$ possible $10$-letter strings in which each letter is either an A or a B. Find the number of such strings that do not have more than $3$ adjacent letters that are identical.",
+        "answer": "548"
+      },
+      {
+        "number": 13,
+        "problem": "Define the sequence $a_1, a_2, a_3, \\ldots$ by $a_n = \\sum\\limits_{k=1}^n \\sin{k}$, where $k$ represents radian measure. Find the index of the 100th term for which $a_n < 0$.",
+        "answer": "628"
+      },
+      {
+        "number": 14,
+        "problem": "Let $x$ and $y$ be real numbers satisfying $x^4y^5+y^4x^5=810$ and $x^3y^6+y^3x^6=945$. Evaluate $2x^3+(xy)^3+2y^3$.",
+        "answer": "089"
+      },
+      {
+        "number": 15,
+        "problem": "Circles $\\mathcal{P}$ and $\\mathcal{Q}$ have radii $1$ and $4$, respectively, and are externally tangent at point $A$. Point $B$ is on $\\mathcal{P}$ and point $C$ is on $\\mathcal{Q}$ such that $BC$ is a common external tangent of the two circles. A line $\\ell$ through $A$ intersects $\\mathcal{P}$ again at $D$ and intersects $\\mathcal{Q}$ again at $E$. Points $B$ and $C$ lie on the same side of $\\ell$, and the areas of $\\triangle DBA$ and $\\triangle ACE$ are equal. This common area is $\\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$. [IMG:AIME_2015_II_15.png]",
+        "answer": "129"
+      }
+    ]
+  }
+}

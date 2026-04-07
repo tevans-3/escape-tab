@@ -1,0 +1,610 @@
+{
+  "year": 2006,
+  "contest": "AMC 12",
+  "variants": {
+    "A": [
+      {
+        "number": 1,
+        "problem": "Sandwiches at Joe's Fast Food cost $3$ dollars each and sodas cost $2$ dollars each. How many dollars will it cost to purchase $5$ sandwiches and $8$ sodas?",
+        "options": {
+          "A": "$31$",
+          "B": "$32$",
+          "C": "$33$",
+          "D": "$34$",
+          "E": "$35$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 2,
+        "problem": "Define $x\\otimes y=x^3-y$. What is $h\\otimes (h\\otimes h)$?",
+        "options": {
+          "A": "$-h$",
+          "B": "$0$",
+          "C": "$h$",
+          "D": "$2h$",
+          "E": "$h^3$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 3,
+        "problem": "The ratio of Mary's age to Alice's age is $3:5$. Alice is $30$ years old. How old is Mary?",
+        "options": {
+          "A": "$15$",
+          "B": "$18$",
+          "C": "$20$",
+          "D": "$24$",
+          "E": "$50$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 4,
+        "problem": "A digital watch displays hours and minutes with AM and PM. What is the largest possible sum of the digits in the display?",
+        "options": {
+          "A": "$17$",
+          "B": "$19$",
+          "C": "$21$",
+          "D": "$22$",
+          "E": "$23$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 5,
+        "problem": "Doug and Dave shared a pizza with $8$ equally-sized slices. Doug wanted a plain pizza, but Dave wanted anchovies on half the pizza. The cost of a plain pizza was $8$ dollars, and there was an additional cost of $2$ dollars for putting anchovies on one half. Dave ate all the slices of anchovy pizza and one plain slice. Doug ate the remainder. Each paid for what he had eaten. How many more dollars did Dave pay than Doug?",
+        "options": {
+          "A": "$1$",
+          "B": "$2$",
+          "C": "$3$",
+          "D": "$4$",
+          "E": "$5$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 6,
+        "problem": "The $8\\times 18$ rectangle $ABCD$ is cut into two congruent hexagons, as shown, in such a way that the two hexagons can be repositioned without overlap to form a square. What is $y$? [IMG:AMC12_2006_A_6.png]",
+        "options": {
+          "A": "$6$",
+          "B": "$7$",
+          "C": "$8$",
+          "D": "$9$",
+          "E": "$10$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 7,
+        "problem": "Mary is $20\\%$ older than Sally, and Sally is $40\\%$ younger than Danielle. The sum of their ages is $23.2$ years. How old will Mary be on her next birthday?",
+        "options": {
+          "A": "$7$",
+          "B": "$8$",
+          "C": "$9$",
+          "D": "$10$",
+          "E": "$11$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 8,
+        "problem": "How many sets of two or more consecutive positive integers have a sum of $15$?",
+        "options": {
+          "A": "$1$",
+          "B": "$2$",
+          "C": "$3$",
+          "D": "$4$",
+          "E": "$5$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 9,
+        "problem": "Oscar buys $13$ pencils and $3$ erasers for $\\textdollar 1.00$. A pencil costs more than an eraser, and both items cost a whole number of cents. What is the total cost, in cents, of one pencil and one eraser?",
+        "options": {
+          "A": "$10$",
+          "B": "$12$",
+          "C": "$15$",
+          "D": "$18$",
+          "E": "$20$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 10,
+        "problem": "For how many real values of $x$ is $\\sqrt{120-\\sqrt{x}}$ an integer?",
+        "options": {
+          "A": "$3$",
+          "B": "$6$",
+          "C": "$9$",
+          "D": "$10$",
+          "E": "$11$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 11,
+        "problem": "Which of the following describes the graph of the equation $(x+y)^2=x^2+y^2$?",
+        "options": {
+          "A": "$\\text{the empty set}$",
+          "B": "$\\text{one point}$",
+          "C": "$\\text{two lines}$",
+          "D": "$\\text{a circle}$",
+          "E": "$\\text{the entire plane}$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 12,
+        "problem": "A number of linked rings, each 1 cm thick, are hanging on a peg. The top ring has an outside diameter of 20 cm. The outside diameter of each of the outer rings is 1 cm less than that of the ring above it. The bottom ring has an outside diameter of 3 cm. What is the distance, in cm, from the top of the top ring to the bottom of the bottom ring? [IMG:AMC12_2006_A_12.png]",
+        "options": {
+          "A": "$171$",
+          "B": "$173$",
+          "C": "$182$",
+          "D": "$188$",
+          "E": "$210$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 13,
+        "problem": "The vertices of a $3-4-5$ right triangle are the centers of three mutually externally tangent circles, as shown. What is the sum of the areas of the three circles? [IMG:AMC12_2006_A_13.png]",
+        "options": {
+          "A": "$12\\pi$",
+          "B": "$\\frac{25\\pi}{2}$",
+          "C": "$13\\pi$",
+          "D": "$\\frac{27\\pi}{2}$",
+          "E": "$14\\pi$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 14,
+        "problem": "Two farmers agree that pigs are worth $300$ dollars and that goats are worth $210$ dollars. When one farmer owes the other money, he pays the debt in pigs or goats, with \"change\" received in the form of goats or pigs as necessary. (For example, a $390$ dollar debt could be paid with two pigs, with one goat received in change.) What is the amount of the smallest positive debt that can be resolved in this way?",
+        "options": {
+          "A": "$\\textdollar5$",
+          "B": "$\\textdollar 10$",
+          "C": "$\\textdollar 30$",
+          "D": "$\\textdollar 90$",
+          "E": "$\\textdollar 210$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 15,
+        "problem": "Suppose $\\cos x=0$ and $\\cos (x+z)=1/2$. What is the smallest possible positive value of $z$?",
+        "options": {
+          "A": "$\\frac{\\pi}{6}$",
+          "B": "$\\frac{\\pi}{3}$",
+          "C": "$\\frac{\\pi}{2}$",
+          "D": "$\\frac{5\\pi}{6}$",
+          "E": "$\\frac{7\\pi}{6}$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 16,
+        "problem": "Circles with centers $A$ and $B$ have radii $3$ and $8$, respectively. A common internal tangent intersects the circles at $C$ and $D$, respectively. Lines $AB$ and $CD$ intersect at $E$, and $AE=5$. What is $CD$? [IMG:AMC12_2006_A_16.png]",
+        "options": {
+          "A": "$13$",
+          "B": "$\\frac{44}{3}$",
+          "C": "$\\sqrt{221}$",
+          "D": "$\\sqrt{255}$",
+          "E": "$\\frac{55}{3}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 17,
+        "problem": "Square $ABCD$ has side length $s$, a circle centered at $E$ has radius $r$, and $r$ and $s$ are both rational. The circle passes through $D$, and $D$ lies on $\\overline{BE}$. Point $F$ lies on the circle, on the same side of $\\overline{BE}$ as $A$. Segment $AF$ is tangent to the circle, and $AF=\\sqrt{9+5\\sqrt{2}}$. What is $r/s$? [IMG:AMC12_2006_A_17.png]",
+        "options": {
+          "A": "$\\frac{1}{2}$",
+          "B": "$\\frac{5}{9}$",
+          "C": "$\\frac{3}{5}$",
+          "D": "$\\frac{5}{3}$",
+          "E": "$\\frac{9}{5}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 18,
+        "problem": "The function $f$ has the property that for each real number $x$ in its domain, $1/x$ is also in its domain and $f(x)+f\\left(\\frac{1}{x}\\right)=x$ What is the largest set of real numbers that can be in the domain of $f$?",
+        "options": {
+          "A": "$\\{x|x\\ne 0\\}$",
+          "B": "$\\{x|x<0\\}$",
+          "C": "$\\{x|x>0\\}$",
+          "D": "$\\{x|x\\ne -1\\;$ $\\mathrm{and}\\; x\\ne 0\\;\\mathrm{and}\\; x\\ne 1\\}$",
+          "E": "$\\{-1,1\\}$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 19,
+        "problem": "Circles with centers $(2,4)$ and $(14,9)$ have radii $4$ and $9$, respectively. The equation of a common external tangent to the circles can be written in the form $y=mx+b$ with $m>0$. What is $b$? [IMG:AMC12_2006_A_19.png]",
+        "options": {
+          "A": "$\\frac{908}{119}$",
+          "B": "$\\frac{909}{119}$",
+          "C": "$\\frac{130}{17}$",
+          "D": "$\\frac{911}{119}$",
+          "E": "$\\frac{912}{119}$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 20,
+        "problem": "A bug starts at one vertex of a cube and moves along the edges of the cube according to the following rule. At each vertex the bug will choose to travel along one of the three edges emanating from that vertex. Each edge has equal probability of being chosen, and all choices are independent. What is the probability that after seven moves the bug will have visited every vertex exactly once?",
+        "options": {
+          "A": "$\\frac{1}{2187}$",
+          "B": "$\\frac{1}{729}$",
+          "C": "$\\frac{2}{243}$",
+          "D": "$\\frac{1}{81}$",
+          "E": "$\\frac{5}{243}$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 21,
+        "problem": "Let $S_1=\\{(x,y)|\\log_{10}(1+x^2+y^2)\\le 1+\\log_{10}(x+y)\\}$ and $S_2=\\{(x,y)|\\log_{10}(2+x^2+y^2)\\le 2+\\log_{10}(x+y)\\}$. What is the ratio of the area of $S_2$ to the area of $S_1$?",
+        "options": {
+          "A": "$98$",
+          "B": "$99$",
+          "C": "$100$",
+          "D": "$101$",
+          "E": "$102$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 22,
+        "problem": "A circle of radius $r$ is concentric with and outside a regular hexagon of side length $2$. The probability that three entire sides of hexagon are visible from a randomly chosen point on the circle is $1/2$. What is $r$?",
+        "options": {
+          "A": "$2\\sqrt{2}+2\\sqrt{3}$",
+          "B": "$3\\sqrt{3}+\\sqrt{2}$",
+          "C": "$2\\sqrt{6}+\\sqrt{3}$",
+          "D": "$3\\sqrt{2}+\\sqrt{6}$",
+          "E": "$6\\sqrt{2}-\\sqrt{3}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 23,
+        "problem": "Given a finite sequence $S=(a_1,a_2,\\ldots ,a_n)$ of $n$ real numbers, let $A(S)$ be the sequence $\\left(\\frac{a_1+a_2}{2},\\frac{a_2+a_3}{2},\\ldots ,\\frac{a_{n-1}+a_n}{2}\\right)$ of $n-1$ real numbers. Define $A^1(S)=A(S)$ and, for each integer $m$, $2\\le m\\le n-1$, define $A^m(S)=A(A^{m-1}(S))$. Suppose $x>0$, and let $S=(1,x,x^2,\\ldots ,x^{100})$. If $A^{100}(S)=(1/2^{50})$, then what is $x$?",
+        "options": {
+          "A": "$1-\\frac{\\sqrt{2}}{2}$",
+          "B": "$\\sqrt{2}-1$",
+          "C": "$\\frac{1}{2}$",
+          "D": "$2-\\sqrt{2}$",
+          "E": "$\\frac{\\sqrt{2}}{2}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 24,
+        "problem": "The expression $(x+y+z)^{2006}+(x-y-z)^{2006}$ is simplified by expanding it and combining like terms. How many terms are in the simplified expression?",
+        "options": {
+          "A": "$6018$",
+          "B": "$671,676$",
+          "C": "$1,007,514$",
+          "D": "$1,008,016$",
+          "E": "$2,015,028$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 25,
+        "problem": "How many non-empty subsets $S$ of $\\lbrace 1,2,3,\\ldots ,15\\rbrace$ have the following two properties? $(1)$ No two consecutive integers belong to $S$. $(2)$ If $S$ contains $k$ elements, then $S$ contains no number less than $k$.",
+        "options": {
+          "A": "$277$",
+          "B": "$311$",
+          "C": "$376$",
+          "D": "$377$",
+          "E": "$405$"
+        },
+        "answer": "E"
+      }
+    ],
+    "B": [
+      {
+        "number": 1,
+        "problem": "What is $( - 1)^1 + ( - 1)^2 + \\cdots + ( - 1)^{2006}$? $\\text {",
+        "options": {
+          "A": "$- 2006 \\qquad \\text {$",
+          "B": "$- 1 \\qquad \\text {$",
+          "C": "$0 \\qquad \\text {$",
+          "D": "$1 \\qquad \\text {$",
+          "E": "$2006$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 2,
+        "problem": "For real numbers $x$ and $y$, define $x\\spadesuit y = (x + y)(x - y)$. What is $3\\spadesuit(4\\spadesuit 5)$? $\\text {",
+        "options": {
+          "A": "$- 72 \\qquad \\text {$",
+          "B": "$- 27 \\qquad \\text {$",
+          "C": "$- 24 \\qquad \\text {$",
+          "D": "$24 \\qquad \\text {$",
+          "E": "$72$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 3,
+        "problem": "A football game was played between two teams, the Cougars and the Panthers. The two teams scored a total of 34 points, and the Cougars won by a margin of 14 points. How many points did the Panthers score? $\\text {",
+        "options": {
+          "A": "$10 \\qquad \\text {$",
+          "B": "$14 \\qquad \\text {$",
+          "C": "$17 \\qquad \\text {$",
+          "D": "$20 \\qquad \\text {$",
+          "E": "$24$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 4,
+        "problem": "Mary is about to pay for five items at the grocery store. The prices of the items are $\\textdollar7.99$, $\\textdollar4.99$, $\\textdollar2.99$, $\\textdollar1.99$, and $\\textdollar0.99$. Mary will pay with a twenty-dollar bill. Which of the following is closest to the percentage of the $\\textdollar20.00$ that she will receive in change? $\\text {",
+        "options": {
+          "A": "$5 \\qquad \\text {$",
+          "B": "$10 \\qquad \\text {$",
+          "C": "$15 \\qquad \\text {$",
+          "D": "$20 \\qquad \\text {$",
+          "E": "$25$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 5,
+        "problem": "John is walking east at a speed of 3 miles per hour, while Bob is also walking east, but at a speed of 5 miles per hour. If Bob is now 1 mile west of John, how many minutes will it take for Bob to catch up to John? $\\text {",
+        "options": {
+          "A": "$30 \\qquad \\text {$",
+          "B": "$50 \\qquad \\text {$",
+          "C": "$60 \\qquad \\text {$",
+          "D": "$90 \\qquad \\text {$",
+          "E": "$120$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 6,
+        "problem": "Francesca uses 100 grams of lemon juice, 100 grams of sugar, and 400 grams of water to make lemonade. There are 25 calories in 100 grams of lemon juice and 386 calories in 100 grams of sugar. Water contains no calories. How many calories are in 200 grams of her lemonade? $\\text {",
+        "options": {
+          "A": "$129 \\qquad \\text {$",
+          "B": "$137 \\qquad \\text {$",
+          "C": "$174 \\qquad \\text {$",
+          "D": "$223 \\qquad \\text {$",
+          "E": "$411$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 7,
+        "problem": "Mr. and Mrs. Lopez have two children. When they get into their family car, two people sit in the front, and the other two sit in the back. Either Mr. Lopez or Mrs. Lopez must sit in the driver's seat. How many seating arrangements are possible? $\\text {",
+        "options": {
+          "A": "$4 \\qquad \\text {$",
+          "B": "$12 \\qquad \\text {$",
+          "C": "$16 \\qquad \\text {$",
+          "D": "$24 \\qquad \\text {$",
+          "E": "$48$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 8,
+        "problem": "The lines $x = \\frac 14y + a$ and $y = \\frac 14x + b$ intersect at the point $(1,2)$. What is $a + b$? $\\text {",
+        "options": {
+          "A": "$0 \\qquad \\text {$",
+          "B": "$\\frac 34 \\qquad \\text {$",
+          "C": "$1 \\qquad \\text {$",
+          "D": "$2 \\qquad \\text {$",
+          "E": "$\\frac 94$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 9,
+        "problem": "How many even three-digit integers have the property that their digits, read left to right, are in strictly increasing order? $\\text {",
+        "options": {
+          "A": "$21 \\qquad \\text {$",
+          "B": "$34 \\qquad \\text {$",
+          "C": "$51 \\qquad \\text {$",
+          "D": "$72 \\qquad \\text {$",
+          "E": "$150$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 10,
+        "problem": "In a triangle with integer side lengths, one side is three times as long as a second side, and the length of the third side is 15. What is the greatest possible perimeter of the triangle? $\\text {",
+        "options": {
+          "A": "$43 \\qquad \\text {$",
+          "B": "$44 \\qquad \\text {$",
+          "C": "$45 \\qquad \\text {$",
+          "D": "$46 \\qquad \\text {$",
+          "E": "$47$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 11,
+        "problem": "Joe and JoAnn each bought 12 ounces of coffee in a 16-ounce cup. Joe drank 2 ounces of his coffee and then added 2 ounces of cream. JoAnn added 2 ounces of cream, stirred the coffee well, and then drank 2 ounces. What is the resulting ratio of the amount of cream in Joe's coffee to that in JoAnn's coffee? $\\text {",
+        "options": {
+          "A": "$\\frac 67 \\qquad \\text {$",
+          "B": "$\\frac {13}{14} \\qquad \\text {$",
+          "C": "$1 \\qquad \\text {$",
+          "D": "$\\frac {14}{13} \\qquad \\text {$",
+          "E": "$\\frac 76$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 12,
+        "problem": "The parabola $y=ax^2+bx+c$ has vertex $(p,p)$ and $y$-intercept $(0,-p)$, where $p\\ne 0$. What is $b$? $\\text {",
+        "options": {
+          "A": "$-p \\qquad \\text {$",
+          "B": "$0 \\qquad \\text {$",
+          "C": "$2 \\qquad \\text {$",
+          "D": "$4 \\qquad \\text {$",
+          "E": "$p$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 13,
+        "problem": "Rhombus $ABCD$ is similar to rhombus $BFDE$. The area of rhombus $ABCD$ is 24, and $\\angle BAD = 60^\\circ$. What is the area of rhombus $BFDE$? [IMG:AMC12_2006_B_13.png] $\\textrm{",
+        "options": {
+          "A": "$6 \\qquad \\textrm{$",
+          "B": "$4\\sqrt {3} \\qquad \\textrm{$",
+          "C": "$8 \\qquad \\textrm{$",
+          "D": "$9 \\qquad \\textrm{$",
+          "E": "$6\\sqrt {3}$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 14,
+        "problem": "Elmo makes $N$ sandwiches for a fundraiser. For each sandwich he uses $B$ globs of peanut butter at $4$ cents per glob and $J$ blobs of jam at $5$ cents per blob. The cost of the peanut butter and jam to make all the sandwiches is $\\textdollar 2.53$. Assume that $B$, $J$ and $N$ are all positive integers with $N>1$. What is the cost of the jam Elmo uses to make the sandwiches?",
+        "options": {
+          "A": "$1.05$",
+          "B": "$1.25$",
+          "C": "$1.45$",
+          "D": "$1.65$",
+          "E": "$1.85$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 15,
+        "problem": "Circles with centers $O$ and $P$ have radii 2 and 4, respectively, and are externally tangent. Points $A$ and $B$ are on the circle centered at $O$, and points $C$ and $D$ are on the circle centered at $P$, such that $\\overline{AD}$ and $\\overline{BC}$ are common external tangents to the circles. What is the area of hexagon $AOBCPD$? [IMG:AMC12_2006_B_15.png]",
+        "options": {
+          "A": "$18\\sqrt {3}$",
+          "B": "$24\\sqrt {2}$",
+          "C": "$36$",
+          "D": "$24\\sqrt {3}$",
+          "E": "$32\\sqrt {2}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 16,
+        "problem": "Regular hexagon $ABCDEF$ has vertices $A$ and $C$ at $(0,0)$ and $(7,1)$, respectively. What is its area?",
+        "options": {
+          "A": "$20\\sqrt {3}$",
+          "B": "$22\\sqrt {3}$",
+          "C": "$25\\sqrt {3}$",
+          "D": "$27\\sqrt {3}$",
+          "E": "$50$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 17,
+        "problem": "For a particular peculiar pair of dice, the probabilities of rolling $1$, $2$, $3$, $4$, $5$ and $6$ on each die are in the ratio $1:2:3:4:5:6$. What is the probability of rolling a total of $7$ on the two dice?",
+        "options": {
+          "A": "$\\frac 4{63}$",
+          "B": "$\\frac 18$",
+          "C": "$\\frac 8{63}$",
+          "D": "$\\frac 16$",
+          "E": "$\\frac 27$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 18,
+        "problem": "An object in the plane moves from one lattice point to another. At each step, the object may move one unit to the right, one unit to the left, one unit up, or one unit down. If the object starts at the origin and takes a ten-step path, how many different points could be the final point?",
+        "options": {
+          "A": "$120$",
+          "B": "$121$",
+          "C": "$221$",
+          "D": "$230$",
+          "E": "$231$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 19,
+        "problem": "Mr. Jones has eight children of different ages. On a family trip his oldest child, who is 9, spots a license plate with a 4-digit number in which each of two digits appears two times. \"Look, daddy!\" she exclaims. \"That number is evenly divisible by the age of each of us kids!\" \"That's right,\" replies Mr. Jones, \"and the last two digits just happen to be my age.\" Which of the following is not the age of one of Mr. Jones's children?",
+        "options": {
+          "A": "$4$",
+          "B": "$5$",
+          "C": "$6$",
+          "D": "$7$",
+          "E": "$8$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 20,
+        "problem": "Let $x$ be chosen at random from the interval $(0,1)$. What is the probability that $\\lfloor\\log_{10}4x\\rfloor - \\lfloor\\log_{10}x\\rfloor = 0$? Here $\\lfloor x\\rfloor$ denotes the greatest integer that is less than or equal to $x$.",
+        "options": {
+          "A": "$\\frac 18$",
+          "B": "$\\frac 3{20}$",
+          "C": "$\\frac 16$",
+          "D": "$\\frac 15$",
+          "E": "$\\frac 14$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 21,
+        "problem": "Rectangle $ABCD$ has area $2006$. An ellipse with area $2006\\pi$ passes through $A$ and $C$ and has foci at $B$ and $D$. What is the perimeter of the rectangle? (The area of an ellipse is $ab\\pi$ where $2a$ and $2b$ are the lengths of the axes.)",
+        "options": {
+          "A": "$\\frac {16\\sqrt {2006}}{\\pi}$",
+          "B": "$\\frac {1003}4$",
+          "C": "$8\\sqrt {1003}$",
+          "D": "$6\\sqrt {2006}$",
+          "E": "$\\frac {32\\sqrt {1003}}\\pi$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 22,
+        "problem": "Suppose $a$, $b$ and $c$ are positive integers with $a+b+c=2006$, and $a!b!c!=m\\cdot 10^n$, where $m$ and $n$ are integers and $m$ is not divisible by $10$. What is the smallest possible value of $n$?",
+        "options": {
+          "A": "$489$",
+          "B": "$492$",
+          "C": "$495$",
+          "D": "$498$",
+          "E": "$501$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 23,
+        "problem": "Isosceles $\\triangle ABC$ has a right angle at $C$. Point $P$ is inside $\\triangle ABC$, such that $PA=11$, $PB=7$, and $PC=6$. Legs $\\overline{AC}$ and $\\overline{BC}$ have length $s=\\sqrt{a+b\\sqrt{2}}$, where $a$ and $b$ are positive integers. What is $a+b$? [IMG:AMC12_2006_B_23.png]",
+        "options": {
+          "A": "$85$",
+          "B": "$91$",
+          "C": "$108$",
+          "D": "$121$",
+          "E": "$127$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 24,
+        "problem": "Let $S$ be the set of all points $(x,y)$ in the coordinate plane such that $0\\leq x\\leq \\frac\\pi 2$ and $0\\leq y\\leq \\frac\\pi 2$. What is the area of the subset of $S$ for which $\\sin^2 x - \\sin x\\sin y + \\sin^2 y\\le \\frac 34$?",
+        "options": {
+          "A": "$\\frac {\\pi^2}9$",
+          "B": "$\\frac {\\pi^2}8$",
+          "C": "$\\frac {\\pi^2}6$",
+          "D": "$\\frac {3\\pi^2}{16}$",
+          "E": "$\\frac {2\\pi^2}9$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 25,
+        "problem": "A sequence $a_1,a_2,\\dots$ of non-negative integers is defined by the rule $a_{n+2}=|a_{n+1}-a_n|$ for $n\\geq 1$. If $a_1=999$, $a_2<999$ and $a_{2006}=1$, how many different values of $a_2$ are possible?",
+        "options": {
+          "A": "$165$",
+          "B": "$324$",
+          "C": "$495$",
+          "D": "$499$",
+          "E": "$660$"
+        },
+        "answer": "B"
+      }
+    ]
+  }
+}

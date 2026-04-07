@@ -1,0 +1,610 @@
+{
+  "year": 2017,
+  "contest": "AMC 12",
+  "variants": {
+    "A": [
+      {
+        "number": 1,
+        "problem": "Pablo buys popsicles for his friends. The store sells single popsicles for \\$1 each, 3-popsicle boxes for \\$2, and 5-popsicle boxes for \\$3. What is the greatest number of popsicles that Pablo can buy with \\$8?",
+        "options": {
+          "A": "$8$",
+          "B": "$11$",
+          "C": "$12$",
+          "D": "$13$",
+          "E": "$15$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 2,
+        "problem": "The sum of two nonzero real numbers is 4 times their product. What is the sum of the reciprocals of the two numbers?",
+        "options": {
+          "A": "$1$",
+          "B": "$2$",
+          "C": "$4$",
+          "D": "$8$",
+          "E": "$12$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 3,
+        "problem": "Ms. Carroll promised that anyone who got all the multiple choice questions right on the upcoming exam would receive an A on the exam. Which one of these statements necessarily follows logically?",
+        "options": {
+          "A": "$\\text{ If Lewis did not receive an A, then he got all of the multiple choice questions wrong.} \\\\$",
+          "B": "$\\text{ If Lewis did not receive an A, then he got at least one of the multiple choice questions wrong.} \\\\$",
+          "C": "$\\text{ If Lewis got at least one of the multiple choice questions wrong, then he did not receive an A.} \\\\$",
+          "D": "$\\text{ If Lewis received an A, then he got all of the multiple choice questions right.} \\\\$",
+          "E": "$\\text{ If Lewis received an A, then he got at least one of the multiple choice questions right.}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 4,
+        "problem": "Jerry and Silvia wanted to go from the southwest corner of a square field to the northeast corner. Jerry walked due east and then due north to reach the goal, but Silvia headed northeast and reached the goal walking in a straight line. Which of the following is closest to how much shorter Silvia's trip was, compared to Jerry's trip?",
+        "options": {
+          "A": "$30\\%$",
+          "B": "$40\\%$",
+          "C": "$50\\%$",
+          "D": "$60\\%$",
+          "E": "$70\\%$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 5,
+        "problem": "At a gathering of $30$ people, there are $20$ people who all know each other and $10$ people who know no one. People who know each other hug, and people who do not know each other shake hands. How many handshakes occur?",
+        "options": {
+          "A": "$240$",
+          "B": "$245$",
+          "C": "$290$",
+          "D": "$480$",
+          "E": "$490$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 6,
+        "problem": "Joy has $30$ thin rods, one each of every integer length from $1 \\text{ cm}$ through $30 \\text{ cm}$. She places the rods with lengths $3 \\text{ cm}$, $7 \\text{ cm}$, and $15 \\text{cm}$ on a table. She then wants to choose a fourth rod that she can put with these three to form a quadrilateral with positive area. How many of the remaining rods can she choose as the fourth rod?",
+        "options": {
+          "A": "$16$",
+          "B": "$17$",
+          "C": "$18$",
+          "D": "$19$",
+          "E": "$20$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 7,
+        "problem": "Define a function on the positive integers recursively by $f(1) = 2$, $f(n) = f(n-1) + 1$ if $n$ is even, and $f(n) = f(n-2) + 2$ if $n$ is odd and greater than $1$. What is $f(2017)$?",
+        "options": {
+          "A": "$2017$",
+          "B": "$2018$",
+          "C": "$4034$",
+          "D": "$4035$",
+          "E": "$4036$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 8,
+        "problem": "The region consisting of all points in three-dimensional space within $3$ units of line segment $\\overline{AB}$ has volume $216 \\pi$. What is the length $AB$?",
+        "options": {
+          "A": "$6$",
+          "B": "$12$",
+          "C": "$18$",
+          "D": "$20$",
+          "E": "$24$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 9,
+        "problem": "Let $S$ be the set of points $(x,y)$ in the coordinate plane such that two of the three quantities $3$, $x+2$, and $y-4$ are equal and the third of the three quantities is no greater than the common value. Which of the following is a correct description of $S$?",
+        "options": {
+          "A": "$\\text{a single point}$",
+          "B": "$\\text{two intersecting lines} \\\\$",
+          "C": "$\\text{three lines whose pairwise intersections are three distinct points} \\\\$",
+          "D": "$\\text{a triangle}$",
+          "E": "$\\text{three rays with a common point}$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 10,
+        "problem": "Chlo\u00e9 chooses a real number uniformly at random from the interval $[ 0,2017 ]$. Independently, Laurent chooses a real number uniformly at random from the interval $[ 0 , 4034 ]$. What is the probability that Laurent's number is greater than Chloe's number?",
+        "options": {
+          "A": "$\\dfrac{1}{2}$",
+          "B": "$\\dfrac{2}{3}$",
+          "C": "$\\dfrac{3}{4}$",
+          "D": "$\\dfrac{5}{6}$",
+          "E": "$\\dfrac{7}{8}$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 11,
+        "problem": "Claire adds the degree measures of the interior angles of a convex polygon and arrives at a sum of $2017$. She then discovers that she forgot to include one angle. What is the degree measure of the forgotten angle?",
+        "options": {
+          "A": "$37$",
+          "B": "$63$",
+          "C": "$117$",
+          "D": "$143$",
+          "E": "$163$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 12,
+        "problem": "There are $10$ horses, named Horse 1, Horse 2, $\\ldots$, Horse 10. They get their names from how many minutes it takes them to run one lap around a circular race track: Horse $k$ runs one lap in exactly $k$ minutes. At time 0 all the horses are together at the starting point on the track. The horses start running in the same direction, and they keep running around the circular track at their constant speeds. The least time $S > 0$, in minutes, at which all $10$ horses will again simultaneously be at the starting point is $S = 2520$. Let $T>0$ be the least time, in minutes, such that at least $5$ of the horses are again at the starting point. What is the sum of the digits of $T$?",
+        "options": {
+          "A": "$2$",
+          "B": "$3$",
+          "C": "$4$",
+          "D": "$5$",
+          "E": "$6$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 13,
+        "problem": "Driving at a constant speed, Sharon usually takes $180$ minutes to drive from her house to her mother's house. One day Sharon begins the drive at her usual speed, but after driving $\\frac{1}{3}$ of the way, she hits a bad snowstorm and reduces her speed by $20$ miles per hour. This time the trip takes her a total of $276$ minutes. How many miles is the drive from Sharon's house to her mother's house?",
+        "options": {
+          "A": "$132$",
+          "B": "$135$",
+          "C": "$138$",
+          "D": "$141$",
+          "E": "$144$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 14,
+        "problem": "Alice refuses to sit next to either Bob or Carla. Derek refuses to sit next to Eric. How many ways are there for the five of them to sit in a row of $5$ chairs under these conditions?",
+        "options": {
+          "A": "$12$",
+          "B": "$16$",
+          "C": "$28$",
+          "D": "$32$",
+          "E": "$40$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 15,
+        "problem": "Let $f(x) = \\sin{x} + 2\\cos{x} + 3\\tan{x}$, using radian measure for the variable $x$. In what interval does the smallest positive value of $x$ for which $f(x) = 0$ lie?",
+        "options": {
+          "A": "$(0,1)$",
+          "B": "$(1, 2)$",
+          "C": "$(2, 3)$",
+          "D": "$(3, 4)$",
+          "E": "$(4,5)$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 16,
+        "problem": "In the figure below, semicircles with centers at $A$ and $B$ and with radii 2 and 1, respectively, are drawn in the interior of, and sharing bases with, a semicircle with diameter $JK$. The two smaller semicircles are externally tangent to each other and internally tangent to the largest semicircle. A circle centered at $P$ is drawn externally tangent to the two smaller semicircles and internally tangent to the largest semicircle. What is the radius of the circle centered at $P$? [IMG:AMC12_2017_A_16.png]",
+        "options": {
+          "A": "$\\frac{3}{4}$",
+          "B": "$\\frac{6}{7}$",
+          "C": "$\\frac{\\sqrt{3}}{2}$",
+          "D": "$\\frac{5}{8}\\sqrt{2}$",
+          "E": "$\\frac{11}{12}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 17,
+        "problem": "There are $24$ different complex numbers $z$ such that $z^{24}=1$. For how many of these is $z^6$ a real number?",
+        "options": {
+          "A": "$0$",
+          "B": "$4$",
+          "C": "$6$",
+          "D": "$12$",
+          "E": "$24$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 18,
+        "problem": "Let $S(n)$ equal the sum of the digits of positive integer $n$. For example, $S(1507) = 13$. For a particular positive integer $n$, $S(n) = 1274$. Which of the following could be the value of $S(n+1)$?",
+        "options": {
+          "A": "$1$",
+          "B": "$3$",
+          "C": "$12$",
+          "D": "$1239$",
+          "E": "$1265$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 19,
+        "problem": "A square with side length $x$ is inscribed in a right triangle with sides of length $3$, $4$, and $5$ so that one vertex of the square coincides with the right-angle vertex of the triangle. A square with side length $y$ is inscribed in another right triangle with sides of length $3$, $4$, and $5$ so that one side of the square lies on the hypotenuse of the triangle. What is $\\tfrac{x}{y}$?",
+        "options": {
+          "A": "$\\frac{12}{13}$",
+          "B": "$\\frac{35}{37}$",
+          "C": "$1$",
+          "D": "$\\frac{37}{35}$",
+          "E": "$\\frac{13}{12}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 20,
+        "problem": "How many ordered pairs $(a,b)$ such that $a$ is a positive real number and $b$ is an integer between $2$ and $200$, inclusive, satisfy the equation $(\\log_b a)^{2017}=\\log_b(a^{2017})?$",
+        "options": {
+          "A": "$198$",
+          "B": "$199$",
+          "C": "$398$",
+          "D": "$399$",
+          "E": "$597$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 21,
+        "problem": "A set $S$ is constructed as follows. To begin, $S = \\{0,10\\}$. Repeatedly, as long as possible, if $x$ is an integer root of some polynomial $a_{n}x^n + a_{n-1}x^{n-1} + ... + a_{1}x + a_0$ for some $n\\geq{1}$, all of whose coefficients $a_i$ are elements of $S$, then $x$ is put into $S$. When no more elements can be added to $S$, how many elements does $S$ have?",
+        "options": {
+          "A": "$4$",
+          "B": "$5$",
+          "C": "$7$",
+          "D": "$9$",
+          "E": "$11$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 22,
+        "problem": "A square is drawn in the Cartesian coordinate plane with vertices at $(2, 2)$, $(-2, 2)$, $(-2, -2)$, $(2, -2)$. A particle starts at $(0,0)$. Every second it moves with equal probability to one of the eight lattice points (points with integer coordinates) closest to its current position, independently of its previous moves. In other words, the probability is $1/8$ that the particle will move from $(x, y)$ to each of $(x, y + 1)$, $(x + 1, y + 1)$, $(x + 1, y)$, $(x + 1, y - 1)$, $(x, y - 1)$, $(x - 1, y - 1)$, $(x - 1, y)$, or $(x - 1, y + 1)$. The particle will eventually hit the square for the first time, either at one of the 4 corners of the square or at one of the 12 lattice points in the interior of one of the sides of the square. The probability that it will hit at a corner rather than at an interior point of a side is $m/n$, where $m$ and $n$ are relatively prime positive integers. What is $m + n$?",
+        "options": {
+          "A": "$4$",
+          "B": "$5$",
+          "C": "$7$",
+          "D": "$15$",
+          "E": "$39$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 23,
+        "problem": "For certain real numbers $a$, $b$, and $c$, the polynomial [IMG:AMC12_2017_A_23_0.png] [IMG:AMC12_2017_A_23_1.png] has three distinct roots, and each root of $g(x)$ is also a root of the polynomial [IMG:AMC12_2017_A_23_0.png] [IMG:AMC12_2017_A_23_1.png] What is $f(1)$?",
+        "options": {
+          "A": "$-9009$",
+          "B": "$-8008$",
+          "C": "$-7007$",
+          "D": "$-6006$",
+          "E": "$-5005$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 24,
+        "problem": "Quadrilateral $ABCD$ is inscribed in circle $O$ and has side lengths $AB=3, BC=2, CD=6$, and $DA=8$. Let $X$ and $Y$ be points on $\\overline{BD}$ such that $\\frac{DX}{BD} = \\frac{1}{4}$ and $\\frac{BY}{BD} = \\frac{11}{36}$. Let $E$ be the intersection of line $AX$ and the line through $Y$ parallel to $\\overline{AD}$. Let $F$ be the intersection of line $CX$ and the line through $E$ parallel to $\\overline{AC}$. Let $G$ be the point on circle $O$ other than $C$ that lies on line $CX$. What is $XF\\cdot XG$?",
+        "options": {
+          "A": "$17$",
+          "B": "$\\frac{59 - 5\\sqrt{2}}{3}$",
+          "C": "$\\frac{91 - 12\\sqrt{3}}{4}$",
+          "D": "$\\frac{67 - 10\\sqrt{2}}{3}$",
+          "E": "$18$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 25,
+        "problem": "The vertices $V$ of a centrally symmetric hexagon in the complex plane are given by [IMG:AMC12_2017_A_25.png] For each $j$, $1\\leq j\\leq 12$, an element $z_j$ is chosen from $V$ at random, independently of the other choices. Let $P={\\prod}_{j=1}^{12}z_j$ be the product of the $12$ numbers selected. What is the probability that $P=-1$?",
+        "options": {
+          "A": "$\\dfrac{5\\cdot11}{3^{10}}$",
+          "B": "$\\dfrac{5^2\\cdot11}{2\\cdot3^{10}}$",
+          "C": "$\\dfrac{5\\cdot11}{3^{9}}$",
+          "D": "$\\dfrac{5\\cdot7\\cdot11}{2\\cdot3^{10}}$",
+          "E": "$\\dfrac{2^2\\cdot5\\cdot11}{3^{10}}$"
+        },
+        "answer": "E"
+      }
+    ],
+    "B": [
+      {
+        "number": 1,
+        "problem": "Kymbrea's comic book collection currently has $30$ comic books in it, and she is adding to her collection at the rate of $2$ comic books per month. LaShawn's collection currently has $10$ comic books in it, and he is adding to his collection at the rate of $6$ comic books per month. After how many months will LaShawn's collection have twice as many comic books as Kymbrea's?",
+        "options": {
+          "A": "$1$",
+          "B": "$4$",
+          "C": "$5$",
+          "D": "$20$",
+          "E": "$25$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 2,
+        "problem": "Real numbers $x$, $y$, and $z$ satify the inequalities $0<x<1$, $-1<y<0$, and $1<z<2$. Which of the following numbers is necessarily positive?",
+        "options": {
+          "A": "$y+x^2$",
+          "B": "$y+xz$",
+          "C": "$y+y^2$",
+          "D": "$y+2y^2$",
+          "E": "$y+z$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 3,
+        "problem": "Supposed that $x$ and $y$ are nonzero real numbers such that $\\frac{3x+y}{x-3y}=-2$. What is the value of $\\frac{x+3y}{3x-y}$?",
+        "options": {
+          "A": "$-3$",
+          "B": "$-1$",
+          "C": "$1$",
+          "D": "$2$",
+          "E": "$3$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 4,
+        "problem": "Samia set off on her bicycle to visit her friend, traveling at an average speed of $17$ kilometers per hour. When she had gone half the distance to her friend's house, a tire went flat, and she walked the rest of the way at $5$ kilometers per hour. In all it took her $44$ minutes to reach her friend's house. In kilometers rounded to the nearest tenth, how far did Samia walk?",
+        "options": {
+          "A": "$2.0$",
+          "B": "$2.2$",
+          "C": "$2.8$",
+          "D": "$3.4$",
+          "E": "$4.4$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 5,
+        "problem": "The data set $[6,19,33,33,39,41,41,43,51,57]$ has median $Q_2 = 40$, first quartile $Q_1 = 33$, and third quartile $Q_3=43$. An outlier in a data set is a value that is more than $1.5$ times the interquartile range below the first quartile $(Q_1)$ or more than $1.5$ times the interquartile range above the third quartile $(Q_3)$, where the interquartile range is defined as $Q_3 - Q_1$. How many outliers does this data set have?",
+        "options": {
+          "A": "$0$",
+          "B": "$1$",
+          "C": "$2$",
+          "D": "$3$",
+          "E": "$4$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 6,
+        "problem": "The circle having $(0,0)$ and $(8,6)$ as the endpoints of a diameter intersects the $x$-axis at a second point. What is the $x$-coordinate of this point?",
+        "options": {
+          "A": "$4\\sqrt{2}$",
+          "B": "$6$",
+          "C": "$5\\sqrt{2}$",
+          "D": "$8$",
+          "E": "$6\\sqrt{2}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 7,
+        "problem": "The functions $\\sin(x)$ and $\\cos(x)$ are periodic with least period $2\\pi$. What is the least period of the function $\\cos(\\sin(x))$?",
+        "options": {
+          "A": "$\\frac{\\pi}{2}$",
+          "B": "$\\pi$",
+          "C": "$2\\pi$",
+          "D": "$4\\pi$",
+          "E": "$ It's not periodic.$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 8,
+        "problem": "The ratio of the short side of a certain rectangle to the long side is equal to the ratio of the long side to the diagonal. What is the square of the ratio of the short side to the long side of this rectangle?",
+        "options": {
+          "A": "$\\frac{\\sqrt{3}-1}{2}$",
+          "B": "$\\frac{1}{2}$",
+          "C": "$\\frac{\\sqrt{5}-1}{2}$",
+          "D": "$\\frac{\\sqrt{2}}{2}$",
+          "E": "$\\frac{\\sqrt{6}-1}{2}$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 9,
+        "problem": "A circle has center $(-10,-4)$ and radius $13$. Another circle has center $(3,9)$ and radius $\\sqrt{65}$. The line passing through the two points of intersection of the two circles has equation $x + y = c$. What is $c$?",
+        "options": {
+          "A": "$3$",
+          "B": "$3\\sqrt{3}$",
+          "C": "$4\\sqrt{2}$",
+          "D": "$6$",
+          "E": "$\\frac{13}{2}$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 10,
+        "problem": "At Typico High School, $60\\%$ of the students like dancing, and the rest dislike it. Of those who like dancing, $80\\%$ say that they like it, and the rest say that they dislike it. Of those who dislike dancing, $90\\%$ say that they dislike it, and the rest say that they like it. What fraction of students who say they dislike dancing actually like it?",
+        "options": {
+          "A": "$10\\%$",
+          "B": "$12\\%$",
+          "C": "$20\\%$",
+          "D": "$25\\%$",
+          "E": "$33\\frac{1}{3}\\%$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 11,
+        "problem": "Call a positive integer $monotonous$ if it is a one-digit number or its digits, when read from left to right, form either a strictly increasing or a strictly decreasing sequence. For example, $3$, $23578$, and $987620$ are monotonous, but $88$, $7434$, and $23557$ are not. How many monotonous positive integers are there?",
+        "options": {
+          "A": "$1024$",
+          "B": "$1524$",
+          "C": "$1533$",
+          "D": "$1536$",
+          "E": "$2048$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 12,
+        "problem": "What is the sum of the roots of $z^{12}=64$ that have a positive real part?",
+        "options": {
+          "A": "$2$",
+          "B": "$4$",
+          "C": "$\\sqrt{2}+2\\sqrt{3}$",
+          "D": "$2\\sqrt{2}+\\sqrt{6}$",
+          "E": "$(1+\\sqrt{3}) + (1+\\sqrt{3})i$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 13,
+        "problem": "In the figure below, $3$ of the $6$ disks are to be painted blue, $2$ are to be painted red, and $1$ is to be painted green. Two paintings that can be obtained from one another by a rotation or a reflection of the entire figure are considered the same. How many different paintings are possible? [IMG:AMC12_2017_B_13.png]",
+        "options": {
+          "A": "$6$",
+          "B": "$8$",
+          "C": "$9$",
+          "D": "$12$",
+          "E": "$15$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 14,
+        "problem": "An ice-cream novelty item consists of a cup in the shape of a 4-inch-tall frustum of a right circular cone, with a 2-inch-diameter base at the bottom and a 4-inch-diameter base at the top, packed solid with ice cream, together with a solid cone of ice cream of height 4 inches, whose base, at the bottom, is the top base of the frustum. What is the total volume of the ice cream, in cubic inches?",
+        "options": {
+          "A": "$8\\pi$",
+          "B": "$\\frac{28\\pi}{3}$",
+          "C": "$12\\pi$",
+          "D": "$14\\pi$",
+          "E": "$\\frac{44\\pi}{3}$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 15,
+        "problem": "Let $ABC$ be an equilateral triangle. Extend side $\\overline{AB}$ beyond $B$ to a point $B&#39;$ so that $BB&#39;=3 \\cdot AB$. Similarly, extend side $\\overline{BC}$ beyond $C$ to a point $C&#39;$ so that $CC&#39;=3 \\cdot BC$, and extend side $\\overline{CA}$ beyond $A$ to a point $A&#39;$ so that $AA&#39;=3 \\cdot CA$. What is the ratio of the area of $\\triangle A&#39;B&#39;C&#39;$ to the area of $\\triangle ABC$?",
+        "options": {
+          "A": "$9$",
+          "B": "$16$",
+          "C": "$25$",
+          "D": "$36$",
+          "E": "$37$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 16,
+        "problem": "The number $21!=51,090,942,171,709,440,000$ has over $60,000$ positive integer divisors. One of them is chosen at random. What is the probability that it is odd?",
+        "options": {
+          "A": "$\\frac{1}{21}$",
+          "B": "$\\frac{1}{19}$",
+          "C": "$\\frac{1}{18}$",
+          "D": "$\\frac{1}{2}$",
+          "E": "$\\frac{11}{21}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 17,
+        "problem": "A coin is biased in such a way that on each toss the probability of heads is $\\frac{2}{3}$ and the probability of tails is $\\frac{1}{3}$. The outcomes of the tosses are independent. A player has the choice of playing Game A or Game B. In Game A she tosses the coin three times and wins if all three outcomes are the same. In Game B she tosses the coin four times and wins if both the outcomes of the first and second tosses are the same and the outcomes of the third and fourth tosses are the same. How do the chances of winning Game A compare to the chances of winning Game B?",
+        "options": {
+          "A": "$ The probability of winning Game A is $\\frac{4}{81}$ less than the probability of winning Game B.$",
+          "B": "$ The probability of winning Game A is $\\frac{2}{81}$ less than the probability of winning Game B.$",
+          "C": "$ The probabilities are the same.$",
+          "D": "$ The probability of winning Game A is $\\frac{2}{81}$ greater than the probability of winning Game B.$",
+          "E": "$ The probability of winning Game A is $\\frac{4}{81}$ greater than the probability of winning Game B.$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 18,
+        "problem": "The diameter $AB$ of a circle of radius $2$ is extended to a point $D$ outside the circle so that $BD=3$. Point $E$ is chosen so that $ED=5$ and line $ED$ is perpendicular to line $AD$. Segment $AE$ intersects the circle at a point $C$ between $A$ and $E$. What is the area of $\\triangle ABC$?",
+        "options": {
+          "A": "$\\frac{120}{37}$",
+          "B": "$\\frac{140}{39}$",
+          "C": "$\\frac{145}{39}$",
+          "D": "$\\frac{140}{37}$",
+          "E": "$\\frac{120}{31}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 19,
+        "problem": "Let $N=123456789101112\\dots4344$ be the $79$-digit number that is formed by writing the integers from $1$ to $44$ in order, one after the other. What is the remainder when $N$ is divided by $45$?",
+        "options": {
+          "A": "$1$",
+          "B": "$4$",
+          "C": "$9$",
+          "D": "$18$",
+          "E": "$44$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 20,
+        "problem": "Real numbers $x$ and $y$ are chosen independently and uniformly at random from the interval $(0,1)$. What is the probability that $\\lfloor\\log_2x\\rfloor=\\lfloor\\log_2y\\rfloor$?",
+        "options": {
+          "A": "$\\frac{1}{8}$",
+          "B": "$\\frac{1}{6}$",
+          "C": "$\\frac{1}{4}$",
+          "D": "$\\frac{1}{3}$",
+          "E": "$\\frac{1}{2}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 21,
+        "problem": "Last year Isabella took $7$ math tests and received $7$ different scores, each an integer between $91$ and $100$, inclusive. After each test she noticed that the average of her test scores was an integer. Her score on the seventh test was $95$. What was her score on the sixth test?",
+        "options": {
+          "A": "$92$",
+          "B": "$94$",
+          "C": "$96$",
+          "D": "$98$",
+          "E": "$100$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 22,
+        "problem": "Abby, Bernardo, Carl, and Debra play a game in which each of them starts with four coins. The game consists of four rounds. In each round, four balls are placed in an urn---one green, one red, and two white. The players each draw a ball at random without replacement. Whoever gets the green ball gives one coin to whoever gets the red ball. What is the probability that, at the end of the fourth round, each of the players has four coins?",
+        "options": {
+          "A": "$\\frac{7}{576}$",
+          "B": "$\\frac{5}{192}$",
+          "C": "$\\frac{1}{36}$",
+          "D": "$\\frac{5}{144}$",
+          "E": "$\\frac{7}{48}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 23,
+        "problem": "The graph of $y=f(x)$, where $f(x)$ is a polynomial of degree $3$, contains points $A(2,4)$, $B(3,9)$, and $C(4,16)$. Lines $AB$, $AC$, and $BC$ intersect the graph again at points $D$, $E$, and $F$, respectively, and the sum of the $x$-coordinates of $D$, $E$, and $F$ is $24$. What is $f(0)$?",
+        "options": {
+          "A": "$-2$",
+          "B": "$0$",
+          "C": "$2$",
+          "D": "$\\frac{24}{5}$",
+          "E": "$8$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 24,
+        "problem": "Quadrilateral $ABCD$ has right angles at $B$ and $C$, $\\triangle ABC \\sim \\triangle BCD$, and $AB > BC$. There is a point $E$ in the interior of $ABCD$ such that $\\triangle ABC \\sim \\triangle CEB$ and the area of $\\triangle AED$ is $17$ times the area of $\\triangle CEB$. What is $\\frac{AB}{BC}$?",
+        "options": {
+          "A": "$1 + \\sqrt{2}$",
+          "B": "$2 + \\sqrt{2}$",
+          "C": "$\\sqrt{17}$",
+          "D": "$2 + \\sqrt{5}$",
+          "E": "$1 + 2\\sqrt{3}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 25,
+        "problem": "A set of $n$ people participate in an online video basketball tournament. Each person may be a member of any number of $5$-player teams, but no teams may have exactly the same $5$ members. The site statistics show a curious fact: The average, over all subsets of size $9$ of the set of $n$ participants, of the number of complete teams whose members are among those 9 people is equal to the reciprocal of the average, over all subsets of size $8$ of the set of $n$ participants, of the number of complete teams whose members are among those $8$ people. How many values $n$, $9 \\leq n \\leq 2017$, can be the number of participants?",
+        "options": {
+          "A": "$477$",
+          "B": "$482$",
+          "C": "$487$",
+          "D": "$557$",
+          "E": "$562$"
+        },
+        "answer": "D"
+      }
+    ]
+  }
+}

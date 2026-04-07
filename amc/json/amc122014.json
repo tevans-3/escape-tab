@@ -1,0 +1,610 @@
+{
+  "year": 2014,
+  "contest": "AMC 12",
+  "variants": {
+    "A": [
+      {
+        "number": 1,
+        "problem": "What is $10 \\cdot \\left(\\tfrac{1}{2} + \\tfrac{1}{5} + \\tfrac{1}{10}\\right)^{-1}?$",
+        "options": {
+          "A": "$3$",
+          "B": "$8$",
+          "C": "$\\frac{25}{2}$",
+          "D": "$\\frac{170}{3}$",
+          "E": "$170$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 2,
+        "problem": "At the theater children get in for half price. The price for $5$ adult tickets and $4$ child tickets is $\\$24.50$. How much would $8$ adult tickets and $6$ child tickets cost?",
+        "options": {
+          "A": "$\\$35$",
+          "B": "$\\$38.50$",
+          "C": "$\\$40$",
+          "D": "$\\$42$",
+          "E": "$\\$42.50$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 3,
+        "problem": "Walking down Jane Street, Ralph passed four houses in a row, each painted a different color. He passed the orange house before the red house, and he passed the blue house before the yellow house. The blue house was not next to the yellow house. How many orderings of the colored houses are possible?",
+        "options": {
+          "A": "$2$",
+          "B": "$3$",
+          "C": "$4$",
+          "D": "$5$",
+          "E": "$6$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 4,
+        "problem": "Suppose that $a$ cows give $b$ gallons of milk in $c$ days. At this rate, how many gallons of milk will $d$ cows give in $e$ days?",
+        "options": {
+          "A": "$\\frac{bde}{ac}$",
+          "B": "$\\frac{ac}{bde}$",
+          "C": "$\\frac{abde}{c}$",
+          "D": "$\\frac{bcde}{a}$",
+          "E": "$\\frac{abc}{de}$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 5,
+        "problem": "On an algebra quiz, $10\\%$ of the students scored $70$ points, $35\\%$ scored $80$ points, $30\\%$ scored $90$ points, and the rest scored $100$ points. What is the difference between the mean and median score of the students' scores on this quiz?",
+        "options": {
+          "A": "$1$",
+          "B": "$2$",
+          "C": "$3$",
+          "D": "$4$",
+          "E": "$5$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 6,
+        "problem": "The difference between a two-digit number and the number obtained by reversing its digits is $5$ times the sum of the digits of either number. What is the sum of the two digit number and its reverse?",
+        "options": {
+          "A": "$44$",
+          "B": "$55$",
+          "C": "$77$",
+          "D": "$99$",
+          "E": "$110$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 7,
+        "problem": "The first three terms of a geometric progression are $\\sqrt 3$, $\\sqrt[3]3$, and $\\sqrt[6]3$. What is the fourth term?",
+        "options": {
+          "A": "$1$",
+          "B": "$\\sqrt[7]3$",
+          "C": "$\\sqrt[8]3$",
+          "D": "$\\sqrt[9]3$",
+          "E": "$\\sqrt[10]3\\qquad$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 8,
+        "problem": "A customer who intends to purchase an appliance has three coupons, only one of which may be used: Coupon 1: $10\\%$ off the listed price if the listed price is at least $\\$50$ Coupon 2: $\\$20$ off the listed price if the listed price is at least $\\$100$ Coupon 3: $18\\%$ off the amount by which the listed price exceeds $\\$100$ For which of the following listed prices will coupon $1$ offer a greater price reduction than either coupon $2$ or coupon $3$?",
+        "options": {
+          "A": "$\\$179.95$",
+          "B": "$\\$199.95$",
+          "C": "$\\$219.95$",
+          "D": "$\\$239.95$",
+          "E": "$\\$259.95\\qquad$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 9,
+        "problem": "Five positive consecutive integers starting with $a$ have average $b$. What is the average of $5$ consecutive integers that start with $b$?",
+        "options": {
+          "A": "$a+3$",
+          "B": "$a+4$",
+          "C": "$a+5$",
+          "D": "$a+6$",
+          "E": "$a+7$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 10,
+        "problem": "Three congruent isosceles triangles are constructed with their bases on the sides of an equilateral triangle of side length $1$. The sum of the areas of the three isosceles triangles is the same as the area of the equilateral triangle. What is the length of one of the two congruent sides of one of the isosceles triangles?",
+        "options": {
+          "A": "$\\dfrac{\\sqrt3}4$",
+          "B": "$\\dfrac{\\sqrt3}3$",
+          "C": "$\\dfrac23$",
+          "D": "$\\dfrac{\\sqrt2}2$",
+          "E": "$\\dfrac{\\sqrt3}2$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 11,
+        "problem": "David drives from his home to the airport to catch a flight. He drives $35$ miles in the first hour, but realizes that he will be $1$ hour late if he continues at this speed. He increases his speed by $15$ miles per hour for the rest of the way to the airport and arrives $30$ minutes early. How many miles is the airport from his home?",
+        "options": {
+          "A": "$140$",
+          "B": "$175$",
+          "C": "$210$",
+          "D": "$245$",
+          "E": "$280\\qquad$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 12,
+        "problem": "Two circles intersect at points $A$ and $B$. The minor arcs $AB$ measure $30^\\circ$ on one circle and $60^\\circ$ on the other circle. What is the ratio of the area of the larger circle to the area of the smaller circle?",
+        "options": {
+          "A": "$2$",
+          "B": "$1+\\sqrt3$",
+          "C": "$3$",
+          "D": "$2+\\sqrt3$",
+          "E": "$4\\qquad$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 13,
+        "problem": "A fancy bed and breakfast inn has $5$ rooms, each with a distinctive color-coded decor. One day $5$ friends arrive to spend the night. There are no other guests that night. The friends can room in any combination they wish, but with no more than $2$ friends per room. In how many ways can the innkeeper assign the guests to the rooms?",
+        "options": {
+          "A": "$2100$",
+          "B": "$2220$",
+          "C": "$3000$",
+          "D": "$3120$",
+          "E": "$3125\\qquad$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 14,
+        "problem": "Let $a<b<c$ be three integers such that $a,b,c$ is an arithmetic progression and $a,c,b$ is a geometric progression. What is the smallest possible value of $c$?",
+        "options": {
+          "A": "$-2$",
+          "B": "$1$",
+          "C": "$2$",
+          "D": "$4$",
+          "E": "$6\\qquad$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 15,
+        "problem": "A five-digit palindrome is a positive integer with respective digits $abcba$, where $a$ is non-zero. Let $S$ be the sum of all five-digit palindromes. What is the sum of the digits of $S$?",
+        "options": {
+          "A": "$9$",
+          "B": "$18$",
+          "C": "$27$",
+          "D": "$36$",
+          "E": "$45\\qquad$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 16,
+        "problem": "The product $(8)(888\\ldots 8)$, where the second factor has $k$ digits, is an integer whose digits have a sum of $1000$. What is $k$?",
+        "options": {
+          "A": "$901$",
+          "B": "$911$",
+          "C": "$919$",
+          "D": "$991$",
+          "E": "$999\\qquad$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 17,
+        "problem": "A $4\\times 4\\times h$ rectangular box contains a sphere of radius $2$ and eight smaller spheres of radius $1$. The smaller spheres are each tangent to three sides of the box, and the larger sphere is tangent to each of the smaller spheres. What is $h$? [IMG:AMC12_2014_A_17.png]",
+        "options": {
+          "A": "$2+2\\sqrt 7$",
+          "B": "$3+2\\sqrt 5$",
+          "C": "$4+2\\sqrt 7$",
+          "D": "$4\\sqrt 5$",
+          "E": "$4\\sqrt 7\\qquad$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 18,
+        "problem": "The domain of the function $f(x)=\\log_{\\frac12}(\\log_4(\\log_{\\frac14}(\\log_{16}(\\log_{\\frac1{16}}x))))$ is an interval of length $\\tfrac mn$, where $m$ and $n$ are relatively prime positive integers. What is $m+n$?",
+        "options": {
+          "A": "$19$",
+          "B": "$31$",
+          "C": "$271$",
+          "D": "$319$",
+          "E": "$511\\qquad$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 19,
+        "problem": "There are exactly $N$ distinct rational numbers $k$ such that $|k|<200$ and [IMG:AMC12_2014_A_19.png] has at least one integer solution for $x$. What is $N$?",
+        "options": {
+          "A": "$6$",
+          "B": "$12$",
+          "C": "$24$",
+          "D": "$48$",
+          "E": "$78\\qquad$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 20,
+        "problem": "In $\\triangle BAC$, $\\angle BAC=40^\\circ$, $AB=10$, and $AC=6$. Points $D$ and $E$ lie on $\\overline{AB}$ and $\\overline{AC}$ respectively. What is the minimum possible value of $BE+DE+CD$?",
+        "options": {
+          "A": "$6\\sqrt 3+3$",
+          "B": "$\\dfrac{27}2$",
+          "C": "$8\\sqrt 3$",
+          "D": "$14$",
+          "E": "$3\\sqrt 3+9\\qquad$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 21,
+        "problem": "For every real number $x$, let $\\lfloor x\\rfloor$ denote the greatest integer not exceeding $x$, and let [IMG:AMC12_2014_A_21.png] The set of all numbers $x$ such that $1\\leq x<2014$ and $f(x)\\leq 1$ is a union of disjoint intervals. What is the sum of the lengths of those intervals?",
+        "options": {
+          "A": "$1$",
+          "B": "$\\dfrac{\\log 2015}{\\log 2014}$",
+          "C": "$\\dfrac{\\log 2014}{\\log 2013}$",
+          "D": "$\\dfrac{2014}{2013}$",
+          "E": "$2014^{\\frac1{2014}}\\qquad$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 22,
+        "problem": "The number $5^{867}$ is between $2^{2013}$ and $2^{2014}$. How many pairs of integers $(m,n)$ are there such that $1\\leq m\\leq 2012$ and [IMG:AMC12_2014_A_22.png]",
+        "options": {
+          "A": "$278$",
+          "B": "$279$",
+          "C": "$280$",
+          "D": "$281$",
+          "E": "$282\\qquad$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 23,
+        "problem": "The fraction [IMG:AMC12_2014_A_23.png] where $n$ is the length of the period of the repeating decimal expansion. What is the sum $b_0+b_1+\\cdots+b_{n-1}$?",
+        "options": {
+          "A": "$874$",
+          "B": "$883$",
+          "C": "$887$",
+          "D": "$891$",
+          "E": "$892\\qquad$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 24,
+        "problem": "Let $f_0(x)=x+|x-100|-|x+100|$, and for $n\\geq 1$, let $f_n(x)=|f_{n-1}(x)|-1$. For how many values of $x$ is $f_{100}(x)=0$?",
+        "options": {
+          "A": "$299$",
+          "B": "$300$",
+          "C": "$301$",
+          "D": "$302$",
+          "E": "$303\\qquad$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 25,
+        "problem": "The parabola $P$ has focus $(0,0)$ and goes through the points $(4,3)$ and $(-4,-3)$. For how many points $(x,y)\\in P$ with integer coordinates is it true that $|4x+3y|\\leq 1000$?",
+        "options": {
+          "A": "$38$",
+          "B": "$40$",
+          "C": "$42$",
+          "D": "$44$",
+          "E": "$46\\qquad$"
+        },
+        "answer": "B"
+      }
+    ],
+    "B": [
+      {
+        "number": 1,
+        "problem": "Leah has $13$ coins, all of which are pennies and nickels. If she had one more nickel than she has now, then she would have the same number of pennies and nickels. In cents, how much are Leah's coins worth?",
+        "options": {
+          "A": "$33$",
+          "B": "$35$",
+          "C": "$37$",
+          "D": "$39$",
+          "E": "$41$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 2,
+        "problem": "Orvin went to the store with just enough money to buy $30$ balloons. When he arrived he discovered that the store had a special sale on balloons: buy $1$ balloon at the regular price and get a second at $\\frac{1}{3}$ off the regular price. What is the greatest number of balloons Orvin could buy?",
+        "options": {
+          "A": "$33$",
+          "B": "$34$",
+          "C": "$36$",
+          "D": "$38$",
+          "E": "$39$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 3,
+        "problem": "Randy drove the first third of his trip on a gravel road, the next $20$ miles on pavement, and the remaining one-fifth on a dirt road. In miles, how long was Randy's trip?",
+        "options": {
+          "A": "$30$",
+          "B": "$\\frac{400}{11}$",
+          "C": "$\\frac{75}{2}$",
+          "D": "$40$",
+          "E": "$\\frac{300}{7}$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 4,
+        "problem": "Susie pays for $4$ muffins and $3$ bananas. Calvin spends twice as much paying for $2$ muffins and $16$ bananas. A muffin is how many times as expensive as a banana?",
+        "options": {
+          "A": "$\\frac{3}{2}$",
+          "B": "$\\frac{5}{3}$",
+          "C": "$\\frac{7}{4}$",
+          "D": "$2$",
+          "E": "$\\frac{13}{4}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 5,
+        "problem": "Doug constructs a square window using $8$ equal-size panes of glass, as shown. The ratio of the height to width for each pane is $5 : 2$, and the borders around and between the panes are $2$ inches wide. In inches, what is the side length of the square window? [IMG:AMC12_2014_B_5.png]",
+        "options": {
+          "A": "$26$",
+          "B": "$28$",
+          "C": "$30$",
+          "D": "$32$",
+          "E": "$34$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 6,
+        "problem": "Ed and Ann both have lemonade with their lunch. Ed orders the regular size. Ann gets the large lemonade, which is 50% more than the regular. After both consume $\\frac{3}{4}$ of their drinks, Ann gives Ed a third of what she has left, and 2 additional ounces. When they finish their lemonades they realize that they both drank the same amount. How many ounces of lemonade did they drink together?",
+        "options": {
+          "A": "$30$",
+          "B": "$32$",
+          "C": "$36$",
+          "D": "$40$",
+          "E": "$50$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 7,
+        "problem": "For how many positive integers $n$ is $\\frac{n}{30-n}$ also a positive integer?",
+        "options": {
+          "A": "$4$",
+          "B": "$5$",
+          "C": "$6$",
+          "D": "$7$",
+          "E": "$8$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 8,
+        "problem": "In the addition shown below $A$, $B$, $C$, and $D$ are distinct digits. How many different values are possible for $D$? [IMG:AMC12_2014_B_8.png]",
+        "options": {
+          "A": "$2$",
+          "B": "$4$",
+          "C": "$7$",
+          "D": "$8$",
+          "E": "$9$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 9,
+        "problem": "Convex quadrilateral $ABCD$ has $AB=3$, $BC=4$, $CD=13$, $AD=12$, and $\\angle ABC=90^{\\circ}$, as shown. What is the area of the quadrilateral? [IMG:AMC12_2014_B_9.png]",
+        "options": {
+          "A": "$30$",
+          "B": "$36$",
+          "C": "$40$",
+          "D": "$48$",
+          "E": "$58.5$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 10,
+        "problem": "Danica drove her new car on a trip for a whole number of hours, averaging 55 miles per hour. At the beginning of the trip, $abc$ miles was displayed on the odometer, where $abc$ is a 3-digit number with $a \\geq{1}$ and $a+b+c \\leq{7}$. At the end of the trip, the odometer showed $cba$ miles. What is $a^2+b^2+c^2?$.",
+        "options": {
+          "A": "$26$",
+          "B": "$27$",
+          "C": "$36$",
+          "D": "$37$",
+          "E": "$41$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 11,
+        "problem": "A list of 11 positive integers has a mean of 10, a median of 9, and a unique mode of 8. What is the largest possible value of an integer in the list?",
+        "options": {
+          "A": "$24$",
+          "B": "$30$",
+          "C": "$31$",
+          "D": "$33$",
+          "E": "$35$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 12,
+        "problem": "A set $S$ consists of triangles whose sides have integer lengths less than 5, and no two elements of $S$ are congruent or similar. What is the largest number of elements that $S$ can have?",
+        "options": {
+          "A": "$8$",
+          "B": "$9$",
+          "C": "$10$",
+          "D": "$11$",
+          "E": "$12$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 13,
+        "problem": "Real numbers $a$ and $b$ are chosen with $1<a<b$ such that no triangles with positive area has side lengths $1, a,$ and $b$ or $\\tfrac{1}{b}, \\tfrac{1}{a},$ and $1$. What is the smallest possible value of $b$?",
+        "options": {
+          "A": "$\\frac{3+\\sqrt{3}}{2}$",
+          "B": "$\\frac{5}{2}$",
+          "C": "$\\frac{3+\\sqrt{5}}{2}$",
+          "D": "$\\frac{3+\\sqrt{6}}{2}$",
+          "E": "$3$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 14,
+        "problem": "A rectangular box has a total surface area of 94 square inches. The sum of the lengths of all its edges is 48 inches. What is the sum of the lengths in inches of all of its interior diagonals?",
+        "options": {
+          "A": "$8\\sqrt{3}$",
+          "B": "$10\\sqrt{2}$",
+          "C": "$16\\sqrt{3}$",
+          "D": "$20\\sqrt{2}$",
+          "E": "$40\\sqrt{2}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 15,
+        "problem": "When $p = \\sum\\limits_{k=1}^{6} k \\ln{k}$, the number $e^p$ is an integer. What is the largest power of 2 that is a factor of $e^p$ ?",
+        "options": {
+          "A": "$2^{12}$",
+          "B": "$2^{14}$",
+          "C": "$2^{16}$",
+          "D": "$2^{18}$",
+          "E": "$2^{20}$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 16,
+        "problem": "Let $P$ be a cubic polynomial with $P(0) = k$, $P(1) = 2k$, and $P(-1) = 3k$. What is $P(2) + P(-2)$ ?",
+        "options": {
+          "A": "$0$",
+          "B": "$k$",
+          "C": "$6k$",
+          "D": "$7k$",
+          "E": "$14k$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 17,
+        "problem": "Let $P$ be the parabola with equation $y=x^2$ and let $Q = (20, 14)$. There are real numbers $r$ and $s$ such that the line through $Q$ with slope $m$ does not intersect $P$ if and only if $r < m < s$. What is $r + s$?",
+        "options": {
+          "A": "$1$",
+          "B": "$26$",
+          "C": "$40$",
+          "D": "$52$",
+          "E": "$80$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 18,
+        "problem": "The numbers $1$, $2$, $3$, $4$, $5$, are to be arranged in a circle. An arrangement is $\\textit{bad}$ if it is not true that for every $n$ from $1$ to $15$ one can find a subset of the numbers that appear consecutively on the circle that sum to $n$. Arrangements that differ only by a rotation or a reflection are considered the same. How many different bad arrangements are there?",
+        "options": {
+          "A": "$1$",
+          "B": "$2$",
+          "C": "$3$",
+          "D": "$4$",
+          "E": "$5$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 19,
+        "problem": "A sphere is inscribed in a truncated right circular cone as shown. The volume of the truncated cone is twice that of the sphere. What is the ratio of the radius of the bottom base of the truncated cone to the radius of the top base of the truncated cone? [IMG:AMC12_2014_B_19.png]",
+        "options": {
+          "A": "$\\dfrac32 \\quad \\text{$",
+          "B": "$\\dfrac{1+\\sqrt5}2 \\quad \\text{$",
+          "C": "$\\sqrt3 \\quad \\text{$",
+          "D": "$2 \\quad \\text{$",
+          "E": "$\\dfrac{3+\\sqrt5}2$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 20,
+        "problem": "For how many positive integers $x$ is $\\log_{10}(x-40) + \\log_{10}(60-x) < 2$ ?",
+        "options": {
+          "A": "$10$",
+          "B": "$18$",
+          "C": "$19$",
+          "D": "$20$",
+          "E": "$\\text{infinitely many}\\qquad$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 21,
+        "problem": "In the figure, $ABCD$ is a square of side length $1$. The rectangles $JKHG$ and $EBCF$ are congruent. What is $BE$? [IMG:AMC12_2014_B_21.png]",
+        "options": {
+          "A": "$\\frac{1}{2}(\\sqrt{6}-2)$",
+          "B": "$\\frac{1}{4}$",
+          "C": "$2-\\sqrt{3}$",
+          "D": "$\\frac{\\sqrt{3}}{6}$",
+          "E": "$1-\\frac{\\sqrt{2}}{2}$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 22,
+        "problem": "In a small pond there are eleven lily pads in a row labeled 0 through 10. A frog is sitting on pad 1. When the frog is on pad $N$, $0<N<10$, it will jump to pad $N-1$ with probability $\\frac{N}{10}$ and to pad $N+1$ with probability $1-\\frac{N}{10}$. Each jump is independent of the previous jumps. If the frog reaches pad 0 it will be eaten by a patiently waiting snake. If the frog reaches pad 10 it will exit the pond, never to return. What is the probability that the frog will escape without being eaten by the snake?",
+        "options": {
+          "A": "$\\frac{32}{79}$",
+          "B": "$\\frac{161}{384}$",
+          "C": "$\\frac{63}{146}$",
+          "D": "$\\frac{7}{16}$",
+          "E": "$\\frac{1}{2}\\qquad$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 23,
+        "problem": "The number 2017 is prime. Let $S = \\sum \\limits_{k=0}^{62} \\dbinom{2014}{k}$. What is the remainder when $S$ is divided by 2017?",
+        "options": {
+          "A": "$32$",
+          "B": "$684$",
+          "C": "$1024$",
+          "D": "$1576$",
+          "E": "$2016\\qquad$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 24,
+        "problem": "Let $ABCDE$ be a pentagon inscribed in a circle such that $AB = CD = 3$, $BC = DE = 10$, and $AE= 14$. The sum of the lengths of all diagonals of $ABCDE$ is equal to $\\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. What is $m+n$ ?",
+        "options": {
+          "A": "$129$",
+          "B": "$247$",
+          "C": "$353$",
+          "D": "$391$",
+          "E": "$421\\qquad$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 25,
+        "problem": "Find the sum of all the positive solutions of",
+        "options": {
+          "A": "$\\pi$",
+          "B": "$810\\pi$",
+          "C": "$1008\\pi$",
+          "D": "$1080 \\pi$",
+          "E": "$1800\\pi$"
+        },
+        "answer": "D"
+      }
+    ]
+  }
+}

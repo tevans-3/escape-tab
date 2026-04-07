@@ -1,0 +1,610 @@
+{
+  "year": 2013,
+  "contest": "AMC 10",
+  "variants": {
+    "A": [
+      {
+        "number": 1,
+        "problem": "A taxi ride costs \\$1.50 plus \\$0.25 per mile traveled. How much does a 5-mile taxi ride cost?",
+        "options": {
+          "A": "$2.25$",
+          "B": "$2.50$",
+          "C": "$2.75$",
+          "D": "$3.00$",
+          "E": "$3.75$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 2,
+        "problem": "Alice is making a batch of cookies and needs $2\\frac{1}{2}$ cups of sugar. Unfortunately, her measuring cup holds only $\\frac{1}{4}$ cup of sugar. How many times must she fill that cup to get the correct amount of sugar?",
+        "options": {
+          "A": "$8$",
+          "B": "$10$",
+          "C": "$12$",
+          "D": "$16$",
+          "E": "$20$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 3,
+        "problem": "Square $ABCD$ has side length $10$. Point $E$ is on $\\overline{BC}$, and the area of $\\triangle ABE$ is $40$. What is $BE$? [IMG:AMC10_2013_A_3.png]",
+        "options": {
+          "A": "$4$",
+          "B": "$5$",
+          "C": "$6$",
+          "D": "$7$",
+          "E": "$8$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 4,
+        "problem": "A softball team played ten games, scoring 1, 2, 3, 4, 5, 6, 7, 8, 9, and 10 runs. They lost by one run in exactly five games. In each of their other games, they scored twice as many runs as their opponent. How many total runs did their opponents score?",
+        "options": {
+          "A": "$35$",
+          "B": "$40$",
+          "C": "$45$",
+          "D": "$50$",
+          "E": "$55$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 5,
+        "problem": "Tom, Dorothy, and Sammy went on a vacation and agreed to split the costs evenly. During their trip Tom paid $\\$105$, Dorothy paid $\\$125$, and Sammy paid $\\$175$. In order to share costs equally, Sammy gave Tom $t$ dollars, and Sammy gave Dorthy $d$ dollars. What is $t-d$?",
+        "options": {
+          "A": "$15$",
+          "B": "$20$",
+          "C": "$25$",
+          "D": "$30$",
+          "E": "$35$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 6,
+        "problem": "Joey and his five brothers are ages 3, 5, 7, 9, 11, and 13. One afternoon two of his brothers whose ages sum to 16 went to the movies, two brothers younger than 10 went to play baseball, and Joey and the 5-year-old stayed home. How old is Joey?",
+        "options": {
+          "A": "$3$",
+          "B": "$7$",
+          "C": "$9$",
+          "D": "$11$",
+          "E": "$13$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 7,
+        "problem": "A student must choose a program of four courses from a menu of courses consisting of English, Algebra, Geometry, History, Art, and Latin. This program must contain English and at least one mathematics course. In how many ways can this program be chosen?",
+        "options": {
+          "A": "$6$",
+          "B": "$8$",
+          "C": "$9$",
+          "D": "$12$",
+          "E": "$16$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 8,
+        "problem": "What is the value of $\\frac{2^{2014}+2^{2012}}{2^{2014}-2^{2012}} ?$",
+        "options": {
+          "A": "$-1$",
+          "B": "$1$",
+          "C": "$\\frac{5}{3}$",
+          "D": "$2013$",
+          "E": "$2^{4024}$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 9,
+        "problem": "In a recent basketball game, Shenille attempted only three-point shots and two-point shots. She was successful on $20\\%$ of her three-point shots and $30\\%$ of her two-point shots. Shenille attempted $30$ shots. How many points did she score?",
+        "options": {
+          "A": "$12$",
+          "B": "$18$",
+          "C": "$24$",
+          "D": "$30$",
+          "E": "$36$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 10,
+        "problem": "A flower bouquet contains pink roses, red roses, pink carnations, and red carnations. One third of the pink flowers are roses, three fourths of the red flowers are carnations, and six tenths of the flowers are pink. What percent of the flowers are carnations?",
+        "options": {
+          "A": "$15$",
+          "B": "$30$",
+          "C": "$40$",
+          "D": "$60$",
+          "E": "$70$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 11,
+        "problem": "A student council must select a two-person welcoming committee and a three-person planning committee from among its members. There are exactly 10 ways to select a two-person team for the welcoming committee. It is possible for students to serve on both committees. In how many different ways can a three-person planning committee be selected?",
+        "options": {
+          "A": "$10$",
+          "B": "$12$",
+          "C": "$15$",
+          "D": "$18$",
+          "E": "$25$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 12,
+        "problem": "In $\\triangle ABC$, $AB=AC=28$ and $BC=20$. Points $D,E,$ and $F$ are on sides $\\overline{AB}$, $\\overline{BC}$, and $\\overline{AC}$, respectively, such that $\\overline{DE}$ and $\\overline{EF}$ are parallel to $\\overline{AC}$ and $\\overline{AB}$, respectively. What is the perimeter of parallelogram $ADEF$? [IMG:AMC10_2013_A_12.png]",
+        "options": {
+          "A": "$48$",
+          "B": "$52$",
+          "C": "$56$",
+          "D": "$60$",
+          "E": "$72\\qquad$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 13,
+        "problem": "How many three-digit numbers are not divisible by $5$, have digits that sum to less than $20$, and have the first digit equal to the third digit?",
+        "options": {
+          "A": "$52$",
+          "B": "$60$",
+          "C": "$66$",
+          "D": "$68$",
+          "E": "$70$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 14,
+        "problem": "A solid cube of side length $1$ is removed from each corner of a solid cube of side length $3$. How many edges does the remaining solid have?",
+        "options": {
+          "A": "$36$",
+          "B": "$60$",
+          "C": "$72$",
+          "D": "$84$",
+          "E": "$108\\qquad$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 15,
+        "problem": "Two sides of a triangle have lengths $10$ and $15$. The length of the altitude to the third side is the average of the lengths of the altitudes to the two given sides. How long is the third side?",
+        "options": {
+          "A": "$6$",
+          "B": "$8$",
+          "C": "$9$",
+          "D": "$12$",
+          "E": "$18$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 16,
+        "problem": "A triangle with vertices $(6, 5)$, $(8, -3)$, and $(9, 1)$ is reflected about the line $x=8$ to create a second triangle. What is the area of the union of the two triangles?",
+        "options": {
+          "A": "$9$",
+          "B": "$\\frac{28}{3}$",
+          "C": "$10$",
+          "D": "$\\frac{31}{3}$",
+          "E": "$\\frac{32}{3}$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 17,
+        "problem": "Daphne is visited periodically by her three best friends: Alice, Beatrix, and Claire. Alice visits every third day, Beatrix visits every fourth day, and Claire visits every fifth day. All three friends visited Daphne yesterday. How many days of the next 365-day period will exactly two friends visit her?",
+        "options": {
+          "A": "$48$",
+          "B": "$54$",
+          "C": "$60$",
+          "D": "$66$",
+          "E": "$72$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 18,
+        "problem": "Let points $A = (0, 0)$, $B = (1, 2)$, $C=(3, 3)$, and $D = (4, 0)$. Quadrilateral $ABCD$ is cut into equal area pieces by a line passing through $A$. This line intersects $\\overline{CD}$ at point $\\bigg(\\frac{p}{q}, \\frac{r}{s}\\bigg)$, where these fractions are in lowest terms. What is $p+q+r+s$?",
+        "options": {
+          "A": "$54$",
+          "B": "$58$",
+          "C": "$62$",
+          "D": "$70$",
+          "E": "$75$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 19,
+        "problem": "In base $10$, the number $2013$ ends in the digit $3$. In base $9$, on the other hand, the same number is written as $(2676)_{9}$ and ends in the digit $6$. For how many positive integers $b$ does the base-$b$-representation of $2013$ end in the digit $3$?",
+        "options": {
+          "A": "$6$",
+          "B": "$9$",
+          "C": "$13$",
+          "D": "$16$",
+          "E": "$18$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 20,
+        "problem": "A unit square is rotated $45^\\circ$ about its center. What is the area of the region swept out by the interior of the square?",
+        "options": {
+          "A": "$1 - \\frac{\\sqrt2}{2} + \\frac{\\pi}{4}$",
+          "B": "$\\frac{1}{2} + \\frac{\\pi}{4}$",
+          "C": "$2 - \\sqrt2 + \\frac{\\pi}{4}$",
+          "D": "$\\frac{\\sqrt2}{2} + \\frac{\\pi}{4}$",
+          "E": "$1 + \\frac{\\sqrt2}{4} + \\frac{\\pi}{8}$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 21,
+        "problem": "A group of $12$ pirates agree to divide a treasure chest of gold coins among themselves as follows. The $k^{\\text{th}}$ pirate to take a share takes $\\frac{k}{12}$ of the coins that remain in the chest. The number of coins initially in the chest is the smallest number for which this arrangement will allow each pirate to receive a positive whole number of coins. How many coins does the $12^{\\text{th}}$ pirate receive?",
+        "options": {
+          "A": "$720$",
+          "B": "$1296$",
+          "C": "$1728$",
+          "D": "$1925$",
+          "E": "$3850$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 22,
+        "problem": "Six spheres of radius $1$ are positioned so that their centers are at the vertices of a regular hexagon of side length $2$. The six spheres are internally tangent to a larger sphere whose center is the center of the hexagon. An eighth sphere is externally tangent to the six smaller spheres and internally tangent to the larger sphere. What is the radius of this eighth sphere?",
+        "options": {
+          "A": "$\\sqrt2$",
+          "B": "$\\frac{3}{2}$",
+          "C": "$\\frac{5}{3}$",
+          "D": "$\\sqrt3$",
+          "E": "$2$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 23,
+        "problem": "In $\\triangle ABC$, $AB = 86$, and $AC=97$. A circle with center $A$ and radius $AB$ intersects $\\overline{BC}$ at points $B$ and $X$. Moreover $\\overline{BX}$ and $\\overline{CX}$ have integer lengths. What is $BC$?",
+        "options": {
+          "A": "$11$",
+          "B": "$28$",
+          "C": "$33$",
+          "D": "$61$",
+          "E": "$72$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 24,
+        "problem": "Central High School is competing against Northern High School in a backgammon match. Each school has three players, and the contest rules require that each player play two games against each of the other school's players. The match takes place in six rounds, with three games played simultaneously in each round. In how many different ways can the match be scheduled?",
+        "options": {
+          "A": "$540$",
+          "B": "$600$",
+          "C": "$720$",
+          "D": "$810$",
+          "E": "$900$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 25,
+        "problem": "All 20 diagonals are drawn in a regular octagon. At how many distinct points in the interior of the octagon (not on the boundary) do two or more diagonals intersect?",
+        "options": {
+          "A": "$49$",
+          "B": "$65$",
+          "C": "$70$",
+          "D": "$96$",
+          "E": "$128$"
+        },
+        "answer": "A"
+      }
+    ],
+    "B": [
+      {
+        "number": 1,
+        "problem": "What is $\\frac{2+4+6}{1+3+5} - \\frac{1+3+5}{2+4+6}$?",
+        "options": {
+          "A": "$-1$",
+          "B": "$\\frac{5}{36}$",
+          "C": "$\\frac{7}{12}$",
+          "D": "$\\frac{49}{20}$",
+          "E": "$\\frac{43}{3}$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 2,
+        "problem": "Mr. Green measures his rectangular garden by walking two of the sides and finding that it is $15$ steps by $20$ steps. Each of Mr. Green's steps is $2$ feet long. Mr. Green expects a half a pound of potatoes per square foot from his garden. How many pounds of potatoes does Mr. Green expect from his garden?",
+        "options": {
+          "A": "$600$",
+          "B": "$800$",
+          "C": "$1000$",
+          "D": "$1200$",
+          "E": "$1400$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 3,
+        "problem": "On a particular January day, the high temperature in Lincoln, Nebraska, was $16$ degrees higher than the low temperature, and the average of the high and the low temperatures was $3\\,^\\circ$. In degrees, what was the low temperature in Lincoln that day?",
+        "options": {
+          "A": "$-13$",
+          "B": "$-8$",
+          "C": "$-5$",
+          "D": "$-3$",
+          "E": "$11$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 4,
+        "problem": "When counting from $3$ to $201$, $53$ is the $51^\\mathrm{st}$ number counted. When counting backwards from $201$ to $3$, $53$ is the $n^\\mathrm{th}$ number counted. What is $n$?",
+        "options": {
+          "A": "$146$",
+          "B": "$147$",
+          "C": "$148$",
+          "D": "$149$",
+          "E": "$150$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 5,
+        "problem": "Positive integers $a$ and $b$ are each less than $6$. What is the smallest possible value for $2 \\cdot a - a \\cdot b$?",
+        "options": {
+          "A": "$-20$",
+          "B": "$}\\ -15\\qquad\\textbf{{(C)}}\\ -10\\qquad\\textbf{{(D)}}\\ 0\\qquad\\textbf{{(E)}}\\ 2$",
+          "C": "$}\\ -10\\qquad\\textbf{{(D)}}\\ 0\\qquad\\textbf{{(E)}}\\ 2$",
+          "D": "$}\\ 0\\qquad\\textbf{{(E)}}\\ 2$",
+          "E": "$}\\ 2$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 6,
+        "problem": "The average age of 33 fifth-graders is 11. The average age of 55 of their parents is 33. What is the average age of all of these parents and fifth-graders?",
+        "options": {
+          "A": "$22$",
+          "B": "$23.25$",
+          "C": "$24.75$",
+          "D": "$26.25$",
+          "E": "$28$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 7,
+        "problem": "Six points are equally spaced around a circle of radius 1. Three of these points are the vertices of a triangle that is neither equilateral nor isosceles. What is the area of this triangle?",
+        "options": {
+          "A": "$\\frac{\\sqrt{3}}{3}$",
+          "B": "$\\frac{\\sqrt{3}}{2}$",
+          "C": "$1$",
+          "D": "$\\sqrt{2}$",
+          "E": "$\\text{2}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 8,
+        "problem": "Ray's car averages 40 miles per gallon of gasoline, and Tom's car averages 10 miles per gallon of gasoline. Ray and Tom each drive the same number of miles. What is the cars' combined rate of miles per gallon of gasoline?",
+        "options": {
+          "A": "$10$",
+          "B": "$16$",
+          "C": "$25$",
+          "D": "$30$",
+          "E": "$40$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 9,
+        "problem": "Three positive integers are each greater than $1$, have a product of $27000$, and are pairwise relatively prime. What is their sum?",
+        "options": {
+          "A": "$100$",
+          "B": "$137$",
+          "C": "$156$",
+          "D": "$160$",
+          "E": "$165$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 10,
+        "problem": "A basketball team's players were successful on 50% of their two-point shots and 40% of their three-point shots, which resulted in 54 points. They attempted 50% more two-point shots than three-point shots. How many three-point shots did they attempt?",
+        "options": {
+          "A": "$10$",
+          "B": "$15$",
+          "C": "$20$",
+          "D": "$25$",
+          "E": "$30$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 11,
+        "problem": "Real numbers $x$ and $y$ satisfy the equation $x^2 + y^2 = 10x - 6y - 34$. What is $x+y$?",
+        "options": {
+          "A": "$1$",
+          "B": "$2$",
+          "C": "$3$",
+          "D": "$6$",
+          "E": "$8$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 12,
+        "problem": "Let $S$ be the set of sides and diagonals of a regular pentagon. A pair of elements of $S$ are selected at random without replacement. What is the probability that the two chosen segments have the same length?",
+        "options": {
+          "A": "$\\frac{2}5$",
+          "B": "$\\frac{4}9$",
+          "C": "$\\frac{1}2$",
+          "D": "$\\frac{5}9$",
+          "E": "$\\frac{4}5$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 13,
+        "problem": "Jo and Blair take turns counting from $1$ to one more than the last number said by the other person. Jo starts by saying \"$1$\", so Blair follows by saying \"$1, 2$\" . Jo then says \"$1, 2, 3$\" , and so on. What is the 53rd number said?",
+        "options": {
+          "A": "$2$",
+          "B": "$3$",
+          "C": "$5$",
+          "D": "$6$",
+          "E": "$8$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 14,
+        "problem": "Define $a\\clubsuit b=a^2b-ab^2$. Which of the following describes the set of points $(x, y)$ for which $x\\clubsuit y=y\\clubsuit x$?",
+        "options": {
+          "A": "$\\text{a finite set of points}\\\\$",
+          "B": "$\\text{one line}\\\\$",
+          "C": "$\\text{two parallel lines}\\\\$",
+          "D": "$\\text{two intersecting lines}\\\\$",
+          "E": "$\\text{three lines}$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 15,
+        "problem": "A wire is cut into two pieces, one of length $a$ and the other of length $b$. The piece of length $a$ is bent to form an equilateral triangle, and the piece of length $b$ is bent to form a regular hexagon. The triangle and the hexagon have equal area. What is $\\frac{a}{b}$?",
+        "options": {
+          "A": "$1$",
+          "B": "$\\frac{\\sqrt{6}}{2}$",
+          "C": "$\\sqrt{3}$",
+          "D": "$2$",
+          "E": "$\\frac{3\\sqrt{2}}{2}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 16,
+        "problem": "In triangle $ABC$, medians $AD$ and $CE$ intersect at $P$, $PE=1.5$, $PD=2$, and $DE=2.5$. What is the area of $AEDC$?",
+        "options": {
+          "A": "$13$",
+          "B": "$13.5$",
+          "C": "$14$",
+          "D": "$14.5$",
+          "E": "$15$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 17,
+        "problem": "Alex has $75$ red tokens and $75$ blue tokens. There is a booth where Alex can give two red tokens and receive in return a silver token and a blue token, and another booth where Alex can give three blue tokens and receive in return a silver token and a red token. Alex continues to exchange tokens until no more exchanges are possible. How many silver tokens will Alex have at the end?",
+        "options": {
+          "A": "$62$",
+          "B": "$82$",
+          "C": "$83$",
+          "D": "$102$",
+          "E": "$103$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 18,
+        "problem": "The number $2013$ has the property that its units digit is the sum of its other digits, that is $2+0+1=3$. How many integers less than $2013$ but greater than $1000$ share this property?",
+        "options": {
+          "A": "$33$",
+          "B": "$34$",
+          "C": "$45$",
+          "D": "$46$",
+          "E": "$58$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 19,
+        "problem": "The real numbers $c,b,a$ form an arithmetic sequence with $a\\ge b\\ge c\\ge 0$. The quadratic $ax^2+bx+c$ has exactly one root. What is this root?",
+        "options": {
+          "A": "$-7-4\\sqrt{3}$",
+          "B": "$-2-\\sqrt{3}$",
+          "C": "$-1$",
+          "D": "$-2+\\sqrt{3}$",
+          "E": "$-7+4\\sqrt{3}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 20,
+        "problem": "The number $2013$ is expressed in the form where $a_1\\ge a_2\\ge\\cdots\\ge a_m$ and $b_1\\ge b_2\\ge\\cdots\\ge b_n$ are positive integers and $a_1+b_1$ is as small as possible. What is $|a_1-b_1|$?",
+        "options": {
+          "A": "$1$",
+          "B": "$2$",
+          "C": "$3$",
+          "D": "$4$",
+          "E": "$5$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 21,
+        "problem": "Two non-decreasing sequences of nonnegative integers have different first terms. Each sequence has the property that each term, beginning with the third, is the sum of the previous two terms, and the seventh term of each sequence is $N$. What is the smallest possible value of $N$?",
+        "options": {
+          "A": "$55$",
+          "B": "$89$",
+          "C": "$104$",
+          "D": "$144$",
+          "E": "$273$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 22,
+        "problem": "The regular octagon $ABCDEFGH$ has its center at $J$. Each of the vertices and the center are to be associated with one of the digits $1$ through $9$, with each digit used once, in such a way that the sums of the numbers on the lines $AJE$, $BJF$, $CJG$, and $DJH$ are all equal. In how many ways can this be done?",
+        "options": {
+          "A": "$384$",
+          "B": "$576$",
+          "C": "$1152$",
+          "D": "$1680$",
+          "E": "$3456$ [Diagram]$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 23,
+        "problem": "In triangle $ABC$, $AB = 13$, $BC = 14$, and $CA = 15$. Distinct points $D$, $E$, and $F$ lie on segments $\\overline{BC}$, $\\overline{CA}$, and $\\overline{DE}$, respectively, such that $\\overline{AD} \\perp \\overline{BC}$, $\\overline{DE} \\perp \\overline{AC}$, and $\\overline{AF} \\perp \\overline{BF}$. The length of segment $\\overline{DF}$ can be written as $\\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. What is $m + n$?",
+        "options": {
+          "A": "$18$",
+          "B": "$21$",
+          "C": "$24$",
+          "D": "$27$",
+          "E": "$30$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 24,
+        "problem": "A positive integer $n$ is nice if there is a positive integer $m$ with exactly four positive divisors (including $1$ and $m$) such that the sum of the four divisors is equal to $n$. How many numbers in the set $\\{ 2010,2011,2012,\\dotsc,2019 \\}$ are nice?",
+        "options": {
+          "A": "$1$",
+          "B": "$2$",
+          "C": "$3$",
+          "D": "$4$",
+          "E": "$5$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 25,
+        "problem": "Bernardo chooses a three-digit positive integer $N$ and writes both its base-5 and base-6 representations on a blackboard. Later LeRoy sees the two numbers Bernardo has written. Treating the two numbers as base-10 integers, he adds them to obtain an integer $S$. For example, if $N = 749$, Bernardo writes the numbers $10,444$ and $3,245$, and LeRoy obtains the sum $S = 13,689$. For how many choices of $N$ are the two rightmost digits of $S$, in order, the same as those of $2N$?",
+        "options": {
+          "A": "$5$",
+          "B": "$10$",
+          "C": "$15$",
+          "D": "$20$",
+          "E": "$25$"
+        },
+        "answer": "E"
+      }
+    ]
+  }
+}

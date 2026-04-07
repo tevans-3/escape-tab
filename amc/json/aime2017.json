@@ -1,0 +1,160 @@
+{
+  "year": 2017,
+  "contest": "AIME",
+  "variants": {
+    "I": [
+      {
+        "number": 1,
+        "problem": "Fifteen distinct points are designated on $\\triangle ABC$: the 3 vertices $A$, $B$, and $C$; $3$ other points on side $\\overline{AB}$; $4$ other points on side $\\overline{BC}$; and $5$ other points on side $\\overline{CA}$. Find the number of triangles with positive area whose vertices are among these $15$ points.",
+        "answer": "390"
+      },
+      {
+        "number": 2,
+        "problem": "When each of $702$, $787$, and $855$ is divided by the positive integer $m$, the remainder is always the positive integer $r$. When each of $412$, $722$, and $815$ is divided by the positive integer $n$, the remainder is always the positive integer $s \\neq r$. Find $m+n+r+s$.",
+        "answer": "062"
+      },
+      {
+        "number": 3,
+        "problem": "For a positive integer $n$, let $d_n$ be the units digit of $1 + 2 + \\dots + n$. Find the remainder when [IMG:AIME_2017_I_3.png] is divided by $1000$.",
+        "answer": "069"
+      },
+      {
+        "number": 4,
+        "problem": "A pyramid has a triangular base with side lengths $20$, $20$, and $24$. The three edges of the pyramid from the three corners of the base to the fourth vertex of the pyramid all have length $25$. The volume of the pyramid is $m\\sqrt{n}$, where $m$ and $n$ are positive integers, and $n$ is not divisible by the square of any prime. Find $m+n$.",
+        "answer": "803"
+      },
+      {
+        "number": 5,
+        "problem": "A rational number written in base eight is $\\underline{a} \\underline{b} . \\underline{c} \\underline{d}$, where all digits are nonzero. The same number in base twelve is $\\underline{b} \\underline{b} . \\underline{b} \\underline{a}$. Find the base-ten number $\\underline{a} \\underline{b} \\underline{c}$.",
+        "answer": "321"
+      },
+      {
+        "number": 6,
+        "problem": "A circle circumscribes an isosceles triangle whose two congruent angles have degree measure $x$. Two points are chosen independently and uniformly at random on the circle, and a chord is drawn between them. The probability that the chord intersects the triangle is $\\frac{14}{25}$. Find the difference between the largest and smallest possible values of $x$.",
+        "answer": "048"
+      },
+      {
+        "number": 7,
+        "problem": "For nonnegative integers $a$ and $b$ with $a + b \\leq 6$, let $T(a, b) = \\binom{6}{a} \\binom{6}{b} \\binom{6}{a + b}$. Let $S$ denote the sum of all $T(a, b)$, where $a$ and $b$ are nonnegative integers with $a + b \\leq 6$. Find the remainder when $S$ is divided by $1000$.",
+        "answer": "564"
+      },
+      {
+        "number": 8,
+        "problem": "Two real numbers $a$ and $b$ are chosen independently and uniformly at random from the interval $(0, 75)$. Let $O$ and $P$ be two points on the plane with $OP = 200$. Let $Q$ and $R$ be on the same side of line $OP$ such that the degree measures of $\\angle POQ$ and $\\angle POR$ are $a$ and $b$ respectively, and $\\angle OQP$ and $\\angle ORP$ are both right angles. The probability that $QR \\leq 100$ is equal to $\\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m + n$.",
+        "answer": "041"
+      },
+      {
+        "number": 9,
+        "problem": "Let $a_{10} = 10$, and for each positive integer $n >10$ let $a_n = 100a_{n - 1} + n$. Find the least positive $n > 10$ such that $a_n$ is a multiple of $99$.",
+        "answer": "045"
+      },
+      {
+        "number": 10,
+        "problem": "Let $z_1 = 18 + 83i$, $z_2 = 18 + 39i,$ and $z_3 = 78 + 99i,$ where $i = \\sqrt{-1}$. Let $z$ be the unique complex number with the properties that $\\frac{z_3 - z_1}{z_2 - z_1} \\cdot \\frac{z - z_2}{z - z_3}$ is a real number and the imaginary part of $z$ is the greatest possible. Find the real part of $z$.",
+        "answer": "056"
+      },
+      {
+        "number": 11,
+        "problem": "Consider arrangements of the $9$ numbers $1, 2, 3, \\dots, 9$ in a $3 \\times 3$ array. For each such arrangement, let $a_1$, $a_2$, and $a_3$ be the medians of the numbers in rows $1$, $2$, and $3$ respectively, and let $m$ be the median of $\\{a_1, a_2, a_3\\}$. Let $Q$ be the number of arrangements for which $m = 5$. Find the remainder when $Q$ is divided by $1000$.",
+        "answer": "360"
+      },
+      {
+        "number": 12,
+        "problem": "Call a set $S$ product-free if there do not exist $a, b, c \\in S$ (not necessarily distinct) such that $a b = c$. For example, the empty set and the set $\\{16, 20\\}$ are product-free, whereas the sets $\\{4, 16\\}$ and $\\{2, 8, 16\\}$ are not product-free. Find the number of product-free subsets of the set $\\{1, 2, 3, 4, \\ldots, 7, 8, 9, 10\\}$.",
+        "answer": "252"
+      },
+      {
+        "number": 13,
+        "problem": "For every $m \\geq 2$, let $Q(m)$ be the least positive integer with the following property: For every $n \\geq Q(m)$, there is always a perfect cube $k^3$ in the range $n < k^3 \\leq mn$. Find the remainder when [IMG:AIME_2017_I_13.png] is divided by $1000$.",
+        "answer": "059"
+      },
+      {
+        "number": 14,
+        "problem": "Let $a > 1$ and $x > 1$ satisfy $\\log_a(\\log_a(\\log_a 2) + \\log_a 24 - 128) = 128$ and $\\log_a(\\log_a x) = 256$. Find the remainder when $x$ is divided by $1000$.",
+        "answer": "896"
+      },
+      {
+        "number": 15,
+        "problem": "The area of the smallest equilateral triangle with one vertex on each of the sides of the right triangle with side lengths $2\\sqrt3$, $5$, and $\\sqrt{37}$, as shown, is $\\tfrac{m\\sqrt{p}}{n}$, where $m$, $n$, and $p$ are positive integers, $m$ and $n$ are relatively prime, and $p$ is not divisible by the square of any prime. Find $m+n+p$. [IMG:AIME_2017_I_15.png]",
+        "answer": "145"
+      }
+    ],
+    "II": [
+      {
+        "number": 1,
+        "problem": "Find the number of subsets of $\\{1, 2, 3, 4, 5, 6, 7, 8\\}$ that are subsets of neither $\\{1, 2, 3, 4, 5\\}$ nor $\\{4, 5, 6, 7, 8\\}$.",
+        "answer": "196"
+      },
+      {
+        "number": 2,
+        "problem": "Teams $T_1$, $T_2$, $T_3$, and $T_4$ are in the playoffs. In the semifinal matches, $T_1$ plays $T_4$, and $T_2$ plays $T_3$. The winners of those two matches will play each other in the final match to determine the champion. When $T_i$ plays $T_j$, the probability that $T_i$ wins is $\\frac{i}{i+j}$, and the outcomes of all the matches are independent. The probability that $T_4$ will be the champion is $\\frac{p}{q}$, where $p$ and $q$ are relatively prime positive integers. Find $p+q$.",
+        "answer": "781"
+      },
+      {
+        "number": 3,
+        "problem": "A triangle has vertices $A(0,0)$, $B(12,0)$, and $C(8,10)$. The probability that a randomly chosen point inside the triangle is closer to vertex $B$ than to either vertex $A$ or vertex $C$ can be written as $\\frac{p}{q}$, where $p$ and $q$ are relatively prime positive integers. Find $p+q$.",
+        "answer": "409"
+      },
+      {
+        "number": 4,
+        "problem": "Find the number of positive integers less than or equal to $2017$ whose base-three representation contains no digit equal to $0$.",
+        "answer": "222"
+      },
+      {
+        "number": 5,
+        "problem": "A set contains four numbers. The six pairwise sums of distinct elements of the set, in no particular order, are $189$, $320$, $287$, $234$, $x$, and $y$. Find the greatest possible value of $x+y$.",
+        "answer": "791"
+      },
+      {
+        "number": 6,
+        "problem": "Find the sum of all positive integers $n$ such that $\\sqrt{n^2+85n+2017}$ is an integer.",
+        "answer": "195"
+      },
+      {
+        "number": 7,
+        "problem": "Find the number of integer values of $k$ in the closed interval $[-500,500]$ for which the equation $\\log(kx)=2\\log(x+2)$ has exactly one real solution.",
+        "answer": "501"
+      },
+      {
+        "number": 8,
+        "problem": "Find the number of positive integers $n$ less than $2017$ such that [IMG:AIME_2017_II_8.png] is an integer.",
+        "answer": "134"
+      },
+      {
+        "number": 9,
+        "problem": "A special deck of cards contains $49$ cards, each labeled with a number from $1$ to $7$ and colored with one of seven colors. Each number-color combination appears on exactly one card. Sharon will select a set of eight cards from the deck at random. Given that she gets at least one card of each color and at least one card with each number, the probability that Sharon can discard one of her cards and $\\textit{still}$ have at least one card of each color and at least one card with each number is $\\frac{p}{q}$, where $p$ and $q$ are relatively prime positive integers. Find $p+q$.",
+        "answer": "013"
+      },
+      {
+        "number": 10,
+        "problem": "Rectangle $ABCD$ has side lengths $AB=84$ and $AD=42$. Point $M$ is the midpoint of $\\overline{AD}$, point $N$ is the trisection point of $\\overline{AB}$ closer to $A$, and point $O$ is the intersection of $\\overline{CM}$ and $\\overline{DN}$. Point $P$ lies on the quadrilateral $BCON$, and $\\overline{BP}$ bisects the area of $BCON$. Find the area of $\\triangle CDP$.",
+        "answer": "546"
+      },
+      {
+        "number": 11,
+        "problem": "Five towns are connected by a system of roads. There is exactly one road connecting each pair of towns. Find the number of ways there are to make all the roads one-way in such a way that it is still possible to get from any town to any other town using the roads (possibly passing through other towns on the way).",
+        "answer": "544"
+      },
+      {
+        "number": 12,
+        "problem": "Circle $C_0$ has radius $1$, and the point $A_0$ is a point on the circle. Circle $C_1$ has radius $r<1$ and is internally tangent to $C_0$ at point $A_0$. Point $A_1$ lies on circle $C_1$ so that $A_1$ is located $90^{\\circ}$ counterclockwise from $A_0$ on $C_1$. Circle $C_2$ has radius $r^2$ and is internally tangent to $C_1$ at point $A_1$. In this way a sequence of circles $C_1,C_2,C_3,\\ldots$ and a sequence of points on the circles $A_1,A_2,A_3,\\ldots$ are constructed, where circle $C_n$ has radius $r^n$ and is internally tangent to circle $C_{n-1}$ at point $A_{n-1}$, and point $A_n$ lies on $C_n$ $90^{\\circ}$ counterclockwise from point $A_{n-1}$, as shown in the figure below. There is one point $B$ inside all of these circles. When $r = \\frac{11}{60}$, the distance from the center $C_0$ to $B$ is $\\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$. [IMG:AIME_2017_II_12.png]",
+        "answer": "110"
+      },
+      {
+        "number": 13,
+        "problem": "For each integer $n\\geq3$, let $f(n)$ be the number of $3$-element subsets of the vertices of a regular $n$-gon that are the vertices of an isosceles triangle (including equilateral triangles). Find the sum of all values of $n$ such that $f(n+1)=f(n)+78$.",
+        "answer": "245"
+      },
+      {
+        "number": 14,
+        "problem": "A $10\\times10\\times10$ grid of points consists of all points in space of the form $(i,j,k)$, where $i$, $j$, and $k$ are integers between $1$ and $10$, inclusive. Find the number of different lines that contain exactly $8$ of these points.",
+        "answer": "168"
+      },
+      {
+        "number": 15,
+        "problem": "Tetrahedron $ABCD$ has $AD=BC=28$, $AC=BD=44$, and $AB=CD=52$. For any point $X$ in space, define $f(X)=AX+BX+CX+DX$. The least possible value of $f(X)$ can be expressed as $m\\sqrt{n}$, where $m$ and $n$ are positive integers, and $n$ is not divisible by the square of any prime. Find $m+n$.",
+        "answer": "682"
+      }
+    ]
+  }
+}

@@ -1,0 +1,598 @@
+{
+  "year": 2002,
+  "contest": "AMC 12",
+  "variants": {
+    "A": [
+      {
+        "number": 1,
+        "problem": "Compute the sum of all the roots of $(2x+3)(x-4)+(2x+3)(x-6)=0$",
+        "options": {
+          "A": "$\\frac{7}{2}$",
+          "B": "$4$",
+          "C": "$5$",
+          "D": "$7$",
+          "E": "$13$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 2,
+        "problem": "Cindy was asked by her teacher to subtract 3 from a certain number and then divide the result by 9. Instead, she subtracted 9 and then divided the result by 3, giving an answer of 43. What would her answer have been had she worked the problem correctly?",
+        "options": {
+          "A": "$15$",
+          "B": "$34$",
+          "C": "$43$",
+          "D": "$51$",
+          "E": "$138$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 3,
+        "problem": "According to the standard convention for exponentiation, [IMG:AMC12_2002_A_3.png] If the order in which the exponentiations are performed is changed, how many other values are possible?",
+        "options": {
+          "A": "$0$",
+          "B": "$1$",
+          "C": "$2$",
+          "D": "$3$",
+          "E": "$4$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 4,
+        "problem": "Find the degree measure of an angle whose complement is 25% of its supplement.",
+        "options": {
+          "A": "$48 }$",
+          "B": "$60 }$",
+          "C": "$75 }$",
+          "D": "$120 }$",
+          "E": "$150 }$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 5,
+        "problem": "Each of the small circles in the figure has radius one. The innermost circle is tangent to the six circles that surround it, and each of those circles is tangent to the large circle and to its small-circle neighbors. Find the area of the shaded region. [IMG:AMC12_2002_A_5.png]",
+        "options": {
+          "A": "$\\pi$",
+          "B": "$1.5\\pi$",
+          "C": "$2\\pi$",
+          "D": "$3\\pi$",
+          "E": "$3.5\\pi$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 6,
+        "problem": "For how many positive integers $m$ does there exist at least one positive integer $n$ such that $m \\cdot n \\le m + n$?",
+        "options": {
+          "A": "$4$",
+          "B": "$6$",
+          "C": "$9$",
+          "D": "$12$",
+          "E": "$ infinitely many$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 7,
+        "problem": "A $45^\\circ$ arc of circle A is equal in length to a $30^\\circ$ arc of circle B. What is the ratio of circle A's area and circle B's area?",
+        "options": {
+          "A": "$4/9$",
+          "B": "$2/3$",
+          "C": "$5/6$",
+          "D": "$3/2$",
+          "E": "$9/4$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 8,
+        "problem": "Betsy designed a flag using blue triangles, small white squares, and a red center square, as shown. Let $B$ be the total area of the blue triangles, $W$ the total area of the white squares, and $R$ the area of the red square. Which of the following is correct? [IMG:AMC12_2002_A_8.png]",
+        "options": {
+          "A": "$B = W$",
+          "B": "$W = R$",
+          "C": "$B = R$",
+          "D": "$3B = 2R$",
+          "E": "$2R = W$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 9,
+        "problem": "Jamal wants to save 30 files onto disks, each with 1.44 MB space. 3 of the files take up 0.8 MB, 12 of the files take up 0.7 MB, and the rest take up 0.4 MB. It is not possible to split a file onto 2 different disks. What is the smallest number of disks needed to store all 30 files?",
+        "options": {
+          "A": "$12$",
+          "B": "$13$",
+          "C": "$14$",
+          "D": "$15$",
+          "E": "$16$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 10,
+        "problem": "Sarah places four ounces of coffee into an eight-ounce cup and four ounces of cream into a second cup of the same size. She then pours half the coffee from the first cup to the second and, after stirring thoroughly, pours half the liquid in the second cup back to the first. What fraction of the liquid in the first cup is now cream?",
+        "options": {
+          "A": "$\\frac{1}{4}$",
+          "B": "$\\frac13$",
+          "C": "$\\frac38$",
+          "D": "$\\frac25$",
+          "E": "$\\frac12$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 11,
+        "problem": "Mr. Earl E. Bird gets up every day at 8:00 AM to go to work. If he drives at an average speed of 40 miles per hour, he will be late by 3 minutes. If he drives at an average speed of 60 miles per hour, he will be early by 3 minutes. How many miles per hour does Mr. Bird need to drive to get to work exactly on time?",
+        "options": {
+          "A": "$45$",
+          "B": "$48$",
+          "C": "$50$",
+          "D": "$55$",
+          "E": "$58$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 12,
+        "problem": "Both roots of the quadratic equation $x^2 - 63x + k = 0$ are prime numbers. The number of possible values of $k$ is",
+        "options": {
+          "A": "$0$",
+          "B": "$1$",
+          "C": "$2$",
+          "D": "$4$",
+          "E": "$more than 4}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 13,
+        "problem": "Two different positive numbers $a$ and $b$ each differ from their reciprocals by $1$. What is $a+b$?",
+        "options": {
+          "A": "$1$",
+          "B": "$2$",
+          "C": "$\\sqrt 5$",
+          "D": "$\\sqrt 6$",
+          "E": "$3$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 14,
+        "problem": "For all positive integers $n$, let $f(n)=\\log_{2002} n^2$. Let $N=f(11)+f(13)+f(14)$. Which of the following relations is true?",
+        "options": {
+          "A": "$N<1$",
+          "B": "$N=1$",
+          "C": "$1<N<2$",
+          "D": "$N=2$",
+          "E": "$N>2$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 15,
+        "problem": "The mean, median, unique mode, and range of a collection of eight integers are all equal to 8. The largest integer that can be an element of this collection is",
+        "options": {
+          "A": "$11$",
+          "B": "$12$",
+          "C": "$13$",
+          "D": "$14$",
+          "E": "$15$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 16,
+        "problem": "Tina randomly selects two distinct numbers from the set $\\{1, 2, 3, 4, 5\\}$, and Sergio randomly selects a number from the set $\\{1, 2, \\ldots, 10\\}$. What is the probability that Sergio's number is larger than the sum of the two numbers chosen by Tina?",
+        "options": {
+          "A": "$2/5$",
+          "B": "$9/20$",
+          "C": "$1/2$",
+          "D": "$11/20$",
+          "E": "$24/25$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 17,
+        "problem": "Several sets of prime numbers, such as $\\{7,83,421,659\\}$ use each of the nine nonzero digits exactly once. What is the smallest possible sum such a set of primes could have?",
+        "options": {
+          "A": "$193$",
+          "B": "$207$",
+          "C": "$225$",
+          "D": "$252$",
+          "E": "$447$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 18,
+        "problem": "Let $C_1$ and $C_2$ be circles defined by $(x-10)^2 + y^2 = 36$ and $(x+15)^2 + y^2 = 81$ respectively. What is the length of the shortest line segment $PQ$ that is tangent to $C_1$ at $P$ and to $C_2$ at $Q$?",
+        "options": {
+          "A": "$15$",
+          "B": "$18$",
+          "C": "$20$",
+          "D": "$21$",
+          "E": "$24$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 19,
+        "problem": "The graph of the function $f$ is shown below. How many solutions does the equation $f(f(x))=6$ have? [IMG:AMC12_2002_A_19.png]",
+        "options": {
+          "A": "$2$",
+          "B": "$4$",
+          "C": "$5$",
+          "D": "$6$",
+          "E": "$7$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 20,
+        "problem": "Suppose that $a$ and $b$ are digits, not both nine and not both zero, and the repeating decimal $0.\\overline{ab}$ is expressed as a fraction in lowest terms. How many different denominators are possible?",
+        "options": {
+          "A": "$3$",
+          "B": "$4$",
+          "C": "$5$",
+          "D": "$8$",
+          "E": "$9$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 21,
+        "problem": "Consider the sequence of numbers: $4,7,1,8,9,7,6,\\dots$ For $n>2$, the $n$-th term of the sequence is the units digit of the sum of the two previous terms. Let $S_n$ denote the sum of the first $n$ terms of this sequence. The smallest value of $n$ for which $S_n>10,000$ is:",
+        "options": {
+          "A": "$1992$",
+          "B": "$1999$",
+          "C": "$2001$",
+          "D": "$2002$",
+          "E": "$2004$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 22,
+        "problem": "Triangle $ABC$ is a right triangle with $\\angle ACB$ as its right angle, $m\\angle ABC = 60^{\\circ}$, and $AB = 10$. Let $P$ be randomly chosen inside $\\triangle ABC$, and extend $\\overline{BP}$ to meet $\\overline{AC}$ at $D$. What is the probability that $BD > 5\\sqrt{2}$?",
+        "options": {
+          "A": "$\\frac{2-\\sqrt2}{2}$",
+          "B": "$\\frac{1}{3}$",
+          "C": "$\\frac{3-\\sqrt3}{3}$",
+          "D": "$\\frac{1}{2}$",
+          "E": "$\\frac{5-\\sqrt5}{5}$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 23,
+        "problem": "In triangle $ABC$, side $AC$ and the perpendicular bisector of $BC$ meet in point $D$, and $BD$ bisects $\\angle ABC$. If $AD = 9$ and $DC = 7$, what is the area of triangle $ABD$?",
+        "options": {
+          "A": "$14$",
+          "B": "$21$",
+          "C": "$28$",
+          "D": "$14\\sqrt5$",
+          "E": "$28\\sqrt5$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 24,
+        "problem": "Find the number of ordered pairs of real numbers $(a,b)$ such that $(a+bi)^{2002} = a-bi$.",
+        "options": {
+          "A": "$1001$",
+          "B": "$1002$",
+          "C": "$2001$",
+          "D": "$2002$",
+          "E": "$2004$"
+        },
+        "answer": "E"
+      }
+    ],
+    "B": [
+      {
+        "number": 1,
+        "problem": "The arithmetic mean of the nine numbers in the set $\\{9, 99, 999, 9999, \\ldots, 999999999\\}$ is a $9$-digit number $M$, all of whose digits are distinct. The number $M$ does not contain the digit",
+        "options": {
+          "A": "$0$",
+          "B": "$2$",
+          "C": "$4$",
+          "D": "$6$",
+          "E": "$8$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 2,
+        "problem": "What is the value of when $x=4$?",
+        "options": {
+          "A": "$0$",
+          "B": "$1$",
+          "C": "$10$",
+          "D": "$11$",
+          "E": "$12$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 3,
+        "problem": "For how many positive integers $n$ is $n^2 - 3n + 2$ a prime number?",
+        "options": {
+          "A": "$\\text{none}$",
+          "B": "$\\text{one}$",
+          "C": "$\\text{two}$",
+          "D": "$\\text{more\\ than\\ two,\\ but\\ finitely\\ many}$",
+          "E": "$\\text{infinitely\\ many}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 4,
+        "problem": "Let $n$ be a positive integer such that $\\frac 12 + \\frac 13 + \\frac 17 + \\frac 1n$ is an integer. Which of the following statements is not true:",
+        "options": {
+          "A": "$2\\ \\text{divides\\ }n$",
+          "B": "$3\\ \\text{divides\\ }n$",
+          "C": "$6\\ \\text{divides\\ }n$",
+          "D": "$7\\ \\text{divides\\ }n$",
+          "E": "${n > 84}$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 5,
+        "problem": "Let $v, w, x, y,$ and $z$ be the degree measures of the five angles of a pentagon. Suppose that $v < w < x < y < z$ and $v, w, x, y,$ and $z$ form an arithmetic sequence. Find the value of $x$.",
+        "options": {
+          "A": "$72$",
+          "B": "$84$",
+          "C": "$90$",
+          "D": "$108$",
+          "E": "$120$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 6,
+        "problem": "Suppose that $a$ and $b$ are nonzero real numbers, and that the equation $x^2 + ax + b = 0$ has solutions $a$ and $b$. Then the pair $(a,b)$ is",
+        "options": {
+          "A": "$(-2,1)$",
+          "B": "$(-1,2)$",
+          "C": "$(1,-2)$",
+          "D": "$(2,-1)$",
+          "E": "$(4,4)$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 7,
+        "problem": "The product of three consecutive positive integers is $8$ times their sum. What is the sum of their squares?",
+        "options": {
+          "A": "$50$",
+          "B": "$77$",
+          "C": "$110$",
+          "D": "$149$",
+          "E": "$194$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 8,
+        "problem": "Suppose July of year $N$ has five Mondays. Which of the following must occur five times in August of year $N$? (Note: Both months have 31 days.)",
+        "options": {
+          "A": "$\\text{Monday}$",
+          "B": "$\\text{Tuesday}$",
+          "C": "$\\text{Wednesday}$",
+          "D": "$\\text{Thursday}$",
+          "E": "$\\text{Friday}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 9,
+        "problem": "If $a,b,c,d$ are positive real numbers such that $a,b,c,d$ form an increasing arithmetic sequence and $a,b,d$ form a geometric sequence, then $\\frac ad$ is",
+        "options": {
+          "A": "$\\frac 1{12}$",
+          "B": "$\\frac 16$",
+          "C": "$\\frac 14$",
+          "D": "$\\frac 13$",
+          "E": "$\\frac 12$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 10,
+        "problem": "How many different integers can be expressed as the sum of three distinct members of the set $\\{1,4,7,10,13,16,19\\}$?",
+        "options": {
+          "A": "$13$",
+          "B": "$16$",
+          "C": "$24$",
+          "D": "$30$",
+          "E": "$35$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 11,
+        "problem": "The positive integers $A, B, A-B,$ and $A+B$ are all prime numbers. The sum of these four primes is",
+        "options": {
+          "A": "$\\mathrm{even}$",
+          "B": "$\\mathrm{divisible\\ by\\ }3$",
+          "C": "$\\mathrm{divisible\\ by\\ }5$",
+          "D": "$\\mathrm{divisible\\ by\\ }7$",
+          "E": "$\\mathrm{prime}$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 12,
+        "problem": "For how many integers $n$ is $\\dfrac n{20-n}$ the square of an integer?",
+        "options": {
+          "A": "$1$",
+          "B": "$2$",
+          "C": "$3$",
+          "D": "$4$",
+          "E": "$10$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 13,
+        "problem": "The sum of $18$ consecutive positive integers is a perfect square. The smallest possible value of this sum is",
+        "options": {
+          "A": "$169$",
+          "B": "$225$",
+          "C": "$289$",
+          "D": "$361$",
+          "E": "$441$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 14,
+        "problem": "Four distinct circles are drawn in a plane. What is the maximum number of points where at least two of the circles intersect?",
+        "options": {
+          "A": "$8$",
+          "B": "$9$",
+          "C": "$10$",
+          "D": "$12$",
+          "E": "$16$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 15,
+        "problem": "How many four-digit numbers $N$ have the property that the three-digit number obtained by removing the leftmost digit is one ninth of $N$?",
+        "options": {
+          "A": "$4$",
+          "B": "$5$",
+          "C": "$6$",
+          "D": "$7$",
+          "E": "$8$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 16,
+        "problem": "Juan rolls a fair regular octahedral die marked with the numbers $1$ through $8$. Then Amal rolls a fair six-sided die. What is the probability that the product of the two rolls is a multiple of 3?",
+        "options": {
+          "A": "$\\frac1{12}$",
+          "B": "$\\frac 13$",
+          "C": "$\\frac 12$",
+          "D": "$\\frac 7{12}$",
+          "E": "$\\frac 23$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 17,
+        "problem": "Andy\u2019s lawn has twice as much area as Beth\u2019s lawn and three times as much area as Carlos\u2019 lawn. Carlos\u2019 lawn mower cuts half as fast as Beth\u2019s mower and one third as fast as Andy\u2019s mower. If they all start to mow their lawns at the same time, who will finish first?",
+        "options": {
+          "A": "$\\text{Andy}$",
+          "B": "$\\text{Beth}$",
+          "C": "$\\text{Carlos}$",
+          "D": "$\\text{Andy\\ and \\ Carlos\\ tie\\ for\\ first.}$",
+          "E": "$\\text{All\\ three\\ tie.}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 18,
+        "problem": "A point $P$ is randomly selected from the rectangular region with vertices $(0,0),(2,0),(2,1),(0,1)$. What is the probability that $P$ is closer to the origin than it is to the point $(3,1)$?",
+        "options": {
+          "A": "$\\frac 12$",
+          "B": "$\\frac 23$",
+          "C": "$\\frac 34$",
+          "D": "$\\frac 45$",
+          "E": "$1$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 19,
+        "problem": "If $a,b,$ and $c$ are positive real numbers such that $a(b+c) = 152, b(c+a) = 162,$ and $c(a+b) = 170$, then $abc$ is",
+        "options": {
+          "A": "$672$",
+          "B": "$688$",
+          "C": "$704$",
+          "D": "$720$",
+          "E": "$750$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 20,
+        "problem": "Let $\\triangle XOY$ be a right-angled triangle with $\\angle XOY = 90^{\\circ}$. Let $M$ and $N$ be the midpoints of legs $OX$ and $OY$, respectively. Given that $XN = 19$ and $YM = 22$, find $XY$.",
+        "options": {
+          "A": "$24$",
+          "B": "$26$",
+          "C": "$28$",
+          "D": "$30$",
+          "E": "$32$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 21,
+        "problem": "For all positive integers $n$ less than $2002$, let [IMG:AMC12_2002_B_21.png] Calculate $\\sum_{n=1}^{2001} a_n$.",
+        "options": {
+          "A": "$448$",
+          "B": "$486$",
+          "C": "$1560$",
+          "D": "$2001$",
+          "E": "$2002$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 22,
+        "problem": "For all integers $n$ greater than $1$, define $a_n = \\frac{1}{\\log_n 2002}$. Let $b = a_2 + a_3 + a_4 + a_5$ and $c = a_{10} + a_{11} + a_{12} + a_{13} + a_{14}$. Then $b- c$ equals",
+        "options": {
+          "A": "$-2$",
+          "B": "$-1$",
+          "C": "$\\frac{1}{2002}$",
+          "D": "$\\frac{1}{1001}$",
+          "E": "$\\frac 12$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 23,
+        "problem": "In $\\triangle ABC$, we have $AB = 1$ and $AC = 2$. Side $\\overline{BC}$ and the median from $A$ to $\\overline{BC}$ have the same length. What is $BC$?",
+        "options": {
+          "A": "$\\frac{1+\\sqrt{2}}{2}$",
+          "B": "$\\frac{1+\\sqrt{3}}2$",
+          "C": "$\\sqrt{2}$",
+          "D": "$\\frac 32$",
+          "E": "$\\sqrt{3}$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 24,
+        "problem": "A convex quadrilateral $ABCD$ with area $2002$ contains a point $P$ in its interior such that $PA = 24, PB = 32, PC = 28, PD = 45$. Find the perimeter of $ABCD$.",
+        "options": {
+          "A": "$4\\sqrt{2002}$",
+          "B": "$2\\sqrt{8465}$",
+          "C": "$2(48+$ $\\sqrt{2002})$",
+          "D": "$2\\sqrt{8633}$",
+          "E": "$4(36 + \\sqrt{113})$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 25,
+        "problem": "Let $f(x) = x^2 + 6x + 1$, and let $R$ denote the set of points $(x,y)$ in the coordinate plane such that [IMG:AMC12_2002_B_25.png] The area of $R$ is closest to",
+        "options": {
+          "A": "$21$",
+          "B": "$22$",
+          "C": "$23$",
+          "D": "$24$",
+          "E": "$25$"
+        },
+        "answer": "E"
+      }
+    ]
+  }
+}

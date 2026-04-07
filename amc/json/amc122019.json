@@ -1,0 +1,610 @@
+{
+  "year": 2019,
+  "contest": "AMC 12",
+  "variants": {
+    "A": [
+      {
+        "number": 1,
+        "problem": "The area of a pizza with radius $4$ inches is $N$ percent larger than the area of a pizza with radius $3$ inches. What is the integer closest to $N$?",
+        "options": {
+          "A": "$25$",
+          "B": "$33$",
+          "C": "$44$",
+          "D": "$66$",
+          "E": "$78$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 2,
+        "problem": "Suppose $a$ is $150\\%$ of $b$. What percent of $a$ is $3b$?",
+        "options": {
+          "A": "$50$",
+          "B": "$66+\\frac{2}{3}$",
+          "C": "$150$",
+          "D": "$200$",
+          "E": "$450$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 3,
+        "problem": "A box contains $28$ red balls, $20$ green balls, $19$ yellow balls, $13$ blue balls, $11$ white balls, and $9$ black balls. What is the minimum number of balls that must be drawn from the box without replacement to guarantee that at least $15$ balls of a single color will be drawn?",
+        "options": {
+          "A": "$75$",
+          "B": "$76$",
+          "C": "$79$",
+          "D": "$84$",
+          "E": "$91$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 4,
+        "problem": "What is the greatest number of consecutive integers whose sum is $45$?",
+        "options": {
+          "A": "$9$",
+          "B": "$25$",
+          "C": "$45$",
+          "D": "$90$",
+          "E": "$120$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 5,
+        "problem": "Two lines with slopes $\\dfrac{1}{2}$ and $2$ intersect at $(2,2)$. What is the area of the triangle enclosed by these two lines and the line $x+y=10$?",
+        "options": {
+          "A": "$4$",
+          "B": "$4\\sqrt{2}$",
+          "C": "$6$",
+          "D": "$8$",
+          "E": "$6\\sqrt{2}$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 6,
+        "problem": "The figure below shows line $\\ell$ with a regular, infinite, recurring pattern of squares and line segments. [IMG:AMC12_2019_A_6.png] How many of the following four kinds of rigid motion transformations of the plane in which this figure is drawn, other than the identity transformation, will transform this figure into itself? some rotation around a point of line $\\ell$ some translation in the direction parallel to line $\\ell$ the reflection across line $\\ell$ some reflection across a line perpendicular to line $\\ell$",
+        "options": {
+          "A": "$0$",
+          "B": "$1$",
+          "C": "$2$",
+          "D": "$3$",
+          "E": "$4$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 7,
+        "problem": "Melanie computes the mean $\\mu$, the median $M$, and the modes of the $365$ values that are the dates in the months of $2019$. Thus her data consist of $12$ $1\\text{s}$, $12$ $2\\text{s}$, . . . , $12$ $28\\text{s}$, $11$ $29\\text{s}$, $11$ $30\\text{s}$, and $7$ $31\\text{s}$. Let $d$ be the median of the modes. Which of the following statements is true?",
+        "options": {
+          "A": "$\\mu < d < M$",
+          "B": "$M < d < \\mu$",
+          "C": "$d = M =\\mu$",
+          "D": "$d < M < \\mu$",
+          "E": "$d < \\mu < M$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 8,
+        "problem": "For a set of four distinct lines in a plane, there are exactly $N$ distinct points that lie on two or more of the lines. What is the sum of all possible values of $N$?",
+        "options": {
+          "A": "$14$",
+          "B": "$16$",
+          "C": "$18$",
+          "D": "$19$",
+          "E": "$21$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 9,
+        "problem": "A sequence of numbers is defined recursively by $a_1 = 1$, $a_2 = \\frac{3}{7}$, and [IMG:AMC12_2019_A_9.png] for all $n \\geq 3$. Then $a_{2019}$ can be written as $\\frac{p}{q}$, where $p$ and $q$ are relatively prime positive integers. What is $p+q ?$",
+        "options": {
+          "A": "$2020$",
+          "B": "$4039$",
+          "C": "$6057$",
+          "D": "$6061$",
+          "E": "$8078$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 10,
+        "problem": "The figure below shows $13$ circles of radius $1$ within a larger circle. All the intersections occur at points of tangency. What is the area of the region, shaded in the figure, inside the larger circle but outside all the circles of radius $1$? [IMG:AMC12_2019_A_10.png]",
+        "options": {
+          "A": "$4 \\pi \\sqrt{3}$",
+          "B": "$7 \\pi$",
+          "C": "$\\pi\\left(3\\sqrt{3} +2\\right)$",
+          "D": "$10 \\pi \\left(\\sqrt{3} - 1\\right)$",
+          "E": "$\\pi\\left(\\sqrt{3} + 6\\right)$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 11,
+        "problem": "For some positive integer $k$, the repeating base-$k$ representation of the (base-ten) fraction $\\frac{7}{51}$ is $0.\\overline{23}_k = 0.232323..._k$. What is $k$?",
+        "options": {
+          "A": "$13$",
+          "B": "$14$",
+          "C": "$15$",
+          "D": "$16$",
+          "E": "$17$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 12,
+        "problem": "Positive real numbers $x \\neq 1$ and $y \\neq 1$ satisfy $\\log_2{x} = \\log_y{16}$ and $xy = 64$. What is $(\\log_2{\\tfrac{x}{y}})^2$?",
+        "options": {
+          "A": "$\\frac{25}{2}$",
+          "B": "$20$",
+          "C": "$\\frac{45}{2}$",
+          "D": "$25$",
+          "E": "$32$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 13,
+        "problem": "How many ways are there to paint each of the integers $2, 3, \\dots, 9$ either red, green, or blue so that each number has a different color from each of its proper divisors?",
+        "options": {
+          "A": "$144$",
+          "B": "$216$",
+          "C": "$256$",
+          "D": "$384$",
+          "E": "$432$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 14,
+        "problem": "For a certain complex number $c$, the polynomial [IMG:AMC12_2019_A_14.png] has exactly 4 distinct roots. What is $|c|$?",
+        "options": {
+          "A": "$2$",
+          "B": "$\\sqrt{6}$",
+          "C": "$2\\sqrt{2}$",
+          "D": "$3$",
+          "E": "$\\sqrt{10}$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 15,
+        "problem": "Positive real numbers $a$ and $b$ have the property that [IMG:AMC12_2019_A_15.png] and all four terms on the left are positive integers, where $\\log$ denotes the base-$10$ logarithm. What is $ab$?",
+        "options": {
+          "A": "$10^{52}$",
+          "B": "$10^{100}$",
+          "C": "$10^{144}$",
+          "D": "$10^{164}$",
+          "E": "$10^{200}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 16,
+        "problem": "The numbers $1,2,\\dots,9$ are randomly placed into the $9$ squares of a $3 \\times 3$ grid. Each square gets one number, and each of the numbers is used once. What is the probability that the sum of the numbers in each row and each column is odd?",
+        "options": {
+          "A": "$\\frac{1}{21}$",
+          "B": "$\\frac{1}{14}$",
+          "C": "$\\frac{5}{63}$",
+          "D": "$\\frac{2}{21}$",
+          "E": "$\\frac17$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 17,
+        "problem": "Let $s_k$ denote the sum of the $\\textit{k}$th powers of the roots of the polynomial $x^3-5x^2+8x-13$. In particular, $s_0=3$, $s_1=5$, and $s_2=9$. Let $a$, $b$, and $c$ be real numbers such that $s_{k+1} = a \\, s_k + b \\, s_{k-1} + c \\, s_{k-2}$ for $k = 2$, $3$, $....$ What is $a+b+c$?",
+        "options": {
+          "A": "$; -6$",
+          "B": "$; 0$",
+          "C": "$; 6$",
+          "D": "$; 10$",
+          "E": "$; 26$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 18,
+        "problem": "A sphere with center $O$ has radius $6$. A triangle with sides of length $15, 15,$ and $24$ is situated in space so that each of its sides is tangent to the sphere. What is the distance between $O$ and the plane determined by the triangle?",
+        "options": {
+          "A": "$2\\sqrt{3}$",
+          "B": "$4$",
+          "C": "$3\\sqrt{2}$",
+          "D": "$2\\sqrt{5}$",
+          "E": "$5\\qquad$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 19,
+        "problem": "In $\\triangle ABC$ with integer side lengths, What is the least possible perimeter for $\\triangle ABC$?",
+        "options": {
+          "A": "$9$",
+          "B": "$12$",
+          "C": "$23$",
+          "D": "$27$",
+          "E": "$44$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 20,
+        "problem": "Real numbers between $0$ and $1$, inclusive, are chosen in the following manner. A fair coin is flipped. If it lands heads, then it is flipped again and the chosen number is $0$ if the second flip is heads and $1$ if the second flip is tails. On the other hand, if the first coin flip is tails, then the number is chosen uniformly at random from the closed interval $[0,1]$. Two random numbers $x$ and $y$ are chosen independently in this manner. What is the probability that $|x-y| > \\tfrac{1}{2}$?",
+        "options": {
+          "A": "$\\frac{1}{3}$",
+          "B": "$\\frac{7}{16}$",
+          "C": "$\\frac{1}{2}$",
+          "D": "$\\frac{9}{16}$",
+          "E": "$\\frac{2}{3}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 21,
+        "problem": "Let [IMG:AMC12_2019_A_21_0.png] [IMG:AMC12_2019_A_21_1.png] What is [IMG:AMC12_2019_A_21_0.png] [IMG:AMC12_2019_A_21_1.png]",
+        "options": {
+          "A": "$18$",
+          "B": "$72-36\\sqrt2$",
+          "C": "$36$",
+          "D": "$72$",
+          "E": "$72+36\\sqrt2$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 22,
+        "problem": "Circles $\\omega$ and $\\gamma$, both centered at $O$, have radii $20$ and $17$, respectively. Equilateral triangle $ABC$, whose interior lies in the interior of $\\omega$ but in the exterior of $\\gamma$, has vertex $A$ on $\\omega$, and the line containing side $\\overline{BC}$ is tangent to $\\gamma$. Segments $\\overline{AO}$ and $\\overline{BC}$ intersect at $P$, and $\\dfrac{BP}{CP} = 3$. Then $AB$ can be written in the form $\\dfrac{m}{\\sqrt{n}} - \\dfrac{p}{\\sqrt{q}}$ for positive integers $m$, $n$, $p$, $q$ with $\\gcd(m,n) = \\gcd(p,q) = 1$. What is $m+n+p+q$? $\\phantom{ }$",
+        "options": {
+          "A": "$42$",
+          "B": "$86$",
+          "C": "$92$",
+          "D": "$114$",
+          "E": "$130$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 23,
+        "problem": "Define binary operations $\\diamondsuit$ and $\\heartsuit$ by [IMG:AMC12_2019_A_23_0.png] [IMG:AMC12_2019_A_23_1.png] for all real numbers $a$ and $b$ for which these expressions are defined. The sequence $(a_n)$ is defined recursively by $a_3 = 3\\, \\heartsuit\\, 2$ and [IMG:AMC12_2019_A_23_0.png] [IMG:AMC12_2019_A_23_1.png] for all integers $n \\geq 4$. To the nearest integer, what is $\\log_{7}(a_{2019})$?",
+        "options": {
+          "A": "$8$",
+          "B": "$9$",
+          "C": "$10$",
+          "D": "$11$",
+          "E": "$12$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 24,
+        "problem": "For how many integers $n$ between $1$ and $50$, inclusive, is [IMG:AMC12_2019_A_24.png] an integer? (Recall that $0! = 1$.)",
+        "options": {
+          "A": "$31$",
+          "B": "$32$",
+          "C": "$33$",
+          "D": "$34$",
+          "E": "$35$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 25,
+        "problem": "Let $\\triangle A_0B_0C_0$ be a triangle whose angle measures are exactly $59.999^\\circ$, $60^\\circ$, and $60.001^\\circ$. For each positive integer $n$, define $A_n$ to be the foot of the altitude from $A_{n-1}$ to line $B_{n-1}C_{n-1}$. Likewise, define $B_n$ to be the foot of the altitude from $B_{n-1}$ to line $A_{n-1}C_{n-1}$, and $C_n$ to be the foot of the altitude from $C_{n-1}$ to line $A_{n-1}B_{n-1}$. What is the least positive integer $n$ for which $\\triangle A_nB_nC_n$ is obtuse?",
+        "options": {
+          "A": "$10$",
+          "B": "$11$",
+          "C": "$13$",
+          "D": "$14$",
+          "E": "$15$"
+        },
+        "answer": "E"
+      }
+    ],
+    "B": [
+      {
+        "number": 1,
+        "problem": "Alicia had two containers. The first was $\\tfrac{5}{6}$ full of water and the second was empty. She poured all the water from the first container into the second container, at which point the second container was $\\tfrac{3}{4}$ full of water. What is the ratio of the volume of the first container to the volume of the second container?",
+        "options": {
+          "A": "$\\frac{5}{8}$",
+          "B": "$\\frac{4}{5}$",
+          "C": "$\\frac{7}{8}$",
+          "D": "$\\frac{9}{10}$",
+          "E": "$\\frac{11}{12}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 2,
+        "problem": "Consider the statement, \"If $n$ is not prime, then $n-2$ is prime.\" Which of the following values of $n$ is a counterexample to this statement?",
+        "options": {
+          "A": "$11$",
+          "B": "$15$",
+          "C": "$19$",
+          "D": "$21$",
+          "E": "$27$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 3,
+        "problem": "Which one of the following rigid transformations (isometries) maps the line segment $\\overline{AB}$ onto the line segment $\\overline{A&#39;B&#39;}$ so that the image of $A(-2,1)$ is $A&#39;(2,-1)$ and the image of $B(-1,4)$ is $B&#39;(1,-4)?$",
+        "options": {
+          "A": "$ reflection in the $y$-axis $\\textbf{$",
+          "B": "$ counterclockwise rotation around the origin by $90^{\\circ}$ $\\textbf{$",
+          "C": "$ translation by $3$ units to the right and $5$ units down $\\textbf{$",
+          "D": "$ reflection in the $x$-axis $\\textbf{$",
+          "E": "$ clockwise rotation about the origin by $180^{\\circ}$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 4,
+        "problem": "A positive integer $n$ satisfies the equation $(n+1)!+(n+2)!=440\\cdot n!$. What is the sum of the digits of $n$?",
+        "options": {
+          "A": "$2$",
+          "B": "$5$",
+          "C": "$10$",
+          "D": "$12$",
+          "E": "$15$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 5,
+        "problem": "Each piece of candy in a store costs a whole number of cents. Casper has exactly enough money to buy either $12$ pieces of red candy, $14$ pieces of green candy, $15$ pieces of blue candy, or $n$ pieces of purple candy. A piece of purple candy costs $20$ cents. What is the smallest possible value of $n$?",
+        "options": {
+          "A": "$18$",
+          "B": "$21$",
+          "C": "$24$",
+          "D": "$25$",
+          "E": "$28$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 6,
+        "problem": "In a given plane, points $A$ and $B$ are $10$ units apart. How many points $C$ are there in the plane such that the perimeter of $\\triangle ABC$ is $50$ units and the area of $\\triangle ABC$ is $100$ square units?",
+        "options": {
+          "A": "$0$",
+          "B": "$2$",
+          "C": "$4$",
+          "D": "$8$",
+          "E": "$\\text{infinitely many}$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 7,
+        "problem": "What is the sum of all real numbers $x$ for which the median of the numbers $4,6,8,17,$ and $x$ is equal to the mean of those five numbers?",
+        "options": {
+          "A": "$-5$",
+          "B": "$0$",
+          "C": "$5$",
+          "D": "$\\frac{15}{4}$",
+          "E": "$\\frac{35}{4}$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 8,
+        "problem": "Let $f(x) = x^{2}(1-x)^{2}$. What is the value of the sum [IMG:AMC12_2019_B_8.png]",
+        "options": {
+          "A": "$0$",
+          "B": "$\\frac{1}{2019^{4}}$",
+          "C": "$\\frac{2018^{2}}{2019^{4}}$",
+          "D": "$\\frac{2020^{2}}{2019^{4}}$",
+          "E": "$1$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 9,
+        "problem": "For how many integral values of $x$ can a triangle of positive area be formed having side lengths $\\log_{2} x, \\log_{4} x, 3$?",
+        "options": {
+          "A": "$57$",
+          "B": "$59$",
+          "C": "$61$",
+          "D": "$62$",
+          "E": "$63$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 10,
+        "problem": "The figure below is a map showing $12$ cities and $17$ roads connecting certain pairs of cities. Paula wishes to travel along exactly $13$ of those roads, starting at city $A$ and ending at city $L,$ without traveling along any portion of a road more than once. (Paula is allowed to visit a city more than once.) [IMG:AMC12_2019_B_10.png] How many different routes can Paula take?",
+        "options": {
+          "A": "$0$",
+          "B": "$1$",
+          "C": "$2$",
+          "D": "$3$",
+          "E": "$4$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 11,
+        "problem": "How many unordered pairs of edges of a given cube determine a plane?",
+        "options": {
+          "A": "$12$",
+          "B": "$28$",
+          "C": "$36$",
+          "D": "$42$",
+          "E": "$66$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 12,
+        "problem": "Right triangle $ACD$ with right angle at $C$ is constructed outwards on the hypotenuse $\\overline{AC}$ of isosceles right triangle $ABC$ with leg length $1$, as shown, so that the two triangles have equal perimeters. What is $\\sin(2\\angle BAD)$? [IMG:AMC12_2019_B_12.png]",
+        "options": {
+          "A": "$\\dfrac{1}{3}$",
+          "B": "$\\dfrac{\\sqrt{2}}{2}$",
+          "C": "$\\dfrac{3}{4}$",
+          "D": "$\\dfrac{7}{9}$",
+          "E": "$\\dfrac{\\sqrt{3}}{2}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 13,
+        "problem": "A red ball and a green ball are randomly and independently tossed into bins numbered with the positive integers so that for each ball, the probability that it is tossed into bin $k$ is $2^{-k}$ for $k = 1,2,3....$ What is the probability that the red ball is tossed into a higher-numbered bin than the green ball?",
+        "options": {
+          "A": "$\\frac{1}{4}$",
+          "B": "$\\frac{2}{7}$",
+          "C": "$\\frac{1}{3}$",
+          "D": "$\\frac{3}{8}$",
+          "E": "$\\frac{3}{7}$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 14,
+        "problem": "Let $S$ be the set of all positive integer divisors of $100,000.$ How many numbers are the product of two distinct elements of $S?$",
+        "options": {
+          "A": "$98$",
+          "B": "$100$",
+          "C": "$117$",
+          "D": "$119$",
+          "E": "$121$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 15,
+        "problem": "As shown in the figure, line segment $\\overline{AD}$ is trisected by points $B$ and $C$ so that $AB=BC=CD=2.$ Three semicircles of radius $1,$ $\\overarc{AEB},\\overarc{BFC},$ and $\\overarc{CGD},$ have their diameters on $\\overline{AD},$ and are tangent to line $EG$ at $E,F,$ and $G,$ respectively. A circle of radius $2$ has its center on $F.$ The area of the region inside the circle but outside the three semicircles, shaded in the figure, can be expressed in the form [IMG:AMC12_2019_B_15_0.png] [IMG:AMC12_2019_B_15_1.png] where $a,b,c,$ and $d$ are positive integers and $a$ and $b$ are relatively prime. What is $a+b+c+d$? [IMG:AMC12_2019_B_15_0.png] [IMG:AMC12_2019_B_15_1.png]",
+        "options": {
+          "A": "$13$",
+          "B": "$14$",
+          "C": "$15$",
+          "D": "$16$",
+          "E": "$17$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 16,
+        "problem": "There are lily pads in a row numbered $0$ to $11$, in that order. There are predators on lily pads $3$ and $6$, and a morsel of food on lily pad $10$. Fiona the frog starts on pad $0$, and from any given lily pad, has a $\\frac{1}{2}$ chance to hop to the next pad, and an equal chance to jump $2$ pads. What is the probability that Fiona reaches pad $10$ without landing on either pad $3$ or pad $6$?",
+        "options": {
+          "A": "$\\frac{15}{256}$",
+          "B": "$\\frac{1}{16}$",
+          "C": "$\\frac{15}{128}$",
+          "D": "$\\frac{1}{8}$",
+          "E": "$\\frac14$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 17,
+        "problem": "How many nonzero complex numbers $z$ have the property that $0, z,$ and $z^3,$ when represented by points in the complex plane, are the three distinct vertices of an equilateral triangle?",
+        "options": {
+          "A": "$0$",
+          "B": "$1$",
+          "C": "$2$",
+          "D": "$4$",
+          "E": "$\\text{infinitely many}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 18,
+        "problem": "Square pyramid $ABCDE$ has base $ABCD,$ which measures $3$ cm on a side, and altitude $\\overline{AE}$ perpendicular to the base$,$ which measures $6$ cm. Point $P$ lies on $\\overline{BE},$ one third of the way from $B$ to $E;$ point $Q$ lies on $\\overline{DE},$ one third of the way from $D$ to $E;$ and point $R$ lies on $\\overline{CE},$ two thirds of the way from $C$ to $E.$ What is the area, in square centimeters, of $\\triangle PQR?$",
+        "options": {
+          "A": "$\\frac{3\\sqrt2}{2}$",
+          "B": "$\\frac{3\\sqrt3}{2}$",
+          "C": "$2\\sqrt2$",
+          "D": "$2\\sqrt3$",
+          "E": "$3\\sqrt2$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 19,
+        "problem": "Raashan, Sylvia, and Ted play the following game. Each starts with $\\$1$. A bell rings every $15$ seconds, at which time each of the players who currently have money simultaneously chooses one of the other two players independently and at random and gives $\\$1$ to that player. What is the probability that after the bell has rung $2019$ times, each player will have $\\$1$? (For example, Raashan and Ted may each decide to give $\\$1$ to Sylvia, and Sylvia may decide to give her dollar to Ted, at which point Raashan will have $\\$0$, Sylvia will have $\\$2$, and Ted will have $\\$1$, and that is the end of the first round of play. In the second round Rashaan has no money to give, but Sylvia and Ted might choose each other to give their $\\$1$ to, and the holdings will be the same at the end of the second round.)",
+        "options": {
+          "A": "$\\frac{1}{7}$",
+          "B": "$\\frac{1}{4}$",
+          "C": "$\\frac{1}{3}$",
+          "D": "$\\frac{1}{2}$",
+          "E": "$\\frac{2}{3}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 20,
+        "problem": "Points $A(6,13)$ and $B(12,11)$ lie on circle $\\omega$ in the plane. Suppose that the tangent lines to $\\omega$ at $A$ and $B$ intersect at a point on the $x$-axis. What is the area of $\\omega$?",
+        "options": {
+          "A": "$\\frac{83\\pi}{8}$",
+          "B": "$\\frac{21\\pi}{2}$",
+          "C": "$\\frac{85\\pi}{8}$",
+          "D": "$\\frac{43\\pi}{4}$",
+          "E": "$\\frac{87\\pi}{8}$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 21,
+        "problem": "How many quadratic polynomials with real coefficients are there such that the set of roots equals the set of coefficients? (For clarification: If the polynomial is $ax^2+bx+c,a\\neq 0,$ and the roots are $r$ and $s,$ then the requirement is that $\\{a,b,c\\}=\\{r,s\\}$.)",
+        "options": {
+          "A": "$3$",
+          "B": "$4$",
+          "C": "$5$",
+          "D": "$6$",
+          "E": "$\\text{infinitely many}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 22,
+        "problem": "Define a sequence recursively by $x_0=5$ and [IMG:AMC12_2019_B_22_0.png] [IMG:AMC12_2019_B_22_1.png] for all nonnegative integers $n.$ Let $m$ be the least positive integer such that [IMG:AMC12_2019_B_22_0.png] [IMG:AMC12_2019_B_22_1.png] In which of the following intervals does $m$ lie?",
+        "options": {
+          "A": "$[9,26]$",
+          "B": "$[27,80]$",
+          "C": "$[81,242]$",
+          "D": "$[243,728]$",
+          "E": "$[729,\\infty]$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 23,
+        "problem": "How many sequences of $0$s and $1$s of length $19$ are there that begin with a $0$, end with a $0$, contain no two consecutive $0$s, and contain no three consecutive $1$s?",
+        "options": {
+          "A": "$55$",
+          "B": "$60$",
+          "C": "$65$",
+          "D": "$70$",
+          "E": "$75$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 24,
+        "problem": "Let $\\omega=-\\tfrac{1}{2}+\\tfrac{1}{2}i\\sqrt3.$ Let $S$ denote all points in the complex plane of the form $a+b\\omega+c\\omega^2,$ where $0\\leq a \\leq 1,0\\leq b\\leq 1,$ and $0\\leq c\\leq 1.$ What is the area of $S$?",
+        "options": {
+          "A": "$\\frac{1}{2}\\sqrt3$",
+          "B": "$\\frac{3}{4}\\sqrt3$",
+          "C": "$\\frac{3}{2}\\sqrt3$",
+          "D": "$\\frac{1}{2}\\pi\\sqrt3$",
+          "E": "$\\pi$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 25,
+        "problem": "Let $ABCD$ be a convex quadrilateral with $BC=2$ and $CD=6.$ Suppose that the centroids of $\\triangle ABC,\\triangle BCD,$ and $\\triangle ACD$ form the vertices of an equilateral triangle. What is the maximum possible value of the area of $ABCD$?",
+        "options": {
+          "A": "$27$",
+          "B": "$16\\sqrt3$",
+          "C": "$12+10\\sqrt3$",
+          "D": "$9+12\\sqrt3$",
+          "E": "$30$"
+        },
+        "answer": "C"
+      }
+    ]
+  }
+}

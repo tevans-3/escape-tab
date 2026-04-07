@@ -1,0 +1,610 @@
+{
+  "year": 2009,
+  "contest": "AMC 10",
+  "variants": {
+    "A": [
+      {
+        "number": 1,
+        "problem": "One can holds $12$ ounces of soda, what is the minimum number of cans needed to provide a gallon ($128$ ounces) of soda?",
+        "options": {
+          "A": "$7$",
+          "B": "$8$",
+          "C": "$9$",
+          "D": "$10$",
+          "E": "$11$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 2,
+        "problem": "Four coins are picked out of a piggy bank that contains a collection of pennies, nickels, dimes and quarters. Which of the following could not be the total value of the four coins, in cents?",
+        "options": {
+          "A": "$15$",
+          "B": "$25$",
+          "C": "$35$",
+          "D": "$45$",
+          "E": "$55$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 3,
+        "problem": "Which of the following is equal to $1 + \\frac{1}{1+\\frac{1}{1+1}}$?",
+        "options": {
+          "A": "$\\frac{5}{4}$",
+          "B": "$\\frac{3}{2}$",
+          "C": "$\\frac{5}{3}$",
+          "D": "$2$",
+          "E": "$3$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 4,
+        "problem": "Eric plans to compete in a triathlon. He can average $2$ miles per hour in the $\\frac{1}{4}$-mile swim and $6$ miles per hour in the $3$-mile run. His goal is to finish the triathlon in $2$ hours. To accomplish his goal what must his average speed in miles per hour, be for the $15$-mile bicycle ride?",
+        "options": {
+          "A": "$\\frac{120}{11}$",
+          "B": "$11$",
+          "C": "$\\frac{56}{5}$",
+          "D": "$\\frac{45}{4}$",
+          "E": "$12$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 5,
+        "problem": "What is the sum of the digits of the square of $111,111,111$?",
+        "options": {
+          "A": "$18$",
+          "B": "$27$",
+          "C": "$45$",
+          "D": "$63$",
+          "E": "$81$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 6,
+        "problem": "A circle of radius $2$ is inscribed in a semicircle, as shown. The area inside the semicircle but outside the circle is shaded. What fraction of the semicircle's area is shaded? [IMG:AMC10_2009_A_6.png]",
+        "options": {
+          "A": "$\\frac{1}{2}$",
+          "B": "$\\frac{\\pi}{6}$",
+          "C": "$\\frac{2}{\\pi}$",
+          "D": "$\\frac{2}{3}$",
+          "E": "$\\frac{3}{\\pi}$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 7,
+        "problem": "A carton contains milk that is $2$% fat, an amount that is $40$% less fat than the amount contained in a carton of whole milk. What is the percentage of fat in whole milk?",
+        "options": {
+          "A": "$\\frac{12}{5}$",
+          "B": "$3$",
+          "C": "$\\frac{10}{3}$",
+          "D": "$38$",
+          "E": "$42$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 8,
+        "problem": "Three generations of the Wen family are going to the movies, two from each generation. The two members of the youngest generation receive a $50$% discount as children. The two members of the oldest generation receive a $25\\%$ discount as senior citizens. The two members of the middle generation receive no discount. Grandfather Wen, whose senior ticket costs $\\textdollar 6.00$, is paying for everyone. How many dollars must he pay?",
+        "options": {
+          "A": "$34$",
+          "B": "$36$",
+          "C": "$42$",
+          "D": "$46$",
+          "E": "$48$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 9,
+        "problem": "Positive integers $a$, $b$, and $2009$, with $a<b<2009$, form a geometric sequence with an integer ratio. What is $a$?",
+        "options": {
+          "A": "$7$",
+          "B": "$41$",
+          "C": "$49$",
+          "D": "$289$",
+          "E": "$2009$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 10,
+        "problem": "Triangle $ABC$ has a right angle at $B$. Point $D$ is the foot of the altitude from $B$, $AD=3$, and $DC=4$. What is the area of $\\triangle ABC$? [IMG:AMC10_2009_A_10.png]",
+        "options": {
+          "A": "$4\\sqrt3$",
+          "B": "$7\\sqrt3$",
+          "C": "$21$",
+          "D": "$14\\sqrt3$",
+          "E": "$42$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 11,
+        "problem": "One dimension of a cube is increased by $1$, another is decreased by $1$, and the third is left unchanged. The volume of the new rectangular solid is $5$ less than that of the cube. What was the volume of the cube?",
+        "options": {
+          "A": "$8$",
+          "B": "$27$",
+          "C": "$64$",
+          "D": "$125$",
+          "E": "$216$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 12,
+        "problem": "In quadrilateral $ABCD$, $AB = 5$, $BC = 17$, $CD = 5$, $DA = 9$, and $BD$ is an integer. What is $BD$? [IMG:AMC10_2009_A_12.png]",
+        "options": {
+          "A": "$11$",
+          "B": "$12$",
+          "C": "$13$",
+          "D": "$14$",
+          "E": "$15$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 13,
+        "problem": "Suppose that $P = 2^m$ and $Q = 3^n$. Which of the following is equal to $12^{mn}$ for every pair of integers $(m,n)$?",
+        "options": {
+          "A": "$P^2Q$",
+          "B": "$P^nQ^m$",
+          "C": "$P^nQ^{2m}$",
+          "D": "$P^{2m}Q^n$",
+          "E": "$P^{2n}Q^m$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 14,
+        "problem": "Four congruent rectangles are placed as shown. The area of the outer square is $4$ times that of the inner square. What is the ratio of the length of the longer side of each rectangle to the length of its shorter side? [IMG:AMC10_2009_A_14.png]",
+        "options": {
+          "A": "$3$",
+          "B": "$\\sqrt {10}$",
+          "C": "$2 + \\sqrt2$",
+          "D": "$2\\sqrt3$",
+          "E": "$4$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 15,
+        "problem": "The figures $F_1$, $F_2$, $F_3$, and $F_4$ shown are the first in a sequence of figures. For $n\\ge3$, $F_n$ is constructed from $F_{n - 1}$ by surrounding it with a square and placing one more diamond on each side of the new square than $F_{n - 1}$ had on each side of its outside square. For example, figure $F_3$ has $13$ diamonds. How many diamonds are there in figure $F_{20}$? [IMG:AMC10_2009_A_15.png]",
+        "options": {
+          "A": "$401$",
+          "B": "$485$",
+          "C": "$585$",
+          "D": "$626$",
+          "E": "$761$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 16,
+        "problem": "Let $a$, $b$, $c$, and $d$ be real numbers with $|a-b|=2$, $|b-c|=3$, and $|c-d|=4$. What is the sum of all possible values of $|a-d|$?",
+        "options": {
+          "A": "$9$",
+          "B": "$12$",
+          "C": "$15$",
+          "D": "$18$",
+          "E": "$24$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 17,
+        "problem": "Rectangle $ABCD$ has $AB=4$ and $BC=3$. Segment $EF$ is constructed through $B$ so that $EF$ is perpendicular to $DB$, and $A$ and $C$ lie on $DE$ and $DF$, respectively. What is $EF$?",
+        "options": {
+          "A": "$9$",
+          "B": "$10$",
+          "C": "$\\frac {125}{12}$",
+          "D": "$\\frac {103}{9}$",
+          "E": "$12$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 18,
+        "problem": "At Jefferson Summer Camp, $60\\%$ of the children play soccer, $30\\%$ of the children swim, and $40\\%$ of the soccer players swim. To the nearest whole percent, what percent of the non-swimmers play soccer?",
+        "options": {
+          "A": "$30\\%$",
+          "B": "$40\\%$",
+          "C": "$49\\%$",
+          "D": "$51\\%$",
+          "E": "$70\\%$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 19,
+        "problem": "Circle $A$ has radius $100$. Circle $B$ has an integer radius $r<100$ and remains internally tangent to circle $A$ as it rolls once around the circumference of circle $A$. The two circles have the same points of tangency at the beginning and end of circle $B$'s trip. How many possible values can $r$ have?",
+        "options": {
+          "A": "$4$",
+          "B": "$8$",
+          "C": "$9$",
+          "D": "$50$",
+          "E": "$90$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 20,
+        "problem": "Andrea and Lauren are $20$ kilometers apart. They bike toward one another with Andrea traveling three times as fast as Lauren, and the distance between them decreasing at a rate of $1$ kilometer per minute. After $5$ minutes, Andrea stops biking because of a flat tire and waits for Lauren. After how many minutes from the time they started to bike does Lauren reach Andrea?",
+        "options": {
+          "A": "$20$",
+          "B": "$30$",
+          "C": "$55$",
+          "D": "$65$",
+          "E": "$80$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 21,
+        "problem": "Many Gothic cathedrals have windows with portions containing a ring of congruent circles that are circumscribed by a larger circle. In the figure shown, the number of smaller circles is four. What is the ratio of the sum of the areas of the four smaller circles to the area of the larger circle? [IMG:AMC10_2009_A_21.png]",
+        "options": {
+          "A": "$3-2\\sqrt2$",
+          "B": "$2-\\sqrt2$",
+          "C": "$4(3-2\\sqrt2)$",
+          "D": "$\\frac12(3-\\sqrt2)$",
+          "E": "$2\\sqrt2-2$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 22,
+        "problem": "Two cubical dice each have removable numbers $1$ through $6$. The twelve numbers on the two dice are removed, put into a bag, then drawn one at a time and randomly reattached to the faces of the cubes, one number to each face. The dice are then rolled and the numbers on the two top faces are added. What is the probability that the sum is $7$?",
+        "options": {
+          "A": "$\\frac{1}{9}$",
+          "B": "$\\frac{1}{8}$",
+          "C": "$\\frac{1}{6}$",
+          "D": "$\\frac{2}{11}$",
+          "E": "$\\frac{1}{5}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 23,
+        "problem": "Convex quadrilateral $ABCD$ has $AB=9$ and $CD=12$. Diagonals $AC$ and $BD$ intersect at $E$, $AC=14$, and $\\triangle AED$ and $\\triangle BEC$ have equal areas. What is $AE$?",
+        "options": {
+          "A": "$\\frac{9}{2}$",
+          "B": "$\\frac{50}{11}$",
+          "C": "$\\frac{21}{4}$",
+          "D": "$\\frac{17}{3}$",
+          "E": "$6$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 24,
+        "problem": "Three distinct vertices of a cube are chosen at random. What is the probability that the plane determined by these three vertices contains points inside the cube?",
+        "options": {
+          "A": "$\\frac{1}{4}$",
+          "B": "$\\frac{3}{8}$",
+          "C": "$\\frac{4}{7}$",
+          "D": "$\\frac{5}{7}$",
+          "E": "$\\frac{3}{4}$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 25,
+        "problem": "For $k > 0$, let $I_k = 10\\ldots 064$, where there are $k$ zeros between the $1$ and the $6$. Let $N(k)$ be the number of factors of $2$ in the prime factorization of $I_k$. What is the maximum value of $N(k)$?",
+        "options": {
+          "A": "$6$",
+          "B": "$7$",
+          "C": "$8$",
+          "D": "$9$",
+          "E": "$10$"
+        },
+        "answer": "B"
+      }
+    ],
+    "B": [
+      {
+        "number": 1,
+        "problem": "Each morning of her five-day workweek, Jane bought either a $50$-cent muffin or a $75$-cent bagel. Her total cost for the week was a whole number of dollars. How many bagels did she buy?",
+        "options": {
+          "A": "$1$",
+          "B": "$2$",
+          "C": "$3$",
+          "D": "$4$",
+          "E": "$5$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 2,
+        "problem": "Which of the following is equal to $\\dfrac{\\frac{1}{3}-\\frac{1}{4}}{\\frac{1}{2}-\\frac{1}{3}}$?",
+        "options": {
+          "A": "$\\frac 14$",
+          "B": "$\\frac 13$",
+          "C": "$\\frac 12$",
+          "D": "$\\frac 23$",
+          "E": "$\\frac 34$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 3,
+        "problem": "Paula the painter had just enough paint for $30$ identically sized rooms. Unfortunately, on the way to work, three cans of paint fell off her truck, so she had only enough paint for $25$ rooms. How many cans of paint did she use for the $25$ rooms?",
+        "options": {
+          "A": "$10$",
+          "B": "$12$",
+          "C": "$15$",
+          "D": "$18$",
+          "E": "$25$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 4,
+        "problem": "A rectangular yard contains two flower beds in the shape of congruent isosceles right triangles. The remainder of the yard has a trapezoidal shape, as shown. The parallel sides of the trapezoid have lengths $15$ and $25$ meters. What fraction of the yard is occupied by the flower beds? [IMG:AMC10_2009_B_4.png]",
+        "options": {
+          "A": "$\\frac {1}{8}$",
+          "B": "$\\frac {1}{6}$",
+          "C": "$\\frac {1}{5}$",
+          "D": "$\\frac {1}{4}$",
+          "E": "$\\frac {1}{3}$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 5,
+        "problem": "Twenty percent less than 60 is one-third more than what number?",
+        "options": {
+          "A": "$16$",
+          "B": "$30$",
+          "C": "$32$",
+          "D": "$36$",
+          "E": "$48$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 6,
+        "problem": "Kiana has two older twin brothers. The product of their three ages is 128. What is the sum of their three ages?",
+        "options": {
+          "A": "$10$",
+          "B": "$12$",
+          "C": "$16$",
+          "D": "$18$",
+          "E": "$24$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 7,
+        "problem": "By inserting parentheses, it is possible to give the expression [IMG:AMC10_2009_B_7.png] several values. How many different values can be obtained?",
+        "options": {
+          "A": "$2$",
+          "B": "$3$",
+          "C": "$4$",
+          "D": "$5$",
+          "E": "$6$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 8,
+        "problem": "In a certain year the price of gasoline rose by $20\\%$ during January, fell by $20\\%$ during February, rose by $25\\%$ during March, and fell by $x\\%$ during April. The price of gasoline at the end of April was the same as it had been at the beginning of January. To the nearest integer, what is $x$?",
+        "options": {
+          "A": "$12$",
+          "B": "$17$",
+          "C": "$20$",
+          "D": "$25$",
+          "E": "$35$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 9,
+        "problem": "Segment $BD$ and $AE$ intersect at $C$, as shown, $AB=BC=CD=CE$, and $\\angle A = \\frac 52 \\angle B$. What is the degree measure of $\\angle D$? [IMG:AMC10_2009_B_9.png]",
+        "options": {
+          "A": "$52.5$",
+          "B": "$55$",
+          "C": "$57.5$",
+          "D": "$60$",
+          "E": "$62.5$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 10,
+        "problem": "A flagpole is originally $5$ meters tall. A hurricane snaps the flagpole at a point $x$ meters above the ground so that the upper part, still attached to the stump, touches the ground $1$ meter away from the base. What is $x$?",
+        "options": {
+          "A": "$2.0$",
+          "B": "$2.1$",
+          "C": "$2.2$",
+          "D": "$2.3$",
+          "E": "$2.4$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 11,
+        "problem": "How many $7$-digit palindromes (numbers that read the same backward as forward) can be formed using the digits $2$, $2$, $3$, $3$, $5$, $5$, $5$?",
+        "options": {
+          "A": "$6$",
+          "B": "$12$",
+          "C": "$24$",
+          "D": "$36$",
+          "E": "$48$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 12,
+        "problem": "Distinct points $A$, $B$, $C$, and $D$ lie on a line, with $AB=BC=CD=1$. Points $E$ and $F$ lie on a second line, parallel to the first, with $EF=1$. A triangle with positive area has three of the six points as its vertices. How many possible values are there for the area of the triangle?",
+        "options": {
+          "A": "$3$",
+          "B": "$4$",
+          "C": "$5$",
+          "D": "$6$",
+          "E": "$7$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 13,
+        "problem": "As shown below, convex pentagon $ABCDE$ has sides $AB=3$, $BC=4$, $CD=6$, $DE=3$, and $EA=7$. The pentagon is originally positioned in the plane with vertex $A$ at the origin and vertex $B$ on the positive $x$-axis. The pentagon is then rolled clockwise to the right along the $x$-axis. Which side will touch the point $x=2009$ on the $x$-axis? [IMG:AMC10_2009_B_13.png]",
+        "options": {
+          "A": "$\\overline{AB}$",
+          "B": "$\\overline{BC}$",
+          "C": "$\\overline{CD}$",
+          "D": "$\\overline{DE}$",
+          "E": "$\\overline{EA}$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 14,
+        "problem": "On Monday, Millie puts a quart of seeds, $25\\%$ of which are millet, into a bird feeder. On each successive day she adds another quart of the same mix of seeds without removing any seeds that are left. Each day the birds eat only $25\\%$ of the millet in the feeder, but they eat all of the other seeds. On which day, just after Millie has placed the seeds, will the birds find that more than half the seeds in the feeder are millet?",
+        "options": {
+          "A": "$\\text{Tuesday}$",
+          "B": "$\\text{Wednesday}$",
+          "C": "$\\text{Thursday}$",
+          "D": "$\\text{Friday}$",
+          "E": "$\\text{Saturday}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 15,
+        "problem": "When a bucket is two-thirds full of water, the bucket and water weigh $a$ kilograms. When the bucket is one-half full of water the total weight is $b$ kilograms. In terms of $a$ and $b$, what is the total weight in kilograms when the bucket is full of water?",
+        "options": {
+          "A": "$\\frac23a + \\frac13b$",
+          "B": "$\\frac32a - \\frac12b$",
+          "C": "$\\frac32a + b$",
+          "D": "$\\frac32a + 2b$",
+          "E": "$3a - 2b$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 16,
+        "problem": "Points $A$ and $C$ lie on a circle centered at $O$, each of $\\overline{BA}$ and $\\overline{BC}$ are tangent to the circle, and $\\triangle ABC$ is equilateral. The circle intersects $\\overline{BO}$ at $D$. What is $\\frac{BD}{BO}$?",
+        "options": {
+          "A": "$\\frac {\\sqrt2}{3}$",
+          "B": "$\\frac {1}{2}$",
+          "C": "$\\frac {\\sqrt3}{3}$",
+          "D": "$\\frac {\\sqrt2}{2}$",
+          "E": "$\\frac {\\sqrt3}{2}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 17,
+        "problem": "Five unit squares are arranged in the coordinate plane as shown, with the lower left corner at the origin. The slanted line, extending from $(c,0)$ to $(3,3)$, divides the entire region into two regions of equal area. What is $c$? [IMG:AMC10_2009_B_17.png]",
+        "options": {
+          "A": "$\\frac 12$",
+          "B": "$\\frac 35$",
+          "C": "$\\frac 23$",
+          "D": "$\\frac 34$",
+          "E": "$\\frac 45$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 18,
+        "problem": "Rectangle $ABCD$ has $AB=8$ and $BC=6$. Point $M$ is the midpoint of diagonal $\\overline{AC}$, and $E$ is on $AB$ with $\\overline{ME}\\perp\\overline{AC}$. What is the area of $\\triangle AME$?",
+        "options": {
+          "A": "$\\frac{65}{8}$",
+          "B": "$\\frac{25}{3}$",
+          "C": "$9$",
+          "D": "$\\frac{75}{8}$",
+          "E": "$\\frac{85}{8}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 19,
+        "problem": "A particular $12$-hour digital clock displays the hour and minute of a day. Unfortunately, whenever it is supposed to display a $1$, it mistakenly displays a $9$. For example, when it is 1:16 PM the clock incorrectly shows 9:96 PM. What fraction of the day will the clock show the correct time?",
+        "options": {
+          "A": "$\\frac 12$",
+          "B": "$\\frac 58$",
+          "C": "$\\frac 34$",
+          "D": "$\\frac 56$",
+          "E": "$\\frac 9{10}$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 20,
+        "problem": "Triangle $ABC$ has a right angle at $B$, $AB=1$, and $BC=2$. The angle bisector of $\\angle A$ intersects side $\\overline{BC}$ at $D$. What is $BD$? [IMG:AMC10_2009_B_20.png]",
+        "options": {
+          "A": "$\\frac {\\sqrt3 - 1}{2}$",
+          "B": "$\\frac {\\sqrt5 - 1}{2}$",
+          "C": "$\\frac {\\sqrt5 + 1}{2}$",
+          "D": "$\\frac {\\sqrt6 + \\sqrt2}{2}$",
+          "E": "$2\\sqrt 3 - 1$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 21,
+        "problem": "What is the remainder when $3^0 + 3^1 + 3^2 + \\cdots + 3^{2009}$ is divided by 8?",
+        "options": {
+          "A": "$0$",
+          "B": "$1$",
+          "C": "$2$",
+          "D": "$4$",
+          "E": "$6$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 22,
+        "problem": "A cubical cake with edge length $2$ inches is iced on the sides and the top. It is cut vertically into three pieces as shown in this top view, where $M$ is the midpoint of a top edge. The piece whose top is triangle $B$ contains $c$ cubic inches of cake and $s$ square inches of icing. What is $c+s$? [IMG:AMC10_2009_B_22.png]",
+        "options": {
+          "A": "$\\frac{24}{5}$",
+          "B": "$\\frac{32}{5}$",
+          "C": "$8+\\sqrt5$",
+          "D": "$5+\\frac{16\\sqrt5}{5}$",
+          "E": "$10+5\\sqrt5$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 23,
+        "problem": "Rachel and Robert run on a circular track. Rachel runs counterclockwise and completes a lap every 90 seconds, and Robert runs clockwise and completes a lap every 80 seconds. Both start from the same line at the same time. At some random time between 10 minutes and 11 minutes after they begin to run, a photographer standing inside the track takes a picture that shows one-fourth of the track, centered on the starting line. What is the probability that both Rachel and Robert are in the picture?",
+        "options": {
+          "A": "$\\frac 1{16}$",
+          "B": "$\\frac 18$",
+          "C": "$\\frac 3{16}$",
+          "D": "$\\frac 14$",
+          "E": "$\\frac 5{16}$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 24,
+        "problem": "The keystone arch is an ancient architectural feature. It is composed of congruent isosceles trapezoids fitted together along the non-parallel sides, as shown. The bottom sides of the two end trapezoids are horizontal. In an arch made with $9$ trapezoids, let $x$ be the angle measure in degrees of the larger interior angle of the trapezoid. What is $x$? [IMG:AMC10_2009_B_24.png]",
+        "options": {
+          "A": "$100$",
+          "B": "$102$",
+          "C": "$104$",
+          "D": "$106$",
+          "E": "$108$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 25,
+        "problem": "Each face of a cube is given a single narrow stripe painted from the center of one edge to the center of the opposite edge. The choice of the edge pairing is made at random and independently for each face. What is the probability that there is a continuous stripe encircling the cube?",
+        "options": {
+          "A": "$\\frac 18$",
+          "B": "$\\frac {3}{16}$",
+          "C": "$\\frac 14$",
+          "D": "$\\frac 38$",
+          "E": "$\\frac 12$"
+        },
+        "answer": "B"
+      }
+    ]
+  }
+}

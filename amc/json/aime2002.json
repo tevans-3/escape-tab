@@ -1,0 +1,160 @@
+{
+  "year": 2002,
+  "contest": "AIME",
+  "variants": {
+    "I": [
+      {
+        "number": 1,
+        "problem": "Many states use a sequence of three letters followed by a sequence of three digits as their standard license-plate pattern. Given that each three-letter three-digit arrangement is equally likely, the probability that such a license plate will contain at least one palindrome (a three-letter arrangement or a three-digit arrangement that reads the same left-to-right as it does right-to-left) is $m/n$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$.",
+        "answer": "059"
+      },
+      {
+        "number": 2,
+        "problem": "The diagram shows twenty congruent circles arranged in three rows and enclosed in a rectangle. The circles are tangent to one another and to the sides of the rectangle as shown in the diagram. The ratio of the longer dimension of the rectangle to the shorter dimension can be written as $\\frac{1}{2}\\left(\\sqrt{p}-q\\right)$, where $p$ and $q$ are positive integers. Find $p+q$. [IMG:AIME_2002_I_2.png]",
+        "answer": "154"
+      },
+      {
+        "number": 3,
+        "problem": "Jane is 25 years old. Dick is older than Jane. In $n$ years, where $n$ is a positive integer, Dick's age and Jane's age will both be two-digit numbers and will have the property that Jane's age is obtained by interchanging the digits of Dick's age. Let $d$ be Dick's present age. How many ordered pairs of positive integers $(d,n)$ are possible?",
+        "answer": "025"
+      },
+      {
+        "number": 4,
+        "problem": "Consider the sequence defined by $a_k=\\frac 1{k^2+k}$ for $k\\ge 1$. Given that $a_m+a_{m+1}+\\cdots+a_{n-1}=1/29$, for positive integers $m$ and $n$ with $m<n$, find $m+n$.",
+        "answer": "840"
+      },
+      {
+        "number": 5,
+        "problem": "Let $A_1, A_2, A_3, \\ldots, A_{12}$ be the vertices of a regular dodecagon. How many distinct squares in the plane of the dodecagon have at least two vertices in the set $\\{A_1,A_2,A_3,\\ldots,A_{12}\\}$?",
+        "answer": "183"
+      },
+      {
+        "number": 6,
+        "problem": "The solutions to the system of equations are $(x_1,y_1)$ and $(x_2, y_2)$. Find $\\log_{30}{(x_1y_1x_2y_2)}$.",
+        "answer": "012"
+      },
+      {
+        "number": 7,
+        "problem": "The Binomial Expansion is valid for exponents that are not integers. That is, for all real numbers $x$, $y$, and $r$ with $|x|>|y|$, $(x+y)^r=x^r+rx^{r-1}y^1+\\frac{r(r-1)}2x^{r-2}y^2+\\frac{r(r-1)(r-2)}{3!}x^{r-3}y^3+\\cdots$ What are the first three digits to the right of the decimal point in the decimal representation of $\\left(10^{2002}+1\\right)^{10/7}$?",
+        "answer": "428"
+      },
+      {
+        "number": 8,
+        "problem": "Find the smallest integer $k$ for which the conditions (1) $a_1, a_2, a_3, \\ldots$ is a nondecreasing sequence of positive integers (2) $a_n=a_{n-1}+a_{n-2}$ for all $n>2$ (3) $a_9=k$ are satisfied by more than one sequence.",
+        "answer": "748"
+      },
+      {
+        "number": 9,
+        "problem": "Harold, Tanya, and Ulysses paint a very long picket fence. Harold starts with the first picket and paints every $h$th picket; Tanya starts with the second picket and paints every $t$th picket; and Ulysses starts with the third picket and paints every $u$th picket. Call the positive integer $100h+10t+u$ $\\textit{paintable}$ when the triple $(h,t,u)$ of positive integers results in every picket being painted exactly once. Find the sum of all the paintable integers.",
+        "answer": "757"
+      },
+      {
+        "number": 10,
+        "problem": "In the diagram below, angle $ABC$ is a right angle. Point $D$ is on $\\overline{BC}$, and $\\overline{AD}$ bisects angle $CAB$. Points $E$ and $F$ are on $\\overline{AB}$ and $\\overline{AC}$, respectively, so that $AE=3$ and $AF=10$. Given that $EB=9$ and $FC=27$, find the integer closest to the area of quadrilateral $DCFG$. [IMG:AIME_2002_I_10.png]",
+        "answer": "148"
+      },
+      {
+        "number": 11,
+        "problem": "Let $ABCD$ and $BCFG$ be two faces of a cube with $AB=12$. A beam of light emanates from vertex $A$ and reflects off face $BCFG$ at point $P$, which is $7$ units from $\\overline{BG}$ and $5$ units from $\\overline{BC}$. The beam continues to be reflected off the faces of the cube. The length of the light path from the time it leaves point $A$ until it next reaches a vertex of the cube is given by $m\\sqrt{n}$, where $m$ and $n$ are integers and $n$ is not divisible by the square of any prime. Find $m+n$.",
+        "answer": "230"
+      },
+      {
+        "number": 12,
+        "problem": "Let $F(z)=\\frac{z+i}{z-i}$ for all complex numbers $z\\not= i$, and let $z_n=F(z_{n-1})$ for all positive integers $n$. Given that $z_0=\\frac 1{137}+i$ and $z_{2002}=a+bi$, where $a$ and $b$ are real numbers, find $a+b$.",
+        "answer": "275"
+      },
+      {
+        "number": 13,
+        "problem": "In triangle $ABC$ the medians $\\overline{AD}$ and $\\overline{CE}$ have lengths 18 and 27, respectively, and $AB = 24$. Extend $\\overline{CE}$ to intersect the circumcircle of $ABC$ at $F$. The area of triangle $AFB$ is $m\\sqrt {n}$, where $m$ and $n$ are positive integers and $n$ is not divisible by the square of any prime. Find $m + n$.",
+        "answer": "063"
+      },
+      {
+        "number": 14,
+        "problem": "A set $\\mathcal{S}$ of distinct positive integers has the following property: for every integer $x$ in $\\mathcal{S},$ the arithmetic mean of the set of values obtained by deleting $x$ from $\\mathcal{S}$ is an integer. Given that 1 belongs to $\\mathcal{S}$ and that 2002 is the largest element of $\\mathcal{S},$ what is the greatest number of elements that $\\mathcal{S}$ can have?",
+        "answer": "030"
+      },
+      {
+        "number": 15,
+        "problem": "Polyhedron $ABCDEFG$ has six faces. Face $ABCD$ is a square with $AB = 12;$ face $ABFG$ is a trapezoid with $\\overline{AB}$ parallel to $\\overline{GF},$ $BF = AG = 8,$ and $GF = 6;$ and face $CDE$ has $CE = DE = 14.$ The other three faces are $ADEG, BCEF,$ and $EFG.$ The distance from $E$ to face $ABCD$ is 12. Given that $EG^2 = p - q\\sqrt {r},$ where $p, q,$ and $r$ are positive integers and $r$ is not divisible by the square of any prime, find $p + q + r.$",
+        "answer": "163"
+      }
+    ],
+    "II": [
+      {
+        "number": 1,
+        "problem": "Given that $x$ and $y$ are both integers between $100$ and $999$, inclusive; $y$ is the number formed by reversing the digits of $x$; and $z=|x-y|$. How many distinct values of $z$ are possible?",
+        "answer": "009"
+      },
+      {
+        "number": 2,
+        "problem": "Three vertices of a cube are $P=(7,12,10)$, $Q=(8,8,1)$, and $R=(11,3,9)$. What is the surface area of the cube?",
+        "answer": "294"
+      },
+      {
+        "number": 3,
+        "problem": "It is given that $\\log_{6}a + \\log_{6}b + \\log_{6}c = 6$, where $a$, $b$, and $c$ are positive integers that form an increasing geometric sequence and $b - a$ is the square of an integer. Find $a + b + c$.",
+        "answer": "111"
+      },
+      {
+        "number": 4,
+        "problem": "Patio blocks that are hexagons $1$ unit on a side are used to outline a garden by placing the blocks edge to edge with $n$ on each side. The diagram indicates the path of blocks around the garden when $n=5$. [IMG:AIME_2002_II_4.png] If $n=202$, then the area of the garden enclosed by the path, not including the path itself, is $m\\left(\\sqrt3/2\\right)$ square units, where $m$ is a positive integer. Find the remainder when $m$ is divided by $1000$.",
+        "answer": "803"
+      },
+      {
+        "number": 5,
+        "problem": "Find the sum of all positive integers $a=2^n3^m$ where $n$ and $m$ are non-negative integers, for which $a^6$ is not a divisor of $6^a$.",
+        "answer": "042"
+      },
+      {
+        "number": 6,
+        "problem": "Find the integer that is closest to $1000\\sum_{n=3}^{10000}\\frac1{n^2-4}$.",
+        "answer": "521"
+      },
+      {
+        "number": 7,
+        "problem": "It is known that, for all positive integers $k$, $1^2+2^2+3^2+\\ldots+k^{2}=\\frac{k(k+1)(2k+1)}6$. Find the smallest positive integer $k$ such that $1^2+2^2+3^2+\\ldots+k^2$ is a multiple of $200$.",
+        "answer": "112"
+      },
+      {
+        "number": 8,
+        "problem": "Find the least positive integer $k$ for which the equation $\\left\\lfloor\\frac{2002}{n}\\right\\rfloor=k$ has no integer solutions for $n$. (The notation $\\lfloor x\\rfloor$ means the greatest integer less than or equal to $x$.)",
+        "answer": "049"
+      },
+      {
+        "number": 9,
+        "problem": "Let $\\mathcal{S}$ be the set $\\lbrace1,2,3,\\ldots,10\\rbrace$. Let $n$ be the number of sets of two non-empty disjoint subsets of $\\mathcal{S}$. (Disjoint sets are defined as sets that have no common elements.) Find the remainder obtained when $n$ is divided by $1000$.",
+        "answer": "501"
+      },
+      {
+        "number": 10,
+        "problem": "While finding the sine of a certain angle, an absent-minded professor failed to notice that his calculator was not in the correct angular mode. He was lucky to get the right answer. The two least positive real values of $x$ for which the sine of $x$ degrees is the same as the sine of $x$ radians are $\\frac{m\\pi}{n-\\pi}$ and $\\frac{p\\pi}{q+\\pi}$, where $m$, $n$, $p$, and $q$ are positive integers. Find $m+n+p+q$.",
+        "answer": "900"
+      },
+      {
+        "number": 11,
+        "problem": "Two distinct, real, infinite geometric series each have a sum of $1$ and have the same second term. The third term of one of the series is $1/8$, and the second term of both series can be written in the form $\\frac{\\sqrt{m}-n}p$, where $m$, $n$, and $p$ are positive integers and $m$ is not divisible by the square of any prime. Find $100m+10n+p$.",
+        "answer": "518"
+      },
+      {
+        "number": 12,
+        "problem": "A basketball player has a constant probability of $.4$ of making any given shot, independent of previous shots. Let $a_n$ be the ratio of shots made to shots attempted after $n$ shots. The probability that $a_{10}=.4$ and $a_n\\le.4$ for all $n$ such that $1\\le n\\le9$ is given to be $p^aq^br/\\left(s^c\\right)$ where $p$, $q$, $r$, and $s$ are primes, and $a$, $b$, and $c$ are positive integers. Find $\\left(p+q+r+s\\right)\\left(a+b+c\\right)$.",
+        "answer": "660"
+      },
+      {
+        "number": 13,
+        "problem": "In triangle $ABC$, point $D$ is on $\\overline{BC}$ with $CD=2$ and $DB=5$, point $E$ is on $\\overline{AC}$ with $CE=1$ and $EA=3$, $AB=8$, and $\\overline{AD}$ and $\\overline{BE}$ intersect at $P$. Points $Q$ and $R$ lie on $\\overline{AB}$ so that $\\overline{PQ}$ is parallel to $\\overline{CA}$ and $\\overline{PR}$ is parallel to $\\overline{CB}$. It is given that the ratio of the area of triangle $PQR$ to the area of triangle $ABC$ is $m/n$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$.",
+        "answer": "901"
+      },
+      {
+        "number": 14,
+        "problem": "The perimeter of triangle $APM$ is $152$, and the angle $PAM$ is a right angle. A circle of radius $19$ with center $O$ on $\\overline{AP}$ is drawn so that it is tangent to $\\overline{AM}$ and $\\overline{PM}$. Given that $OP=m/n$ where $m$ and $n$ are relatively prime positive integers, find $m+n$.",
+        "answer": "098"
+      },
+      {
+        "number": 15,
+        "problem": "Circles $\\mathcal{C}_{1}$ and $\\mathcal{C}_{2}$ intersect at two points, one of which is $(9,6)$, and the product of the radii is $68$. The x-axis and the line $y = mx$, where $m > 0$, are tangent to both circles. It is given that $m$ can be written in the form $a\\sqrt {b}/c$, where $a$, $b$, and $c$ are positive integers, $b$ is not divisible by the square of any prime, and $a$ and $c$ are relatively prime. Find $a + b + c$.",
+        "answer": "282"
+      }
+    ]
+  }
+}

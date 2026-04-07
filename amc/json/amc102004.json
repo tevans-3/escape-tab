@@ -1,0 +1,610 @@
+{
+  "year": 2004,
+  "contest": "AMC 10",
+  "variants": {
+    "A": [
+      {
+        "number": 1,
+        "problem": "You and five friends need to raise $1500$ dollars in donations for a charity, dividing the fundraising equally. How many dollars will each of you need to raise? $\\mathrm{",
+        "options": {
+          "A": "$250$",
+          "B": "$300$",
+          "C": "$1500$",
+          "D": "$7500$",
+          "E": "$9000$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 2,
+        "problem": "For any three real numbers $a$, $b$, and $c$, with $b\\neq c$, the operation $\\otimes$ is defined by: $\\otimes(a,b,c)=\\frac{a}{b-c}.$ What is $\\otimes ( \\otimes (1,2,3), \\otimes (2,3,1), \\otimes (3,1,2))$? $\\mathrm{",
+        "options": {
+          "A": "$-\\frac{1}{2}$",
+          "B": "$-\\frac{1}{4}$",
+          "C": "$0$",
+          "D": "$\\frac{1}{4}$",
+          "E": "$\\frac{1}{2}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 3,
+        "problem": "Alicia earns 20 dollars per hour, of which $1.45\\%$ is deducted to pay local taxes. How many cents per hour of Alicia's wages are used to pay local taxes? $\\mathrm{",
+        "options": {
+          "A": "$0.0029$",
+          "B": "$0.029$",
+          "C": "$0.29$",
+          "D": "$2.9$",
+          "E": "$29$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 4,
+        "problem": "What is the value of $x$ if $|x-1|=|x-2|$? $\\mathrm{",
+        "options": {
+          "A": "$-\\frac12$",
+          "B": "$\\frac12$",
+          "C": "$1$",
+          "D": "$\\frac32$",
+          "E": "$2$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 5,
+        "problem": "A set of three points is randomly chosen from the grid shown. Each three point set has the same probability of being chosen. What is the probability that the points lie on the same straight line? [IMG:AMC10_2004_A_5.png] $\\mathrm{",
+        "options": {
+          "A": "$\\frac{1}{21}$",
+          "B": "$\\frac{1}{14}$",
+          "C": "$\\frac{2}{21}$",
+          "D": "$\\frac17$",
+          "E": "$\\frac27$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 6,
+        "problem": "Bertha has 6 daughters and no sons. Some of her daughters have 6 daughters, and the rest have none. Bertha has a total of 30 daughters and granddaughters, and no great-granddaughters. How many of Bertha's daughters and grand-daughters have no daughters? $\\mathrm{",
+        "options": {
+          "A": "$22$",
+          "B": "$23$",
+          "C": "$24$",
+          "D": "$25$",
+          "E": "$26$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 7,
+        "problem": "A grocer stacks oranges in a pyramid-like stack whose rectangular base is 5 oranges by 8 oranges. Each orange above the first level rests in a pocket formed by four oranges below. The stack is completed by a single row of oranges. How many oranges are in the stack? $\\mathrm{",
+        "options": {
+          "A": "$96$",
+          "B": "$98$",
+          "C": "$100$",
+          "D": "$101$",
+          "E": "$134$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 8,
+        "problem": "A game is played with tokens according to the following rule. In each round, the player with the most tokens gives one token to each of the other players and also places one token in the discard pile. The game ends when some player runs out of tokens. Players $A$, $B$, and $C$ start with 15, 14, and 13 tokens, respectively. How many rounds will there be in the game? $\\mathrm{",
+        "options": {
+          "A": "$36$",
+          "B": "$37$",
+          "C": "$38$",
+          "D": "$39$",
+          "E": "$40$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 9,
+        "problem": "In the figure, $\\angle EAB$ and $\\angle ABC$ are right angles. $AB=4, BC=6, AE=8$, and $AC$ and $BE$ intersect at $D$. What is the difference between the areas of $\\triangle ADE$ and $\\triangle BDC$? [IMG:AMC10_2004_A_9.png] $\\mathrm{",
+        "options": {
+          "A": "$2$",
+          "B": "$4$",
+          "C": "$5$",
+          "D": "$8$",
+          "E": "$9$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 10,
+        "problem": "Coin $A$ is flipped three times and coin $B$ is flipped four times. What is the probability that the number of heads obtained from flipping the two fair coins is the same? $\\mathrm{",
+        "options": {
+          "A": "$\\frac{19}{128}$",
+          "B": "$\\frac{23}{128}$",
+          "C": "$\\frac14$",
+          "D": "$\\frac{35}{128}$",
+          "E": "$\\frac12$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 11,
+        "problem": "A company sells peanut butter in cylindrical jars. Marketing research suggests that using wider jars will increase sales. If the diameter of the jars is increased by $25\\%$ without altering the volume, by what percent must the height be decreased? $\\mathrm{",
+        "options": {
+          "A": "$10$",
+          "B": "$25$",
+          "C": "$36$",
+          "D": "$50$",
+          "E": "$60$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 12,
+        "problem": "Henry's Hamburger Heaven offers its hamburgers with the following condiments: ketchup, mustard, mayonnaise, tomato, lettuce, pickles, cheese, and onions. A customer can choose one, two, or three meat patties, and any collection of condiments. How many different kinds of hamburgers can be ordered? $\\mathrm{",
+        "options": {
+          "A": "$24$",
+          "B": "$256$",
+          "C": "$768$",
+          "D": "$40,320$",
+          "E": "$120,960$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 13,
+        "problem": "At a party, each man danced with exactly three women and each woman danced with exactly two men. Twelve men attended the party. How many women attended the party? $\\mathrm{",
+        "options": {
+          "A": "$8$",
+          "B": "$12$",
+          "C": "$16$",
+          "D": "$18$",
+          "E": "$24$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 14,
+        "problem": "The average value of all the pennies, nickels, dimes, and quarters in Paula's purse is $20$ cents. If she had one more quarter, the average would be $21$ cents. How many dimes does she have in her purse? $\\mathrm{",
+        "options": {
+          "A": "$0$",
+          "B": "$1$",
+          "C": "$2$",
+          "D": "$3$",
+          "E": "$4$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 15,
+        "problem": "Given that $-4\\leq x\\leq-2$ and $2\\leq y\\leq4$, what is the largest possible value of $\\frac{x+y}{x}$? $\\mathrm{",
+        "options": {
+          "A": "$-1$",
+          "B": "$-\\frac12$",
+          "C": "$0$",
+          "D": "$\\frac12$",
+          "E": "$1$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 16,
+        "problem": "The $5\\times 5$ grid shown contains a collection of squares with sizes from $1\\times 1$ to $5\\times 5$. How many of these squares contain the black center square? [IMG:AMC10_2004_A_16.png] $\\mathrm{",
+        "options": {
+          "A": "$12$",
+          "B": "$15$",
+          "C": "$17$",
+          "D": "$19$",
+          "E": "$20$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 17,
+        "problem": "Brenda and Sally run in opposite directions on a circular track, starting at diametrically opposite points. They first meet after Brenda has run 100 meters. They next meet after Sally has run 150 meters past their first meeting point. Each girl runs at a constant speed. What is the length of the track in meters? $\\mathrm{",
+        "options": {
+          "A": "$250$",
+          "B": "$300$",
+          "C": "$350$",
+          "D": "$400$",
+          "E": "$500$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 18,
+        "problem": "A sequence of three real numbers form an arithmetic progression with a first term of 9. If 2 is added to the second term and 20 is added to the third term, the three resulting numbers form a geometric progression. What is the smallest possible value for the third term of the geometric progression? $\\mathrm{",
+        "options": {
+          "A": "$1$",
+          "B": "$4$",
+          "C": "$36$",
+          "D": "$49$",
+          "E": "$81$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 19,
+        "problem": "A white cylindrical silo has a diameter of 30 feet and a height of 80 feet. A red stripe with a horizontal width of 3 feet is painted on the silo, as shown, making two complete revolutions around it. What is the area of the stripe in square feet? [IMG:AMC10_2004_A_19.png] $\\mathrm{",
+        "options": {
+          "A": "$120$",
+          "B": "$180$",
+          "C": "$240$",
+          "D": "$360$",
+          "E": "$480$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 20,
+        "problem": "Points $E$ and $F$ are located on square $ABCD$ so that $\\triangle BEF$ is equilateral. What is the ratio of the area of $\\triangle DEF$ to that of $\\triangle ABE$? [IMG:AMC10_2004_A_20.png] $\\mathrm{",
+        "options": {
+          "A": "$\\frac{4}{3}$",
+          "B": "$\\frac{3}{2}$",
+          "C": "$\\sqrt{3}$",
+          "D": "$2$",
+          "E": "$1+\\sqrt{3}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 21,
+        "problem": "Two distinct lines pass through the center of three concentric circles of radii 3, 2, and 1. The area of the shaded region in the diagram is $\\frac{8}{13}$ of the area of the unshaded region. What is the radian measure of the acute angle formed by the two lines? (Note: $\\pi$ radians is $180$ degrees.) [IMG:AMC10_2004_A_21.png] $\\mathrm{",
+        "options": {
+          "A": "$\\frac{\\pi}{8}$",
+          "B": "$\\frac{\\pi}{7}$",
+          "C": "$\\frac{\\pi}{6}$",
+          "D": "$\\frac{\\pi}{5}$",
+          "E": "$\\frac{\\pi}{4}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 22,
+        "problem": "Square $ABCD$ has side length $2$. A semicircle with diameter $\\overline{AB}$ is constructed inside the square, and the tangent to the semicircle from $C$ intersects side $\\overline{AD}$ at $E$. What is the length of $\\overline{CE}$? [IMG:AMC10_2004_A_22.png] $\\mathrm{",
+        "options": {
+          "A": "$\\frac{2+\\sqrt{5}}{2}$",
+          "B": "$\\sqrt{5}$",
+          "C": "$\\sqrt{6}$",
+          "D": "$\\frac{5}{2}$",
+          "E": "$5-\\sqrt{5}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 23,
+        "problem": "Circles $A, B$ and $C$ are externally tangent to each other, and internally tangent to circle $D$. Circles $B$ and $C$ are congruent. Circle $A$ has radius $1$ and passes through the center of $D$. What is the radius of circle $B$? [IMG:AMC10_2004_A_23.png] $\\mathrm{",
+        "options": {
+          "A": "$\\frac23$",
+          "B": "$\\frac {\\sqrt3}{2}$",
+          "C": "$\\frac78$",
+          "D": "$\\frac89$",
+          "E": "$\\frac {1 + \\sqrt3}{3}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 24,
+        "problem": "Let $f$ be a function with the following properties: (i) $f(1) = 1$, and (ii) $f(2n) = n \\cdot f(n)$ for any positive integer $n$. What is the value of $f(2^{100})$? $\\mathrm{",
+        "options": {
+          "A": "$1$",
+          "B": "$2^{99}$",
+          "C": "$2^{100}$",
+          "D": "$2^{4950}$",
+          "E": "$2^{9999}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 25,
+        "problem": "Three mutually tangent spheres of radius 1 rest on a horizontal plane . A sphere of radius 2 rests on them. What is the distance from the plane to the top of the larger sphere? $\\mathrm{",
+        "options": {
+          "A": "$3+\\dfrac{\\sqrt{30}}{2}$",
+          "B": "$3+\\dfrac{\\sqrt{69}}{3}$",
+          "C": "$3+\\dfrac{\\sqrt{123}}{4}$",
+          "D": "$\\dfrac{52}{9}$",
+          "E": "$3+2\\sqrt{2}$"
+        },
+        "answer": "B"
+      }
+    ],
+    "B": [
+      {
+        "number": 1,
+        "problem": "Each row of the Misty Moon Amphitheater has $33$ seats. Rows $12$ through $22$ are reserved for a youth club. How many seats are reserved for this club? $\\mathrm{",
+        "options": {
+          "A": "$297$",
+          "B": "$330$",
+          "C": "$363$",
+          "D": "$396$",
+          "E": "$726$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 2,
+        "problem": "How many two-digit positive integers have at least one $7$ as a digit? $\\mathrm{",
+        "options": {
+          "A": "$10$",
+          "B": "$18$",
+          "C": "$19$",
+          "D": "$20$",
+          "E": "$30$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 3,
+        "problem": "At each basketball practice last week, Jenny made twice as many free throws as she made at the previous practice. At her fifth practice she made $48$ free throws. How many free throws did she make at the first practice? $\\mathrm{",
+        "options": {
+          "A": "$3$",
+          "B": "$6$",
+          "C": "$9$",
+          "D": "$12$",
+          "E": "$15$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 4,
+        "problem": "A standard six-sided die is rolled, and $P$ is the product of the five numbers that are visible. What is the largest number that is certain to divide $P$? $\\mathrm{",
+        "options": {
+          "A": "$6$",
+          "B": "$12$",
+          "C": "$24$",
+          "D": "$144$",
+          "E": "$720$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 5,
+        "problem": "In the expression $c\\cdot a^b-d$, the values of $a$, $b$, $c$, and $d$ are $0$, $1$, $2$, and $3$, although not necessarily in that order. What is the maximum possible value of the result? $\\mathrm{",
+        "options": {
+          "A": "$5$",
+          "B": "$6$",
+          "C": "$8$",
+          "D": "$9$",
+          "E": "$10$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 6,
+        "problem": "Which of the following numbers is a perfect square? $\\mathrm{",
+        "options": {
+          "A": "$98! \\cdot 99!$",
+          "B": "$98! \\cdot 100!$",
+          "C": "$99! \\cdot 100!$",
+          "D": "$99! \\cdot 101!$",
+          "E": "$100! \\cdot 101!$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 7,
+        "problem": "On a trip from the United States to Canada, Isabella took $d$ U.S. dollars. At the border she exchanged them all, receiving $10$ Canadian dollars for every $7$ U.S. dollars. After spending $60$ Canadian dollars, she had $d$ Canadian dollars left. What is the sum of the digits of $d$? $\\mathrm{",
+        "options": {
+          "A": "$5$",
+          "B": "$6$",
+          "C": "$7$",
+          "D": "$8$",
+          "E": "$9$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 8,
+        "problem": "Minneapolis-St. Paul International Airport is $8$ miles southwest of downtown St. Paul and $10$ miles southeast of downtown Minneapolis. Which of the following is closest to the number of miles between downtown St. Paul and downtown Minneapolis? $\\mathrm{",
+        "options": {
+          "A": "$13$",
+          "B": "$14$",
+          "C": "$15$",
+          "D": "$16$",
+          "E": "$17$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 9,
+        "problem": "A square has sides of length $10$, and a circle centered at one of its vertices has radius $10$. What is the area of the union of the regions enclosed by the square and the circle? $\\mathrm{",
+        "options": {
+          "A": "$200+25\\pi$",
+          "B": "$100+75\\pi$",
+          "C": "$75+100\\pi$",
+          "D": "$100+100\\pi$",
+          "E": "$100+125\\pi$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 10,
+        "problem": "A grocer makes a display of cans in which the top row has one can and each lower row has two more cans than the row above it. If the display contains $100$ cans, how many rows does it contain? $\\mathrm{",
+        "options": {
+          "A": "$5$",
+          "B": "$8$",
+          "C": "$9$",
+          "D": "$10$",
+          "E": "$11$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 11,
+        "problem": "Two eight-sided dice each have faces numbered $1$ through $8$. When the dice are rolled, each face has an equal probability of appearing on the top. What is the probability that the product of the two top numbers is greater than their sum? $\\mathrm{",
+        "options": {
+          "A": "$\\frac{1}{2}$",
+          "B": "$\\frac{47}{64}$",
+          "C": "$\\frac{3}{4}$",
+          "D": "$\\frac{55}{64}$",
+          "E": "$\\frac{7}{8}$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 12,
+        "problem": "An annulus is the region between two concentric circles. The concentric circles in the \ufb01gure have radii $b$ and $c$, with $b>c$. Let $OX$ be a radius of the larger circle, let $XZ$ be tangent to the smaller circle at $Z$, and let $OY$ be the radius of the larger circle that contains $Z$. Let $a=XZ$, $d=YZ$, and $e=XY$. What is the area of the annulus? [IMG:AMC10_2004_B_12.png] $\\mathrm{",
+        "options": {
+          "A": "$\\pi a^2$",
+          "B": "$\\pi b^2$",
+          "C": "$\\pi c^2$",
+          "D": "$\\pi d^2$",
+          "E": "$\\pi e^2$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 13,
+        "problem": "In the United States, coins have the following thicknesses: penny, $1.55$ mm; nickel, $1.95$ mm; dime, $1.35$ mm; quarter, $1.75$ mm. If a stack of these coins is exactly $14$ mm high, how many coins are in the stack? $\\mathrm{",
+        "options": {
+          "A": "$7$",
+          "B": "$8$",
+          "C": "$9$",
+          "D": "$10$",
+          "E": "$11$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 14,
+        "problem": "A bag initially contains red marbles and blue marbles only, with more blue than red. Red marbles are added to the bag until only $\\frac{1}{3}$ of the marbles in the bag are blue. Then yellow marbles are added to the bag until only $\\frac{1}{5}$ of the marbles in the bag are blue. Finally, the number of blue marbles in the bag is doubled. What fraction of the marbles now in the bag are blue? $\\mathrm{",
+        "options": {
+          "A": "$\\frac{1}{5}$",
+          "B": "$\\frac{1}{4}$",
+          "C": "$\\frac{1}{3}$",
+          "D": "$\\frac{2}{5}$",
+          "E": "$\\frac{1}{2}$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 15,
+        "problem": "Patty has $20$ coins consisting of nickels and dimes. If her nickels were dimes and her dimes were nickels, she would have $70$ cents more. How much are her coins worth?",
+        "options": {
+          "A": "$\\textdollar 1.15$",
+          "B": "$\\textdollar 1.20$",
+          "C": "$\\textdollar 1.25$",
+          "D": "$\\textdollar 1.30$",
+          "E": "$\\textdollar 1.35$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 16,
+        "problem": "Three circles of radius $1$ are externally tangent to each other and internally tangent to a larger circle. What is the radius of the large circle? $\\mathrm{",
+        "options": {
+          "A": "$\\frac{2 + \\sqrt{6}}{3}$",
+          "B": "$2$",
+          "C": "$\\frac{2 + 3\\sqrt{2}}{2}$",
+          "D": "$\\frac{3 + 2\\sqrt{3}}{3}$",
+          "E": "$\\frac{3 + \\sqrt{3}}{2}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 17,
+        "problem": "The two digits in Jack's age are the same as the digits in Bill's age, but in reverse order. In five years Jack will be twice as old as Bill will be then. What is the difference in their current ages? $\\mathrm{",
+        "options": {
+          "A": "$9$",
+          "B": "$18$",
+          "C": "$27$",
+          "D": "$36$",
+          "E": "$45$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 18,
+        "problem": "In the right triangle $\\triangle ACE$, we have $AC=12$, $CE=16$, and $EA=20$. Points $B$, $D$, and $F$ are located on $AC$, $CE$, and $EA$, respectively, so that $AB=3$, $CD=4$, and $EF=5$. What is the ratio of the area of $\\triangle DBF$ to that of $\\triangle ACE$? [IMG:AMC10_2004_B_18.png] $\\mathrm{",
+        "options": {
+          "A": "$\\frac{1}{4}$",
+          "B": "$\\frac{9}{25}$",
+          "C": "$\\frac{3}{8}$",
+          "D": "$\\frac{11}{25}$",
+          "E": "$\\frac{7}{16}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 19,
+        "problem": "In the sequence $2001$, $2002$, $2003$, $\\ldots$ , each term after the third is found by subtracting the previous term from the sum of the two terms that precede that term. For example, the fourth term is $2001 + 2002 - 2003 = 2000$. What is the $2004^\\textrm{th}$ term in this sequence? $\\mathrm{",
+        "options": {
+          "A": "$-2004$",
+          "B": "$-2$",
+          "C": "$0$",
+          "D": "$4003$",
+          "E": "$6007$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 20,
+        "problem": "In $\\triangle ABC$ points $D$ and $E$ lie on $BC$ and $AC$, respectively. If $AD$ and $BE$ intersect at $T$ so that $\\frac{AT}{DT}=3$ and $\\frac{BT}{ET}=4$, what is $\\frac{CD}{BD}$? [IMG:AMC10_2004_B_20.png] $\\mathrm{",
+        "options": {
+          "A": "$\\frac{1}{8}$",
+          "B": "$\\frac{2}{9}$",
+          "C": "$\\frac{3}{10}$",
+          "D": "$\\frac{4}{11}$",
+          "E": "$\\frac{5}{12}$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 21,
+        "problem": "Let $1$; $4$; $\\ldots$ and $9$; $16$; $\\ldots$ be two arithmetic progressions. The set $S$ is the union of the first $2004$ terms of each sequence. How many distinct numbers are in $S$? $\\mathrm{",
+        "options": {
+          "A": "$3722$",
+          "B": "$3732$",
+          "C": "$3914$",
+          "D": "$3924$",
+          "E": "$4007$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 22,
+        "problem": "A triangle with sides of length $5, 12,$ and $13$ has both an inscribed and a circumscribed circle. What is the distance between the centers of those circles? $\\mathrm{",
+        "options": {
+          "A": "$\\frac{3\\sqrt{5}}{2}$",
+          "B": "$\\frac{7}{2}$",
+          "C": "$\\sqrt{15}$",
+          "D": "$\\frac{\\sqrt{65}}{2}$",
+          "E": "$\\frac{9}{2}$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 23,
+        "problem": "Each face of a cube is painted either red or blue, each with probability $1/2$. The color of each face is determined independently. What is the probability that the painted cube can be placed on a horizontal surface so that the four vertical faces are all the same color? $\\mathrm{",
+        "options": {
+          "A": "$\\frac{1}{4}$",
+          "B": "$\\frac{5}{16}$",
+          "C": "$\\frac{3}{8}$",
+          "D": "$\\frac{7}{16}$",
+          "E": "$\\frac{1}{2}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 24,
+        "problem": "In $\\bigtriangleup ABC$ we have $AB = 7$, $AC = 8$, and $BC = 9$. Point $D$ is on the circumscribed circle of the triangle so that $AD$ bisects $\\angle BAC$. What is the value of $\\frac{AD}{CD}$? $\\mathrm{",
+        "options": {
+          "A": "$\\frac{9}{8}$",
+          "B": "$\\frac{5}{3}$",
+          "C": "$2$",
+          "D": "$\\frac{17}{7}$",
+          "E": "$\\frac{5}{2}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 25,
+        "problem": "A circle of radius $1$ is internally tangent to two circles of radius $2$ at points $A$ and $B$, where $AB$ is a diameter of the smaller circle. What is the area of the region, shaded in the picture, that is outside the smaller circle and inside each of the two larger circles? $\\mathrm{",
+        "options": {
+          "A": "$\\frac{5}{3} \\pi - 3\\sqrt 2$",
+          "B": "$\\frac{5}{3} \\pi - 2\\sqrt 3$",
+          "C": "$\\frac{8}{3} \\pi - 3\\sqrt 3$",
+          "D": "$\\frac{8}{3} \\pi - 3\\sqrt 2$",
+          "E": "$\\frac{8}{3} \\pi - 2\\sqrt 3$ [Diagram]$"
+        },
+        "answer": "B"
+      }
+    ]
+  }
+}

@@ -1,0 +1,610 @@
+{
+  "year": 2012,
+  "contest": "AMC 12",
+  "variants": {
+    "A": [
+      {
+        "number": 1,
+        "problem": "A bug crawls along a number line, starting at $-2$. It crawls to $-6$, then turns around and crawls to $5$. How many units does the bug crawl altogether?",
+        "options": {
+          "A": "$9$",
+          "B": "$11$",
+          "C": "$13$",
+          "D": "$14$",
+          "E": "$15$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 2,
+        "problem": "Cagney can frost a cupcake every $20$ seconds and Lacey can frost a cupcake every $30$ seconds. Working together, how many cupcakes can they frost in $5$ minutes?",
+        "options": {
+          "A": "$10$",
+          "B": "$15$",
+          "C": "$20$",
+          "D": "$25$",
+          "E": "$30$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 3,
+        "problem": "A box $2$ centimeters high, $3$ centimeters wide, and $5$ centimeters long can hold $40$ grams of clay. A second box with twice the height, three times the width, and the same length as the first box can hold $n$ grams of clay. What is $n$?",
+        "options": {
+          "A": "$120$",
+          "B": "$160$",
+          "C": "$200$",
+          "D": "$240$",
+          "E": "$280$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 4,
+        "problem": "In a bag of marbles, $\\tfrac{3}{5}$ of the marbles are blue and the rest are red. If the number of red marbles is doubled and the number of blue marbles stays the same, what fraction of the marbles will be red?",
+        "options": {
+          "A": "$\\dfrac{2}{5}$",
+          "B": "$\\dfrac{3}{7}$",
+          "C": "$\\dfrac{4}{7}$",
+          "D": "$\\dfrac{3}{5}$",
+          "E": "$\\dfrac{4}{5}$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 5,
+        "problem": "A fruit salad consists of blueberries, raspberries, grapes, and cherries. The fruit salad has a total of $280$ pieces of fruit. There are twice as many raspberries as blueberries, three times as many grapes as cherries, and four times as many cherries as raspberries. How many cherries are there in the fruit salad?",
+        "options": {
+          "A": "$8$",
+          "B": "$16$",
+          "C": "$25$",
+          "D": "$64$",
+          "E": "$96$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 6,
+        "problem": "The sums of three whole numbers taken in pairs are $12$, $17$, and $19$. What is the middle number?",
+        "options": {
+          "A": "$4$",
+          "B": "$5$",
+          "C": "$6$",
+          "D": "$7$",
+          "E": "$8$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 7,
+        "problem": "Mary divides a circle into $12$ sectors. The central angles of these sectors, measured in degrees, are all integers and they form an arithmetic sequence. What is the degree measure of the smallest possible sector angle?",
+        "options": {
+          "A": "$5$",
+          "B": "$6$",
+          "C": "$8$",
+          "D": "$10$",
+          "E": "$12$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 8,
+        "problem": "An iterative average of the numbers $1$, $2$, $3$, $4$, and $5$ is computed in the following way. Arrange the five numbers in some order. Find the mean of the first two numbers, then find the mean of that with the third number, then the mean of that with the fourth number, and finally the mean of that with the fifth number. What is the difference between the largest and smallest possible values that can be obtained using this procedure?",
+        "options": {
+          "A": "$\\frac{31}{16}$",
+          "B": "$2$",
+          "C": "$\\frac{17}{8}$",
+          "D": "$3$",
+          "E": "$\\frac{65}{16}$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 9,
+        "problem": "A year is a leap year if and only if the year number is divisible by $400$ (such as $2000$) or is divisible by $4$ but not by $100$ (such as $2012$). The $200\\text{th}$ anniversary of the birth of novelist Charles Dickens was celebrated on February $7$, $2012$, a Tuesday. On what day of the week was Dickens born?",
+        "options": {
+          "A": "$\\text{Friday}$",
+          "B": "$\\text{Saturday}$",
+          "C": "$\\text{Sunday}$",
+          "D": "$\\text{Monday}$",
+          "E": "$\\text{Tuesday}$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 10,
+        "problem": "A triangle has area $30$, one side of length $10$, and the median to that side of length $9$. Let $\\theta$ be the acute angle formed by that side and the median. What is $\\sin{\\theta}$?",
+        "options": {
+          "A": "$\\frac{3}{10}$",
+          "B": "$\\frac{1}{3}$",
+          "C": "$\\frac{9}{20}$",
+          "D": "$\\frac{2}{3}$",
+          "E": "$\\frac{9}{10}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 11,
+        "problem": "Alex, Mel, and Chelsea play a game that has $6$ rounds. In each round there is a single winner, and the outcomes of the rounds are independent. For each round the probability that Alex wins is $\\frac{1}{2}$, and Mel is twice as likely to win as Chelsea. What is the probability that Alex wins three rounds, Mel wins two rounds, and Chelsea wins one round?",
+        "options": {
+          "A": "$\\frac{5}{72}$",
+          "B": "$\\frac{5}{36}$",
+          "C": "$\\frac{1}{6}$",
+          "D": "$\\frac{1}{3}$",
+          "E": "$1$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 12,
+        "problem": "A square region $ABCD$ is externally tangent to the circle with equation $x^2+y^2=1$ at the point $(0,1)$ on the side $CD$. Vertices $A$ and $B$ are on the circle with equation $x^2+y^2=4$. What is the side length of this square?",
+        "options": {
+          "A": "$\\frac{\\sqrt{10}+5}{10}$",
+          "B": "$\\frac{2\\sqrt{5}}{5}$",
+          "C": "$\\frac{2\\sqrt{2}}{3}$",
+          "D": "$\\frac{2\\sqrt{19}-4}{5}$",
+          "E": "$\\frac{9-\\sqrt{17}}{5}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 13,
+        "problem": "Paula the painter and her two helpers each paint at constant, but different, rates. They always start at $\\text{8:00 AM}$, and all three always take the same amount of time to eat lunch. On Monday the three of them painted $50\\%$ of a house, quitting at $\\text{4:00 PM}$. On Tuesday, when Paula wasn't there, the two helpers painted only $24\\%$ of the house and quit at $\\text{2:12 PM}$. On Wednesday Paula worked by herself and finished the house by working until $\\text{7:12 PM}$. How long, in minutes, was each day's lunch break?",
+        "options": {
+          "A": "$30$",
+          "B": "$36$",
+          "C": "$42$",
+          "D": "$48$",
+          "E": "$60$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 14,
+        "problem": "The closed curve in the figure is made up of $9$ congruent circular arcs each of length $\\frac{2\\pi}{3}$, where each of the centers of the corresponding circles is among the vertices of a regular hexagon of side $2$. What is the area enclosed by the curve? [IMG:AMC12_2012_A_14.png]",
+        "options": {
+          "A": "$2\\pi+6$",
+          "B": "$2\\pi+4\\sqrt3$",
+          "C": "$3\\pi+4$",
+          "D": "$2\\pi+3\\sqrt3+2$",
+          "E": "$\\pi+6\\sqrt3$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 15,
+        "problem": "A $3\\times3$ square is partitioned into $9$ unit squares. Each unit square is painted either white or black with each color being equally likely, chosen independently and at random. The square is then rotated $90^\\circ$ clockwise about its center, and every white square in a position formerly occupied by a black square is painted black. The colors of all other squares are left unchanged. What is the probability that the grid is now entirely black?",
+        "options": {
+          "A": "$\\dfrac{49}{512}$",
+          "B": "$\\dfrac{7}{64}$",
+          "C": "$\\dfrac{121}{1024}$",
+          "D": "$\\dfrac{81}{512}$",
+          "E": "$\\dfrac{9}{32}$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 16,
+        "problem": "Circle $C_1$ has its center $O$ lying on circle $C_2$. The two circles meet at $X$ and $Y$. Point $Z$ in the exterior of $C_1$ lies on circle $C_2$ and $XZ=13$, $OZ=11$, and $YZ=7$. What is the radius of circle $C_1$?",
+        "options": {
+          "A": "$5$",
+          "B": "$\\sqrt{26}$",
+          "C": "$3\\sqrt{3}$",
+          "D": "$2\\sqrt{7}$",
+          "E": "$\\sqrt{30}$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 17,
+        "problem": "Let $S$ be a subset of $\\{1,2,3,\\dots,30\\}$ with the property that no pair of distinct elements in $S$ has a sum divisible by $5$. What is the largest possible size of $S$?",
+        "options": {
+          "A": "$10$",
+          "B": "$13$",
+          "C": "$15$",
+          "D": "$16$",
+          "E": "$18$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 18,
+        "problem": "Triangle $ABC$ has $AB=27$, $BC=25$, and $CA=26$. Let $I$ denote the intersection of the internal angle bisectors of $\\triangle ABC$. What is $BI$?",
+        "options": {
+          "A": "$15$",
+          "B": "$5+\\sqrt{26}+3\\sqrt{3}$",
+          "C": "$3\\sqrt{26}$",
+          "D": "$\\frac{2}{3}\\sqrt{546}$",
+          "E": "$9\\sqrt{3}$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 19,
+        "problem": "Adam, Benin, Chiang, Deshawn, Esther, and Fiona have internet accounts. Some, but not all, of them are internet friends with each other, and none of them has an internet friend outside this group. Each of them has the same number of internet friends. In how many different ways can this happen?",
+        "options": {
+          "A": "$60$",
+          "B": "$170$",
+          "C": "$290$",
+          "D": "$320$",
+          "E": "$660$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 20,
+        "problem": "Consider the polynomial [IMG:AMC12_2012_A_20_0.png] [IMG:AMC12_2012_A_20_1.png] The coefficient of $x^{2012}$ is equal to $2^a$. What is $a$?",
+        "options": {
+          "A": "$5$",
+          "B": "$6$",
+          "C": "$7$",
+          "D": "$10$",
+          "E": "$24$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 21,
+        "problem": "Let $a$, $b$, and $c$ be positive integers with $a\\ge$ $b\\ge$ $c$ such that What is $a$?",
+        "options": {
+          "A": "$249$",
+          "B": "$250$",
+          "C": "$251$",
+          "D": "$252$",
+          "E": "$253$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 22,
+        "problem": "Distinct planes $p_1,p_2,....,p_k$ intersect the interior of a cube $Q$. Let $S$ be the union of the faces of $Q$ and let $P =\\bigcup_{j=1}^{k}p_{j}$. The intersection of $P$ and $S$ consists of the union of all segments joining the midpoints of every pair of edges belonging to the same face of $Q$. What is the difference between the maximum and minimum possible values of $k$?",
+        "options": {
+          "A": "$8$",
+          "B": "$12$",
+          "C": "$20$",
+          "D": "$23$",
+          "E": "$24$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 23,
+        "problem": "Let $S$ be the square one of whose diagonals has endpoints $(0.1,0.7)$ and $(-0.1,-0.7)$. A point $v=(x,y)$ is chosen uniformly at random over all pairs of real numbers $x$ and $y$ such that $0 \\le x \\le 2012$ and $0\\le y\\le 2012$. Let $T(v)$ be a translated copy of $S$ centered at $v$. What is the probability that the square region determined by $T(v)$ contains exactly two points with integer coordinates in its interior?",
+        "options": {
+          "A": "$\\frac{1}{8}$",
+          "B": "$\\frac{7}{50}$",
+          "C": "$\\frac{4}{25}$",
+          "D": "$\\frac{1}{4}$",
+          "E": "$\\frac{8}{25}$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 24,
+        "problem": "Let $\\{a_k\\}_{k=1}^{2011}$ be the sequence of real numbers defined by $a_1=0.201,$ $a_2=(0.2011)^{a_1},$ $a_3=(0.20101)^{a_2},$ $a_4=(0.201011)^{a_3}$, and in general, [IMG:AMC12_2012_A_24.png] Rearranging the numbers in the sequence $\\{a_k\\}_{k=1}^{2011}$ in decreasing order produces a new sequence $\\{b_k\\}_{k=1}^{2011}$. What is the sum of all integers $k$, $1\\le k \\le 2011$, such that $a_k=b_k?$",
+        "options": {
+          "A": "$671$",
+          "B": "$1006$",
+          "C": "$1341$",
+          "D": "$2011$",
+          "E": "$2012$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 25,
+        "problem": "Let $f(x)=|2\\{x\\}-1|$ where $\\{x\\}$ denotes the fractional part of $x$. The number $n$ is the smallest positive integer such that the equation [IMG:AMC12_2012_A_25.png] has at least $2012$ real solutions. What is $n$? Note: the fractional part of $x$ is a real number $y=\\{x\\}$ such that $0\\le y<1$ and $x-y$ is an integer.",
+        "options": {
+          "A": "$30$",
+          "B": "$31$",
+          "C": "$32$",
+          "D": "$62$",
+          "E": "$64$"
+        },
+        "answer": "C"
+      }
+    ],
+    "B": [
+      {
+        "number": 1,
+        "problem": "Each third-grade classroom at Pearl Creek Elementary has 18 students and 2 pet rabbits. How many more students than rabbits are there in all 4 of the third-grade classrooms?",
+        "options": {
+          "A": "$48$",
+          "B": "$56$",
+          "C": "$64$",
+          "D": "$72$",
+          "E": "$80$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 2,
+        "problem": "A circle of radius 5 is inscribed in a rectangle as shown. The ratio of the length of the rectangle to its width is 2:1. What is the area of the rectangle? [IMG:AMC12_2012_B_2.png]",
+        "options": {
+          "A": "$50$",
+          "B": "$100$",
+          "C": "$125$",
+          "D": "$150$",
+          "E": "$200$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 3,
+        "problem": "For a science project, Sammy observed a chipmunk and squirrel stashing acorns in holes. The chipmunk hid 3 acorns in each of the holes it dug. The squirrel hid 4 acorns in each of the holes it dug. They each hid the same number of acorns, although the squirrel needed 4 fewer holes. How many acorns did the chipmunk hide?",
+        "options": {
+          "A": "$30$",
+          "B": "$36$",
+          "C": "$42$",
+          "D": "$48$",
+          "E": "$54$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 4,
+        "problem": "Suppose that the euro is worth $1.30$ dollars. If Diana has $500$ dollars and Etienne has $400$ euros, by what percent is the value of Etienne's money greater than the value of Diana's money?",
+        "options": {
+          "A": "$2$",
+          "B": "$4$",
+          "C": "$6.5$",
+          "D": "$8$",
+          "E": "$13$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 5,
+        "problem": "Two integers have a sum of 26. When two more integers are added to the first two, the sum is 41. Finally, when two more integers are added to the sum of the previous 4 integers, the sum is 57. What is the minimum number of even integers among the 6 integers?",
+        "options": {
+          "A": "$1$",
+          "B": "$2$",
+          "C": "$3$",
+          "D": "$4$",
+          "E": "$5$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 6,
+        "problem": "In order to estimate the value of $x-y$ where $x$ and $y$ are real numbers with $x > y > 0$, Xiaoli rounded $x$ up by a small amount, rounded $y$ down by the same amount, and then subtracted her rounded values. Which of the following statements is necessarily correct?",
+        "options": {
+          "A": "$\\text{Her estimate is larger than }x-y$",
+          "B": "$\\text{Her estimate is smaller than }x-y$",
+          "C": "$\\text{Her estimate equals }x-y$",
+          "D": "$\\text{Her estimate equals }y - x$",
+          "E": "$\\text{Her estimate is 0}$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 7,
+        "problem": "Small lights are hung on a string 6 inches apart in the order red, red, green, green, green, red, red, green, green, green, and so on continuing this pattern of 2 red lights followed by 3 green lights. How many feet separate the 3rd red light and the 21st red light? Note: 1 foot is equal to 12 inches.",
+        "options": {
+          "A": "$18$",
+          "B": "$18.5$",
+          "C": "$20$",
+          "D": "$20.5$",
+          "E": "$22.5$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 8,
+        "problem": "A dessert chef prepares the dessert for every day of a week starting with Sunday. The dessert each day is either cake, pie, ice cream, or pudding. The same dessert may not be served two days in a row. There must be cake on Friday because of a birthday. How many different dessert menus for the week are possible?",
+        "options": {
+          "A": "$729$",
+          "B": "$972$",
+          "C": "$1024$",
+          "D": "$2187$",
+          "E": "$2304$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 9,
+        "problem": "It takes Clea 60 seconds to walk down an escalator when it is not moving, and 24 seconds when it is moving. How many seconds would it take Clea to ride the escalator down when she is not walking?",
+        "options": {
+          "A": "$36$",
+          "B": "$40$",
+          "C": "$42$",
+          "D": "$48$",
+          "E": "$52$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 10,
+        "problem": "What is the area of the polygon whose vertices are the points of intersection of the curves $x^2 + y^2 =25$ and $(x-4)^2 + 9y^2 = 81$?",
+        "options": {
+          "A": "$24$",
+          "B": "$27$",
+          "C": "$36$",
+          "D": "$37.5$",
+          "E": "$42$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 11,
+        "problem": "In the equation below, $A$ and $B$ are consecutive positive integers, and $A$, $B$, and $A+B$ represent number bases: [IMG:AMC12_2012_B_11.png] What is $A+B$?",
+        "options": {
+          "A": "$9$",
+          "B": "$11$",
+          "C": "$13$",
+          "D": "$15$",
+          "E": "$17$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 12,
+        "problem": "How many sequences of zeros and ones of length 20 have all the zeros consecutive, or all the ones consecutive, or both?",
+        "options": {
+          "A": "$190$",
+          "B": "$192$",
+          "C": "$211$",
+          "D": "$380$",
+          "E": "$382$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 13,
+        "problem": "Two parabolas have equations $y= x^2 + ax +b$ and $y= x^2 + cx +d$, where $a$, $b$, $c$, and $d$ are integers, each chosen independently by rolling a fair six-sided die. What is the probability that the parabolas will have at least one point in common?",
+        "options": {
+          "A": "$\\frac{1}{2}$",
+          "B": "$\\frac{25}{36}$",
+          "C": "$\\frac{5}{6}$",
+          "D": "$\\frac{31}{36}$",
+          "E": "$1$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 14,
+        "problem": "Bernardo and Silvia play the following game. An integer between $0$ and $999$ inclusive is selected and given to Bernardo. Whenever Bernardo receives a number, he doubles it and passes the result to Silvia. Whenever Silvia receives a number, she adds $50$ to it and passes the result to Bernardo. The winner is the last person who produces a number less than $1000$. Let $N$ be the smallest initial number that results in a win for Bernardo. What is the sum of the digits of $N$?",
+        "options": {
+          "A": "$7$",
+          "B": "$8$",
+          "C": "$9$",
+          "D": "$10$",
+          "E": "$11$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 15,
+        "problem": "Jesse cuts a circular paper disk of radius $12$ along two radii to form two sectors, the smaller having a central angle of $120$ degrees. He makes two circular cones, using each sector to form the lateral surface of a cone. What is the ratio of the volume of the smaller cone to that of the larger one?",
+        "options": {
+          "A": "$\\frac{1}{8}$",
+          "B": "$\\frac{1}{4}$",
+          "C": "$\\frac{\\sqrt{10}}{10}$",
+          "D": "$\\frac{\\sqrt{5}}{6}$",
+          "E": "$\\frac{\\sqrt{5}}{5}$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 16,
+        "problem": "Amy, Beth, and Jo listen to four different songs and discuss which ones they like. No song is liked by all three. Furthermore, for each of the three pairs of the girls, there is at least one song liked by those girls but disliked by the third. In how many different ways is this possible?",
+        "options": {
+          "A": "$108$",
+          "B": "$132$",
+          "C": "$671$",
+          "D": "$846$",
+          "E": "$1105$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 17,
+        "problem": "Square $PQRS$ lies in the first quadrant. Points $(3,0), (5,0), (7,0),$ and $(13,0)$ lie on lines $SP, RQ, PQ,$ and $SR$, respectively. What is the sum of the coordinates of the center of the square $PQRS$?",
+        "options": {
+          "A": "$6$",
+          "B": "$\\frac{31}{5}$",
+          "C": "$\\frac{32}{5}$",
+          "D": "$\\frac{33}{5}$",
+          "E": "$\\frac{34}{5}$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 18,
+        "problem": "Let $(a_1,a_2, \\dots ,a_{10})$ be a list of the first $10$ positive integers such that for each $2 \\le i \\le 10$ either $a_i+1$ or $a_i-1$ or both appear somewhere before $a_i$ in the list. How many such lists are there?",
+        "options": {
+          "A": "$120$",
+          "B": "$512$",
+          "C": "$1024$",
+          "D": "$181,440$",
+          "E": "$362,880$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 19,
+        "problem": "A unit cube has vertices $P_1,P_2,P_3,P_4,P_1&#39;,P_2&#39;,P_3&#39;,$ and $P_4&#39;$. Vertices $P_2$, $P_3$, and $P_4$ are adjacent to $P_1$, and for $1\\le i\\le 4,$ vertices $P_i$ and $P_i&#39;$ are opposite to each other. A regular octahedron has one vertex in each of the segments $P_1P_2$, $P_1P_3$, $P_1P_4$, $P_1&#39;P_2&#39;$, $P_1&#39;P_3&#39;$, and $P_1&#39;P_4&#39;$. What is the octahedron's side length? [IMG:AMC12_2012_B_19.png]",
+        "options": {
+          "A": "$\\frac{3\\sqrt{2}}{4}$",
+          "B": "$\\frac{7\\sqrt{6}}{16}$",
+          "C": "$\\frac{\\sqrt{5}}{2}$",
+          "D": "$\\frac{2\\sqrt{3}}{3}$",
+          "E": "$\\frac{\\sqrt{6}}{2}$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 20,
+        "problem": "A trapezoid has side lengths $3$, $5$, $7$, and $11$. The sums of all the possible areas of the trapezoid can be written in the form of $r_1\\sqrt{n_1}+r_2\\sqrt{n_2}+r_3$, where $r_1$, $r_2$, and $r_3$ are rational numbers and $n_1$ and $n_2$ are positive integers not divisible by the square of any prime. What is the greatest integer less than or equal to $r_1+r_2+r_3+n_1+n_2$?",
+        "options": {
+          "A": "$57$",
+          "B": "$59$",
+          "C": "$61$",
+          "D": "$63$",
+          "E": "$65$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 21,
+        "problem": "Square $AXYZ$ is inscribed in equiangular hexagon $ABCDEF$ with $X$ on $\\overline{BC}$, $Y$ on $\\overline{DE}$, and $Z$ on $\\overline{EF}$. Suppose that $AB=40$, and $EF=41(\\sqrt{3}-1)$. What is the side-length of the square? [IMG:AMC12_2012_B_21.png]",
+        "options": {
+          "A": "$29\\sqrt{3}$",
+          "B": "$\\frac{21}{2}\\sqrt{2}+\\frac{41}{2}\\sqrt{3}$",
+          "C": "$20\\sqrt{3}+16$",
+          "D": "$20\\sqrt{2}+13\\sqrt{3}$",
+          "E": "$21\\sqrt{6}$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 22,
+        "problem": "A bug travels from $A$ to $B$ along the segments in the hexagonal lattice pictured below. The segments marked with an arrow can be traveled only in the direction of the arrow, and the bug never travels the same segment more than once. How many different paths are there? [IMG:AMC12_2012_B_22.png]",
+        "options": {
+          "A": "$2112$",
+          "B": "$2304$",
+          "C": "$2368$",
+          "D": "$2384$",
+          "E": "$2400$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 23,
+        "problem": "Consider all polynomials of a complex variable, $P(z)=4z^4+az^3+bz^2+cz+d$, where $a,b,c,$ and $d$ are integers, $0\\le d\\le c\\le b\\le a\\le 4$, and the polynomial has a zero $z_0$ with $|z_0|=1.$ What is the sum of all values $P(1)$ over all the polynomials with these properties?",
+        "options": {
+          "A": "$84$",
+          "B": "$92$",
+          "C": "$100$",
+          "D": "$108$",
+          "E": "$120$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 24,
+        "problem": "Define the function $f_1$ on the positive integers by setting $f_1(1)=1$ and if $n=p_1^{e_1}p_2^{e_2}\\cdots p_k^{e_k}$ is the prime factorization of $n>1$, then [IMG:AMC12_2012_B_24.png] For every $m\\ge 2$, let $f_m(n)=f_1(f_{m-1}(n))$. For how many $N$s in the range $1\\le N\\le 400$ is the sequence $(f_1(N),f_2(N),f_3(N),\\dots )$ unbounded? Note: A sequence of positive numbers is unbounded if for every integer $B$, there is a member of the sequence greater than $B$.",
+        "options": {
+          "A": "$15$",
+          "B": "$16$",
+          "C": "$17$",
+          "D": "$18$",
+          "E": "$19$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 25,
+        "problem": "Let $S=\\{(x,y) : x\\in \\{0,1,2,3,4\\}, y\\in \\{0,1,2,3,4,5\\},\\text{ and } (x,y)\\ne (0,0)\\}$. Let $T$ be the set of all right triangles whose vertices are in $S$. For every right triangle $t=\\triangle{ABC}$ with vertices $A$, $B$, and $C$ in counter-clockwise order and right angle at $A$, let $f(t)=\\tan(\\angle{CBA})$. What is [IMG:AMC12_2012_B_25.png]",
+        "options": {
+          "A": "$1$",
+          "B": "$\\frac{625}{144}$",
+          "C": "$\\frac{125}{24}$",
+          "D": "$6$",
+          "E": "$\\frac{625}{24}$"
+        },
+        "answer": "B"
+      }
+    ]
+  }
+}

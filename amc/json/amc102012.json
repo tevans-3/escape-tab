@@ -1,0 +1,610 @@
+{
+  "year": 2012,
+  "contest": "AMC 10",
+  "variants": {
+    "A": [
+      {
+        "number": 1,
+        "problem": "Cagney can frost a cupcake every 20 seconds and Lacey can frost a cupcake every $30$ seconds. Working together, how many cupcakes can they frost in $5$ minutes?",
+        "options": {
+          "A": "$10$",
+          "B": "$15$",
+          "C": "$20$",
+          "D": "$25$",
+          "E": "$30$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 2,
+        "problem": "A square with side length $8$ is cut in half, creating two congruent rectangles. What are the dimensions of one of these rectangles?",
+        "options": {
+          "A": "$2\\ \\text{by}\\ 4$",
+          "B": "$2\\ \\text{by}\\ 6$",
+          "C": "$2\\ \\text{by}\\ 8$",
+          "D": "$4\\ \\text{by}\\ 4$",
+          "E": "$4\\ \\text{by}\\ 8$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 3,
+        "problem": "A bug crawls along a number line, starting at $-2$. It crawls to $-6$, then turns around and crawls to $5$. How many units does the bug crawl altogether?",
+        "options": {
+          "A": "$9$",
+          "B": "$11$",
+          "C": "$13$",
+          "D": "$14$",
+          "E": "$15$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 4,
+        "problem": "Let $\\angle ABC = 24^\\circ$ and $\\angle ABD = 20^\\circ$. What is the smallest possible degree measure for angle $CBD$?",
+        "options": {
+          "A": "$0$",
+          "B": "$2$",
+          "C": "$4$",
+          "D": "$6$",
+          "E": "$12$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 5,
+        "problem": "Last year $100$ adult cats, half of whom were female, were brought into the Smallville Animal Shelter. Half of the adult female cats were accompanied by a litter of kittens. The average number of kittens per litter was $4$. What was the total number of cats and kittens received by the shelter last year?",
+        "options": {
+          "A": "$150$",
+          "B": "$200$",
+          "C": "$250$",
+          "D": "$300$",
+          "E": "$400$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 6,
+        "problem": "The product of two positive numbers is $9$. The reciprocal of one of these numbers is $4$ times the reciprocal of the other number. What is the sum of the two numbers?",
+        "options": {
+          "A": "$\\frac{10}{3}$",
+          "B": "$\\frac{20}{3}$",
+          "C": "$7$",
+          "D": "$\\frac{15}{2}$",
+          "E": "$8$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 7,
+        "problem": "In a bag of marbles, $\\frac{3}{5}$ of the marbles are blue and the rest are red. If the number of red marbles is doubled and the number of blue marbles stays the same, what fraction of the marbles will be red?",
+        "options": {
+          "A": "$\\frac{2}{5}$",
+          "B": "$\\frac{3}{7}$",
+          "C": "$\\frac{4}{7}$",
+          "D": "$\\frac{3}{5}$",
+          "E": "$\\frac{4}{5}$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 8,
+        "problem": "The sums of three whole numbers taken in pairs are $12$, $17$, and $19$. What is the middle number?",
+        "options": {
+          "A": "$4$",
+          "B": "$5$",
+          "C": "$6$",
+          "D": "$7$",
+          "E": "$8$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 9,
+        "problem": "A pair of six-sided dice are labeled so that one die has only even numbers (two each of $2$, $4$, and $6$), and the other die has only odd numbers (two each of $1$, $3$, and $5$). The pair of dice is rolled. What is the probability that the sum of the numbers on the tops of the two dice is $7$?",
+        "options": {
+          "A": "$\\frac{1}{6}$",
+          "B": "$\\frac{1}{5}$",
+          "C": "$\\frac{1}{4}$",
+          "D": "$\\frac{1}{3}$",
+          "E": "$\\frac{1}{2}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 10,
+        "problem": "Mary divides a circle into $12$ sectors. The central angles of these sectors, measured in degrees, are all integers and they form an arithmetic sequence. What is the degree measure of the smallest possible sector angle?",
+        "options": {
+          "A": "$5$",
+          "B": "$6$",
+          "C": "$8$",
+          "D": "$10$",
+          "E": "$12$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 11,
+        "problem": "Externally tangent circles with centers at points $A$ and $B$ have radii of lengths $5$ and $3$, respectively. A line externally tangent to both circles intersects ray $AB$ at point $C$. What is $BC$?",
+        "options": {
+          "A": "$4$",
+          "B": "$4.8$",
+          "C": "$10.2$",
+          "D": "$12$",
+          "E": "$14.4$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 12,
+        "problem": "A year is a leap year if and only if the year number is divisible by $400$ (such as $2000$) or is divisible by $4$ but not $100$ (such as $2012$). The $200$th anniversary of the birth of novelist Charles Dickens was celebrated on February $7$, $2012$, a Tuesday. On what day of the week was Dickens born?",
+        "options": {
+          "A": "$\\text{Friday}$",
+          "B": "$\\text{Saturday}$",
+          "C": "$\\text{Sunday}$",
+          "D": "$\\text{Monday}$",
+          "E": "$\\text{Tuesday}$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 13,
+        "problem": "An iterative average of the numbers $1$, $2$, $3$, $4$, and $5$ is computed the following way. Arrange the five numbers in some order. Find the mean of the first two numbers, then find the mean of that with the third number, then the mean of that with the fourth number, and finally the mean of that with the fifth number. What is the difference between the largest and smallest possible values that can be obtained using this procedure?",
+        "options": {
+          "A": "$\\frac{31}{16}$",
+          "B": "$2$",
+          "C": "$\\frac{17}{8}$",
+          "D": "$3$",
+          "E": "$\\frac{65}{16}$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 14,
+        "problem": "Chubby makes nonstandard checkerboards that have $31$ squares on each side. The checkerboards have a black square in every corner and alternate red and black squares along every row and column. How many black squares are there on such a checkerboard?",
+        "options": {
+          "A": "$480$",
+          "B": "$481$",
+          "C": "$482$",
+          "D": "$483$",
+          "E": "$484$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 15,
+        "problem": "Three unit squares and two line segments connecting two pairs of vertices are shown. What is the area of $\\triangle ABC$? [IMG:AMC10_2012_A_15.png]",
+        "options": {
+          "A": "$\\frac16$",
+          "B": "$\\frac15$",
+          "C": "$\\frac29$",
+          "D": "$\\frac13$",
+          "E": "$\\frac{\\sqrt{2}}{4}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 16,
+        "problem": "Three runners start running simultaneously from the same point on a $500$-meter circular track. They each run clockwise around the course maintaining constant speeds of $4.4$, $4.8$, and $5.0$ meters per second. The runners stop once they are all together again somewhere on the circular course. How many seconds do the runners run?",
+        "options": {
+          "A": "$1,000$",
+          "B": "$1,250$",
+          "C": "$2,500$",
+          "D": "$5,000$",
+          "E": "$10,000$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 17,
+        "problem": "Let $a$ and $b$ be relatively prime positive integers with $a>b>0$ and $\\dfrac{a^3-b^3}{(a-b)^3} = \\dfrac{73}{3}$. What is $a-b$?",
+        "options": {
+          "A": "$1$",
+          "B": "$2$",
+          "C": "$3$",
+          "D": "$4$",
+          "E": "$5$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 18,
+        "problem": "The closed curve in the figure is made up of $9$ congruent circular arcs each of length $\\frac{2\\pi}{3}$, where each of the centers of the corresponding circles is among the vertices of a regular hexagon of side $2$. What is the area enclosed by the curve? [IMG:AMC10_2012_A_18.png]",
+        "options": {
+          "A": "$2\\pi+6$",
+          "B": "$2\\pi+4\\sqrt{3}$",
+          "C": "$3\\pi+4$",
+          "D": "$2\\pi+3\\sqrt{3}+2$",
+          "E": "$\\pi+6\\sqrt{3}$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 19,
+        "problem": "Paula the painter and her two helpers each paint at constant, but different, rates. They always start at 8:00 AM, and all three always take the same amount of time to eat lunch. On Monday the three of them painted 50% of a house, quitting at 4:00 PM. On Tuesday, when Paula wasn't there, the two helpers painted only 24% of the house and quit at 2:12 PM. On Wednesday Paula worked by herself and finished the house by working until 7:12 PM. How long, in minutes, was each day's lunch break?",
+        "options": {
+          "A": "$30$",
+          "B": "$36$",
+          "C": "$42$",
+          "D": "$48$",
+          "E": "$60$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 20,
+        "problem": "A $3 \\times 3$ square is partitioned into $9$ unit squares. Each unit square is painted either white or black with each color being equally likely, chosen independently and at random. The square is then rotated $90\\,^{\\circ}$ clockwise about its center, and every white square in a position formerly occupied by a black square is painted black. The colors of all other squares are left unchanged. What is the probability the grid is now entirely black?",
+        "options": {
+          "A": "$\\frac{49}{512}$",
+          "B": "$\\frac{7}{64}$",
+          "C": "$\\frac{121}{1024}$",
+          "D": "$\\frac{81}{512}$",
+          "E": "$\\frac{9}{32}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 21,
+        "problem": "Let points $A = (0 ,0 ,0)$, $B = (1, 0, 0)$, $C = (0, 2, 0)$, and $D = (0, 0, 3)$. Points $E$, $F$, $G$, and $H$ are midpoints of line segments $\\overline{BD},\\text{ } \\overline{AB}, \\text{ } \\overline {AC},$ and $\\overline{DC}$ respectively. What is the area of $EFGH$?",
+        "options": {
+          "A": "$\\sqrt{2}$",
+          "B": "$\\frac{2\\sqrt{5}}{3}$",
+          "C": "$\\frac{3\\sqrt{5}}{4}$",
+          "D": "$\\sqrt{3}$",
+          "E": "$\\frac{2\\sqrt{7}}{3}$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 22,
+        "problem": "The sum of the first $m$ positive odd integers is $212$ more than the sum of the first $n$ positive even integers. What is the sum of all possible values of $n$?",
+        "options": {
+          "A": "$255$",
+          "B": "$256$",
+          "C": "$257$",
+          "D": "$258$",
+          "E": "$259$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 23,
+        "problem": "Adam, Benin, Chiang, DeShawn, Esther, and Fiona have internet accounts. Some, but not all, of them are internet friends with each other, and none of them has an internet friend outside this group. Each of them has the same number of internet friends. In how many different ways can this happen?",
+        "options": {
+          "A": "$60$",
+          "B": "$170$",
+          "C": "$290$",
+          "D": "$320$",
+          "E": "$660$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 24,
+        "problem": "Let $a$, $b$, and $c$ be positive integers with $a\\ge$ $b\\ge$ $c$ such that What is $a$?",
+        "options": {
+          "A": "$249$",
+          "B": "$250$",
+          "C": "$251$",
+          "D": "$252$",
+          "E": "$253$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 25,
+        "problem": "Real numbers $x$, $y$, and $z$ are chosen independently and at random from the interval $[0,n]$ for some positive integer $n$. The probability that no two of $x$, $y$, and $z$ are within 1 unit of each other is greater than $\\frac {1}{2}$. What is the smallest possible value of $n$?",
+        "options": {
+          "A": "$7$",
+          "B": "$8$",
+          "C": "$9$",
+          "D": "$10$",
+          "E": "$11$"
+        },
+        "answer": "D"
+      }
+    ],
+    "B": [
+      {
+        "number": 1,
+        "problem": "Each third-grade classroom at Pearl Creek Elementary has 18 students and 2 rabbits. How many more students than rabbits are there in all 4 of the third-grade classrooms?",
+        "options": {
+          "A": "$48$",
+          "B": "$56$",
+          "C": "$64$",
+          "D": "$72$",
+          "E": "$80$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 2,
+        "problem": "A circle of radius 5 is inscribed in a rectangle as shown. The ratio of the length of the rectangle to its width is 2:1. What is the area of the rectangle? [IMG:AMC10_2012_B_2.png]",
+        "options": {
+          "A": "$50$",
+          "B": "$100$",
+          "C": "$125$",
+          "D": "$150$",
+          "E": "$200$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 3,
+        "problem": "The point in the xy-plane with coordinates $(1000, 2012)$ is reflected across the line $y = 2000$. What are the coordinates of the reflected point?",
+        "options": {
+          "A": "$(998,2012)$",
+          "B": "$(1000,1988)$",
+          "C": "$(1000,2024)$",
+          "D": "$(1000,4012)$",
+          "E": "$(1012,2012)$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 4,
+        "problem": "When Ringo places his marbles into bags with 6 marbles per bag, he has 4 marbles left over. When Paul does the same with his marbles, he has 3 marbles left over. Ringo and Paul pool their marbles and place them into as many bags as possible, with 6 marbles per bag. How many marbles will be left over?",
+        "options": {
+          "A": "$1$",
+          "B": "$2$",
+          "C": "$3$",
+          "D": "$4$",
+          "E": "$5$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 5,
+        "problem": "Anna enjoys dinner at a restaurant in Washington, D.C., where the sales tax on meals is 10%. She leaves a 15% tip on the price of her meal before the sales tax is added, and the tax is calculated on the pre-tip amount. She spends a total of 27.50 dollars for dinner. What is the cost of her dinner without tax or tip in dollars?",
+        "options": {
+          "A": "$18$",
+          "B": "$20$",
+          "C": "$21$",
+          "D": "$22$",
+          "E": "$24$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 6,
+        "problem": "In order to estimate the value of $x-y$ where $x$ and $y$ are real numbers with $x > y > 0$, Xiaoxi rounded $x$ up by a small amount, rounded $y$ down by the same amount, and then subtracted her rounded values. Which of the following statements is necessarily correct?",
+        "options": {
+          "A": "$ Her estimate is larger than $x-y$",
+          "B": "$ Her estimate is smaller than $x-y$",
+          "C": "$ Her estimate equals $x-y$",
+          "D": "$ Her estimate equals $y - x$",
+          "E": "$ Her estimate is $0$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 7,
+        "problem": "For a science project, Sammy observed a chipmunk and a squirrel stashing acorns in holes. The chipmunk hid 3 acorns in each of the holes it dug. The squirrel hid 4 acorns in each of the holes it dug. They each hid the same number of acorns, although the squirrel needed 4 fewer holes. How many acorns did the chipmunk hide?",
+        "options": {
+          "A": "$30$",
+          "B": "$36$",
+          "C": "$42$",
+          "D": "$48$",
+          "E": "$54$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 8,
+        "problem": "What is the sum of all integer solutions to $1<(x-2)^2<25$?",
+        "options": {
+          "A": "$10$",
+          "B": "$12$",
+          "C": "$15$",
+          "D": "$19$",
+          "E": "$25$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 9,
+        "problem": "Two integers have a sum of 26. When two more integers are added to the first two integers the sum is 41. Finally when two more integers are added to the sum of the previous four integers the sum is 57. What is the minimum number of odd integers among the 6 integers?",
+        "options": {
+          "A": "$1$",
+          "B": "$2$",
+          "C": "$3$",
+          "D": "$4$",
+          "E": "$5$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 10,
+        "problem": "How many ordered pairs of positive integers $(M,N)$ satisfy the equation $\\frac{M}{6}=\\frac{6}{N}?$",
+        "options": {
+          "A": "$6$",
+          "B": "$7$",
+          "C": "$8$",
+          "D": "$9$",
+          "E": "$10$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 11,
+        "problem": "A dessert chef prepares the dessert for every day of a week starting with Sunday. The dessert each day is either cake, pie, ice cream, or pudding. The same dessert may not be served two days in a row. There must be cake on Friday because of a birthday. How many different dessert menus for the week are possible?",
+        "options": {
+          "A": "$729$",
+          "B": "$972$",
+          "C": "$1024$",
+          "D": "$2187$",
+          "E": "$2304$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 12,
+        "problem": "Point $B$ is due east of point $A$. Point $C$ is due north of point $B$. The distance between points $A$ and $C$ is $10\\sqrt 2$, and $\\angle BAC = 45^\\circ$. Point $D$ is $20$ meters due north of point $C$. The distance $AD$ is between which two integers?",
+        "options": {
+          "A": "$30\\ \\text{and}\\ 31$",
+          "B": "$31\\ \\text{and}\\ 32$",
+          "C": "$32\\ \\text{and}\\ 33$",
+          "D": "$33\\ \\text{and}\\ 34$",
+          "E": "$34\\ \\text{and}\\ 35$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 13,
+        "problem": "It takes Clea 60 seconds to walk down an escalator when it is not operating, and only 24 seconds to walk down the escalator when it is operating. How many seconds does it take Clea to ride down the operating escalator when she just stands on it?",
+        "options": {
+          "A": "$36$",
+          "B": "$40$",
+          "C": "$42$",
+          "D": "$48$",
+          "E": "$52$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 14,
+        "problem": "Two equilateral triangles are contained in a square whose side length is $2\\sqrt 3$. The bases of these triangles are the opposite sides of the square, and their intersection is a rhombus. What is the area of the rhombus?",
+        "options": {
+          "A": "$\\frac{3}{2}$",
+          "B": "$\\sqrt 3$",
+          "C": "$2\\sqrt 2 - 1$",
+          "D": "$8\\sqrt 3 - 12 \\qquad \\text{(E)} \\frac{4\\sqrt 3}{3}$",
+          "E": "$frac{4\\sqrt 3}{3}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 15,
+        "problem": "In a round-robin tournament with 6 teams, each team plays one game against each other team, and each game results in one team winning and one team losing. At the end of the tournament, the teams are ranked by the number of games won. What is the maximum number of teams that could be tied for the most wins at the end of the tournament?",
+        "options": {
+          "A": "$2$",
+          "B": "$3$",
+          "C": "$4$",
+          "D": "$5$",
+          "E": "$6$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 16,
+        "problem": "Three circles with radius 2 are mutually tangent. What is the total area of the circles and the region bounded by them, as shown in the figure? [IMG:AMC10_2012_B_16.png]",
+        "options": {
+          "A": "$10\\pi+4\\sqrt{3}$",
+          "B": "$13\\pi-\\sqrt{3}$",
+          "C": "$12\\pi+\\sqrt{3}$",
+          "D": "$10\\pi+9$",
+          "E": "$13\\pi$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 17,
+        "problem": "Jesse cuts a circular paper disk of radius $12$ along two radii to form two sectors, the smaller having a central angle of $120$ degrees. He makes two circular cones, using each sector to form the lateral surface of a cone. What is the ratio of the volume of the smaller cone to that of the larger?",
+        "options": {
+          "A": "$\\frac{1}{8}$",
+          "B": "$\\frac{1}{4}$",
+          "C": "$\\frac{\\sqrt{10}}{10}$",
+          "D": "$\\frac{\\sqrt{5}}{6}$",
+          "E": "$\\frac{\\sqrt{5}}{5}$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 18,
+        "problem": "Suppose that one of every 500 people in a certain population has a particular disease, which displays no symptoms. A blood test is available for screening for this disease. For a person who has this disease, the test always turns out positive. For a person who does not have the disease, however, there is a $2\\%$ false positive rate--in other words, for such people, $98\\%$ of the time the test will turn out negative, but $2\\%$ of the time the test will turn out positive and will incorrectly indicate that the person has the disease. Let $p$ be the probability that a person who is chosen at random from this population and gets a positive test result actually has the disease. Which of the following is closest to $p$?",
+        "options": {
+          "A": "$\\frac{1}{98}$",
+          "B": "$\\frac{1}{9}$",
+          "C": "$\\frac{1}{11}$",
+          "D": "$\\frac{49}{99}$",
+          "E": "$\\frac{98}{99}$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 19,
+        "problem": "In rectangle $ABCD$, $AB=6$, $AD=30$, and $G$ is the midpoint of $\\overline{AD}$. Segment $AB$ is extended 2 units beyond $B$ to point $E$, and $F$ is the intersection of $\\overline{ED}$ and $\\overline{BC}$. What is the area of $BFDG$?",
+        "options": {
+          "A": "$\\frac{133}{2}$",
+          "B": "$67$",
+          "C": "$\\frac{135}{2}$",
+          "D": "$68$",
+          "E": "$\\frac{137}{2}$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 20,
+        "problem": "Bernardo and Silvia play the following game. An integer between 0 and 999, inclusive, is selected and given to Bernardo. Whenever Bernardo receives a number, he doubles it and passes the result to Silvia. Whenever Silvia receives a number, she adds 50 to it and passes the result to Bernardo. The winner is the last person who produces a number less than 1000. Let $N$ be the smallest initial number that results in a win for Bernardo. What is the sum of the digits of $N$?",
+        "options": {
+          "A": "$7$",
+          "B": "$8$",
+          "C": "$9$",
+          "D": "$10$",
+          "E": "$11$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 21,
+        "problem": "Four distinct points are arranged on a plane so that the segments connecting them have lengths $a$, $a$, $a$, $a$, $2a$, and $b$. What is the ratio of $b$ to $a$?",
+        "options": {
+          "A": "$\\sqrt{3}$",
+          "B": "$2$",
+          "C": "$\\sqrt{5}$",
+          "D": "$3$",
+          "E": "$\\pi$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 22,
+        "problem": "Let $(a_1,a_2, \\dots ,a_{10})$ be a list of the first 10 positive integers such that for each $2 \\le i \\le 10$ either $a_i+1$ or $a_i-1$ or both appear somewhere before $a_i$ in the list. How many such lists are there?",
+        "options": {
+          "A": "$120$",
+          "B": "$512$",
+          "C": "$1024$",
+          "D": "$181,440$",
+          "E": "$362,880$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 23,
+        "problem": "A solid tetrahedron is sliced off a wooden unit cube by a plane passing through two nonadjacent vertices on one face and one vertex on the opposite face not adjacent to either of the first two vertices. The tetrahedron is discarded and the remaining portion of the cube is placed on a table with the cut surface face down. What is the height of this object?",
+        "options": {
+          "A": "$\\frac{\\sqrt{3}}{3}$",
+          "B": "$\\frac{2\\sqrt{2}}{3}$",
+          "C": "$1$",
+          "D": "$\\frac{2\\sqrt{3}}{3}$",
+          "E": "$\\sqrt{2}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 24,
+        "problem": "Amy, Beth, and Jo listen to four different songs and discuss which ones they like. No song is liked by all three. Furthermore, for each of the three pairs of the girls, there is at least one song liked by those girls but disliked by the third. In how many different ways is this possible?",
+        "options": {
+          "A": "$108$",
+          "B": "$132$",
+          "C": "$671$",
+          "D": "$846$",
+          "E": "$1105$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 25,
+        "problem": "A bug travels from $A$ to $B$ along the segments in the hexagonal lattice pictured below. The segments marked with an arrow can be traveled only in the direction of the arrow, and the bug never travels the same segment more than once. How many different paths are there? [IMG:AMC10_2012_B_25.png]",
+        "options": {
+          "A": "$2112$",
+          "B": "$2304$",
+          "C": "$2368$",
+          "D": "$2384$",
+          "E": "$2400$"
+        },
+        "answer": "E"
+      }
+    ]
+  }
+}

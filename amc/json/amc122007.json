@@ -1,0 +1,286 @@
+{
+  "year": 2007,
+  "contest": "AMC 12",
+  "variants": {
+    "A": [
+      {
+        "number": 1,
+        "problem": "One ticket to a show costs $\\$20$ at full price. Susan buys $4$ tickets using a coupon that gives her a $25\\%$ discount. Pam buys $5$ tickets using a coupon that gives her a $30\\%$ discount. How many more dollars does Pam pay than Susan?",
+        "options": {
+          "A": "$2$",
+          "B": "$5$",
+          "C": "$10$",
+          "D": "$15$",
+          "E": "$20$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 2,
+        "problem": "An aquarium has a rectangular base that measures 100 cm by 40 cm and has a height of 50 cm. It is filled with water to a height of 40 cm. A brick with a rectangular base that measures 40 cm by 20 cm and a height of 10 cm is placed in the aquarium. By how many centimeters does the water rise?",
+        "options": {
+          "A": "$0.5$",
+          "B": "$1$",
+          "C": "$1.5$",
+          "D": "$2$",
+          "E": "$2.5$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 3,
+        "problem": "The larger of two consecutive odd integers is three times the smaller. What is their sum?",
+        "options": {
+          "A": "$4$",
+          "B": "$8$",
+          "C": "$12$",
+          "D": "$16$",
+          "E": "$20$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 4,
+        "problem": "Kate rode her bicycle for 30 minutes at a speed of 16 mph, then walked for 90 minutes at a speed of 4 mph. What was her overall average speed in miles per hour?",
+        "options": {
+          "A": "$7$",
+          "B": "$9$",
+          "C": "$10$",
+          "D": "$12$",
+          "E": "$14$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 6,
+        "problem": "Triangles $ABC$ and $ADC$ are isosceles with $AB=BC$ and $AD=DC$. Point $D$ is inside triangle $ABC$, angle $ABC$ measures 40 degrees, and angle $ADC$ measures 140 degrees. What is the degree measure of angle $BAD$?",
+        "options": {
+          "A": "$20$",
+          "B": "$30$",
+          "C": "$40$",
+          "D": "$50$",
+          "E": "$60$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 8,
+        "problem": "A star- polygon is drawn on a clock face by drawing a chord from each number to the fifth number counted clockwise from that number. That is, chords are drawn from 12 to 5, from 5 to 10, from 10 to 3, and so on, ending back at 12. What is the degree measure of the angle at each vertex in the star polygon?",
+        "options": {
+          "A": "$20$",
+          "B": "$24$",
+          "C": "$30$",
+          "D": "$36$",
+          "E": "$60$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 9,
+        "problem": "Yan is somewhere between his home and the stadium. To get to the stadium he can walk directly to the stadium, or else he can walk home and then ride his bicycle to the stadium. He rides 7 times as fast as he walks, and both choices require the same amount of time. What is the ratio of Yan's distance from his home to his distance from the stadium?",
+        "options": {
+          "A": "$\\frac 23$",
+          "B": "$\\frac 34$",
+          "C": "$\\frac 45$",
+          "D": "$\\frac 56$",
+          "E": "$\\frac 78$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 10,
+        "problem": "A triangle with side lengths in the ratio $3 : 4 : 5$ is inscribed in a circle with radius 3. What is the area of the triangle?",
+        "options": {
+          "A": "$8.64$",
+          "B": "$12$",
+          "C": "$5\\pi$",
+          "D": "$17.28$",
+          "E": "$18$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 11,
+        "problem": "A finite sequence of three-digit integers has the property that the tens and units digits of each term are, respectively, the hundreds and tens digits of the next term, and the tens and units digits of the last term are, respectively, the hundreds and tens digits of the first term. For example, such a sequence might begin with the terms 247, 475, and 756 and end with the term 824. Let $S$ be the sum of all the terms in the sequence. What is the largest prime factor that always divides $S$?",
+        "options": {
+          "A": "$3$",
+          "B": "$7$",
+          "C": "$13$",
+          "D": "$37$",
+          "E": "$43$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 12,
+        "problem": "Integers $a, b, c,$ and $d$, not necessarily distinct, are chosen independently and at random from 0 to 2007, inclusive. What is the probability that $ad-bc$ is even ?",
+        "options": {
+          "A": "$\\frac 38$",
+          "B": "$\\frac 7{16}$",
+          "C": "$\\frac 12$",
+          "D": "$\\frac 9{16}$",
+          "E": "$\\frac 58$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 13,
+        "problem": "A piece of cheese is located at $(12,10)$ in a coordinate plane . A mouse is at $(4,-2)$ and is running up the line $y=-5x+18$. At the point $(a,b)$ the mouse starts getting farther from the cheese rather than closer to it. What is $a+b$?",
+        "options": {
+          "A": "$6$",
+          "B": "$10$",
+          "C": "$14$",
+          "D": "$18$",
+          "E": "$22$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 14,
+        "problem": "Let a, b, c, d, and e be distinct integers such that $(6-a)(6-b)(6-c)(6-d)(6-e)=45$ What is $a+b+c+d+e$?",
+        "options": {
+          "A": "$5$",
+          "B": "$17$",
+          "C": "$25$",
+          "D": "$27$",
+          "E": "$30$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 15,
+        "problem": "The set $\\{3,6,9,10\\}$ is augmented by a fifth element $n$, not equal to any of the other four. The median of the resulting set is equal to its mean . What is the sum of all possible values of $n$?",
+        "options": {
+          "A": "$7$",
+          "B": "$9$",
+          "C": "$19$",
+          "D": "$24$",
+          "E": "$26$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 16,
+        "problem": "How many three-digit numbers are composed of three distinct digits such that one digit is the average of the other two?",
+        "options": {
+          "A": "$96$",
+          "B": "$104$",
+          "C": "$112$",
+          "D": "$120$",
+          "E": "$256$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 17,
+        "problem": "Suppose that $\\sin a + \\sin b = \\sqrt{\\frac{5}{3}}$ and $\\cos a + \\cos b = 1$. What is $\\cos (a - b)$?",
+        "options": {
+          "A": "$\\sqrt{\\frac{5}{3}} - 1$",
+          "B": "$\\frac 13$",
+          "C": "$\\frac 12$",
+          "D": "$\\frac 23$",
+          "E": "$1$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 18,
+        "problem": "The polynomial $f(x) = x^{4} + ax^{3} + bx^{2} + cx + d$ has real coefficients , and $f(2i) = f(2 + i) = 0.$ What is $a + b + c + d?$",
+        "options": {
+          "A": "$0$",
+          "B": "$1$",
+          "C": "$4$",
+          "D": "$9$",
+          "E": "$16$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 19,
+        "problem": "Triangles $ABC$ and $ADE$ have areas $2007$ and $7002,$ respectively, with $B = (0,0),$ $C = (223,0),$ $D = (680,380),$ and $E = (689,389).$ What is the sum of all possible x-coordinates of $A$?",
+        "options": {
+          "A": "$282$",
+          "B": "$300$",
+          "C": "$600$",
+          "D": "$900$",
+          "E": "$1200$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 20,
+        "problem": "Corners are sliced off a unit cube so that the six faces each become regular octagons . What is the total volume of the removed tetrahedra ?",
+        "options": {
+          "A": "$\\frac{5\\sqrt{2}-7}{3}$",
+          "B": "$\\frac{10-7\\sqrt{2}}{3}$",
+          "C": "$\\frac{3-2\\sqrt{2}}{3}$",
+          "D": "$\\frac{8\\sqrt{2}-11}{3}$",
+          "E": "$\\frac{6-4\\sqrt{2}}{3}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 22,
+        "problem": "For each positive integer $n$, let $S(n)$ denote the sum of the digits of $n.$ For how many values of $n$ is $n + S(n) + S(S(n)) = 2007?$",
+        "options": {
+          "A": "$1$",
+          "B": "$2$",
+          "C": "$3$",
+          "D": "$4$",
+          "E": "$5$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 23,
+        "problem": "Square $ABCD$ has area $36,$ and $\\overline{AB}$ is parallel to the x-axis . Vertices $A,$ $B$, and $C$ are on the graphs of $y = \\log_{a}x,$ $y = 2\\log_{a}x,$ and $y = 3\\log_{a}x,$ respectively. What is $a?$",
+        "options": {
+          "A": "$\\sqrt [6]{3}$",
+          "B": "$\\sqrt {3}$",
+          "C": "$\\sqrt [3]{6}$",
+          "D": "$\\sqrt {6}$",
+          "E": "$6$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 24,
+        "problem": "For each integer $n>1$, let $F(n)$ be the number of solutions to the equation $\\sin{x}=\\sin{(nx)}$ on the interval $[0,\\pi]$. What is $\\sum_{n=2}^{2007} F(n)$?",
+        "options": {
+          "A": "$2014524$",
+          "B": "$2015028$",
+          "C": "$2015033$",
+          "D": "$2016532$",
+          "E": "$2017033$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 25,
+        "problem": "Call a set of integers spacy if it contains no more than one out of any three consecutive integers. How many subsets of $\\{1,2,3,\\ldots,12\\},$ including the empty set , are spacy?",
+        "options": {
+          "A": "$121$",
+          "B": "$123$",
+          "C": "$125$",
+          "D": "$127$",
+          "E": "$129$"
+        },
+        "answer": "E"
+      }
+    ],
+    "B": [
+      {
+        "number": 1,
+        "problem": "Isabella's house has 3 bedrooms. Each bedroom is 12 feet long, 10 feet wide, and 8 feet high. Isabella must paint the walls of all the bedrooms. Doorways and windows, which will not be painted, occupy 60 square feet in each bedroom. How many square feet of walls must be painted?",
+        "options": {
+          "A": "$678$",
+          "B": "$768$",
+          "C": "$786$",
+          "D": "$867$",
+          "E": "$876$"
+        },
+        "answer": "E"
+      }
+    ]
+  }
+}

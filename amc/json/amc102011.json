@@ -1,0 +1,610 @@
+{
+  "year": 2011,
+  "contest": "AMC 10",
+  "variants": {
+    "A": [
+      {
+        "number": 1,
+        "problem": "A cell phone plan costs $\\$20$ each month, plus $5$\u00a2 per text message sent, plus $10$\u00a2 for each minute used over $30$ hours. In January Michelle sent $100$ text messages and talked for $30.5$ hours. How much did she have to pay?",
+        "options": {
+          "A": "$\\$ 24.00$",
+          "B": "$\\$ 24.50$",
+          "C": "$\\$ 25.50$",
+          "D": "$\\$ 28.00$",
+          "E": "$\\$ 30.00$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 2,
+        "problem": "A small bottle of shampoo can hold 35 milliliters of shampoo, whereas a large bottle can hold 500 milliliters of shampoo. Jasmine wants to buy the minimum number of small bottles necessary to completely fill a large bottle. How many bottles must she buy?",
+        "options": {
+          "A": "$11$",
+          "B": "$12$",
+          "C": "$13$",
+          "D": "$14$",
+          "E": "$15$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 3,
+        "problem": "Suppose $[a\\ b]$ denotes the average of $a$ and $b$, and $\\{a\\ b\\ c\\}$ denotes the average of $a, b$, and $c$. What is $\\{\\{1\\ 1\\ 0\\}\\ [0\\ 1]\\ 0\\}$?",
+        "options": {
+          "A": "$\\frac{2}{9}$",
+          "B": "$\\frac{5}{18}$",
+          "C": "$\\frac{1}{3}$",
+          "D": "$\\frac{7}{18}$",
+          "E": "$\\frac{2}{3}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 4,
+        "problem": "Let $X$ and $Y$ be the following sums of arithmetic sequences: [IMG:AMC10_2011_A_4.png] What is the value of $Y - X$?",
+        "options": {
+          "A": "$92$",
+          "B": "$98$",
+          "C": "$100$",
+          "D": "$102$",
+          "E": "$112$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 5,
+        "problem": "At an elementary school, the students in third grade, fourth grade, and fifth grade run an average of $12$, $15$, and $10$ minutes per day, respectively. There are twice as many third graders as fourth graders, and twice as many fourth graders as fifth graders. What is the average number of minutes run per day by these students?",
+        "options": {
+          "A": "$12$",
+          "B": "$\\frac{37}{3}$",
+          "C": "$\\frac{88}{7}$",
+          "D": "$13$",
+          "E": "$14$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 6,
+        "problem": "Set $A$ has 20 elements, and set $B$ has 15 elements. What is the smallest possible number of elements in $A \\cup B$, the union of $A$ and $B$?",
+        "options": {
+          "A": "$5$",
+          "B": "$15$",
+          "C": "$20$",
+          "D": "$35$",
+          "E": "$300$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 7,
+        "problem": "Which of the following equations does NOT have a solution?",
+        "options": {
+          "A": "$:(x+7)^2=0$",
+          "B": "$:\\left|-3x\\right|+5=0$",
+          "C": "$:\\sqrt{-x}-2=0$",
+          "D": "$:\\sqrt{x}-8=0$",
+          "E": "$:\\left|-3x\\right|-4=0$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 8,
+        "problem": "Last summer 30% of the birds living on Town Lake were geese, 25% were swans, 10% were herons, and 35% were ducks. What percent of the birds that were not swans were geese?",
+        "options": {
+          "A": "$20$",
+          "B": "$30$",
+          "C": "$40$",
+          "D": "$50$",
+          "E": "$60$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 9,
+        "problem": "A rectangular region is bounded by the graphs of the equations $y=a, y=-b, x=-c,$ and $x=d$, where $a,b,c,$ and $d$ are all positive numbers. Which of the following represents the area of this region?",
+        "options": {
+          "A": "$ac+ad+bc+bd$",
+          "B": "$ac-ad$ $+bc-bd$",
+          "C": "$ac+ad$ $-bc-bd \\quad\\quad$",
+          "D": "$-ac-ad$ $+bc+bd$",
+          "E": "$ac-ad$ $-bc+bd$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 10,
+        "problem": "A majority of the 30 students in Ms. Deameanor's class bought pencils at the school bookstore. Each of these students bought the same number of pencils, and this number was greater than 1. The cost of a pencil in cents was greater than the number of pencils each student bought, and the total cost of all the pencils was $\\textdollar 17.71$. What was the cost of a pencil in cents?",
+        "options": {
+          "A": "$,7$",
+          "B": "$,11$",
+          "C": "$,17$",
+          "D": "$,23$",
+          "E": "$,77$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 11,
+        "problem": "Square $EFGH$ has one vertex on each side of square $ABCD$. Point $E$ is on $\\overline{AB}$ with $AE=7\\cdot EB$. What is the ratio of the area of $EFGH$ to the area of $ABCD$? {{}}",
+        "options": {
+          "A": "$,\\frac{49}{64}$",
+          "B": "$,\\frac{25}{32}$",
+          "C": "$,\\frac78$",
+          "D": "$,\\frac{5\\sqrt{2}}{8}$",
+          "E": "$,\\frac{\\sqrt{14}}{4}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 12,
+        "problem": "The players on a basketball team made some three-point shots, some two-point shots, and some one-point free throws. They scored as many points with two-point shots as with three-point shots. Their number of successful free throws was one more than their number of successful two-point shots. The team's total score was 61 points. How many free throws did they make?",
+        "options": {
+          "A": "$,13$",
+          "B": "$,14$",
+          "C": "$,15$",
+          "D": "$,16$",
+          "E": "$,17$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 13,
+        "problem": "How many even integers are there between 200 and 700 whose digits are all different and come from the set {1, 2, 5, 7, 8, 9}?",
+        "options": {
+          "A": "$,12$",
+          "B": "$,20$",
+          "C": "$,72$",
+          "D": "$,120$",
+          "E": "$,200$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 14,
+        "problem": "A pair of standard 6-sided fair dice is rolled once. The sum of the numbers rolled determines the diameter of a circle. What is the probability that the numerical value of the area of the circle is less than the numerical value of the circle's circumference?",
+        "options": {
+          "A": "$,\\frac{1}{36}$",
+          "B": "$,\\frac{1}{12}$",
+          "C": "$,\\frac{1}{6}$",
+          "D": "$,\\frac{1}{4}$",
+          "E": "$,\\frac{5}{18}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 15,
+        "problem": "Roy bought a new battery-gasoline hybrid car. On a trip the car ran exclusively on its battery for the first 40 miles, then ran exclusively on gasoline for the rest of the trip, using gasoline at a rate of 0.02 gallons per mile. On the whole trip he averaged 55 miles per gallon. How long was the trip in miles?",
+        "options": {
+          "A": "$,140$",
+          "B": "$,240$",
+          "C": "$,440$",
+          "D": "$,640$",
+          "E": "$,840$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 16,
+        "problem": "Which of the following is equal to $\\sqrt{9-6\\sqrt{2}}+\\sqrt{9+6\\sqrt{2}}$?",
+        "options": {
+          "A": "$,3\\sqrt2$",
+          "B": "$,2\\sqrt6$",
+          "C": "$,\\frac{7\\sqrt2}{2}$",
+          "D": "$,3\\sqrt3$",
+          "E": "$,6$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 17,
+        "problem": "In the eight-term sequence $A,B,C,D,E,F,G,H$, the value of $C$ is 5 and the sum of any three consecutive terms is 30. What is $A+H$?",
+        "options": {
+          "A": "$,17$",
+          "B": "$,18$",
+          "C": "$,25$",
+          "D": "$,26$",
+          "E": "$,43$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 18,
+        "problem": "Circles $A, B,$ and $C$ each have radius 1. Circles $A$ and $B$ share one point of tangency. Circle $C$ has a point of tangency with the midpoint of $\\overline{AB}$. What is the area inside Circle $C$ but outside circle $A$ and circle $B$ ?",
+        "options": {
+          "A": "$3 - \\frac{\\pi}{2}$",
+          "B": "$\\frac{\\pi}{2}$",
+          "C": "$2$",
+          "D": "$\\frac{3\\pi}{4}$",
+          "E": "$1+\\frac{\\pi}{2}$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 19,
+        "problem": "In 1991 the population of a town was a perfect square. Ten years later, after an increase of 150 people, the population was 9 more than a perfect square. Now, in 2011, with an increase of another 150 people, the population is once again a perfect square. Which of the following is closest to the percent growth of the town's population during this twenty-year period?",
+        "options": {
+          "A": "$42\\%$",
+          "B": "$47\\%$",
+          "C": "$52\\%$",
+          "D": "$57\\%$",
+          "E": "$62\\%$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 20,
+        "problem": "Two points on the circumference of a circle of radius $r$ are selected independently and at random. From each point a chord of length $r$ is drawn in a clockwise direction. What is the probability that the two chords intersect?",
+        "options": {
+          "A": "$\\frac{1}{6}$",
+          "B": "$\\frac{1}{5}$",
+          "C": "$\\frac{1}{4}$",
+          "D": "$\\frac{1}{3}$",
+          "E": "$\\frac{1}{2}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 21,
+        "problem": "Two counterfeit coins of equal weight are mixed with 8 identical genuine coins. The weight of each of the counterfeit coins is different from the weight of each of the genuine coins. A pair of coins is selected at random without replacement from the 10 coins. A second pair is selected at random without replacement from the remaining 8 coins. The combined weight of the first pair is equal to the combined weight of the second pair. What is the probability that all 4 selected coins are genuine?",
+        "options": {
+          "A": "$\\frac{7}{11}$",
+          "B": "$\\frac{9}{13}$",
+          "C": "$\\frac{11}{15}$",
+          "D": "$\\frac{15}{19}$",
+          "E": "$\\frac{15}{16}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 22,
+        "problem": "Each vertex of convex pentagon $ABCDE$ is to be assigned a color. There are $6$ colors to choose from, and the ends of each diagonal must have different colors. How many different colorings are possible?",
+        "options": {
+          "A": "$2520$",
+          "B": "$2880$",
+          "C": "$3120$",
+          "D": "$3250$",
+          "E": "$3750$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 23,
+        "problem": "Seven students count from 1 to 1000 as follows: Alice says all the numbers, except she skips the middle number in each consecutive group of three numbers. That is, Alice says 1, 3, 4, 6, 7, 9, ..., 997, 999, 1000. Barbara says all of the numbers that Alice doesn't say, except she also skips the middle number in each consecutive group of three numbers. Candice says all of the numbers that neither Alice nor Barbara says, except she also skips the middle number in each consecutive group of three numbers. Debbie, Eliza, and Fatima say all of the numbers that none of the students with the first names beginning before theirs in the alphabet say, except each also skips the middle number in each of her consecutive groups of three numbers. Finally, George says the only number that no one else says. What number does George say?",
+        "options": {
+          "A": "$37$",
+          "B": "$242$",
+          "C": "$365$",
+          "D": "$728$",
+          "E": "$998$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 24,
+        "problem": "Two distinct regular tetrahedra have all their vertices among the vertices of the same unit cube. What is the volume of the region formed by the intersection of the tetrahedra?",
+        "options": {
+          "A": "$\\frac{1}{12}$",
+          "B": "$\\frac{\\sqrt{2}}{12}$",
+          "C": "$\\frac{\\sqrt{3}}{12}$",
+          "D": "$\\frac{1}{6}$",
+          "E": "$\\frac{\\sqrt{2}}{6}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 25,
+        "problem": "Let $R$ be a square region and $n\\ge4$ an integer. A point $X$ in the interior of $R$ is called $n\\text{-}ray$ partitional if there are $n$ rays emanating from $X$ that divide $R$ into $n$ triangles of equal area. How many points are 100-ray partitional but not 60-ray partitional?",
+        "options": {
+          "A": "$,1500$",
+          "B": "$,1560$",
+          "C": "$,2320$",
+          "D": "$,2480$",
+          "E": "$,2500$"
+        },
+        "answer": "C"
+      }
+    ],
+    "B": [
+      {
+        "number": 1,
+        "problem": "What is [IMG:AMC10_2011_B_1.png]",
+        "options": {
+          "A": "$-1$",
+          "B": "$\\frac{5}{36}$",
+          "C": "$\\frac{7}{12}$",
+          "D": "$\\frac{147}{60}$",
+          "E": "$\\frac{43}{3}$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 2,
+        "problem": "Josanna's test scores to date are $90, 80, 70, 60,$ and $85$. Her goal is to raise her test average at least $3$ points with her next test. What is the minimum test score she would need to accomplish this goal?",
+        "options": {
+          "A": "$80$",
+          "B": "$82$",
+          "C": "$85$",
+          "D": "$90$",
+          "E": "$95$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 3,
+        "problem": "At a store, when a length is reported as $x$ inches that means the length is at least $x - 0.5$ inches and at most $x + 0.5$ inches. Suppose the dimensions of a rectangular tile are reported as $2$ inches by $3$ inches. In square inches, what is the minimum area for the rectangle?",
+        "options": {
+          "A": "$3.75$",
+          "B": "$4.5$",
+          "C": "$5$",
+          "D": "$6$",
+          "E": "$8.75$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 4,
+        "problem": "LeRoy and Bernardo went on a week-long trip together and agreed to share the costs equally. Over the week, each of them paid for various joint expenses such as gasoline and car rental. At the end of the trip, it turned out that LeRoy had paid $A$ dollars and Bernardo had paid $B$ dollars, where $A < B$. How many dollars must LeRoy give to Bernardo so that they share the costs equally?",
+        "options": {
+          "A": "$\\frac{A + B}{2}$",
+          "B": "$\\dfrac{A - B}{2}$",
+          "C": "$\\dfrac{B - A}{2}$",
+          "D": "$B - A$",
+          "E": "$A + B$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 5,
+        "problem": "In multiplying two positive integers $a$ and $b$, Ron reversed the digits of the two-digit number $a$. His erroneous product was $161$. What is the correct value of the product of $a$ and $b$?",
+        "options": {
+          "A": "$116$",
+          "B": "$161$",
+          "C": "$204$",
+          "D": "$214$",
+          "E": "$224$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 6,
+        "problem": "On Halloween Casper ate $1/3$ of his candies and then gave $2$ candies to his brother. The next day he ate $1/3$ of his remaining candies and then gave $4$ candies to his sister. On the third day he ate his final $8$ candies. How many candies did Casper have at the beginning?",
+        "options": {
+          "A": "$30$",
+          "B": "$39$",
+          "C": "$48$",
+          "D": "$57$",
+          "E": "$66$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 7,
+        "problem": "The sum of two angles of a triangle is $6/5$ of a right angle, and one of these two angles is $30^{\\circ}$ larger than the other. What is the degree measure of the largest angle in the triangle?",
+        "options": {
+          "A": "$69$",
+          "B": "$72$",
+          "C": "$90$",
+          "D": "$102$",
+          "E": "$108$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 8,
+        "problem": "At a certain beach if it is at least $80^{\\circ} F$ and sunny, then the beach will be crowded. On June 10 the beach was not crowded. What can be concluded about the weather conditions on June 10?",
+        "options": {
+          "A": "$\\text{The temperature was cooler than } 80^{\\circ} \\text{F and it was not sunny.}$",
+          "B": "$\\text{The temperature was cooler than } 80^{\\circ} \\text{F or it was not sunny.}$",
+          "C": "$\\text{If the temperature was at least } 80^{\\circ} \\text{F, then it was sunny.}$",
+          "D": "$\\text{If the temperature was cooler than } 80^{\\circ} \\text{F, then it was sunny.}$",
+          "E": "$\\text{If the temperature was cooler than } 80^{\\circ} \\text{F, then it was not sunny.}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 9,
+        "problem": "The area of $\\triangle$$EBD$ is one third of the area of $3-4-5$ $\\triangle$$ABC$. Segment $DE$ is perpendicular to segment $AB$. What is $BD$? [IMG:AMC10_2011_B_9.png]",
+        "options": {
+          "A": "$\\frac{4}{3}$",
+          "B": "$\\sqrt{5}$",
+          "C": "$\\frac{9}{4}$",
+          "D": "$\\frac{4\\sqrt{3}}{3}$",
+          "E": "$\\frac{5}{2}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 10,
+        "problem": "Consider the set of numbers $\\{1, 10, 10^2, 10^3, \\ldots, 10^{10}\\}$. The ratio of the largest element of the set to the sum of the other ten elements of the set is closest to which integer?",
+        "options": {
+          "A": "$1$",
+          "B": "$9$",
+          "C": "$10$",
+          "D": "$11$",
+          "E": "$101$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 11,
+        "problem": "There are $52$ people in a room. What is the largest value of $n$ such that the statement \"At least $n$ people in this room have birthdays falling in the same month\" is always true?",
+        "options": {
+          "A": "$2$",
+          "B": "$3$",
+          "C": "$4$",
+          "D": "$5$",
+          "E": "$12$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 12,
+        "problem": "Keiko walks once around a track at exactly the same constant speed every day. The sides of the track are straight, and the ends are semicircles. The track has a width of $6$ meters, and it takes her $36$ seconds longer to walk around the outside edge of the track than around the inside edge. What is Keiko's speed in meters per second?",
+        "options": {
+          "A": "$\\frac{\\pi}{3}$",
+          "B": "$\\frac{2\\pi}{3}$",
+          "C": "$\\pi$",
+          "D": "$\\frac{4\\pi}{3}$",
+          "E": "$\\frac{5\\pi}{3}$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 13,
+        "problem": "Two real numbers are selected independently at random from the interval $[-20, 10]$. What is the probability that the product of those numbers is greater than zero?",
+        "options": {
+          "A": "$\\frac{1}{9}$",
+          "B": "$\\frac{1}{3}$",
+          "C": "$\\frac{4}{9}$",
+          "D": "$\\frac{5}{9}$",
+          "E": "$\\frac{2}{3}$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 14,
+        "problem": "A rectangular parking lot has a diagonal of $25$ meters and an area of $168$ square meters. In meters, what is the perimeter of the parking lot?",
+        "options": {
+          "A": "$52$",
+          "B": "$58$",
+          "C": "$62$",
+          "D": "$68$",
+          "E": "$70$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 15,
+        "problem": "Let $@$ denote the \"averaged with\" operation: $a @ b = (a+b)/2$. Which of the following distributive laws hold for all numbers $x, y,$ and $z$? [IMG:AMC10_2011_B_15_0.png] [IMG:AMC10_2011_B_15_1.png] [IMG:AMC10_2011_B_15_2.png] [IMG:AMC10_2011_B_15_0.png] [IMG:AMC10_2011_B_15_1.png] [IMG:AMC10_2011_B_15_2.png] [IMG:AMC10_2011_B_15_0.png] [IMG:AMC10_2011_B_15_1.png] [IMG:AMC10_2011_B_15_2.png]",
+        "options": {
+          "A": "$\\text{I only}$",
+          "B": "$\\text{II only}$",
+          "C": "$\\text{III only}$",
+          "D": "$\\text{I and III only}$",
+          "E": "$\\text{II and III only}$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 16,
+        "problem": "A dart board is a regular octagon divided into regions as shown. Suppose that a dart thrown at the board is equally likely to land anywhere on the board. What is the probability that the dart lands within the center square? [IMG:AMC10_2011_B_16.png]",
+        "options": {
+          "A": "$\\frac{\\sqrt{2} - 1}{2}$",
+          "B": "$\\frac{1}{4}$",
+          "C": "$\\frac{2 - \\sqrt{2}}{2}$",
+          "D": "$\\frac{\\sqrt{2}}{4}$",
+          "E": "$2 - \\sqrt{2}$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 17,
+        "problem": "In the given circle, the diameter $\\overline{EB}$ is parallel to $\\overline{DC}$, and $\\overline{AB}$ is parallel to $\\overline{ED}$. The angles $AEB$ and $ABE$ are in the ratio $4 : 5$. What is the degree measure of angle $BCD$? [IMG:AMC10_2011_B_17.png]",
+        "options": {
+          "A": "$120$",
+          "B": "$125$",
+          "C": "$130$",
+          "D": "$135$",
+          "E": "$140$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 18,
+        "problem": "Rectangle $ABCD$ has $AB = 6$ and $BC = 3$. Point $M$ is chosen on side $AB$ so that $\\angle AMD = \\angle CMD$. What is the degree measure of $\\angle AMD$?",
+        "options": {
+          "A": "$15$",
+          "B": "$30$",
+          "C": "$45$",
+          "D": "$60$",
+          "E": "$75$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 19,
+        "problem": "What is the product of all the roots of the equation [IMG:AMC10_2011_B_19.png]",
+        "options": {
+          "A": "$-64$",
+          "B": "$-24$",
+          "C": "$-9$",
+          "D": "$24$",
+          "E": "$576$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 20,
+        "problem": "Rhombus $ABCD$ has side length $2$ and $\\angle B = 120^\\circ$. Region $R$ consists of all points inside the rhombus that are closer to vertex $B$ than any of the other three vertices. What is the area of $R$?",
+        "options": {
+          "A": "$\\frac{\\sqrt{3}}{3}$",
+          "B": "$\\frac{\\sqrt{3}}{2}$",
+          "C": "$\\frac{2\\sqrt{3}}{3}$",
+          "D": "$1 + \\frac{\\sqrt{3}}{3}$",
+          "E": "$2$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 21,
+        "problem": "Brian writes down four integers $w > x > y > z$ whose sum is $44$. The pairwise positive differences of these numbers are $1, 3, 4, 5, 6,$ and $9$. What is the sum of the possible values for $w$?",
+        "options": {
+          "A": "$16$",
+          "B": "$31$",
+          "C": "$48$",
+          "D": "$62$",
+          "E": "$93$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 22,
+        "problem": "A pyramid has a square base with sides of length $1$ and has lateral faces that are equilateral triangles. A cube is placed within the pyramid so that one face is on the base of the pyramid and its opposite face has all its edges on the lateral faces of the pyramid. What is the volume of this cube?",
+        "options": {
+          "A": "$5\\sqrt{2} - 7$",
+          "B": "$7 - 4\\sqrt{3}$",
+          "C": "$\\frac{2\\sqrt{2}}{27}$",
+          "D": "$\\frac{\\sqrt{2}}{9}$",
+          "E": "$\\frac{\\sqrt{3}}{9}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 23,
+        "problem": "What is the hundreds digit of $2011^{2011}$?",
+        "options": {
+          "A": "$1$",
+          "B": "$4$",
+          "C": "$5$",
+          "D": "$6$",
+          "E": "$9$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 24,
+        "problem": "A lattice point in an $xy$-coordinate system is any point $(x, y)$ where both $x$ and $y$ are integers. The graph of $y = mx +2$ passes through no lattice point with $0 < x \\le 100$ for all $m$ such that $1/2 < m < a$. What is the maximum possible value of $a$?",
+        "options": {
+          "A": "$\\frac{51}{101}$",
+          "B": "$\\frac{50}{99}$",
+          "C": "$\\frac{51}{100}$",
+          "D": "$\\frac{52}{101}$",
+          "E": "$\\frac{13}{25}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 25,
+        "problem": "Let $T_1$ be a triangle with sides $2011, 2012,$ and $2013$. For $n \\ge 1$, if $T_n = \\triangle ABC$ and $D, E,$ and $F$ are the points of tangency of the incircle of $\\triangle ABC$ to the sides $AB, BC$ and $AC,$ respectively, then $T_{n+1}$ is a triangle with side lengths $AD, BE,$ and $CF,$ if it exists. What is the perimeter of the last triangle in the sequence $( T_n )$?",
+        "options": {
+          "A": "$\\frac{1509}{8}$",
+          "B": "$\\frac{1509}{32}$",
+          "C": "$\\frac{1509}{64}$",
+          "D": "$\\frac{1509}{128}$",
+          "E": "$\\frac{1509}{256}$"
+        },
+        "answer": "B"
+      }
+    ]
+  }
+}

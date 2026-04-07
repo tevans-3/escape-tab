@@ -1,0 +1,160 @@
+{
+  "year": 2021,
+  "contest": "AIME",
+  "variants": {
+    "I": [
+      {
+        "number": 1,
+        "problem": "Zou and Chou are practicing their $100$-meter sprints by running $6$ races against each other. Zou wins the first race, and after that, the probability that one of them wins a race is $\\frac23$ if they won the previous race but only $\\frac13$ if they lost the previous race. The probability that Zou will win exactly $5$ of the $6$ races is $\\frac mn$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$.",
+        "answer": "097"
+      },
+      {
+        "number": 2,
+        "problem": "In the diagram below, $ABCD$ is a rectangle with side lengths $AB=3$ and $BC=11$, and $AECF$ is a rectangle with side lengths $AF=7$ and $FC=9,$ as shown. The area of the shaded region common to the interiors of both rectangles is $\\frac mn$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$. [IMG:AIME_2021_I_2.png]",
+        "answer": "109"
+      },
+      {
+        "number": 3,
+        "problem": "Find the number of positive integers less than $1000$ that can be expressed as the difference of two integral powers of $2.$",
+        "answer": "050"
+      },
+      {
+        "number": 4,
+        "problem": "Find the number of ways $66$ identical coins can be separated into three nonempty piles so that there are fewer coins in the first pile than in the second pile and fewer coins in the second pile than in the third pile.",
+        "answer": "331"
+      },
+      {
+        "number": 5,
+        "problem": "Call a three-term strictly increasing arithmetic sequence of integers special if the sum of the squares of the three terms equals the product of the middle term and the square of the common difference. Find the sum of the third terms of all special sequences.",
+        "answer": "031"
+      },
+      {
+        "number": 6,
+        "problem": "Segments $\\overline{AB}, \\overline{AC},$ and $\\overline{AD}$ are edges of a cube and $\\overline{AG}$ is a diagonal through the center of the cube. Point $P$ satisfies $BP=60\\sqrt{10}$, $CP=60\\sqrt{5}$, $DP=120\\sqrt{2}$, and $GP=36\\sqrt{7}$. Find $AP.$",
+        "answer": "192"
+      },
+      {
+        "number": 7,
+        "problem": "Find the number of pairs $(m,n)$ of positive integers with $1\\le m<n\\le 30$ such that there exists a real number $x$ satisfying [IMG:AIME_2021_I_7.png]",
+        "answer": "063"
+      },
+      {
+        "number": 8,
+        "problem": "Find the number of integers $c$ such that the equation [IMG:AIME_2021_I_8.png] has $12$ distinct real solutions.",
+        "answer": "057"
+      },
+      {
+        "number": 9,
+        "problem": "Let $ABCD$ be an isosceles trapezoid with $AD=BC$ and $AB<CD.$ Suppose that the distances from $A$ to the lines $BC,CD,$ and $BD$ are $15,18,$ and $10,$ respectively. Let $K$ be the area of $ABCD.$ Find $\\sqrt2 \\cdot K.$",
+        "answer": "567"
+      },
+      {
+        "number": 10,
+        "problem": "Consider the sequence $(a_k)_{k\\ge 1}$ of positive rational numbers defined by $a_1 = \\frac{2020}{2021}$ and for $k\\ge 1$, if $a_k = \\frac{m}{n}$ for relatively prime positive integers $m$ and $n$, then [IMG:AIME_2021_I_10.png] Determine the sum of all positive integers $j$ such that the rational number $a_j$ can be written in the form $\\frac{t}{t+1}$ for some positive integer $t$.",
+        "answer": "059"
+      },
+      {
+        "number": 11,
+        "problem": "Let $ABCD$ be a cyclic quadrilateral with $AB=4,BC=5,CD=6,$ and $DA=7.$ Let $A_1$ and $C_1$ be the feet of the perpendiculars from $A$ and $C,$ respectively, to line $BD,$ and let $B_1$ and $D_1$ be the feet of the perpendiculars from $B$ and $D,$ respectively, to line $AC.$ The perimeter of $A_1B_1C_1D_1$ is $\\frac mn,$ where $m$ and $n$ are relatively prime positive integers. Find $m+n.$",
+        "answer": "301"
+      },
+      {
+        "number": 12,
+        "problem": "Let $A_1A_2A_3\\ldots A_{12}$ be a dodecagon ($12$-gon). Three frogs initially sit at $A_4,A_8,$ and $A_{12}$. At the end of each minute, simultaneously, each of the three frogs jumps to one of the two vertices adjacent to its current position, chosen randomly and independently with both choices being equally likely. All three frogs stop jumping as soon as two frogs arrive at the same vertex at the same time. The expected number of minutes until the frogs stop jumping is $\\frac mn$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$.",
+        "answer": "019"
+      },
+      {
+        "number": 13,
+        "problem": "Circles $\\omega_1$ and $\\omega_2$ with radii $961$ and $625$, respectively, intersect at distinct points $A$ and $B$. A third circle $\\omega$ is externally tangent to both $\\omega_1$ and $\\omega_2$. Suppose line $AB$ intersects $\\omega$ at two points $P$ and $Q$ such that the measure of minor arc $\\widehat{PQ}$ is $120^{\\circ}$. Find the distance between the centers of $\\omega_1$ and $\\omega_2$.",
+        "answer": "672"
+      },
+      {
+        "number": 14,
+        "problem": "For any positive integer $a,$ $\\sigma(a)$ denotes the sum of the positive integer divisors of $a$. Let $n$ be the least positive integer such that $\\sigma(a^n)-1$ is divisible by $2021$ for all positive integers $a$. Find the sum of the prime factors in the prime factorization of $n$.",
+        "answer": "125"
+      },
+      {
+        "number": 15,
+        "problem": "Let $S$ be the set of positive integers $k$ such that the two parabolas [IMG:AIME_2021_I_15.png] intersect in four distinct points, and these four points lie on a circle with radius at most $21$. Find the sum of the least element of $S$ and the greatest element of $S$.",
+        "answer": "285"
+      }
+    ],
+    "II": [
+      {
+        "number": 1,
+        "problem": "Find the arithmetic mean of all the three-digit palindromes. (Recall that a palindrome is a number that reads the same forward and backward, such as $777$ or $383$.)",
+        "answer": "550"
+      },
+      {
+        "number": 2,
+        "problem": "Equilateral triangle $ABC$ has side length $840$. Point $D$ lies on the same side of line $BC$ as $A$ such that $\\overline{BD} \\perp \\overline{BC}$. The line $\\ell$ through $D$ parallel to line $BC$ intersects sides $\\overline{AB}$ and $\\overline{AC}$ at points $E$ and $F$, respectively. Point $G$ lies on $\\ell$ such that $F$ is between $E$ and $G$, $\\triangle AFG$ is isosceles, and the ratio of the area of $\\triangle AFG$ to the area of $\\triangle BED$ is $8:9$. Find $AF$. [IMG:AIME_2021_II_2.png]",
+        "answer": "336"
+      },
+      {
+        "number": 3,
+        "problem": "Find the number of permutations $x_1, x_2, x_3, x_4, x_5$ of numbers $1, 2, 3, 4, 5$ such that the sum of five products [IMG:AIME_2021_II_3.png] is divisible by $3$.",
+        "answer": "080"
+      },
+      {
+        "number": 4,
+        "problem": "There are real numbers $a, b, c,$ and $d$ such that $-20$ is a root of $x^3 + ax + b$ and $-21$ is a root of $x^3 + cx^2 + d.$ These two polynomials share a complex root $m + \\sqrt{n} \\cdot i,$ where $m$ and $n$ are positive integers and $i = \\sqrt{-1}.$ Find $m+n.$",
+        "answer": "330"
+      },
+      {
+        "number": 5,
+        "problem": "For positive real numbers $s$, let $\\tau(s)$ denote the set of all obtuse triangles that have area $s$ and two sides with lengths $4$ and $10$. The set of all $s$ for which $\\tau(s)$ is nonempty, but all triangles in $\\tau(s)$ are congruent, is an interval $[a,b)$. Find $a^2+b^2$.",
+        "answer": "736"
+      },
+      {
+        "number": 6,
+        "problem": "For any finite set $S$, let $|S|$ denote the number of elements in $S$. Find the number of ordered pairs $(A,B)$ such that $A$ and $B$ are (not necessarily distinct) subsets of $\\{1,2,3,4,5\\}$ that satisfy [IMG:AIME_2021_II_6.png]",
+        "answer": "454"
+      },
+      {
+        "number": 7,
+        "problem": "Let $a, b, c,$ and $d$ be real numbers that satisfy the system of equations [IMG:AIME_2021_II_7_0.png] [IMG:AIME_2021_II_7_1.png] There exist relatively prime positive integers $m$ and $n$ such that [IMG:AIME_2021_II_7_0.png] [IMG:AIME_2021_II_7_1.png] Find $m + n$.",
+        "answer": "145"
+      },
+      {
+        "number": 8,
+        "problem": "An ant makes a sequence of moves on a cube where a move consists of walking from one vertex to an adjacent vertex along an edge of the cube. Initially the ant is at a vertex of the bottom face of the cube and chooses one of the three adjacent vertices to move to as its first move. For all moves after the first move, the ant does not return to its previous vertex, but chooses to move to one of the other two adjacent vertices. All choices are selected at random so that each of the possible moves is equally likely. The probability that after exactly $8$ moves that ant is at a vertex of the top face on the cube is $\\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m + n.$",
+        "answer": "049"
+      },
+      {
+        "number": 9,
+        "problem": "Find the number of ordered pairs $(m, n)$ such that $m$ and $n$ are positive integers in the set $\\{1, 2, ..., 30\\}$ and the greatest common divisor of $2^m + 1$ and $2^n - 1$ is not $1$.",
+        "answer": "295"
+      },
+      {
+        "number": 10,
+        "problem": "Two spheres with radii $36$ and one sphere with radius $13$ are each externally tangent to the other two spheres and to two different planes $\\mathcal{P}$ and $\\mathcal{Q}$. The intersection of planes $\\mathcal{P}$ and $\\mathcal{Q}$ is the line $\\ell$. The distance from line $\\ell$ to the point where the sphere with radius $13$ is tangent to plane $\\mathcal{P}$ is $\\tfrac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m + n$.",
+        "answer": "335"
+      },
+      {
+        "number": 11,
+        "problem": "A teacher was leading a class of four perfectly logical students. The teacher chose a set $S$ of four integers and gave a different number in $S$ to each student. Then the teacher announced to the class that the numbers in $S$ were four consecutive two-digit positive integers, that some number in $S$ was divisible by $6$, and a different number in $S$ was divisible by $7$. The teacher then asked if any of the students could deduce what $S$ is, but in unison, all of the students replied no. However, upon hearing that all four students replied no, each student was able to determine the elements of $S$. Find the sum of all possible values of the greatest element of $S$.",
+        "answer": "258"
+      },
+      {
+        "number": 12,
+        "problem": "A convex quadrilateral has area $30$ and side lengths $5, 6, 9,$ and $7,$ in that order. Denote by $\\theta$ the measure of the acute angle formed by the diagonals of the quadrilateral. Then $\\tan \\theta$ can be written in the form $\\tfrac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m + n$.",
+        "answer": "047"
+      },
+      {
+        "number": 13,
+        "problem": "Find the least positive integer $n$ for which $2^n + 5^n - n$ is a multiple of $1000$.",
+        "answer": "797"
+      },
+      {
+        "number": 14,
+        "problem": "Let $\\Delta ABC$ be an acute triangle with circumcenter $O$ and centroid $G$. Let $X$ be the intersection of the line tangent to the circumcircle of $\\Delta ABC$ at $A$ and the line perpendicular to $GO$ at $G$. Let $Y$ be the intersection of lines $XG$ and $BC$. Given that the measures of $\\angle ABC, \\angle BCA,$ and $\\angle XOY$ are in the ratio $13 : 2 : 17,$ the degree measure of $\\angle BAC$ can be written as $\\frac{m}{n},$ where $m$ and $n$ are relatively prime positive integers. Find $m+n$.",
+        "answer": "592"
+      },
+      {
+        "number": 15,
+        "problem": "Let $f(n)$ and $g(n)$ be functions satisfying [IMG:AIME_2021_II_15_0.png] [IMG:AIME_2021_II_15_1.png] and [IMG:AIME_2021_II_15_0.png] [IMG:AIME_2021_II_15_1.png] for positive integers $n$. Find the least positive integer $n$ such that $\\tfrac{f(n)}{g(n)} = \\tfrac{4}{7}$.",
+        "answer": "258"
+      }
+    ]
+  }
+}

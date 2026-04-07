@@ -1,0 +1,610 @@
+{
+  "year": 2016,
+  "contest": "AMC 12",
+  "variants": {
+    "A": [
+      {
+        "number": 1,
+        "problem": "What is the value of $\\frac{11!-10!}{9!}$?",
+        "options": {
+          "A": "$99$",
+          "B": "$100$",
+          "C": "$110$",
+          "D": "$121$",
+          "E": "$132$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 2,
+        "problem": "For what value of $x$ does $10^x \\cdot 100^{2x} = 1000^5$?",
+        "options": {
+          "A": "$1$",
+          "B": "$2$",
+          "C": "$3$",
+          "D": "$4$",
+          "E": "$5$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 3,
+        "problem": "The remainder can be defined for all real numbers $x$ and $y$ with $y \\neq 0$ by [IMG:AMC12_2016_A_3.png] where $\\left \\lfloor \\tfrac{x}{y} \\right \\rfloor$ denotes the greatest integer less than or equal to $\\tfrac{x}{y}$. What is the value of $\\text{rem} (\\tfrac{3}{8}, -\\tfrac{2}{5} )$?",
+        "options": {
+          "A": "$-\\frac{3}{8}$",
+          "B": "$-\\frac{1}{40}$",
+          "C": "$0$",
+          "D": "$\\frac{3}{8}$",
+          "E": "$\\frac{31}{40}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 4,
+        "problem": "The mean, median, and mode of the $7$ data values $60, 100, x, 40, 50, 200, 90$ are all equal to $x$. What is the value of $x$?",
+        "options": {
+          "A": "$50$",
+          "B": "$60$",
+          "C": "$75$",
+          "D": "$90$",
+          "E": "$100$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 5,
+        "problem": "Goldbach's conjecture states that every even integer greater than 2 can be written as the sum of two prime numbers (for example, $2016=13+2003$). So far, no one has been able to prove that the conjecture is true, and no one has found a counterexample to show that the conjecture is false. What would a counterexample consist of?",
+        "options": {
+          "A": "$\\text{an odd integer greater than } 2 \\text{ that can be written as the sum of two prime numbers}\\\\$",
+          "B": "$\\text{an odd integer greater than } 2 \\text{ that cannot be written as the sum of two prime numbers}\\\\$",
+          "C": "$\\text{an even integer greater than } 2 \\text{ that can be written as the sum of two numbers that are not prime}\\\\$",
+          "D": "$\\text{an even integer greater than } 2 \\text{ that can be written as the sum of two prime numbers}\\\\$",
+          "E": "$\\text{an even integer greater than } 2 \\text{ that cannot be written as the sum of two prime numbers}$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 6,
+        "problem": "A triangular array of $2016$ coins has $1$ coin in the first row, $2$ coins in the second row, $3$ coins in the third row, and so on up to $N$ coins in the $N$th row. What is the sum of the digits of $N$ ?",
+        "options": {
+          "A": "$6$",
+          "B": "$7$",
+          "C": "$8$",
+          "D": "$9$",
+          "E": "$10$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 7,
+        "problem": "Which of these describes the graph of $x^2(x+y+1)=y^2(x+y+1)$ ?",
+        "options": {
+          "A": "$\\text{two parallel lines}\\\\$",
+          "B": "$\\text{two intersecting lines}\\\\$",
+          "C": "$\\text{three lines that all pass through a common point}\\\\$",
+          "D": "$\\text{three lines that do not all pass through a common point}\\\\$",
+          "E": "$\\text{a line and a parabola}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 8,
+        "problem": "What is the area of the shaded region of the given $8\\times 5$ rectangle? [IMG:AMC12_2016_A_8.png]",
+        "options": {
+          "A": "$4.75$",
+          "B": "$5$",
+          "C": "$5.25$",
+          "D": "$6.5$",
+          "E": "$8$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 9,
+        "problem": "The five small shaded squares inside this unit square are congruent and have disjoint interiors. The midpoint of each side of the middle square coincides with one of the vertices of the other four small squares as shown. The common side length is $\\tfrac{a-\\sqrt{2}}{b}$, where $a$ and $b$ are positive integers. What is $a+b$ ? [IMG:AMC12_2016_A_9.png]",
+        "options": {
+          "A": "$7$",
+          "B": "$8$",
+          "C": "$9$",
+          "D": "$10$",
+          "E": "$11$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 10,
+        "problem": "Five friends sat in a movie theater in a row containing $5$ seats, numbered $1$ to $5$ from left to right. (The directions \"left\" and \"right\" are from the point of view of the people as they sit in the seats.) During the movie Ada went to the lobby to get some popcorn. When she returned, she found that Bea had moved two seats to the right, Ceci had moved one seat to the left, and Dee and Edie had switched seats, leaving an end seat for Ada. In which seat had Ada been sitting before she got up?",
+        "options": {
+          "A": "$1$",
+          "B": "$2$",
+          "C": "$3$",
+          "D": "$4$",
+          "E": "$5$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 11,
+        "problem": "Each of the $100$ students in a certain summer camp can either sing, dance, or act. Some students have more than one talent, but no student has all three talents. There are $42$ students who cannot sing, $65$ students who cannot dance, and $29$ students who cannot act. How many students have two of these talents?",
+        "options": {
+          "A": "$16$",
+          "B": "$25$",
+          "C": "$36$",
+          "D": "$49$",
+          "E": "$64$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 12,
+        "problem": "In $\\triangle ABC$, $AB = 6$, $BC = 7$, and $CA = 8$. Point $D$ lies on $\\overline{BC}$, and $\\overline{AD}$ bisects $\\angle BAC$. Point $E$ lies on $\\overline{AC}$, and $\\overline{BE}$ bisects $\\angle ABC$. The bisectors intersect at $F$. What is the ratio $AF$ : $FD$? [IMG:AMC12_2016_A_12.png]",
+        "options": {
+          "A": "$3:2$",
+          "B": "$5:3$",
+          "C": "$2:1$",
+          "D": "$7:3$",
+          "E": "$5:2$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 13,
+        "problem": "Let $N$ be a positive multiple of $5$. One red ball and $N$ green balls are arranged in a line in random order. Let $P(N)$ be the probability that at least $\\tfrac{3}{5}$ of the green balls are on the same side of the red ball. Observe that $P(5)=1$ and that $P(N)$ approaches $\\tfrac{4}{5}$ as $N$ grows large. What is the sum of the digits of the least value of $N$ such that $P(N) < \\tfrac{321}{400}$?",
+        "options": {
+          "A": "$12$",
+          "B": "$14$",
+          "C": "$16$",
+          "D": "$18$",
+          "E": "$20$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 14,
+        "problem": "Each vertex of a cube is to be labeled with an integer from $1$ through $8$, with each integer being used once, in such a way that the sum of the four numbers on the vertices of a face is the same for each face. Arrangements that can be obtained from each other through rotations of the cube are considered to be the same. How many different arrangements are possible?",
+        "options": {
+          "A": "$1$",
+          "B": "$3$",
+          "C": "$6$",
+          "D": "$12$",
+          "E": "$24$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 15,
+        "problem": "Circles with centers $P, Q$ and $R$, having radii $1, 2$ and $3$, respectively, lie on the same side of line $l$ and are tangent to $l$ at $P&#39;, Q&#39;$ and $R&#39;$, respectively, with $Q&#39;$ between $P&#39;$ and $R&#39;$. The circle with center $Q$ is externally tangent to each of the other two circles. What is the area of triangle $PQR$?",
+        "options": {
+          "A": "$0$",
+          "B": "$\\frac{\\sqrt{6}}{3}$",
+          "C": "$1$",
+          "D": "$\\sqrt{6}-\\sqrt{2}$",
+          "E": "$\\frac{\\sqrt{6}}{2}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 16,
+        "problem": "The graphs of $y=\\log_3 x, y=\\log_x 3, y=\\log_\\frac{1}{3} x,$ and $y=\\log_x \\dfrac{1}{3}$ are plotted on the same set of axes. How many points in the plane with positive $x$-coordinates lie on two or more of the graphs?",
+        "options": {
+          "A": "$2$",
+          "B": "$3$",
+          "C": "$4$",
+          "D": "$5$",
+          "E": "$6$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 17,
+        "problem": "Let $ABCD$ be a square. Let $E, F, G$ and $H$ be the centers, respectively, of equilateral triangles with bases $\\overline{AB}, \\overline{BC}, \\overline{CD},$ and $\\overline{DA},$ each exterior to the square. What is the ratio of the area of square $EFGH$ to the area of square $ABCD$?",
+        "options": {
+          "A": "$1$",
+          "B": "$\\frac{2+\\sqrt{3}}{3}$",
+          "C": "$\\sqrt{2}$",
+          "D": "$\\frac{\\sqrt{2}+\\sqrt{3}}{2}$",
+          "E": "$\\sqrt{3}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 18,
+        "problem": "For some positive integer $n,$ the number $110n^3$ has $110$ positive integer divisors, including $1$ and the number $110n^3.$ How many positive integer divisors does the number $81n^4$ have?",
+        "options": {
+          "A": "$110$",
+          "B": "$191$",
+          "C": "$261$",
+          "D": "$325$",
+          "E": "$425$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 19,
+        "problem": "Jerry starts at $0$ on the real number line. He tosses a fair coin $8$ times. When he gets heads, he moves $1$ unit in the positive direction; when he gets tails, he moves $1$ unit in the negative direction. The probability that he reaches $4$ at some time during this process is $\\frac{a}{b},$ where $a$ and $b$ are relatively prime positive integers. What is $a + b?$ (For example, he succeeds if his sequence of tosses is $HTHHHHHH.$)",
+        "options": {
+          "A": "$69$",
+          "B": "$151$",
+          "C": "$257$",
+          "D": "$293$",
+          "E": "$313$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 20,
+        "problem": "A binary operation $\\diamondsuit$ has the properties that $a\\ \\diamondsuit\\ (b\\ \\diamondsuit\\ c) = (a\\ \\diamondsuit\\ b)\\cdot c$ and that $a\\ \\diamondsuit\\ a = 1$ for all nonzero real numbers $a, b$ and $c.$ (Here the dot $\\cdot$ represents the usual multiplication operation.) The solution to the equation $2016\\ \\diamondsuit\\ (6\\ \\diamondsuit\\ x) = 100$ can be written as $\\frac{p}{q},$ where $p$ and $q$ are relatively prime positive integers. What is $p + q?$",
+        "options": {
+          "A": "$109$",
+          "B": "$201$",
+          "C": "$301$",
+          "D": "$3049$",
+          "E": "$33,601$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 21,
+        "problem": "A quadrilateral is inscribed in a circle of radius $200\\sqrt{2}.$ Three of the sides of this quadrilateral have length $200.$ What is the length of its fourth side?",
+        "options": {
+          "A": "$200$",
+          "B": "$200\\sqrt{2}$",
+          "C": "$200\\sqrt{3}$",
+          "D": "$300\\sqrt{2}$",
+          "E": "$500$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 22,
+        "problem": "How many ordered triples $(x,y,z)$ of positive integers satisfy $\\text{lcm}(x,y) = 72, \\text{lcm}(x,z) = 600$ and $\\text{lcm}(y,z)=900$?",
+        "options": {
+          "A": "$15$",
+          "B": "$16$",
+          "C": "$24$",
+          "D": "$27$",
+          "E": "$64$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 23,
+        "problem": "Three numbers in the interval $\\left[0,1\\right]$ are chosen independently and at random. What is the probability that the chosen numbers are the side lengths of a triangle with positive area?",
+        "options": {
+          "A": "$\\dfrac{1}{6}$",
+          "B": "$\\dfrac{1}{3}$",
+          "C": "$\\dfrac{1}{2}$",
+          "D": "$\\dfrac{2}{3}$",
+          "E": "$\\dfrac{5}{6}$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 24,
+        "problem": "There is a smallest positive real number $a$ such that there exists a positive real number $b$ such that all the roots of the polynomial $x^3-ax^2+bx-a$ are real. In fact, for this value of $a$ the value of $b$ is unique. What is the value of $b?$",
+        "options": {
+          "A": "$8$",
+          "B": "$9$",
+          "C": "$10$",
+          "D": "$11$",
+          "E": "$12$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 25,
+        "problem": "Let $k$ be a positive integer. Bernardo and Silvia take turns writing and erasing numbers on a blackboard as follows: Bernardo starts by writing the smallest perfect square with $k+1$ digits. Every time Bernardo writes a number, Silvia erases the last $k$ digits of it. Bernardo then writes the next perfect square, Silvia erases the last $k$ digits of it, and this process continues until the last two numbers that remain on the board differ by at least 2. Let $f(k)$ be the smallest positive integer not written on the board. For example, if $k = 1$, then the numbers that Bernardo writes are $16, 25, 36, 49, 64$, and the numbers showing on the board after Silvia erases are $1, 2, 3, 4,$ and $6$, and thus $f(1) = 5$. What is the sum of the digits of $f(2) + f(4)+ f(6) + ... + f(2016)$?",
+        "options": {
+          "A": "$7986$",
+          "B": "$8002$",
+          "C": "$8030$",
+          "D": "$8048$",
+          "E": "$8064$"
+        },
+        "answer": "E"
+      }
+    ],
+    "B": [
+      {
+        "number": 1,
+        "problem": "What is the value of $\\frac{2a^{-1}+\\frac{a^{-1}}{2}}{a}$ when $a= \\frac{1}{2}$?",
+        "options": {
+          "A": "$1$",
+          "B": "$2$",
+          "C": "$\\frac{5}{2}$",
+          "D": "$10$",
+          "E": "$20$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 2,
+        "problem": "The harmonic mean of two numbers can be calculated as twice their product divided by their sum. The harmonic mean of $1$ and $2016$ is closest to which integer?",
+        "options": {
+          "A": "$2$",
+          "B": "$45$",
+          "C": "$504$",
+          "D": "$1008$",
+          "E": "$2015$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 3,
+        "problem": "Let $x=-2016$. What is the value of $\\bigg|$ $||x|-x|-|x|$ $\\bigg|$ $-x$?",
+        "options": {
+          "A": "$-2016$",
+          "B": "$0$",
+          "C": "$2016$",
+          "D": "$4032$",
+          "E": "$6048$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 4,
+        "problem": "The ratio of the measures of two acute angles is $5:4$, and the complement of one of these two angles is twice as large as the complement of the other. What is the sum of the degree measures of the two angles?",
+        "options": {
+          "A": "$75$",
+          "B": "$90$",
+          "C": "$135$",
+          "D": "$150$",
+          "E": "$270$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 5,
+        "problem": "The War of $1812$ started with a declaration of war on Thursday, June $18$, $1812$. The peace treaty to end the war was signed $919$ days later, on December $24$, $1814$. On what day of the week was the treaty signed?",
+        "options": {
+          "A": "$\\text{Friday}$",
+          "B": "$\\text{Saturday}$",
+          "C": "$\\text{Sunday}$",
+          "D": "$\\text{Monday}$",
+          "E": "$\\text{Tuesday}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 6,
+        "problem": "All three vertices of $\\bigtriangleup ABC$ lie on the parabola defined by $y=x^2$, with $A$ at the origin and $\\overline{BC}$ parallel to the $x$-axis. The area of the triangle is $64$. What is the length of $BC$?",
+        "options": {
+          "A": "$4$",
+          "B": "$6$",
+          "C": "$8$",
+          "D": "$10$",
+          "E": "$16$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 7,
+        "problem": "Josh writes the numbers $1,2,3,\\dots,99,100$. He marks out $1$, skips the next number $(2)$, marks out $3$, and continues skipping and marking out the next number to the end of the list. Then he goes back to the start of his list, marks out the first remaining number $(2)$, skips the next number $(4)$, marks out $6$, skips $8$, marks out $10$, and so on to the end. Josh continues in this manner until only one number remains. What is that number?",
+        "options": {
+          "A": "$13$",
+          "B": "$32$",
+          "C": "$56$",
+          "D": "$64$",
+          "E": "$96$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 8,
+        "problem": "A thin piece of wood of uniform density in the shape of an equilateral triangle with side length $3$ inches weighs $12$ ounces. A second piece of the same type of wood, with the same thickness, also in the shape of an equilateral triangle, has side length of $5$ inches. Which of the following is closest to the weight, in ounces, of the second piece?",
+        "options": {
+          "A": "$14.0$",
+          "B": "$16.0$",
+          "C": "$20.0$",
+          "D": "$33.3$",
+          "E": "$55.6$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 9,
+        "problem": "Carl decided to fence in his rectangular garden. He bought $20$ fence posts, placed one on each of the four corners, and spaced out the rest evenly along the edges of the garden, leaving exactly $4$ yards between neighboring posts. The longer side of his garden, including the corners, has twice as many posts as the shorter side, including the corners. What is the area, in square yards, of Carl\u2019s garden?",
+        "options": {
+          "A": "$256$",
+          "B": "$336$",
+          "C": "$384$",
+          "D": "$448$",
+          "E": "$512$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 10,
+        "problem": "A quadrilateral has vertices $P(a,b)$, $Q(b,a)$, $R(-a, -b)$, and $S(-b, -a)$, where $a$ and $b$ are integers with $a>b>0$. The area of $PQRS$ is $16$. What is $a+b$?",
+        "options": {
+          "A": "$4$",
+          "B": "$5$",
+          "C": "$6$",
+          "D": "$12$",
+          "E": "$13$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 11,
+        "problem": "How many squares whose sides are parallel to the axes and whose vertices have coordinates that are integers lie entirely within the region bounded by the line $y=\\pi x$, the line $y=-0.1$ and the line $x=5.1?$",
+        "options": {
+          "A": "$30$",
+          "B": "$41$",
+          "C": "$45$",
+          "D": "$50$",
+          "E": "$57$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 12,
+        "problem": "All the numbers $1, 2, 3, 4, 5, 6, 7, 8, 9$ are written in a $3\\times3$ array of squares, one number in each square, in such a way that if two numbers are consecutive then they occupy squares that share an edge. The numbers in the four corners add up to $18$. What is the number in the center?",
+        "options": {
+          "A": "$5$",
+          "B": "$6$",
+          "C": "$7$",
+          "D": "$8$",
+          "E": "$9$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 13,
+        "problem": "Alice and Bob live $10$ miles apart. One day Alice looks due north from her house and sees an airplane. At the same time Bob looks due west from his house and sees the same airplane. The angle of elevation of the airplane is $30^\\circ$ from Alice's position and $60^\\circ$ from Bob's position. Which of the following is closest to the airplane's altitude, in miles?",
+        "options": {
+          "A": "$3.5$",
+          "B": "$4$",
+          "C": "$4.5$",
+          "D": "$5$",
+          "E": "$5.5$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 14,
+        "problem": "The sum of an infinite geometric series is a positive number $S$, and the second term in the series is $1$. What is the smallest possible value of $S?$",
+        "options": {
+          "A": "$\\frac{1+\\sqrt{5}}{2}$",
+          "B": "$2$",
+          "C": "$\\sqrt{5}$",
+          "D": "$3$",
+          "E": "$4$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 15,
+        "problem": "All the numbers $2, 3, 4, 5, 6, 7$ are assigned to the six faces of a cube, one number to each face. For each of the eight vertices of the cube, a product of three numbers is computed, where the three numbers are the numbers assigned to the three faces that include that vertex. What is the greatest possible value of the sum of these eight products?",
+        "options": {
+          "A": "$312$",
+          "B": "$343$",
+          "C": "$625$",
+          "D": "$729$",
+          "E": "$1680$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 16,
+        "problem": "In how many ways can $345$ be written as the sum of an increasing sequence of two or more consecutive positive integers?",
+        "options": {
+          "A": "$1$",
+          "B": "$3$",
+          "C": "$5$",
+          "D": "$6$",
+          "E": "$7$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 17,
+        "problem": "In $\\triangle ABC$ shown in the figure, $AB=7$, $BC=8$, $CA=9$, and $\\overline{AH}$ is an altitude. Points $D$ and $E$ lie on sides $\\overline{AC}$ and $\\overline{AB}$, respectively, so that $\\overline{BD}$ and $\\overline{CE}$ are angle bisectors, intersecting $\\overline{AH}$ at $Q$ and $P$, respectively. What is $PQ$? [IMG:AMC12_2016_B_17.png]",
+        "options": {
+          "A": "$1$",
+          "B": "$\\frac{5}{8}\\sqrt{3}$",
+          "C": "$\\frac{4}{5}\\sqrt{2}$",
+          "D": "$\\frac{8}{15}\\sqrt{5}$",
+          "E": "$\\frac{6}{5}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 18,
+        "problem": "What is the area of the region enclosed by the graph of the equation $x^2+y^2=|x|+|y|?$",
+        "options": {
+          "A": "$\\pi+\\sqrt{2}$",
+          "B": "$\\pi+2$",
+          "C": "$\\pi+2\\sqrt{2}$",
+          "D": "$2\\pi+\\sqrt{2}$",
+          "E": "$2\\pi+2\\sqrt{2}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 19,
+        "problem": "Tom, Dick, and Harry are playing a game. Starting at the same time, each of them flips a fair coin repeatedly until he gets his first head, at which point he stops. What is the probability that all three flip their coins the same number of times?",
+        "options": {
+          "A": "$\\frac{1}{8}$",
+          "B": "$\\frac{1}{7}$",
+          "C": "$\\frac{1}{6}$",
+          "D": "$\\frac{1}{4}$",
+          "E": "$\\frac{1}{3}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 20,
+        "problem": "A set of teams held a round-robin tournament in which every team played every other team exactly once. Every team won $10$ games and lost $10$ games; there were no ties. How many sets of three teams $\\{A, B, C\\}$ were there in which $A$ beat $B$, $B$ beat $C$, and $C$ beat $A?$",
+        "options": {
+          "A": "$385$",
+          "B": "$665$",
+          "C": "$945$",
+          "D": "$1140$",
+          "E": "$1330$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 21,
+        "problem": "Let $ABCD$ be a unit square. Let $Q_1$ be the midpoint of $\\overline{CD}$. For $i=1,2,\\dots,$ let $P_i$ be the intersection of $\\overline{AQ_i}$ and $\\overline{BD}$, and let $Q_{i+1}$ be the foot of the perpendicular from $P_i$ to $\\overline{CD}$. What is [IMG:AMC12_2016_B_21.png]",
+        "options": {
+          "A": "$\\frac{1}{6}$",
+          "B": "$\\frac{1}{4}$",
+          "C": "$\\frac{1}{3}$",
+          "D": "$\\frac{1}{2}$",
+          "E": "$1$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 22,
+        "problem": "For a certain positive integer $n$ less than $1000$, the decimal equivalent of $\\frac{1}{n}$ is $0.\\overline{abcdef}$, a repeating decimal of period of $6$, and the decimal equivalent of $\\frac{1}{n+6}$ is $0.\\overline{wxyz}$, a repeating decimal of period $4$. In which interval does $n$ lie?",
+        "options": {
+          "A": "$[1,200]$",
+          "B": "$[201,400]$",
+          "C": "$[401,600]$",
+          "D": "$[601,800]$",
+          "E": "$[801,999]$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 23,
+        "problem": "What is the volume of the region in three-dimensional space defined by the inequalities $|x|+|y|+|z|\\le1$ and $|x|+|y|+|z-1|\\le1$?",
+        "options": {
+          "A": "$\\frac{1}{6}$",
+          "B": "$\\frac{1}{4}$",
+          "C": "$\\frac{1}{3}$",
+          "D": "$\\frac{1}{2}$",
+          "E": "$1$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 24,
+        "problem": "There are exactly $77,000$ ordered quadruplets $(a, b, c, d)$ such that $\\gcd(a, b, c, d) = 77$ and $\\operatorname{lcm}(a, b, c, d) = n$. What is the smallest possible value for $n$?",
+        "options": {
+          "A": "$13,860$",
+          "B": "$20,790$",
+          "C": "$21,560$",
+          "D": "$27,720$",
+          "E": "$41,580$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 25,
+        "problem": "The sequence $(a_n)$ is defined recursively by $a_0=1$, $a_1=\\sqrt[19]{2}$, and $a_n=a_{n-1}a_{n-2}^2$ for $n\\geq 2$. What is the smallest positive integer $k$ such that the product $a_1a_2\\cdots a_k$ is an integer?",
+        "options": {
+          "A": "$17$",
+          "B": "$18$",
+          "C": "$19$",
+          "D": "$20$",
+          "E": "$21$"
+        },
+        "answer": "A"
+      }
+    ]
+  }
+}

@@ -1,0 +1,610 @@
+{
+  "year": 2022,
+  "contest": "AMC 12",
+  "variants": {
+    "A": [
+      {
+        "number": 1,
+        "problem": "What is the value of [IMG:AMC12_2022_A_1.png]",
+        "options": {
+          "A": "$\\frac{31}{10}$",
+          "B": "$\\frac{49}{15}$",
+          "C": "$\\frac{33}{10}$",
+          "D": "$\\frac{109}{33}$",
+          "E": "$\\frac{15}{4}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 2,
+        "problem": "The sum of three numbers is $96.$ The first number is $6$ times the third number, and the third number is $40$ less than the second number. What is the absolute value of the difference between the first and second numbers?",
+        "options": {
+          "A": "$1$",
+          "B": "$2$",
+          "C": "$3$",
+          "D": "$4$",
+          "E": "$5$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 3,
+        "problem": "Five rectangles, $A$, $B$, $C$, $D$, and $E$, are arranged in a square as shown below. These rectangles have dimensions $1\\times6$, $2\\times4$, $5\\times6$, $2\\times7$, and $2\\times3$, respectively. (The figure is not drawn to scale.) Which of the five rectangles is the shaded one in the middle? [IMG:AMC12_2022_A_3.png]",
+        "options": {
+          "A": "$A$",
+          "B": "$B$",
+          "C": "$C$",
+          "D": "$D$",
+          "E": "$E$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 4,
+        "problem": "The least common multiple of a positive integer $n$ and $18$ is $180$, and the greatest common divisor of $n$ and $45$ is $15$. What is the sum of the digits of $n$?",
+        "options": {
+          "A": "$3$",
+          "B": "$6$",
+          "C": "$8$",
+          "D": "$9$",
+          "E": "$12$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 5,
+        "problem": "The taxicab distance between points $(x_1, y_1)$ and $(x_2, y_2)$ in the coordinate plane is given by [IMG:AMC12_2022_A_5.png] For how many points $P$ with integer coordinates is the taxicab distance between $P$ and the origin less than or equal to $20$?",
+        "options": {
+          "A": "$, 441$",
+          "B": "$, 761$",
+          "C": "$, 841$",
+          "D": "$, 921$",
+          "E": "$, 924$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 6,
+        "problem": "A data set consists of $6$ (not distinct) positive integers: $1$, $7$, $5$, $2$, $5$, and $X$. The average (arithmetic mean) of the $6$ numbers equals a value in the data set. What is the sum of all possible values of $X$?",
+        "options": {
+          "A": "$10$",
+          "B": "$26$",
+          "C": "$32$",
+          "D": "$36$",
+          "E": "$40$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 7,
+        "problem": "A rectangle is partitioned into $5$ regions as shown. Each region is to be painted a solid color - red, orange, yellow, blue, or green - so that regions that touch are painted different colors, and colors can be used more than once. How many different colorings are possible? [IMG:AMC12_2022_A_7.png]",
+        "options": {
+          "A": "$120$",
+          "B": "$270$",
+          "C": "$360$",
+          "D": "$540$",
+          "E": "$720$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 8,
+        "problem": "The infinite product [IMG:AMC12_2022_A_8.png] evaluates to a real number. What is that number?",
+        "options": {
+          "A": "$\\sqrt{10}$",
+          "B": "$\\sqrt[3]{100}$",
+          "C": "$\\sqrt[4]{1000}$",
+          "D": "$10$",
+          "E": "$10\\sqrt[3]{10}$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 9,
+        "problem": "On Halloween $31$ children walked into the principal's office asking for candy. They can be classified into three types: Some always lie; some always tell the truth; and some alternately lie and tell the truth. The alternaters arbitrarily choose their first response, either a lie or the truth, but each subsequent statement has the opposite truth value from its predecessor. The principal asked everyone the same three questions in this order. \"Are you a truth-teller?\" The principal gave a piece of candy to each of the $22$ children who answered yes. \"Are you an alternater?\" The principal gave a piece of candy to each of the $15$ children who answered yes. \"Are you a liar?\" The principal gave a piece of candy to each of the $9$ children who answered yes. How many pieces of candy in all did the principal give to the children who always tell the truth?",
+        "options": {
+          "A": "$7$",
+          "B": "$12$",
+          "C": "$21$",
+          "D": "$27$",
+          "E": "$31$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 10,
+        "problem": "How many ways are there to split the integers $1$ through $14$ into $7$ pairs such that in each pair, the greater number is at least $2$ times the lesser number?",
+        "options": {
+          "A": "$108$",
+          "B": "$120$",
+          "C": "$126$",
+          "D": "$132$",
+          "E": "$144$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 11,
+        "problem": "What is the product of all real numbers $x$ such that the distance on the number line between $\\log_6x$ and $\\log_69$ is twice the distance on the number line between $\\log_610$ and $1$?",
+        "options": {
+          "A": "$10$",
+          "B": "$18$",
+          "C": "$25$",
+          "D": "$36$",
+          "E": "$81$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 12,
+        "problem": "Let $M$ be the midpoint of $\\overline{AB}$ in regular tetrahedron $ABCD$. What is $\\cos(\\angle CMD)$?",
+        "options": {
+          "A": "$\\frac14$",
+          "B": "$\\frac13$",
+          "C": "$\\frac25$",
+          "D": "$\\frac12$",
+          "E": "$\\frac{\\sqrt{3}}{2}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 13,
+        "problem": "Let $\\mathcal{R}$ be the region in the complex plane consisting of all complex numbers $z$ that can be written as the sum of complex numbers $z_1$ and $z_2$, where $z_1$ lies on the segment with endpoints $3$ and $4i$, and $z_2$ has magnitude at most $1$. What integer is closest to the area of $\\mathcal{R}$?",
+        "options": {
+          "A": "$13$",
+          "B": "$14$",
+          "C": "$15$",
+          "D": "$16$",
+          "E": "$17$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 14,
+        "problem": "What is the value of [IMG:AMC12_2022_A_14.png] where $\\log$ denotes the base-ten logarithm?",
+        "options": {
+          "A": "$\\frac{3}{2}$",
+          "B": "$\\frac{7}{4}$",
+          "C": "$2$",
+          "D": "$\\frac{9}{4}$",
+          "E": "$3$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 15,
+        "problem": "The roots of the polynomial $10x^3-39x^2+29x-6$ are the height, length, and width of a rectangular box (right rectangular prism). A new rectangular box is formed by lengthening each edge of the original box by $2$ units. What is the volume of the new box?",
+        "options": {
+          "A": "$\\frac{24}{5}$",
+          "B": "$\\frac{42}{5}$",
+          "C": "$\\frac{81}{5}$",
+          "D": "$30$",
+          "E": "$48$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 16,
+        "problem": "A triangular number is a positive integer that can be expressed in the form $t_n=1+2+3+\\cdots+n$, for some positive integer $n$. The three smallest triangular numbers that are also perfect squares are $t_1=1=1^2, t_8=36=6^2,$ and $t_{49}=1225=35^2$. What is the sum of the digits of the fourth smallest triangular number that is also a perfect square?",
+        "options": {
+          "A": "$~6$",
+          "B": "$~9$",
+          "C": "$~12$",
+          "D": "$~18$",
+          "E": "$~27$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 17,
+        "problem": "Suppose $a$ is a real number such that the equation [IMG:AMC12_2022_A_17_0.png] [IMG:AMC12_2022_A_17_1.png] has more than one solution in the interval $(0, \\pi)$. The set of all such $a$ that can be written in the form [IMG:AMC12_2022_A_17_0.png] [IMG:AMC12_2022_A_17_1.png] where $p, q,$ and $r$ are real numbers with $p < q< r$. What is $p+q+r$?",
+        "options": {
+          "A": "${-}4$",
+          "B": "${-}1$",
+          "C": "$0$",
+          "D": "$1$",
+          "E": "$4$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 18,
+        "problem": "Let $T_k$ be the transformation of the coordinate plane that first rotates the plane $k$ degrees counterclockwise around the origin and then reflects the plane across the $y$-axis. What is the least positive integer $n$ such that performing the sequence of transformations $T_1, T_2, T_3, \\dots, T_n$ returns the point $(1,0)$ back to itself?",
+        "options": {
+          "A": "$359$",
+          "B": "$360$",
+          "C": "$719$",
+          "D": "$720$",
+          "E": "$721$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 19,
+        "problem": "Suppose that $13$ cards numbered $1, 2, 3, \\ldots, 13$ are arranged in a row. The task is to pick them up in numerically increasing order, working repeatedly from left to right. In the example below, cards $1, 2, 3$ are picked up on the first pass, $4$ and $5$ on the second pass, $6$ on the third pass, $7, 8, 9, 10$ on the fourth pass, and $11, 12, 13$ on the fifth pass. For how many of the $13!$ possible orderings of the cards will the $13$ cards be picked up in exactly two passes? [IMG:AMC12_2022_A_19.png]",
+        "options": {
+          "A": "$4082$",
+          "B": "$4095$",
+          "C": "$4096$",
+          "D": "$8178$",
+          "E": "$8191$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 20,
+        "problem": "Isosceles trapezoid $ABCD$ has parallel sides $\\overline{AD}$ and $\\overline{BC},$ with $BC < AD$ and $AB = CD.$ There is a point $P$ in the plane such that $PA=1, PB=2, PC=3,$ and $PD=4.$ What is $\\tfrac{BC}{AD}?$",
+        "options": {
+          "A": "$\\frac{1}{4}$",
+          "B": "$\\frac{1}{3}$",
+          "C": "$\\frac{1}{2}$",
+          "D": "$\\frac{2}{3}$",
+          "E": "$\\frac{3}{4}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 21,
+        "problem": "Let [IMG:AMC12_2022_A_21.png] Which of the following polynomials is a factor of $P(x)$?",
+        "options": {
+          "A": "$, x^2 -x + 1$",
+          "B": "$, x^2 + x + 1$",
+          "C": "$, x^4 + 1$",
+          "D": "$, x^6 - x^3 + 1$",
+          "E": "$, x^6 + x^3 + 1$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 22,
+        "problem": "Let $c$ be a real number, and let $z_1$ and $z_2$ be the two complex numbers satisfying the equation $z^2 - cz + 10 = 0$. Points $z_1$, $z_2$, $\\frac{1}{z_1}$, and $\\frac{1}{z_2}$ are the vertices of (convex) quadrilateral $\\mathcal{Q}$ in the complex plane. When the area of $\\mathcal{Q}$ obtains its maximum possible value, $c$ is closest to which of the following?",
+        "options": {
+          "A": "$4.5$",
+          "B": "$5$",
+          "C": "$5.5$",
+          "D": "$6$",
+          "E": "$6.5$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 23,
+        "problem": "Let $h_n$ and $k_n$ be the unique relatively prime positive integers such that [IMG:AMC12_2022_A_23.png] Let $L_n$ denote the least common multiple of the numbers $1, 2, 3, \\ldots, n$. For how many integers with $1\\le{n}\\le{22}$ is $k_n<L_n$?",
+        "options": {
+          "A": "$0$",
+          "B": "$3$",
+          "C": "$7$",
+          "D": "$8$",
+          "E": "$10$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 24,
+        "problem": "How many strings of length $5$ formed from the digits $0$, $1$, $2$, $3$, $4$ are there such that for each $j \\in \\{1,2,3,4\\}$, at least $j$ of the digits are less than $j$? (For example, $02214$ satisfies this condition because it contains at least $1$ digit less than $1$, at least $2$ digits less than $2$, at least $3$ digits less than $3$, and at least $4$ digits less than $4$. The string $23404$ does not satisfy the condition because it does not contain at least $2$ digits less than $2$.)",
+        "options": {
+          "A": "$500$",
+          "B": "$625$",
+          "C": "$1089$",
+          "D": "$1199$",
+          "E": "$1296$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 25,
+        "problem": "A circle with integer radius $r$ is centered at $(r, r)$. Distinct line segments of length $c_i$ connect points $(0, a_i)$ to $(b_i, 0)$ for $1 \\le i \\le 14$ and are tangent to the circle, where $a_i$, $b_i$, and $c_i$ are all positive integers and $c_1 \\le c_2 \\le \\cdots \\le c_{14}$. What is the ratio $\\frac{c_{14}}{c_1}$ for the least possible value of $r$?",
+        "options": {
+          "A": "$~\\frac{21}{5}$",
+          "B": "$~\\frac{85}{13}$",
+          "C": "$~7$",
+          "D": "$~\\frac{39}{5}$",
+          "E": "$~17$"
+        },
+        "answer": "E"
+      }
+    ],
+    "B": [
+      {
+        "number": 1,
+        "problem": "Define $x\\diamond y$ to be $|x-y|$ for all real numbers $x$ and $y.$ What is the value of [IMG:AMC12_2022_B_1.png]",
+        "options": {
+          "A": "${-}2$",
+          "B": "${-}1$",
+          "C": "$0$",
+          "D": "$1$",
+          "E": "$2$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 2,
+        "problem": "In rhombus $ABCD$, point $P$ lies on segment $\\overline{AD}$ so that $\\overline{BP}$ $\\perp$ $\\overline{AD}$, $AP = 3$, and $PD = 2$. What is the area of $ABCD$? (Note: The figure is not drawn to scale.) [IMG:AMC12_2022_B_2.png]",
+        "options": {
+          "A": "$3\\sqrt 5$",
+          "B": "$10$",
+          "C": "$6\\sqrt 5$",
+          "D": "$20$",
+          "E": "$25$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 3,
+        "problem": "How many of the first ten numbers of the sequence $121, 11211, 1112111, \\ldots$ are prime numbers?",
+        "options": {
+          "A": "$0$",
+          "B": "$1$",
+          "C": "$2$",
+          "D": "$3$",
+          "E": "$4$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 4,
+        "problem": "For how many values of the constant $k$ will the polynomial $x^{2}+kx+36$ have two distinct integer roots?",
+        "options": {
+          "A": "$6$",
+          "B": "$8$",
+          "C": "$9$",
+          "D": "$14$",
+          "E": "$16$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 5,
+        "problem": "The point $(-1, -2)$ is rotated $270^{\\circ}$ counterclockwise about the point $(3, 1)$. What are the coordinates of its new position?",
+        "options": {
+          "A": "$\\ (-3, -4)$",
+          "B": "$\\ (0,5)$",
+          "C": "$\\ (2,-1)$",
+          "D": "$\\ (4,3)$",
+          "E": "$\\ (6,-3)$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 6,
+        "problem": "Consider the following $100$ sets of $10$ elements each: [IMG:AMC12_2022_B_6.png] How many of these sets contain exactly two multiples of $7$?",
+        "options": {
+          "A": "$40$",
+          "B": "$42$",
+          "C": "$43$",
+          "D": "$49$",
+          "E": "$50$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 7,
+        "problem": "Camila writes down five positive integers. The unique mode of these integers is $2$ greater than their median, and the median is $2$ greater than their arithmetic mean. What is the least possible value for the mode?",
+        "options": {
+          "A": "$5$",
+          "B": "$7$",
+          "C": "$9$",
+          "D": "$11$",
+          "E": "$13$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 8,
+        "problem": "What is the graph of $y^4+1=x^4+2y^2$ in the coordinate plane?",
+        "options": {
+          "A": "$\\ \\text{two intersecting parabolas}$",
+          "B": "$\\ \\text{two nonintersecting parabolas}$",
+          "C": "$\\ \\text{two intersecting circles} \\qquad$ $\\textbf{$",
+          "D": "$\\ \\text{a circle and a hyperbola}$",
+          "E": "$\\ \\text{a circle and two parabolas}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 9,
+        "problem": "The sequence $a_0,a_1,a_2,\\cdots$ is a strictly increasing arithmetic sequence of positive integers such that [IMG:AMC12_2022_B_9.png] What is the minimum possible value of $a_2$?",
+        "options": {
+          "A": "$\\ 8$",
+          "B": "$\\ 12$",
+          "C": "$\\ 16$",
+          "D": "$\\ 17$",
+          "E": "$\\ 22$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 10,
+        "problem": "Regular hexagon $ABCDEF$ has side length $2$. Let $G$ be the midpoint of $\\overline{AB}$, and let $H$ be the midpoint of $\\overline{DE}$. What is the perimeter of $GCHF$?",
+        "options": {
+          "A": "$\\ 4\\sqrt3$",
+          "B": "$\\ 8$",
+          "C": "$\\ 4\\sqrt5$",
+          "D": "$\\ 4\\sqrt7$",
+          "E": "$\\ 12$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 11,
+        "problem": "Let $f(n) = \\left( \\frac{-1+i\\sqrt{3}}{2} \\right)^n + \\left( \\frac{-1-i\\sqrt{3}}{2} \\right)^n$, where $i = \\sqrt{-1}$. What is $f(2022)$?",
+        "options": {
+          "A": "$\\ -2$",
+          "B": "$\\ -1$",
+          "C": "$\\ 0$",
+          "D": "$\\ \\sqrt{3}$",
+          "E": "$\\ 2$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 12,
+        "problem": "Kayla rolls four fair $6$-sided dice. What is the probability that at least one of the numbers Kayla rolls is greater than $4$ and at least two of the numbers she rolls are greater than $2$?",
+        "options": {
+          "A": "$\\frac{2}{3}$",
+          "B": "$\\frac{19}{27}$",
+          "C": "$\\frac{59}{81}$",
+          "D": "$\\frac{61}{81}$",
+          "E": "$\\frac{7}{9}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 13,
+        "problem": "The diagram below shows a rectangle with side lengths $4$ and $8$ and a square with side length $5$. Three vertices of the square lie on three different sides of the rectangle, as shown. What is the area of the region inside both the square and the rectangle? [IMG:AMC12_2022_B_13.png]",
+        "options": {
+          "A": "$15\\dfrac{1}{8}$",
+          "B": "$15\\dfrac{3}{8}$",
+          "C": "$15\\dfrac{1}{2}$",
+          "D": "$15\\dfrac{5}{8}$",
+          "E": "$15\\dfrac{7}{8}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 14,
+        "problem": "The graph of $y=x^2+2x-15$ intersects the $x$-axis at points $A$ and $C$ and the $y$-axis at point $B$. What is $\\tan(\\angle ABC)$?",
+        "options": {
+          "A": "$\\frac{1}{7}$",
+          "B": "$\\frac{1}{4}$",
+          "C": "$\\frac{3}{7}$",
+          "D": "$\\frac{1}{2}$",
+          "E": "$\\frac{4}{7}$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 15,
+        "problem": "One of the following numbers is not divisible by any prime number less than $10.$ Which is it?",
+        "options": {
+          "A": "$2^{606}-1$",
+          "B": "$2^{606}+1$",
+          "C": "$2^{607}-1$",
+          "D": "$2^{607}+1$",
+          "E": "$2^{607}+3^{607}$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 16,
+        "problem": "Suppose $x$ and $y$ are positive real numbers such that [IMG:AMC12_2022_B_16.png] What is the greatest possible value of $\\log_2{y}$?",
+        "options": {
+          "A": "$3$",
+          "B": "$4$",
+          "C": "$3+\\sqrt{2}$",
+          "D": "$4+\\sqrt{3}$",
+          "E": "$7$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 17,
+        "problem": "How many $4 \\times 4$ arrays whose entries are $0$s and $1$s are there such that the row sums (the sum of the entries in each row) are $1, 2, 3,$ and $4,$ in some order, and the column sums (the sum of the entries in each column) are also $1, 2, 3,$ and $4,$ in some order? For example, the array [IMG:AMC12_2022_B_17.png] satisfies the condition.",
+        "options": {
+          "A": "$144$",
+          "B": "$240$",
+          "C": "$336$",
+          "D": "$576$",
+          "E": "$624$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 18,
+        "problem": "Each square in a $5 \\times 5$ grid is either filled or empty, and has up to eight adjacent neighboring squares, where neighboring squares share either a side or a corner. The grid is transformed by the following rules: Any filled square with two or three filled neighbors remains filled. Any empty square with exactly three filled neighbors becomes a filled square. All other squares remain empty or become empty. A sample transformation is shown in the figure below. [IMG:AMC12_2022_B_18_0.png] [IMG:AMC12_2022_B_18_1.png] Suppose the $5 \\times 5$ grid has a border of empty squares surrounding a $3 \\times 3$ subgrid. How many initial configurations will lead to a transformed grid consisting of a single filled square in the center after a single transformation? (Rotations and reflections of the same configuration are considered different.) [IMG:AMC12_2022_B_18_0.png] [IMG:AMC12_2022_B_18_1.png]",
+        "options": {
+          "A": "$14$",
+          "B": "$18$",
+          "C": "$22$",
+          "D": "$26$",
+          "E": "$30$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 19,
+        "problem": "In $\\triangle{ABC}$ medians $\\overline{AD}$ and $\\overline{BE}$ intersect at $G$ and $\\triangle{AGE}$ is equilateral. Then $\\cos(C)$ can be written as $\\frac{m\\sqrt p}n$, where $m$ and $n$ are relatively prime positive integers and $p$ is a positive integer not divisible by the square of any prime. What is $m+n+p?$",
+        "options": {
+          "A": "$44$",
+          "B": "$48$",
+          "C": "$52$",
+          "D": "$56$",
+          "E": "$60$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 20,
+        "problem": "Let $P(x)$ be a polynomial with rational coefficients such that when $P(x)$ is divided by the polynomial $x^2 + x + 1$, the remainder is $x + 2$, and when $P(x)$ is divided by the polynomial $x^2 + 1$, the remainder is $2x + 1$. There is a unique polynomial of least degree with these two properties. What is the sum of the squares of the coefficients of that polynomial?",
+        "options": {
+          "A": "$10$",
+          "B": "$13$",
+          "C": "$19$",
+          "D": "$20$",
+          "E": "$23$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 21,
+        "problem": "Let $S$ be the set of circles in the coordinate plane that are tangent to each of the three circles with equations $x^{2}+y^{2}=4$, $x^{2}+y^{2}=64$, and $(x-5)^{2}+y^{2}=3$. What is the sum of the areas of all circles in $S$?",
+        "options": {
+          "A": "$48 \\pi$",
+          "B": "$68 \\pi$",
+          "C": "$96 \\pi$",
+          "D": "$102 \\pi$",
+          "E": "$136 \\pi \\qquad$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 22,
+        "problem": "Ant Amelia starts on the number line at $0$ and crawls in the following manner. For $n=1,2,3,$ Amelia chooses a time duration $t_n$ and an increment $x_n$ independently and uniformly at random from the interval $(0,1).$ During the $n$th step of the process, Amelia moves $x_n$ units in the positive direction, using up $t_n$ minutes. If the total elapsed time has exceeded $1$ minute during the $n$th step, she stops at the end of that step; otherwise, she continues with the next step, taking at most $3$ steps in all. What is the probability that Amelia\u2019s position when she stops will be greater than $1$?",
+        "options": {
+          "A": "$\\frac{1}{3}$",
+          "B": "$\\frac{1}{2}$",
+          "C": "$\\frac{2}{3}$",
+          "D": "$\\frac{3}{4}$",
+          "E": "$\\frac{5}{6}$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 23,
+        "problem": "Let $x_0,x_1,x_2,\\dotsc$ be a sequence of numbers, where each $x_k$ is either $0$ or $1$. For each positive integer $n$, define [IMG:AMC12_2022_B_23_0.png] [IMG:AMC12_2022_B_23_1.png] Suppose $7S_n \\equiv 1 \\pmod{2^n}$ for all $n \\geq 1$. What is the value of the sum [IMG:AMC12_2022_B_23_0.png] [IMG:AMC12_2022_B_23_1.png]",
+        "options": {
+          "A": "$6$",
+          "B": "$7$",
+          "C": "$12$",
+          "D": "$14$",
+          "E": "$15$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 24,
+        "problem": "The figure below depicts a regular $7$-gon inscribed in a unit circle. [IMG:AMC12_2022_B_24.png] What is the sum of the $4$th powers of the lengths of all $21$ of its edges and diagonals?",
+        "options": {
+          "A": "$49$",
+          "B": "$98$",
+          "C": "$147$",
+          "D": "$168$",
+          "E": "$196$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 25,
+        "problem": "Four regular hexagons surround a square with a side length $1$, each one sharing an edge with the square, as shown in the figure below. The area of the resulting 12-sided outer nonconvex polygon can be written as $m\\sqrt{n} + p$, where $m$, $n$, and $p$ are integers and $n$ is not divisible by the square of any prime. What is $m + n + p$? [IMG:AMC12_2022_B_25.png]",
+        "options": {
+          "A": "$-12$",
+          "B": "$-4$",
+          "C": "$4$",
+          "D": "$24$",
+          "E": "$32$"
+        },
+        "answer": "B"
+      }
+    ]
+  }
+}

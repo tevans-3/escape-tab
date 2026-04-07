@@ -1,0 +1,160 @@
+{
+  "year": 2007,
+  "contest": "AIME",
+  "variants": {
+    "I": [
+      {
+        "number": 1,
+        "problem": "How many positive perfect squares less than $10^6$ are multiples of 24?",
+        "answer": "083"
+      },
+      {
+        "number": 2,
+        "problem": "A 100 foot long moving walkway moves at a constant rate of 6 feet per second. Al steps onto the start of the walkway and stands. Bob steps onto the start of the walkway two seconds later and strolls forward along the walkway at a constant rate of 4 feet per second. Two seconds after that, Cy reaches the start of the walkway and walks briskly forward beside the walkway at a constant rate of 8 feet per second. At a certain time, one of these three persons is exactly halfway between the other two. At that time, find the distance in feet between the start of the walkway and the middle person.",
+        "answer": "052"
+      },
+      {
+        "number": 3,
+        "problem": "The complex number $z$ is equal to $9+bi$, where $b$ is a positive real number and $i^{2}=-1$. Given that the imaginary parts of $z^{2}$ and $z^{3}$ are the same, what is $b$ equal to?",
+        "answer": "015"
+      },
+      {
+        "number": 4,
+        "problem": "Three planets orbit a star circularly in the same plane. Each moves in the same direction and moves at constant speed. Their periods are $60$, $84$, and $140$ years. The three planets and the star are currently collinear. What is the fewest number of years from now that they will all be collinear again?",
+        "answer": "105"
+      },
+      {
+        "number": 5,
+        "problem": "The formula for converting a Fahrenheit temperature $F$ to the corresponding Celsius temperature $C$ is $C = \\frac{5}{9}(F-32).$ An integer Fahrenheit temperature is converted to Celsius, rounded to the nearest integer, converted back to Fahrenheit, and again rounded to the nearest integer. For how many integer Fahrenheit temperatures between $32$ and $1000$ inclusive does the original temperature equal the final temperature?",
+        "answer": "539"
+      },
+      {
+        "number": 6,
+        "problem": "A frog is placed at the origin on the number line , and moves according to the following rule: in a given move, the frog advances to either the closest point with a greater integer coordinate that is a multiple of $3$, or to the closest point with a greater integer coordinate that is a multiple of $13$. A move sequence is a sequence of coordinates which correspond to valid moves, beginning with $0$, and ending with $39$. For example, $0,\\ 3,\\ 6,\\ 13,\\ 15,\\ 26,\\ 39$ is a move sequence. How many move sequences are possible for the frog?",
+        "answer": "169"
+      },
+      {
+        "number": 7,
+        "problem": "Let $N = \\sum_{k = 1}^{1000} k ( \\lceil \\log_{\\sqrt{2}} k \\rceil - \\lfloor \\log_{\\sqrt{2}} k \\rfloor )$ Find the remainder when $N$ is divided by 1000. ($\\lfloor{k}\\rfloor$ is the greatest integer less than or equal to $k$, and $\\lceil{k}\\rceil$ is the least integer greater than or equal to $k$.)",
+        "answer": "477"
+      },
+      {
+        "number": 8,
+        "problem": "The polynomial $P(x)$ is cubic. What is the largest value of $k$ for which the polynomials $Q_1(x) = x^2 + (k-29)x - k$ and $Q_2(x) = 2x^2+ (2k-43)x + k$ are both factors of $P(x)$?",
+        "answer": "030"
+      },
+      {
+        "number": 9,
+        "problem": "In right triangle $ABC$ with right angle $C$, $CA = 30$ and $CB = 16$. Its legs $CA$ and $CB$ are extended beyond $A$ and $B$. Points $O_1$ and $O_2$ lie in the exterior of the triangle and are the centers of two circles with equal radii. The circle with center $O_1$ is tangent to the hypotenuse and to the extension of leg $CA$, the circle with center $O_2$ is tangent to the hypotenuse and to the extension of leg $CB$, and the circles are externally tangent to each other. The length of the radius of either circle can be expressed as $p/q$, where $p$ and $q$ are relatively prime positive integers. Find $p+q$.",
+        "answer": "737"
+      },
+      {
+        "number": 10,
+        "problem": "In a $6 \\times 4$ grid ($6$ rows, $4$ columns), $12$ of the $24$ squares are to be shaded so that there are two shaded squares in each row and three shaded squares in each column. Let $N$ be the number of shadings with this property. Find the remainder when $N$ is divided by $1000$. [IMG:AIME_2007_I_10.png]",
+        "answer": "860"
+      },
+      {
+        "number": 11,
+        "problem": "For each positive integer $p$, let $b(p)$ denote the unique positive integer $k$ such that $|k-\\sqrt{p}| < \\frac{1}{2}$. For example, $b(6) = 2$ and $b(23) = 5$. If $S = \\sum_{p=1}^{2007} b(p),$ find the remainder when $S$ is divided by 1000.",
+        "answer": "955"
+      },
+      {
+        "number": 12,
+        "problem": "In isosceles triangle $ABC$, $A$ is located at the origin and $B$ is located at (20,0). Point $C$ is in the first quadrant with $AC = BC$ and angle $BAC = 75^{\\circ}$. If triangle $ABC$ is rotated counterclockwise about point $A$ until the image of $C$ lies on the positive $y$-axis, the area of the region common to the original and the rotated triangle is in the form $p\\sqrt{2} + q\\sqrt{3} + r\\sqrt{6} + s$, where $p,q,r,s$ are integers. Find $(p-q+r-s)/2$.",
+        "answer": "875"
+      },
+      {
+        "number": 13,
+        "problem": "A square pyramid with base $ABCD$ and vertex $E$ has eight edges of length 4. A plane passes through the midpoints of $AE$, $BC$, and $CD$. The plane's intersection with the pyramid has an area that can be expressed as $\\sqrt{p}$. Find $p$.",
+        "answer": "080"
+      },
+      {
+        "number": 14,
+        "problem": "A sequence is defined over non-negative integral indexes in the following way: $a_{0}=a_{1}=3$, $a_{n+1}a_{n-1}=a_{n}^{2}+2007$. Find the greatest integer that does not exceed $\\frac{a_{2006}^{2}+a_{2007}^{2}}{a_{2006}a_{2007}}$",
+        "answer": "224"
+      },
+      {
+        "number": 15,
+        "problem": "Let $ABC$ be an equilateral triangle, and let $D$ and $F$ be points on sides $BC$ and $AB$, respectively, with $FA = 5$ and $CD = 2$. Point $E$ lies on side $CA$ such that angle $DEF = 60^{\\circ}$. The area of triangle $DEF$ is $14\\sqrt{3}$. The two possible values of the length of side $AB$ are $p \\pm q \\sqrt{r}$, where $p$ and $q$ are rational, and $r$ is an integer not divisible by the square of a prime. Find $r$.",
+        "answer": "989"
+      }
+    ],
+    "II": [
+      {
+        "number": 1,
+        "problem": "A mathematical organization is producing a set of commemorative license plates. Each plate contains a sequence of five characters chosen from the four letters in AIME and the four digits in $2007$. No character may appear in a sequence more times than it appears among the four letters in AIME or the four digits in $2007$. A set of plates in which each possible sequence appears exactly once contains N license plates. Find N/10.",
+        "answer": "372"
+      },
+      {
+        "number": 2,
+        "problem": "Find the number of ordered triples $(a,b,c)$ where $a$, $b$, and $c$ are positive integers , $a$ is a factor of $b$, $a$ is a factor of $c$, and $a+b+c=100$.",
+        "answer": "200"
+      },
+      {
+        "number": 3,
+        "problem": "Square $ABCD$ has side length $13$, and points $E$ and $F$ are exterior to the square such that $BE=DF=5$ and $AE=CF=12$. Find $EF^{2}$. [IMG:AIME_2007_II_3.png]",
+        "answer": "578"
+      },
+      {
+        "number": 4,
+        "problem": "The workers in a factory produce widgets and whoosits. For each product, production time is constant and identical for all workers, but not necessarily equal for the two products. In one hour, $100$ workers can produce $300$ widgets and $200$ whoosits. In two hours, $60$ workers can produce $240$ widgets and $300$ whoosits. In three hours, $50$ workers can produce $150$ widgets and $m$ whoosits. Find $m$.",
+        "answer": "450"
+      },
+      {
+        "number": 5,
+        "problem": "The graph of the equation $9x+223y=2007$ is drawn on graph paper with each square representing one unit in each direction. How many of the $1$ by $1$ graph paper squares have interiors lying entirely below the graph and entirely in the first quadrant ?",
+        "answer": "888"
+      },
+      {
+        "number": 6,
+        "problem": "An integer is called parity-monotonic if its decimal representation $a_{1}a_{2}a_{3}\\cdots a_{k}$ satisfies $a_{i}<a_{i+1}$ if $a_{i}$ is odd , and $a_{i}>a_{i+1}$ if $a_{i}$ is even . How many four-digit parity-monotonic integers are there?",
+        "answer": "640"
+      },
+      {
+        "number": 7,
+        "problem": "Given a real number $x,$ let $\\lfloor x \\rfloor$ denote the greatest integer less than or equal to $x.$ For a certain integer $k,$ there are exactly $70$ positive integers $n_{1}, n_{2}, \\ldots, n_{70}$ such that $k=\\lfloor\\sqrt[3]{n_{1}}\\rfloor = \\lfloor\\sqrt[3]{n_{2}}\\rfloor = \\cdots = \\lfloor\\sqrt[3]{n_{70}}\\rfloor$ and $k$ divides $n_{i}$ for all $i$ such that $1 \\leq i \\leq 70.$ Find the maximum value of $\\frac{n_{i}}{k}$ for $1\\leq i \\leq 70.$",
+        "answer": "553"
+      },
+      {
+        "number": 8,
+        "problem": "A rectangular piece of paper measures 4 units by 5 units. Several lines are drawn parallel to the edges of the paper. A rectangle determined by the intersections of some of these lines is called basic if (i) all four sides of the rectangle are segments of drawn line segments, and (ii) no segments of drawn lines lie inside the rectangle. Given that the total length of all lines drawn is exactly 2007 units, let $N$ be the maximum possible number of basic rectangles determined. Find the remainder when $N$ is divided by 1000.",
+        "answer": "896"
+      },
+      {
+        "number": 9,
+        "problem": "Rectangle $ABCD$ is given with $AB=63$ and $BC=448.$ Points $E$ and $F$ lie on $AD$ and $BC$ respectively, such that $AE=CF=84.$ The inscribed circle of triangle $BEF$ is tangent to $EF$ at point $P,$ and the inscribed circle of triangle $DEF$ is tangent to $EF$ at point $Q.$ Find $PQ.$",
+        "answer": "259"
+      },
+      {
+        "number": 10,
+        "problem": "Let $S$ be a set with six elements . Let $\\mathcal{P}$ be the set of all subsets of $S.$ Subsets $A$ and $B$ of $S$, not necessarily distinct, are chosen independently and at random from $\\mathcal{P}$. The probability that $B$ is contained in one of $A$ or $S-A$ is $\\frac{m}{n^{r}},$ where $m$, $n$, and $r$ are positive integers , $n$ is prime , and $m$ and $n$ are relatively prime . Find $m+n+r.$ (The set $S-A$ is the set of all elements of $S$ which are not in $A.$)",
+        "answer": "710"
+      },
+      {
+        "number": 11,
+        "problem": "Two long cylindrical tubes of the same length but different diameters lie parallel to each other on a flat surface . The larger tube has radius $72$ and rolls along the surface toward the smaller tube, which has radius $24$. It rolls over the smaller tube and continues rolling along the flat surface until it comes to rest on the same point of its circumference as it started, having made one complete revolution. If the smaller tube never moves, and the rolling occurs with no slipping, the larger tube ends up a distance $x$ from where it starts. The distance $x$ can be expressed in the form $a\\pi+b\\sqrt{c},$ where $a,$ $b,$ and $c$ are integers and $c$ is not divisible by the square of any prime . Find $a+b+c.$",
+        "answer": "179"
+      },
+      {
+        "number": 12,
+        "problem": "The increasing geometric sequence $x_{0},x_{1},x_{2},\\ldots$ consists entirely of integral powers of $3.$ Given that $\\sum_{n=0}^{7}\\log_{3}(x_{n}) = 308$ and $56 \\leq \\log_{3}\\left ( \\sum_{n=0}^{7}x_{n}\\right ) \\leq 57,$ find $\\log_{3}(x_{14}).$",
+        "answer": "091"
+      },
+      {
+        "number": 13,
+        "problem": "A triangular array of squares has one square in the first row, two in the second, and in general, $k$ squares in the $k$th row for $1 \\leq k \\leq 11.$ With the exception of the bottom row, each square rests on two squares in the row immediately below (illustrated in given diagram). In each square of the eleventh row, a $0$ or a $1$ is placed. Numbers are then placed into the other squares, with the entry for each square being the sum of the entries in the two squares below it. For how many initial distributions of $0$'s and $1$'s in the bottom row is the number in the top square a multiple of $3$? [IMG:AIME_2007_II_13.png]",
+        "answer": "640"
+      },
+      {
+        "number": 14,
+        "problem": "Let $f(x)$ be a polynomial with real coefficients such that $f(0) = 1,$ $f(2)+f(3)=125,$ and for all $x$, $f(x)f(2x^{2})=f(2x^{3}+x).$ Find $f(5).$",
+        "answer": "676"
+      },
+      {
+        "number": 15,
+        "problem": "Four circles $\\omega,$ $\\omega_{A},$ $\\omega_{B},$ and $\\omega_{C}$ with the same radius are drawn in the interior of triangle $ABC$ such that $\\omega_{A}$ is tangent to sides $AB$ and $AC$, $\\omega_{B}$ to $BC$ and $BA$, $\\omega_{C}$ to $CA$ and $CB$, and $\\omega$ is externally tangent to $\\omega_{A},$ $\\omega_{B},$ and $\\omega_{C}$. If the sides of triangle $ABC$ are $13,$ $14,$ and $15,$ the radius of $\\omega$ can be represented in the form $\\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m+n.$",
+        "answer": "389"
+      }
+    ]
+  }
+}

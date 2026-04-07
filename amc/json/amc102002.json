@@ -1,0 +1,610 @@
+{
+  "year": 2002,
+  "contest": "AMC 10",
+  "variants": {
+    "A": [
+      {
+        "number": 1,
+        "problem": "The ratio $\\frac{10^{2000}+10^{2002}}{10^{2001}+10^{2001}}$ is closest to which of the following numbers?",
+        "options": {
+          "A": "$0.1$",
+          "B": "$0.2$",
+          "C": "$1$",
+          "D": "$5$",
+          "E": "$10$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 2,
+        "problem": "For the nonzero numbers $a$, $b$, $c$, define $(a, b, c) = \\frac{a}{b} + \\frac{b}{c} + \\frac{c}{a}$. Find $(2, 12, 9)$.",
+        "options": {
+          "A": "$4$",
+          "B": "$5$",
+          "C": "$6$",
+          "D": "$7$",
+          "E": "$8$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 3,
+        "problem": "According to the standard convention for exponentiation, $2^{2^{2^2}} = 2^{\\left(2^{\\left(2^2\\right)}\\right)} = 2^{16} = 65,536$. If the order in which the exponentiations are performed is changed, how many other values are possible?",
+        "options": {
+          "A": "$0$",
+          "B": "$1$",
+          "C": "$2$",
+          "D": "$3$",
+          "E": "$4$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 4,
+        "problem": "For how many positive integers $m$ does there exist at least one positive integer $n$ such that $mn \\le m + n$?",
+        "options": {
+          "A": "$4$",
+          "B": "$6$",
+          "C": "$9$",
+          "D": "$12$",
+          "E": "$ infinitely many$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 5,
+        "problem": "Each of the small circles in the figure has radius one. The innermost circle is tangent to the six circles that surround it, and each of those circles is tangent to the large circle and to its small-circle neighbors. Find the area of the shaded region. [IMG:AMC10_2002_A_5.png]",
+        "options": {
+          "A": "$\\pi$",
+          "B": "$1.5\\pi$",
+          "C": "$2\\pi$",
+          "D": "$3\\pi$",
+          "E": "$3.5\\pi$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 6,
+        "problem": "Cindy was asked by her teacher to subtract $3$ from a certain number and then divide the result by $9$. Instead, she subtracted $9$ and then divided the result by $3$, giving an answer of $43$. What would her answer have been had she worked the problem correctly?",
+        "options": {
+          "A": "$15$",
+          "B": "$34$",
+          "C": "$43$",
+          "D": "$51$",
+          "E": "$138$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 7,
+        "problem": "If an arc of $45^\\circ$ on circle $A$ has the same length as an arc of $30^\\circ$ on circle $B$, then the ratio of the area of circle $A$ to the area of circle $B$ is",
+        "options": {
+          "A": "$4/9$",
+          "B": "$2/3$",
+          "C": "$5/6$",
+          "D": "$3/2$",
+          "E": "$9/4$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 8,
+        "problem": "Betsy designed a flag using blue triangles, small white squares, and a red center square, as shown. Let $B$ be the total area of the blue triangles, $W$ the total area of the white squares, and $R$ the area of the red square. Which of the following is correct? [IMG:AMC10_2002_A_8.png]",
+        "options": {
+          "A": "$B = W$",
+          "B": "$W = R$",
+          "C": "$B = R$",
+          "D": "$3B = 2R$",
+          "E": "$2R = W$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 9,
+        "problem": "There are 3 numbers A, B, and C, such that $1001C - 2002A = 4004$, and $1001B + 3003A = 5005$. What is the average of A, B, and C?",
+        "options": {
+          "A": "$1$",
+          "B": "$3$",
+          "C": "$6$",
+          "D": "$9$",
+          "E": "$\\text{Not uniquely determined}$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 10,
+        "problem": "Compute the sum of all the roots of $(2x + 3)(x - 4) + (2x + 3)(x - 6) = 0$.",
+        "options": {
+          "A": "$7/2$",
+          "B": "$4$",
+          "C": "$5$",
+          "D": "$7$",
+          "E": "$13$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 11,
+        "problem": "Jamal wants to store $30$ computer files on floppy disks, each of which has a capacity of $1.44$ megabytes (MB). Three of his files require $0.8$ MB of memory each, $12$ more require $0.7$ MB each, and the remaining $15$ require $0.4$ MB each. No file can be split between floppy disks. What is the minimal number of floppy disks that will hold all the files?",
+        "options": {
+          "A": "$12$",
+          "B": "$13$",
+          "C": "$14$",
+          "D": "$15$",
+          "E": "$16$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 12,
+        "problem": "Mr. Earl E. Bird leaves his house for work at exactly 8:00 A.M. every morning. When he averages $40$ miles per hour, he arrives at his workplace three minutes late. When he averages $60$ miles per hour, he arrives three minutes early. At what average speed, in miles per hour, should Mr. Bird drive to arrive at his workplace precisely on time?",
+        "options": {
+          "A": "$45$",
+          "B": "$48$",
+          "C": "$50$",
+          "D": "$55$",
+          "E": "$58$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 13,
+        "problem": "The sides of a triangle have lengths 15, 20, and 25. Find the length of the shortest altitude.",
+        "options": {
+          "A": "$6$",
+          "B": "$12$",
+          "C": "$12.5$",
+          "D": "$13$",
+          "E": "$15$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 14,
+        "problem": "Both roots of the quadratic equation $x^2 - 63x + k = 0$ are prime numbers. The number of possible values of $k$ is",
+        "options": {
+          "A": "$0$",
+          "B": "$1$",
+          "C": "$2$",
+          "D": "$4$",
+          "E": "$more than 4}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 15,
+        "problem": "The digits $1$, $2$, $3$, $4$, $5$, $6$, $7$, and $9$ are used to form four two-digit prime numbers, with each digit used exactly once. What is the sum of these four primes?",
+        "options": {
+          "A": "$150$",
+          "B": "$160$",
+          "C": "$170$",
+          "D": "$180$",
+          "E": "$190$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 16,
+        "problem": "If $a + 1 = b + 2 = c + 3 = d + 4 = a + b + c + d + 5$, then $a + b + c + d$ is",
+        "options": {
+          "A": "$-5$",
+          "B": "$-10/3$",
+          "C": "$-7/3$",
+          "D": "$5/3$",
+          "E": "$5$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 17,
+        "problem": "Sarah pours four ounces of coffee into an eight-ounce cup and four ounces of cream into a second cup of the same size. She then transfers half the coffee from the first cup to the second and, after stirring thoroughly, transfers half the liquid in the second cup back to the first. What fraction of the liquid in the first cup is now cream?",
+        "options": {
+          "A": "$1/4$",
+          "B": "$1/3$",
+          "C": "$3/8$",
+          "D": "$2/5$",
+          "E": "$1/2$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 18,
+        "problem": "A $3 \\times 3 \\times 3$ cube is formed by gluing together 27 standard cubical dice. (On a standard die, the sum of the numbers on any pair of opposite faces is 7.) The smallest possible sum of all the numbers showing on the surface of the $3 \\times 3 \\times 3$ cube is",
+        "options": {
+          "A": "$60$",
+          "B": "$72$",
+          "C": "$84$",
+          "D": "$90$",
+          "E": "$96$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 19,
+        "problem": "Spot's doghouse has a regular hexagonal base that measures one yard on each side. He is tethered to a vertex with a two-yard rope. What is the area, in square yards, of the region outside of the doghouse that Spot can reach?",
+        "options": {
+          "A": "$2\\pi/3$",
+          "B": "$2\\pi$",
+          "C": "$5\\pi/2$",
+          "D": "$8\\pi/3$",
+          "E": "$3\\pi$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 20,
+        "problem": "Points $A,B,C,D,E$ and $F$ lie, in that order, on $\\overline{AF}$, dividing it into five segments, each of length 1. Point $G$ is not on line $AF$. Point $H$ lies on $\\overline{GD}$, and point $J$ lies on $\\overline{GF}$. The line segments $\\overline{HC}, \\overline{JE},$ and $\\overline{AG}$ are parallel. Find $HC/JE$.",
+        "options": {
+          "A": "$5/4$",
+          "B": "$4/3$",
+          "C": "$3/2$",
+          "D": "$5/3$",
+          "E": "$2$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 21,
+        "problem": "The mean, median, unique mode, and range of a collection of eight integers are all equal to 8. The largest integer that can be an element of this collection is",
+        "options": {
+          "A": "$11$",
+          "B": "$12$",
+          "C": "$13$",
+          "D": "$14$",
+          "E": "$15$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 22,
+        "problem": "A set of tiles numbered 1 through 100 is modified repeatedly by the following operation: remove all tiles numbered with a perfect square , and renumber the remaining tiles consecutively starting with 1. How many times must the operation be performed to reduce the number of tiles in the set to one?",
+        "options": {
+          "A": "$10$",
+          "B": "$11$",
+          "C": "$18$",
+          "D": "$19$",
+          "E": "$20$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 23,
+        "problem": "Points $A,B,C$ and $D$ lie on a line, in that order, with $AB = CD$ and $BC = 12$. Point $E$ is not on the line, and $BE = CE = 10$. The perimeter of $\\triangle AED$ is twice the perimeter of $\\triangle BEC$. Find $AB$.",
+        "options": {
+          "A": "$15/2$",
+          "B": "$8$",
+          "C": "$17/2$",
+          "D": "$9$",
+          "E": "$19/2$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 24,
+        "problem": "Tina randomly selects two distinct numbers from the set $\\{1, 2, 3, 4, 5\\}$, and Sergio randomly selects a number from the set $\\{1, 2, ..., 10\\}$. The probability that Sergio's number is larger than the sum of the two numbers chosen by Tina is",
+        "options": {
+          "A": "$2/5$",
+          "B": "$9/20$",
+          "C": "$1/2$",
+          "D": "$11/20$",
+          "E": "$24/25$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 25,
+        "problem": "[IMG:AMC10_2002_A_25.png] In trapezoid $ABCD$ with bases $AB$ and $CD$, we have $AB = 52$, $BC = 12$, $CD = 39$, and $DA = 5$. The area of $ABCD$ is",
+        "options": {
+          "A": "$182$",
+          "B": "$195$",
+          "C": "$210$",
+          "D": "$234$",
+          "E": "$260$"
+        },
+        "answer": "C"
+      }
+    ],
+    "B": [
+      {
+        "number": 1,
+        "problem": "The ratio $\\frac{2^{2001}\\cdot3^{2003}}{6^{2002}}$ is: $\\mathrm{",
+        "options": {
+          "A": "$\\frac{1}{6}$",
+          "B": "$\\frac{1}{3}$",
+          "C": "$\\frac{1}{2}$",
+          "D": "$\\frac{2}{3}$",
+          "E": "$\\frac{3}{2}$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 2,
+        "problem": "For the nonzero numbers $a, b,$ and $c,$ define Find $(2,4,6)$. $\\mathrm{",
+        "options": {
+          "A": "$1$",
+          "B": "$2$",
+          "C": "$4$",
+          "D": "$6$",
+          "E": "$24$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 3,
+        "problem": "The arithmetic mean of the nine numbers in the set $\\{9,99,999,9999,\\ldots,999999999\\}$ is a $9$-digit number $M$, all of whose digits are distinct. The number $M$ does not contain the digit $\\mathrm{",
+        "options": {
+          "A": "$0$",
+          "B": "$2$",
+          "C": "$4$",
+          "D": "$6$",
+          "E": "$8$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 4,
+        "problem": "What is the value of $(3x-2)(4x+1)-(3x-2)4x+1$ when $x=4$? $\\mathrm{",
+        "options": {
+          "A": "$0$",
+          "B": "$1$",
+          "C": "$10$",
+          "D": "$11$",
+          "E": "$12$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 5,
+        "problem": "Circles of radius $2$ and $3$ are externally tangent and are circumscribed by a third circle, as shown in the figure. Find the area of the shaded region. [IMG:AMC10_2002_B_5.png] $\\mathrm{",
+        "options": {
+          "A": "$3\\pi$",
+          "B": "$4\\pi$",
+          "C": "$6\\pi$",
+          "D": "$9\\pi$",
+          "E": "$12\\pi$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 6,
+        "problem": "For how many positive integers $n$ is $n^2-3n+2$ a prime number? $\\mathrm{",
+        "options": {
+          "A": "$\\text{none}$",
+          "B": "$\\text{one}$",
+          "C": "$\\text{two}$",
+          "D": "$\\text{more than two, but finitely many}$",
+          "E": "$\\text{infinitely many}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 7,
+        "problem": "Let $n$ be a positive integer such that $\\frac{1}{2}+\\frac{1}{3}+\\frac{1}{7}+\\frac{1}{n}$ is an integer. Which of the following statements is not true? $\\mathrm{",
+        "options": {
+          "A": "$2\\text{ divides }n$",
+          "B": "$3\\text{ divides }n$",
+          "C": "$6\\text{ divides }n$",
+          "D": "$7\\text{ divides }n$",
+          "E": "$n>84$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 8,
+        "problem": "Suppose July of year $N$ has five Mondays. Which of the following must occur five times in the August of year $N$? (Note: Both months have $31$ days.)",
+        "options": {
+          "A": "$\\text{Monday}$",
+          "B": "$\\text{Tuesday}$",
+          "C": "$\\text{Wednesday}$",
+          "D": "$\\text{Thursday}$",
+          "E": "$\\text{Friday}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 9,
+        "problem": "Using the letters $A$, $M$, $O$, $S$, and $U$, we can form five-letter \"words\". If these \"words\" are arranged in alphabetical order, then the \"word\" $USAMO$ occupies position $\\mathrm{",
+        "options": {
+          "A": "$112$",
+          "B": "$113$",
+          "C": "$114$",
+          "D": "$115$",
+          "E": "$116$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 10,
+        "problem": "Suppose that $a$ and $b$ are nonzero real numbers, and that the equation $x^2+ax+b=0$ has solutions $a$ and $b$. What is the pair $(a,b)$? $\\mathrm{",
+        "options": {
+          "A": "$(-2,1)$",
+          "B": "$(-1,2)$",
+          "C": "$(1,-2)$",
+          "D": "$(2,-1)$",
+          "E": "$(4,4)$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 11,
+        "problem": "The product of three consecutive positive integers is $8$ times their sum. What is the sum of their squares? $\\mathrm{",
+        "options": {
+          "A": "$50$",
+          "B": "$77$",
+          "C": "$110$",
+          "D": "$149$",
+          "E": "$194$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 12,
+        "problem": "For which of the following values of $k$ does the equation $\\frac{x-1}{x-2} = \\frac{x-k}{x-6}$ have no solution for $x$?",
+        "options": {
+          "A": "$1$",
+          "B": "$2$",
+          "C": "$3$",
+          "D": "$4$",
+          "E": "$5$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 13,
+        "problem": "Find the value(s) of $x$ such that $8xy - 12y + 2x - 3 = 0$ is true for all values of $y$.",
+        "options": {
+          "A": "$\\frac23$",
+          "B": "$\\frac32 \\text{ or } -\\frac14$",
+          "C": "$-\\frac23 \\text{ or } -\\frac14$",
+          "D": "$\\frac32$",
+          "E": "$-\\frac32 \\text{ or } -\\frac14$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 14,
+        "problem": "The number $25^{64}\\cdot 64^{25}$ is the square of a positive integer $N$. In decimal representation, the sum of the digits of $N$ is $\\mathrm{",
+        "options": {
+          "A": "$7$",
+          "B": "$14$",
+          "C": "$21$",
+          "D": "$28$",
+          "E": "$35$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 15,
+        "problem": "The positive integers $A$, $B$, $A-B$, and $A+B$ are all prime numbers. The sum of these four primes is $\\mathrm{",
+        "options": {
+          "A": "$\\text{even}$",
+          "B": "$\\text{divisible by }3$",
+          "C": "$\\text{divisible by }5$",
+          "D": "$\\text{divisible by }7$",
+          "E": "$\\text{prime}$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 16,
+        "problem": "For how many integers $n$ is $\\frac{n}{20-n}$ the square of an integer?",
+        "options": {
+          "A": "$1$",
+          "B": "$2$",
+          "C": "$3$",
+          "D": "$4$",
+          "E": "$10$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 17,
+        "problem": "A regular octagon $ABCDEFGH$ has sides of length two. Find the area of $\\triangle ADG$.",
+        "options": {
+          "A": "$4 + 2\\sqrt2$",
+          "B": "$6 + \\sqrt2$",
+          "C": "$4 + 3\\sqrt2$",
+          "D": "$3 + 4\\sqrt2$",
+          "E": "$8 + \\sqrt2$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 18,
+        "problem": "Four distinct circles are drawn in a plane. What is the maximum number of points where at least two of the circles intersect?",
+        "options": {
+          "A": "$8$",
+          "B": "$9$",
+          "C": "$10$",
+          "D": "$12$",
+          "E": "$16$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 19,
+        "problem": "Suppose that $\\{a_n\\}$ is an arithmetic sequence with [IMG:AMC10_2002_B_19.png] What is the value of $a_2 - a_1 ?$ $\\mathrm{",
+        "options": {
+          "A": "$0.0001$",
+          "B": "$0.001$",
+          "C": "$0.01$",
+          "D": "$0.1$",
+          "E": "$1$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 20,
+        "problem": "Let $a, b,$ and $c$ be real numbers such that $a-7b+8c=4$ and $8a+4b-c=7.$ Then $a^2-b^2+c^2$ is $\\mathrm{",
+        "options": {
+          "A": "$0$",
+          "B": "$1$",
+          "C": "$4$",
+          "D": "$7$",
+          "E": "$8$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 21,
+        "problem": "Andy's lawn has twice as much area as Beth's lawn and three times as much as Carlos' lawn. Carlos' lawn mower cuts half as fast as Beth's mower and one third as fast as Andy's mower. If they all start to mow their lawns at the same time, who will finish first? $\\mathrm{",
+        "options": {
+          "A": "$\\text{Andy}$",
+          "B": "$\\text{Beth}$",
+          "C": "$\\text{Carlos}$",
+          "D": "$\\text{Andy and Carlos tie for first.}$",
+          "E": "$\\text{All three tie.}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 22,
+        "problem": "Let $\\triangle{XOY}$ be a right-angled triangle with $\\angle{XOY}=90^\\circ$. Let $M$ and $N$ be the midpoints of the legs $OX$ and $OY$, respectively. Given $XN=19$ and $YM=22$, find $XY$. $\\mathrm{",
+        "options": {
+          "A": "$24$",
+          "B": "$26$",
+          "C": "$28$",
+          "D": "$30$",
+          "E": "$32$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 23,
+        "problem": "Let $\\{a_k\\}$ be a sequence of integers such that $a_1=1$ and $a_{m+n}=a_m+a_n+mn,$ for all positive integers $m$ and $n.$ Then $a_{12}$ is $\\mathrm{",
+        "options": {
+          "A": "$45$",
+          "B": "$56$",
+          "C": "$67$",
+          "D": "$78$",
+          "E": "$89$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 24,
+        "problem": "Riders on a Ferris wheel travel in a circle in a vertical plane. A particular wheel has radius $20$ feet and revolves at the constant rate of one revolution per minute. How many seconds does it take a rider to travel from the bottom of the wheel to a point $10$ vertical feet above the bottom? $\\mathrm{",
+        "options": {
+          "A": "$5$",
+          "B": "$6$",
+          "C": "$7.5$",
+          "D": "$10$",
+          "E": "$15$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 25,
+        "problem": "When $15$ is appended to a list of integers, the mean is increased by $2$. When $1$ is appended to the enlarged list, the mean of the enlarged list is decreased by $1$. How many integers were in the original list? $\\mathrm{",
+        "options": {
+          "A": "$4$",
+          "B": "$5$",
+          "C": "$6$",
+          "D": "$7$",
+          "E": "$8$"
+        },
+        "answer": "D"
+      }
+    ]
+  }
+}

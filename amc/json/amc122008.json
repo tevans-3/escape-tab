@@ -1,0 +1,610 @@
+{
+  "year": 2008,
+  "contest": "AMC 12",
+  "variants": {
+    "A": [
+      {
+        "number": 1,
+        "problem": "A bakery owner turns on his doughnut machine at $\\text{8:30}\\ {\\small\\text{AM}}$. At $\\text{11:10}\\ {\\small\\text{AM}}$ the machine has completed one third of the day's job. At what time will the doughnut machine complete the job?",
+        "options": {
+          "A": "$\\text{1:50}\\ {\\small\\text{PM}}$",
+          "B": "$\\text{3:00}\\ {\\small\\text{PM}}$",
+          "C": "$\\text{3:30}\\ {\\small\\text{PM}}$",
+          "D": "$\\text{4:30}\\ {\\small\\text{PM}}$",
+          "E": "$\\text{5:50}\\ {\\small\\text{PM}}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 2,
+        "problem": "What is the reciprocal of $\\frac{1}{2}+\\frac{2}{3}$?",
+        "options": {
+          "A": "$\\frac{6}{7}$",
+          "B": "$\\frac{7}{6}$",
+          "C": "$\\frac{5}{3}$",
+          "D": "$3$",
+          "E": "$\\frac{7}{2}$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 3,
+        "problem": "Suppose that $\\tfrac{2}{3}$ of $10$ bananas are worth as much as $8$ oranges. How many oranges are worth as much as $\\tfrac{1}{2}$ of $5$ bananas?",
+        "options": {
+          "A": "$2$",
+          "B": "$\\frac{5}{2}$",
+          "C": "$3$",
+          "D": "$\\frac{7}{2}$",
+          "E": "$4$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 4,
+        "problem": "Which of the following is equal to the product [IMG:AMC12_2008_A_4.png]",
+        "options": {
+          "A": "$251$",
+          "B": "$502$",
+          "C": "$1004$",
+          "D": "$2008$",
+          "E": "$4016$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 5,
+        "problem": "Suppose that [IMG:AMC12_2008_A_5.png] is an integer. Which of the following statements must be true about $x$?",
+        "options": {
+          "A": "$\\text{It is negative.}$",
+          "B": "$\\text{It is even, but not necessarily a multiple of 3.}\\\\$",
+          "C": "$\\text{It is a multiple of 3, but not necessarily even.}\\\\$",
+          "D": "$\\text{It is a multiple of 6, but not necessarily a multiple of 12.}\\\\$",
+          "E": "$\\text{It is a multiple of 12.}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 6,
+        "problem": "Heather compares the price of a new computer at two different stores. Store $A$ offers $15\\%$ off the sticker price followed by a $\\textdollar 90$ rebate, and store $B$ offers $25\\%$ off the same sticker price with no rebate. Heather saves $\\textdollar 15$ by buying the computer at store $A$ instead of store $B$. What is the sticker price of the computer, in dollars?",
+        "options": {
+          "A": "$750$",
+          "B": "$900$",
+          "C": "$1000$",
+          "D": "$1050$",
+          "E": "$1500$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 7,
+        "problem": "While Steve and LeRoy are fishing 1 mile from shore, their boat springs a leak, and water comes in at a constant rate of 10 gallons per minute. The boat will sink if it takes in more than 30 gallons of water. Steve starts rowing towards the shore at a constant rate of 4 miles per hour while LeRoy bails water out of the boat. What is the slowest rate, in gallons per minute, at which LeRoy can bail if they are to reach the shore without sinking?",
+        "options": {
+          "A": "$2$",
+          "B": "$4$",
+          "C": "$6$",
+          "D": "$8$",
+          "E": "$10$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 8,
+        "problem": "What is the volume of a cube whose surface area is twice that of a cube with volume 1?",
+        "options": {
+          "A": "$\\sqrt{2}$",
+          "B": "$2$",
+          "C": "$2\\sqrt{2}$",
+          "D": "$4$",
+          "E": "$8$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 9,
+        "problem": "Older television screens have an aspect ratio of $4: 3$. That is, the ratio of the width to the height is $4: 3$. The aspect ratio of many movies is not $4: 3$, so they are sometimes shown on a television screen by \"letterboxing\" - darkening strips of equal height at the top and bottom of the screen, as shown. Suppose a movie has an aspect ratio of $2: 1$ and is shown on an older television screen with a $27$-inch diagonal. What is the height, in inches, of each darkened strip? [IMG:AMC12_2008_A_9.png]",
+        "options": {
+          "A": "$2$",
+          "B": "$2.25$",
+          "C": "$2.5$",
+          "D": "$2.7$",
+          "E": "$3$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 10,
+        "problem": "Doug can paint a room in $5$ hours. Dave can paint the same room in $7$ hours. Doug and Dave paint the room together and take a one-hour break for lunch. Let $t$ be the total time, in hours, required for them to complete the job working together, including lunch. Which of the following equations is satisfied by $t$?",
+        "options": {
+          "A": "$\\left(\\frac{1}{5}+\\frac{1}{7}\\right)\\left(t+1\\right)=1$",
+          "B": "$\\left(\\frac{1}{5}+\\frac{1}{7}\\right)t+1=1$",
+          "C": "$\\left(\\frac{1}{5}+\\frac{1}{7}\\right)t=1\\\\$",
+          "D": "$\\left(\\frac{1}{5}+\\frac{1}{7}\\right)\\left(t-1\\right)=1$",
+          "E": "$\\left(5+7\\right)t=1$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 11,
+        "problem": "Three cubes are each formed from the pattern shown. They are then stacked on a table one on top of another so that the $13$ visible numbers have the greatest possible sum. What is that sum? [IMG:AMC12_2008_A_11.png]",
+        "options": {
+          "A": "$154$",
+          "B": "$159$",
+          "C": "$164$",
+          "D": "$167$",
+          "E": "$189$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 12,
+        "problem": "A function $f$ has domain $[0,2]$ and range $[0,1]$. (The notation $[a,b]$ denotes $\\{x:a \\le x \\le b \\}$.) What are the domain and range, respectively, of the function $g$ defined by $g(x)=1-f(x+1)$?",
+        "options": {
+          "A": "$[-1,1],[-1,0]$",
+          "B": "$[-1,1],[0,1]\\qquad\\textbf{(C)}\\ [0,2],[-1,0]$",
+          "C": "$[0,2],[-1,0]\\qquad\\mathrm{(D)}\\ [1,3],[-1,0]\\qquad\\mathrm{(E)}\\ [1,3],[0,1]$",
+          "D": "$[1,3],[-1,0]$",
+          "E": "$[1,3],[0,1]$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 13,
+        "problem": "Points $A$ and $B$ lie on a circle centered at $O$, and $\\angle AOB = 60^\\circ$. A second circle is internally tangent to the first and tangent to both $\\overline{OA}$ and $\\overline{OB}$. What is the ratio of the area of the smaller circle to that of the larger circle?",
+        "options": {
+          "A": "$\\frac{1}{16}$",
+          "B": "$\\frac{1}{9}$",
+          "C": "$\\frac{1}{8}$",
+          "D": "$\\frac{1}{6}$",
+          "E": "$\\frac{1}{4}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 14,
+        "problem": "What is the area of the region defined by the inequality $|3x-18|+|2y+7|\\le3$?",
+        "options": {
+          "A": "$3$",
+          "B": "$\\frac {7}{2}$",
+          "C": "$4$",
+          "D": "$\\frac{9}{2}$",
+          "E": "$5$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 15,
+        "problem": "Let $k={2008}^{2}+{2}^{2008}$. What is the units digit of $k^2+2^k$?",
+        "options": {
+          "A": "$0$",
+          "B": "$2$",
+          "C": "$4$",
+          "D": "$6$",
+          "E": "$8$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 16,
+        "problem": "The numbers $\\log(a^3b^7)$, $\\log(a^5b^{12})$, and $\\log(a^8b^{15})$ are the first three terms of an arithmetic sequence, and the $12^\\text{th}$ term of the sequence is $\\log(b^n)$. What is $n$?",
+        "options": {
+          "A": "$40$",
+          "B": "$56$",
+          "C": "$76$",
+          "D": "$112$",
+          "E": "$143$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 17,
+        "problem": "Let $a_1,a_2,\\ldots$ be a sequence determined by the rule $a_n=a_{n-1}/2$ if $a_{n-1}$ is even and $a_n=3a_{n-1}+1$ if $a_{n-1}$ is odd. For how many positive integers $a_1 \\le 2008$ is it true that $a_1$ is less than each of $a_2$, $a_3$, and $a_4$?",
+        "options": {
+          "A": "$250$",
+          "B": "$251$",
+          "C": "$501$",
+          "D": "$502$",
+          "E": "$1004$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 18,
+        "problem": "A triangle $\\triangle ABC$ with sides $5$, $6$, $7$ is placed in the three-dimensional plane with one vertex on the positive $x$ axis, one on the positive $y$ axis, and one on the positive $z$ axis. Let $O$ be the origin. What is the volume of $OABC$?",
+        "options": {
+          "A": "$\\sqrt{85}$",
+          "B": "$\\sqrt{90}$",
+          "C": "$\\sqrt{95}$",
+          "D": "$10$",
+          "E": "$\\sqrt{105}$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 19,
+        "problem": "In the expansion of [IMG:AMC12_2008_A_19.png] what is the coefficient of $x^{28}$?",
+        "options": {
+          "A": "$195$",
+          "B": "$196$",
+          "C": "$224$",
+          "D": "$378$",
+          "E": "$405$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 20,
+        "problem": "Triangle $ABC$ has $AC=3$, $BC=4$, and $AB=5$. Point $D$ is on $\\overline{AB}$, and $\\overline{CD}$ bisects the right angle. The inscribed circles of $\\triangle ADC$ and $\\triangle BCD$ have radii $r_a$ and $r_b$, respectively. What is $r_a/r_b$?",
+        "options": {
+          "A": "$\\frac{1}{28}\\left(10-\\sqrt{2}\\right)$",
+          "B": "$\\frac{3}{56}\\left(10-\\sqrt{2}\\right)$",
+          "C": "$\\frac{1}{14}\\left(10-\\sqrt{2}\\right)$",
+          "D": "$\\frac{5}{56}\\left(10-\\sqrt{2}\\right)\\\\$",
+          "E": "$\\frac{3}{28}\\left(10-\\sqrt{2}\\right)$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 21,
+        "problem": "A permutation $(a_1,a_2,a_3,a_4,a_5)$ of $(1,2,3,4,5)$ is $\\textit{heavy-tailed}$ if $a_1 + a_2 < a_4 + a_5$. What is the number of heavy-tailed permutations?",
+        "options": {
+          "A": "$36$",
+          "B": "$40\\qquad\\textbf{(C)}\\ 44$",
+          "C": "$44\\qquad\\mathrm{(D)}\\ 48\\qquad\\mathrm{(E)}\\ 52$",
+          "D": "$48$",
+          "E": "$52$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 22,
+        "problem": "A round table has radius $4$. Six rectangular place mats are placed on the table. Each place mat has width $1$ and length $x$ as shown. They are positioned so that each mat has two corners on the edge of the table, these two corners being end points of the same side of length $x$. Further, the mats are positioned so that the inner corners each touch an inner corner of an adjacent mat. What is $x$? [IMG:AMC12_2008_A_22.png]",
+        "options": {
+          "A": "$2\\sqrt{5}-\\sqrt{3}$",
+          "B": "$3$",
+          "C": "$\\frac{3\\sqrt{7}-\\sqrt{3}}{2}$",
+          "D": "$2\\sqrt{3}$",
+          "E": "$\\frac{5+2\\sqrt{3}}{2}$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 23,
+        "problem": "The solutions of the equation $z^4+4z^3i-6z^2-4zi-i=0$ are the vertices of a convex polygon in the complex plane. What is the area of the polygon?",
+        "options": {
+          "A": "$2^{\\frac{5}{8}}$",
+          "B": "$2^{\\frac{3}{4}}$",
+          "C": "$2$",
+          "D": "$2^{\\frac{5}{4}}$",
+          "E": "$2^{\\frac{3}{2}}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 24,
+        "problem": "Triangle $ABC$ has $\\angle C = 60^{\\circ}$ and $BC = 4$. Point $D$ is the midpoint of $BC$. What is the largest possible value of $\\tan{\\angle BAD}$?",
+        "options": {
+          "A": "$\\frac{\\sqrt{3}}{6}$",
+          "B": "$\\frac{\\sqrt{3}}{3}$",
+          "C": "$\\frac{\\sqrt{3}}{2\\sqrt{2}}$",
+          "D": "$\\frac{\\sqrt{3}}{4\\sqrt{2}-3}$",
+          "E": "$1$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 25,
+        "problem": "A sequence $(a_1,b_1)$, $(a_2,b_2)$, $(a_3,b_3)$, $\\ldots$ of points in the coordinate plane satisfies $(a_{n + 1}, b_{n + 1}) = (\\sqrt {3}a_n - b_n, \\sqrt {3}b_n + a_n)$ for $n = 1,2,3,\\ldots$. Suppose that $(a_{100},b_{100}) = (2,4)$. What is $a_1 + b_1$?",
+        "options": {
+          "A": "$-\\frac{1}{2^{97}}$",
+          "B": "$-\\frac{1}{2^{99}}$",
+          "C": "$0$",
+          "D": "$\\frac{1}{2^{98}}$",
+          "E": "$\\frac{1}{2^{96}}$"
+        },
+        "answer": "D"
+      }
+    ],
+    "B": [
+      {
+        "number": 1,
+        "problem": "A basketball player made $5$ baskets during a game. Each basket was worth either $2$ or $3$ points. How many different numbers could represent the total points scored by the player?",
+        "options": {
+          "A": "$2$",
+          "B": "$3$",
+          "C": "$4$",
+          "D": "$5$",
+          "E": "$6$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 2,
+        "problem": "A $4\\times 4$ block of calendar dates is shown. The order of the numbers in the second row is to be reversed. Then the order of the numbers in the fourth row is to be reversed. Finally, the numbers on each diagonal are to be added. What will be the positive difference between the two diagonal sums? $\\begin{tabular}[t]{|c|c|c|c|} \\multicolumn{4}{c}{}\\\\\\hline 1&2&3&4\\\\\\hline 8&9&10&11\\\\\\hline 15&16&17&18\\\\\\hline 22&23&24&25\\\\\\hline \\end{tabular}$",
+        "options": {
+          "A": "$2$",
+          "B": "$4$",
+          "C": "$6$",
+          "D": "$8$",
+          "E": "$10$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 3,
+        "problem": "A semipro baseball league has teams with $21$ players each. League rules state that a player must be paid at least $15,000$ dollars, and that the total of all players' salaries for each team cannot exceed $700,000$ dollars. What is the maximum possible salary, in dollars, for a single player?",
+        "options": {
+          "A": "$270,000$",
+          "B": "$385,000$",
+          "C": "$400,000$",
+          "D": "$430,000$",
+          "E": "$700,000$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 4,
+        "problem": "On circle $O$, points $C$ and $D$ are on the same side of diameter $\\overline{AB}$, $\\angle AOC = 30^\\circ$, and $\\angle DOB = 45^\\circ$. What is the ratio of the area of the smaller sector $COD$ to the area of the circle? [IMG:AMC12_2008_B_4.png]",
+        "options": {
+          "A": "$\\frac {2}{9}$",
+          "B": "$\\frac {1}{4}$",
+          "C": "$\\frac {5}{18}$",
+          "D": "$\\frac {7}{24}$",
+          "E": "$\\frac {3}{10}$ ($"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 5,
+        "problem": "A class collects $50$ dollars to buy flowers for a classmate who is in the hospital. Roses cost $3$ dollars each, and carnations cost $2$ dollars each. No other flowers are to be used. How many different bouquets could be purchased for exactly $50$ dollars?",
+        "options": {
+          "A": "$1$",
+          "B": "$7$",
+          "C": "$9$",
+          "D": "$16$",
+          "E": "$17$ ($"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 6,
+        "problem": "Postman Pete has a pedometer to count his steps. The pedometer records up to $99999$ steps, then flips over to $00000$ on the next step. Pete plans to determine his mileage for a year. On January $1$ Pete sets the pedometer to $00000$. During the year, the pedometer flips from $99999$ to $00000$ forty-four times. On December $31$ the pedometer reads $50000$. Pete takes $1800$ steps per mile. Which of the following is closest to the number of miles Pete walked during the year?",
+        "options": {
+          "A": "$2500$",
+          "B": "$3000$",
+          "C": "$3500$",
+          "D": "$4000$",
+          "E": "$4500$ ($"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 7,
+        "problem": "For real numbers $a$ and $b$, define $a$\\$$b = (a - b)^2$. What is $(x - y)^2$\\$$(y - x)^2$?",
+        "options": {
+          "A": "$0$",
+          "B": "$x^2 + y^2$",
+          "C": "$2x^2$",
+          "D": "$2y^2$",
+          "E": "$4xy$ ($"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 8,
+        "problem": "Points $B$ and $C$ lie on $\\overline{AD}$. The length of $\\overline{AB}$ is $4$ times the length of $\\overline{BD}$, and the length of $\\overline{AC}$ is $9$ times the length of $\\overline{CD}$. The length of $\\overline{BC}$ is what fraction of the length of $\\overline{AD}$?",
+        "options": {
+          "A": "$\\frac {1}{36}$",
+          "B": "$\\frac {1}{13}$",
+          "C": "$\\frac {1}{10}$",
+          "D": "$\\frac {5}{36}$",
+          "E": "$\\frac {1}{5}$ ($"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 9,
+        "problem": "Points $A$ and $B$ are on a circle of radius $5$ and $AB = 6$. Point $C$ is the midpoint of the minor arc $AB$. What is the length of the line segment $AC$?",
+        "options": {
+          "A": "$\\sqrt {10}$",
+          "B": "$\\frac {7}{2}$",
+          "C": "$\\sqrt {14}$",
+          "D": "$\\sqrt {15}$",
+          "E": "$4$ ($"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 10,
+        "problem": "Bricklayer Brenda would take $9$ hours to build a chimney alone, and bricklayer Brandon would take $10$ hours to build it alone. When they work together they talk a lot, and their combined output is decreased by $10$ bricks per hour. Working together, they build the chimney in $5$ hours. How many bricks are in the chimney?",
+        "options": {
+          "A": "$500$",
+          "B": "$900$",
+          "C": "$950$",
+          "D": "$1000$",
+          "E": "$1900$ ($"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 11,
+        "problem": "A cone-shaped mountain has its base on the ocean floor and has a height of 8000 feet. The top $\\frac{1}{8}$ of the volume of the mountain is above water. What is the depth of the ocean at the base of the mountain in feet?",
+        "options": {
+          "A": "$4000$",
+          "B": "$2000(4-\\sqrt{2})$",
+          "C": "$6000$",
+          "D": "$6400$",
+          "E": "$7000$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 12,
+        "problem": "For each positive integer $n$, the mean of the first $n$ terms of a sequence is $n$. What is the $2008$th term of the sequence?",
+        "options": {
+          "A": "$2008$",
+          "B": "$4015$",
+          "C": "$4016$",
+          "D": "$4030056$",
+          "E": "$4032064$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 13,
+        "problem": "Vertex $E$ of equilateral triangle $\\triangle ABE$ is in the interior of unit square $ABCD$. Let $R$ be the region consisting of all points inside $ABCD$ and outside $\\triangle ABE$ whose distance from $\\overline{AD}$ is between $\\frac{1}{3}$ and $\\frac{2}{3}$. What is the area of $R$?",
+        "options": {
+          "A": "$\\frac{12-5\\sqrt{3}}{72}$",
+          "B": "$\\frac{12-5\\sqrt{3}}{36}$",
+          "C": "$\\frac{\\sqrt{3}}{18}$",
+          "D": "$\\frac{3-\\sqrt{3}}{9}$",
+          "E": "$\\frac{\\sqrt{3}}{12}$ ($"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 14,
+        "problem": "A circle has a radius of $\\log_{10}{(a^2)}$ and a circumference of $\\log_{10}{(b^4)}$. What is $\\log_{a}{b}$?",
+        "options": {
+          "A": "$\\frac{1}{4\\pi}$",
+          "B": "$\\frac{1}{\\pi}$",
+          "C": "$\\pi$",
+          "D": "$2\\pi$",
+          "E": "$10^{2\\pi}$ ($"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 15,
+        "problem": "On each side of a unit square, an equilateral triangle of side length 1 is constructed. On each new side of each equilateral triangle, another equilateral triangle of side length 1 is constructed. The interiors of the square and the 12 triangles have no points in common. Let $R$ be the region formed by the union of the square and all the triangles, and $S$ be the smallest convex polygon that contains $R$. What is the area of the region that is inside $S$ but outside $R$?",
+        "options": {
+          "A": "$; \\frac {1}{4}$",
+          "B": "$; \\frac {\\sqrt {2}}{4}$",
+          "C": "$; 1$",
+          "D": "$; \\sqrt {3}$",
+          "E": "$; 2 \\sqrt {3}$ ($"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 16,
+        "problem": "A rectangular floor measures $a$ by $b$ feet, where $a$ and $b$ are positive integers with $b > a$. An artist paints a rectangle on the floor with the sides of the rectangle parallel to the sides of the floor. The unpainted part of the floor forms a border of width $1$ foot around the painted rectangle and occupies half of the area of the entire floor. How many possibilities are there for the ordered pair $(a,b)$?",
+        "options": {
+          "A": "$1$",
+          "B": "$2$",
+          "C": "$3$",
+          "D": "$4$",
+          "E": "$5$ ($"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 17,
+        "problem": "Let $A$, $B$ and $C$ be three distinct points on the graph of $y=x^2$ such that line $AB$ is parallel to the $x$-axis and $\\triangle ABC$ is a right triangle with area $2008$. What is the sum of the digits of the $y$-coordinate of $C$?",
+        "options": {
+          "A": "$16$",
+          "B": "$17$",
+          "C": "$18$",
+          "D": "$19$",
+          "E": "$20$ ($"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 18,
+        "problem": "A pyramid has a square base $ABCD$ and vertex $E$. The area of square $ABCD$ is $196$, and the areas of $\\triangle ABE$ and $\\triangle CDE$ are $105$ and $91$, respectively. What is the volume of the pyramid?",
+        "options": {
+          "A": "$392$",
+          "B": "$196\\sqrt {6}$",
+          "C": "$392\\sqrt {2}$",
+          "D": "$392\\sqrt {3}$",
+          "E": "$784$ ($"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 19,
+        "problem": "A function $f$ is defined by $f(z) = (4 + i) z^2 + \\alpha z + \\gamma$ for all complex numbers $z$, where $\\alpha$ and $\\gamma$ are complex numbers and $i^2 = - 1$. Suppose that $f(1)$ and $f(i)$ are both real. What is the smallest possible value of $| \\alpha | + |\\gamma |$?",
+        "options": {
+          "A": "$; 1$",
+          "B": "$; \\sqrt {2}$",
+          "C": "$; 2$",
+          "D": "$; 2 \\sqrt {2}$",
+          "E": "$; 4 \\qquad$ ($"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 20,
+        "problem": "Michael walks at the rate of $5$ feet per second on a long straight path. Trash pails are located every $200$ feet along the path. A garbage truck travels at $10$ feet per second in the same direction as Michael and stops for $30$ seconds at each pail. As Michael passes a pail, he notices the truck ahead of him just leaving the next pail. How many times will Michael and the truck meet?",
+        "options": {
+          "A": "$4$",
+          "B": "$5$",
+          "C": "$6$",
+          "D": "$7$",
+          "E": "$8$ ($"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 21,
+        "problem": "Two circles of radius 1 are to be constructed as follows. The center of circle $A$ is chosen uniformly and at random from the line segment joining $(0,0)$ and $(2,0)$. The center of circle $B$ is chosen uniformly and at random, and independently of the first choice, from the line segment joining $(0,1)$ to $(2,1)$. What is the probability that circles $A$ and $B$ intersect?",
+        "options": {
+          "A": "$; \\frac {2 + \\sqrt {2}}{4}$",
+          "B": "$; \\frac {3\\sqrt {3} + 2}{8}$",
+          "C": "$; \\frac {2 \\sqrt {2} - 1}{2}$",
+          "D": "$; \\frac {2 + \\sqrt {3}}{4}$",
+          "E": "$; \\frac {4 \\sqrt {3} - 3}{4}$ ($"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 22,
+        "problem": "A parking lot has 16 spaces in a row. Twelve cars arrive, each of which requires one parking space, and their drivers chose spaces at random from among the available spaces. Auntie Em then arrives in her SUV, which requires 2 adjacent spaces. What is the probability that she is able to park?",
+        "options": {
+          "A": "$; \\frac {11}{20}$",
+          "B": "$; \\frac {4}{7}$",
+          "C": "$; \\frac {81}{140}$",
+          "D": "$; \\frac {3}{5}$",
+          "E": "$; \\frac {17}{28}$ ($"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 23,
+        "problem": "The sum of the base-$10$ logarithms of the divisors of $10^n$ is $792$. What is $n$?",
+        "options": {
+          "A": "$11$",
+          "B": "$12$",
+          "C": "$13$",
+          "D": "$14$",
+          "E": "$15$ ($"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 24,
+        "problem": "Let $A_0 = (0,0)$. Distinct points $A_1,A_2,\\ldots$ lie on the $x$-axis, and distinct points $B_1,B_2,\\ldots$ lie on the graph of $y = \\sqrt {x}$. For every positive integer $n$, $A_{n - 1}B_nA_n$ is an equilateral triangle. What is the least $n$ for which the length $A_0A_n\\ge100$?",
+        "options": {
+          "A": "$13$",
+          "B": "$15$",
+          "C": "$17$",
+          "D": "$19$",
+          "E": "$21$ ($"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 25,
+        "problem": "Let $ABCD$ be a trapezoid with $AB||CD$, $AB = 11$, $BC = 5$, $CD = 19$, and $DA = 7$. Bisectors of $\\angle A$ and $\\angle D$ meet at $P$, and bisectors of $\\angle B$ and $\\angle C$ meet at $Q$. What is the area of hexagon $ABQCDP$?",
+        "options": {
+          "A": "$28\\sqrt {3}$",
+          "B": "$30\\sqrt {3}$",
+          "C": "$32\\sqrt {3}$",
+          "D": "$35\\sqrt {3}$",
+          "E": "$36\\sqrt {3}$ ($"
+        },
+        "answer": "B"
+      }
+    ]
+  }
+}

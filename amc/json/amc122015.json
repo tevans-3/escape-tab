@@ -1,0 +1,610 @@
+{
+  "year": 2015,
+  "contest": "AMC 12",
+  "variants": {
+    "A": [
+      {
+        "number": 1,
+        "problem": "What is the value of $(2^0-1+5^2-0)^{-1}\\times5?$",
+        "options": {
+          "A": "$-125$",
+          "B": "$-120$",
+          "C": "$\\frac{1}{5}$",
+          "D": "$\\frac{5}{24}$",
+          "E": "$25$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 2,
+        "problem": "Two of the three sides of a triangle are 20 and 15. Which of the following numbers is not a possible perimeter of the triangle?",
+        "options": {
+          "A": "$52$",
+          "B": "$57$",
+          "C": "$62$",
+          "D": "$67$",
+          "E": "$72$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 3,
+        "problem": "Mr. Patrick teaches math to 15 students. He was grading tests and found that when he graded everyone's test except Payton's, the average grade for the class was 80. After he graded Payton's test, the class average became 81. What was Payton's score on the test?",
+        "options": {
+          "A": "$81$",
+          "B": "$85$",
+          "C": "$91$",
+          "D": "$94$",
+          "E": "$95$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 4,
+        "problem": "The sum of two positive numbers is 5 times their difference. What is the ratio of the larger number to the smaller?",
+        "options": {
+          "A": "$\\frac54$",
+          "B": "$\\frac32$",
+          "C": "$\\frac95$",
+          "D": "$2$",
+          "E": "$\\frac52$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 5,
+        "problem": "Amelia needs to estimate the quantity $\\frac{a}{b} - c$, where $a, b,$ and $c$ are large positive integers. She rounds each of the integers so that the calculation will be easier to do mentally. In which of these situations will her answer necessarily be greater than the exact value of $\\frac{a}{b} - c$?",
+        "options": {
+          "A": "$\\text{She rounds all three numbers up.}\\\\$",
+          "B": "$\\text{She rounds } a \\text{ and } b \\text{ up, and she rounds } c \\text{ down.}\\\\$",
+          "C": "$\\text{She rounds } a \\text{ and } c \\text{ up, and she rounds } b \\text{ down.} \\\\$",
+          "D": "$\\text{She rounds } a \\text{ up, and she rounds } b \\text{ and } c \\text{ down.}\\\\$",
+          "E": "$\\text{She rounds } c \\text{ up, and she rounds } a \\text{ and } b \\text{ down.}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 6,
+        "problem": "Two years ago Pete was three times as old as his cousin Claire. Two years before that, Pete was four times as old as Claire. In how many years will the ratio of their ages be $2 : 1$?",
+        "options": {
+          "A": "$2$",
+          "B": "$4$",
+          "C": "$5$",
+          "D": "$6$",
+          "E": "$8$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 7,
+        "problem": "Two right circular cylinders have the same volume. The radius of the second cylinder is $10\\%$ more than the radius of the first. What is the relationship between the heights of the two cylinders?",
+        "options": {
+          "A": "$\\text{The second height is } 10\\% \\text{ less than the first.} \\\\$",
+          "B": "$\\text{The first height is } 10\\% \\text{ more than the second.} \\\\$",
+          "C": "$\\text{The second height is } 21\\% \\text{ less than the first.} \\\\$",
+          "D": "$\\text{The first height is } 21\\% \\text{ more than the second.} \\\\$",
+          "E": "$\\text{The second height is } 80\\% \\text{ of the first.}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 8,
+        "problem": "The ratio of the length to the width of a rectangle is $4$ : $3$. If the rectangle has diagonal of length $d$, then the area may be expressed as $kd^2$ for some constant $k$. What is $k$?",
+        "options": {
+          "A": "$\\frac27$",
+          "B": "$\\frac37$",
+          "C": "$\\frac{12}{25}$",
+          "D": "$\\frac{16}{25}$",
+          "E": "$\\frac34$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 9,
+        "problem": "A box contains 2 red marbles, 2 green marbles, and 2 yellow marbles. Carol takes 2 marbles from the box at random; then Claudia takes 2 of the remaining marbles at random; and then Cheryl takes the last 2 marbles. What is the probability that Cheryl gets 2 marbles of the same color?",
+        "options": {
+          "A": "$\\frac{1}{10}$",
+          "B": "$\\frac16$",
+          "C": "$\\frac15$",
+          "D": "$\\frac13$",
+          "E": "$\\frac12$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 10,
+        "problem": "Integers $x$ and $y$ with $x>y>0$ satisfy $x+y+xy=80$. What is $x$?",
+        "options": {
+          "A": "$8$",
+          "B": "$10$",
+          "C": "$15$",
+          "D": "$18$",
+          "E": "$26$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 11,
+        "problem": "On a sheet of paper, Isabella draws a circle of radius $2$, a circle of radius $3$, and all possible lines simultaneously tangent to both circles. Isabella notices that she has drawn exactly $k \\ge 0$ lines. How many different values of $k$ are possible?",
+        "options": {
+          "A": "$2$",
+          "B": "$3$",
+          "C": "$4$",
+          "D": "$5$",
+          "E": "$6$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 12,
+        "problem": "The parabolas $y=ax^2 - 2$ and $y=4 - bx^2$ intersect the coordinate axes in exactly four points, and these four points are the vertices of a kite of area $12$. What is $a+b$?",
+        "options": {
+          "A": "$1$",
+          "B": "$1.5$",
+          "C": "$2$",
+          "D": "$2.5$",
+          "E": "$3$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 13,
+        "problem": "A league with 12 teams holds a round-robin tournament, with each team playing every other team exactly once. Games either end with one team victorious or else end in a draw. A team scores 2 points for every game it wins and 1 point for every game it draws. Which of the following is NOT a true statement about the list of 12 scores?",
+        "options": {
+          "A": "$\\text{There must be an even number of odd scores.}\\\\$",
+          "B": "$\\text{There must be an even number of even scores.}\\\\$",
+          "C": "$\\text{There cannot be two scores of }0\\text{.}\\\\$",
+          "D": "$\\text{The sum of the scores must be at least }100\\text{.}\\\\$",
+          "E": "$\\text{The highest score must be at least }12\\text{.}$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 14,
+        "problem": "What is the value of $a$ for which $\\frac{1}{\\log_2 a} + \\frac{1}{\\log_3 a} + \\frac{1}{\\log_4 a} = 1$?",
+        "options": {
+          "A": "$9$",
+          "B": "$12$",
+          "C": "$18$",
+          "D": "$24$",
+          "E": "$36$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 15,
+        "problem": "What is the minimum number of digits to the right of the decimal point needed to express the fraction $\\frac{123456789}{2^{26}\\cdot 5^4}$ as a decimal?",
+        "options": {
+          "A": "$4$",
+          "B": "$22$",
+          "C": "$26$",
+          "D": "$30$",
+          "E": "$104$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 16,
+        "problem": "Tetrahedron $ABCD$ has $AB=5,AC=3,BC=4,BD=4,AD=3,$ and $CD=\\frac{12}{5}\\sqrt{2}$. What is the volume of the tetrahedron?",
+        "options": {
+          "A": "$3\\sqrt{2}$",
+          "B": "$2\\sqrt{5}$",
+          "C": "$\\frac{24}{5}$",
+          "D": "$3\\sqrt{3}$",
+          "E": "$\\frac{24}{5}\\sqrt{2}$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 17,
+        "problem": "Eight people are sitting around a circular table, each holding a fair coin. All eight people flip their coins and those who flip heads stand while those who flip tails remain seated. What is the probability that no two adjacent people will stand?",
+        "options": {
+          "A": "$\\frac{47}{256}$",
+          "B": "$\\frac{3}{16}$",
+          "C": "$\\frac{49}{256}$",
+          "D": "$\\frac{25}{128}$",
+          "E": "$\\frac{51}{256}$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 18,
+        "problem": "The zeros of the function $f(x) = x^2-ax+2a$ are integers. What is the sum of the possible values of $a$?",
+        "options": {
+          "A": "$7$",
+          "B": "$8$",
+          "C": "$16$",
+          "D": "$17$",
+          "E": "$18$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 19,
+        "problem": "For some positive integers $p$, there is a quadrilateral $ABCD$ with positive integer side lengths, perimeter $p$, right angles at $B$ and $C$, $AB=2$, and $CD=AD$. How many different values of $p<2015$ are possible?",
+        "options": {
+          "A": "$30$",
+          "B": "$31$",
+          "C": "$61$",
+          "D": "$62$",
+          "E": "$63$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 20,
+        "problem": "Isosceles triangles $T$ and $T&#39;$ are not congruent but have the same area and the same perimeter. The sides of $T$ have lengths of $5,5,$ and $8$, while those of $T&#39;$ have lengths of $a,a,$ and $b$. Which of the following numbers is closest to $b$?",
+        "options": {
+          "A": "$3$",
+          "B": "$4$",
+          "C": "$5$",
+          "D": "$6$",
+          "E": "$8$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 21,
+        "problem": "A circle of radius $r$ passes through both foci of, and exactly four points on, the ellipse with equation $x^2+16y^2=16$. The set of all possible values of $r$ is an interval $[a,b)$. What is $a+b$?",
+        "options": {
+          "A": "$5\\sqrt{2}+4$",
+          "B": "$\\sqrt{17}+7$",
+          "C": "$6\\sqrt{2}+3$",
+          "D": "$\\sqrt{15}+8$",
+          "E": "$12$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 22,
+        "problem": "For each positive integer $n$, let $S(n)$ be the number of sequences of length $n$ consisting solely of the letters $A$ and $B$, with no more than three $A$s in a row and no more than three $B$s in a row. What is the remainder when $S(2015)$ is divided by 12?",
+        "options": {
+          "A": "$0$",
+          "B": "$4$",
+          "C": "$6$",
+          "D": "$8$",
+          "E": "$10$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 23,
+        "problem": "Let $S$ be a square of side length 1. Two points are chosen independently at random on the sides of $S$. The probability that the straight-line distance between the points is at least $\\frac12$ is $\\frac{a-b\\pi}{c}$, where $a,b,$ and $c$ are positive integers and $\\text{gcd}(a,b,c) = 1$. What is $a+b+c$?",
+        "options": {
+          "A": "$59$",
+          "B": "$60$",
+          "C": "$61$",
+          "D": "$62$",
+          "E": "$63$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 24,
+        "problem": "Rational numbers $a$ and $b$ are chosen at random among all rational numbers in the interval $[0,2)$ that can be written as fractions $\\frac{n}{d}$ where $n$ and $d$ are integers with $1 \\le d \\le 5$. What is the probability that [IMG:AMC12_2015_A_24.png] is a real number?",
+        "options": {
+          "A": "$\\frac{3}{50}$",
+          "B": "$\\frac{4}{25}$",
+          "C": "$\\frac{41}{200}$",
+          "D": "$\\frac{6}{25}$",
+          "E": "$\\frac{13}{50}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 25,
+        "problem": "A collection of circles in the upper half-plane, all tangent to the $x$-axis, is constructed in layers as follows. Layer $L_0$ consists of two circles of radii $70^2$ and $73^2$ that are externally tangent. For $k\\ge1$, the circles in $\\bigcup_{j=0}^{k-1}L_j$ are ordered according to their points of tangency with the $x$-axis. For every pair of consecutive circles in this order, a new circle is constructed externally tangent to each of the two circles in the pair. Layer $L_k$ consists of the $2^{k-1}$ circles constructed in this way. Let $S=\\bigcup_{j=0}^{6}L_j$, and for every circle $C$ denote by $r(C)$ its radius. What is [IMG:AMC12_2015_A_25_0.png] [IMG:AMC12_2015_A_25_1.png] [IMG:AMC12_2015_A_25_0.png] [IMG:AMC12_2015_A_25_1.png]",
+        "options": {
+          "A": "$\\frac{286}{35}$",
+          "B": "$\\frac{583}{70}$",
+          "C": "$\\frac{715}{73}$",
+          "D": "$\\frac{143}{14}$",
+          "E": "$\\frac{1573}{146}$"
+        },
+        "answer": "D"
+      }
+    ],
+    "B": [
+      {
+        "number": 1,
+        "problem": "What is the value of $2-(-2)^{-2}$ ?",
+        "options": {
+          "A": "$; -2$",
+          "B": "$; \\dfrac{1}{16}$",
+          "C": "$; \\dfrac{7}{4}$",
+          "D": "$; \\dfrac{9}{4}$",
+          "E": "$; 6$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 2,
+        "problem": "Marie does three equally time-consuming tasks in a row without taking breaks. She begins the first task at 1:00 PM and finishes the second task at 2:40 PM. When does she finish the third task?",
+        "options": {
+          "A": "$; \\text{3:10 PM}$",
+          "B": "$; \\text{3:30 PM}$",
+          "C": "$; \\text{4:00 PM}$",
+          "D": "$; \\text{4:10 PM}$",
+          "E": "$; \\text{4:30 PM}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 3,
+        "problem": "Isaac has written down one integer two times and another integer three times. The sum of the five numbers is 100, and one of the numbers is 28. What is the other number?",
+        "options": {
+          "A": "$; 8$",
+          "B": "$; 11$",
+          "C": "$; 14$",
+          "D": "$; 15$",
+          "E": "$; 18$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 4,
+        "problem": "Lian, Marzuq, Rafsan, Arabi, Nabeel, and Rahul were in a 12-person race with 6 other people. Nabeel finished 6 places ahead of Marzuq. Arabi finished 1 place behind Rafsan. Lian finished 2 places behind Marzuq. Rafsan finished 2 places behind Rahul. Rahul finished 1 place behind Nabeel. Arabi finished in 6th place. Who finished in 8th place?",
+        "options": {
+          "A": "$; \\text{Lian}$",
+          "B": "$; \\text{Marzuq}$",
+          "C": "$; \\text{Rafsan}$",
+          "D": "$; \\text{Nabeel}$",
+          "E": "$; \\text{Rahul}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 5,
+        "problem": "The Tigers beat the Sharks 2 out of the 3 times they played. They then played $N$ more times, and the Sharks ended up winning at least 95% of all the games played. What is the minimum possible value for $N$?",
+        "options": {
+          "A": "$; 35$",
+          "B": "$; 37$",
+          "C": "$; 39$",
+          "D": "$; 41$",
+          "E": "$; 43$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 6,
+        "problem": "Back in 1930, Tillie had to memorize her multiplication facts from $0 \\times 0$ to $12 \\times 12$. The multiplication table she was given had rows and columns labeled with the factors, and the products formed the body of the table. To the nearest hundredth, what fraction of the numbers in the body of the table are odd?",
+        "options": {
+          "A": "$; 0.21$",
+          "B": "$; 0.25$",
+          "C": "$; 0.46$",
+          "D": "$; 0.50$",
+          "E": "$; 0.75$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 7,
+        "problem": "A regular 15-gon has $L$ lines of symmetry, and the smallest positive angle for which it has rotational symmetry is $R$ degrees. What is $L+R$ ?",
+        "options": {
+          "A": "$; 24$",
+          "B": "$; 27$",
+          "C": "$; 32$",
+          "D": "$; 39$",
+          "E": "$; 54$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 8,
+        "problem": "What is the value of $(625^{\\log_5 2015})^{\\frac{1}{4}}$ ?",
+        "options": {
+          "A": "$; 5$",
+          "B": "$; \\sqrt[4]{2015}$",
+          "C": "$; 625$",
+          "D": "$; 2015$",
+          "E": "$; \\sqrt[4]{5^{2015}}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 9,
+        "problem": "Larry and Julius are playing a game, taking turns throwing a ball at a bottle sitting on a ledge. Larry throws first. The winner is the first person to knock the bottle off the ledge. At each turn the probability that a player knocks the bottle off the ledge is $\\tfrac{1}{2}$, independently of what has happened before. What is the probability that Larry wins the game?",
+        "options": {
+          "A": "$; \\dfrac{1}{2}$",
+          "B": "$; \\dfrac{3}{5}$",
+          "C": "$; \\dfrac{2}{3}$",
+          "D": "$; \\dfrac{3}{4}$",
+          "E": "$; \\dfrac{4}{5}$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 10,
+        "problem": "How many noncongruent integer-sided triangles with positive area and perimeter less than 15 are neither equilateral, isosceles, nor right triangles?",
+        "options": {
+          "A": "$; 3$",
+          "B": "$; 4$",
+          "C": "$; 5$",
+          "D": "$; 6$",
+          "E": "$; 7$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 11,
+        "problem": "The line $12x+5y=60$ forms a triangle with the coordinate axes. What is the sum of the lengths of the altitudes of this triangle?",
+        "options": {
+          "A": "$; 20$",
+          "B": "$; \\dfrac{360}{17}$",
+          "C": "$; \\dfrac{107}{5}$",
+          "D": "$; \\dfrac{43}{2}$",
+          "E": "$; \\dfrac{281}{13}$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 12,
+        "problem": "Let $a$, $b$, and $c$ be three distinct one-digit numbers. What is the maximum value of the sum of the roots of the equation $(x-a)(x-b)+(x-b)(x-c)=0$ ?",
+        "options": {
+          "A": "$; 15$",
+          "B": "$; 15.5$",
+          "C": "$; 16$",
+          "D": "$; 16.5$",
+          "E": "$; 17$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 13,
+        "problem": "Quadrilateral $ABCD$ is inscribed in a circle with $\\angle BAC=70^{\\circ}, \\angle ADB=40^{\\circ}, AD=4,$ and $BC=6$. What is $AC$?",
+        "options": {
+          "A": "$; 3+\\sqrt{5}$",
+          "B": "$; 6$",
+          "C": "$; \\dfrac{9}{2}\\sqrt{2}$",
+          "D": "$; 8-\\sqrt{2}$",
+          "E": "$; 7$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 14,
+        "problem": "A circle of radius 2 is centered at $A$. An equilateral triangle with side 4 has a vertex at $A$. What is the difference between the area of the region that lies inside the circle but outside the triangle and the area of the region that lies inside the triangle but outside the circle?",
+        "options": {
+          "A": "$; 8-\\pi$",
+          "B": "$; \\pi+2$",
+          "C": "$; 2\\pi-\\dfrac{\\sqrt{2}}{2}$",
+          "D": "$; 4(\\pi-\\sqrt{3})$",
+          "E": "$; 2\\pi-\\dfrac{\\sqrt{3}}{2}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 15,
+        "problem": "At Rachelle's school an A counts 4 points, a B 3 points, a C 2 points, and a D 1 point. Her GPA on the four classes she is taking is computed as the total sum of points divided by 4. She is certain that she will get As in both Mathematics and Science, and at least a C in each of English and History. She thinks she has a $\\tfrac{1}{6}$ chance of getting an A in English, and a $\\tfrac{1}{4}$ chance of getting a B. In History, she has a $\\tfrac{1}{4}$ chance of getting an A, and a $\\tfrac{1}{3}$ chance of getting a B, independently of what she gets in English. What is the probability that Rachelle will get a GPA of at least 3.5?",
+        "options": {
+          "A": "$; \\frac{11}{72}$",
+          "B": "$; \\frac{1}{6}$",
+          "C": "$; \\frac{3}{16}$",
+          "D": "$; \\frac{11}{24}$",
+          "E": "$; \\frac{1}{2}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 16,
+        "problem": "A regular hexagon with sides of length 6 has an isosceles triangle attached to each side. Each of these triangles has two sides of length 8. The isosceles triangles are folded to make a pyramid with the hexagon as the base of the pyramid. What is the volume of the pyramid?",
+        "options": {
+          "A": "$; 18$",
+          "B": "$; 162$",
+          "C": "$; 36\\sqrt{21}$",
+          "D": "$; 18\\sqrt{138}$",
+          "E": "$; 54\\sqrt{21}$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 17,
+        "problem": "An unfair coin lands on heads with a probability of $\\tfrac{1}{4}$. When tossed $n$ times, the probability of exactly two heads is the same as the probability of exactly three heads. What is the value of $n$ ?",
+        "options": {
+          "A": "$; 5$",
+          "B": "$; 8$",
+          "C": "$; 10$",
+          "D": "$; 11$",
+          "E": "$; 13$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 18,
+        "problem": "For every composite positive integer $n$, define $r(n)$ to be the sum of the factors in the prime factorization of $n$. For example, $r(50) = 12$ because the prime factorization of $50$ is $2 \\times 5^{2}$, and $2 + 5 + 5 = 12$. What is the range of the function $r$, $\\{r(n): n \\text{ is a composite positive integer}\\}$ ?",
+        "options": {
+          "A": "$; \\text{the set of positive integers} \\\\$",
+          "B": "$; \\text{the set of composite positive integers} \\\\$",
+          "C": "$; \\text{the set of even positive integers} \\\\$",
+          "D": "$; \\text{the set of integers greater than 3} \\\\$",
+          "E": "$; \\text{the set of integers greater than 4}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 19,
+        "problem": "In $\\triangle ABC$, $\\angle C = 90^\\circ$ and $AB = 12$. Squares $ABXY$ and $CBWZ$ are constructed outside of the triangle. The points $X$, $Y$, $Z$, and $W$ lie on a circle. What is the perimeter of the triangle?",
+        "options": {
+          "A": "$; 12+9\\sqrt{3}$",
+          "B": "$; 18+6\\sqrt{3}$",
+          "C": "$; 12+12\\sqrt{2}$",
+          "D": "$; 30$",
+          "E": "$; 32$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 20,
+        "problem": "For every positive integer $n$, let $\\text{mod}_5 (n)$ be the remainder obtained when $n$ is divided by 5. Define a function $f: \\{0,1,2,3,\\dots\\} \\times \\{0,1,2,3,4\\} \\to \\{0,1,2,3,4\\}$ recursively as follows: [IMG:AMC12_2015_B_20.png] What is $f(2015,2)$?",
+        "options": {
+          "A": "$; 0$",
+          "B": "$; 1$",
+          "C": "$; 2$",
+          "D": "$; 3$",
+          "E": "$; 4$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 21,
+        "problem": "Cozy the Cat and Dash the Dog are going up a staircase with a certain number of steps. However, instead of walking up the steps one at a time, both Cozy and Dash jump. Cozy goes two steps up with each jump (though if necessary, he will just jump the last step). Dash goes five steps up with each jump (though if necessary, he will just jump the last steps if there are fewer than 5 steps left). Suppose that Dash takes 19 fewer jumps than Cozy to reach the top of the staircase. Let $s$ denote the sum of all possible numbers of steps this staircase can have. What is the sum of the digits of $s$?",
+        "options": {
+          "A": "$; 9$",
+          "B": "$; 11$",
+          "C": "$; 12$",
+          "D": "$; 13$",
+          "E": "$; 15$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 22,
+        "problem": "Six chairs are evenly spaced around a circular table. One person is seated in each chair. Each person gets up and sits down in a chair that is not the same chair and is not adjacent to the chair he or she originally occupied, so that again one person is seated in each chair. In how many ways can this be done?",
+        "options": {
+          "A": "$; 14$",
+          "B": "$; 16$",
+          "C": "$; 18$",
+          "D": "$; 20$",
+          "E": "$; 24$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 23,
+        "problem": "A rectangular box measures $a \\times b \\times c$, where $a$, $b$, and $c$ are integers and $1\\leq a \\leq b \\leq c$. The volume and the surface area of the box are numerically equal. How many ordered triples $(a,b,c)$ are possible?",
+        "options": {
+          "A": "$; 4$",
+          "B": "$; 10$",
+          "C": "$; 12$",
+          "D": "$; 21$",
+          "E": "$; 26$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 24,
+        "problem": "Four circles, no two of which are congruent, have centers at $A$, $B$, $C$, and $D$, and points $P$ and $Q$ lie on all four circles. The radius of circle $A$ is $\\tfrac{5}{8}$ times the radius of circle $B$, and the radius of circle $C$ is $\\tfrac{5}{8}$ times the radius of circle $D$. Furthermore, $AB = CD = 39$ and $PQ = 48$. Let $R$ be the midpoint of $\\overline{PQ}$. What is $AR+BR+CR+DR$ ?",
+        "options": {
+          "A": "$; 180$",
+          "B": "$; 184$",
+          "C": "$; 188$",
+          "D": "$; 192$",
+          "E": "$; 196$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 25,
+        "problem": "A bee starts flying from point $P_0$. She flies $1$ inch due east to point $P_1$. For $j \\ge 1$, once the bee reaches point $P_j$, she turns $30^{\\circ}$ counterclockwise and then flies $j+1$ inches straight to point $P_{j+1}$. When the bee reaches $P_{2015}$ she is exactly $a \\sqrt{b} + c \\sqrt{d}$ inches away from $P_0$, where $a$, $b$, $c$ and $d$ are positive integers and $b$ and $d$ are not divisible by the square of any prime. What is $a+b+c+d$ ?",
+        "options": {
+          "A": "$; 2016$",
+          "B": "$; 2024$",
+          "C": "$; 2032$",
+          "D": "$; 2040$",
+          "E": "$; 2048$"
+        },
+        "answer": "B"
+      }
+    ]
+  }
+}

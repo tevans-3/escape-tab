@@ -1,0 +1,610 @@
+{
+  "year": 2009,
+  "contest": "AMC 12",
+  "variants": {
+    "A": [
+      {
+        "number": 1,
+        "problem": "Kim's flight took off from Newark at 10:34 AM and landed in Miami at 1:18 PM. Both cities are in the same time zone. If her flight took $h$ hours and $m$ minutes, with $0 < m < 60$, what is $h + m$?",
+        "options": {
+          "A": "$46$",
+          "B": "$47$",
+          "C": "$50$",
+          "D": "$53$",
+          "E": "$54$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 2,
+        "problem": "Which of the following is equal to $1 + \\frac {1}{1 + \\frac {1}{1 + 1}}$?",
+        "options": {
+          "A": "$\\frac {5}{4}$",
+          "B": "$\\frac {3}{2}$",
+          "C": "$\\frac {5}{3}$",
+          "D": "$2$",
+          "E": "$3$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 3,
+        "problem": "What number is one third of the way from $\\frac14$ to $\\frac34$?",
+        "options": {
+          "A": "$\\frac {1}{3}$",
+          "B": "$\\frac {5}{12}$",
+          "C": "$\\frac {1}{2}$",
+          "D": "$\\frac {7}{12}$",
+          "E": "$\\frac {2}{3}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 4,
+        "problem": "Four coins are picked out of a piggy bank that contains a collection of pennies, nickels, dimes, and quarters. Which of the following could not be the total value of the four coins, in cents?",
+        "options": {
+          "A": "$15$",
+          "B": "$25$",
+          "C": "$35$",
+          "D": "$45$",
+          "E": "$55$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 5,
+        "problem": "One dimension of a cube is increased by $1$, another is decreased by $1$, and the third is left unchanged. The volume of the new rectangular solid is $5$ less than that of the cube. What was the volume of the cube?",
+        "options": {
+          "A": "$8$",
+          "B": "$27$",
+          "C": "$64$",
+          "D": "$125$",
+          "E": "$216$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 6,
+        "problem": "Suppose that $P = 2^m$ and $Q = 3^n$. Which of the following is equal to $12^{mn}$ for every pair of integers $(m,n)$?",
+        "options": {
+          "A": "$P^2Q$",
+          "B": "$P^nQ^m$",
+          "C": "$P^nQ^{2m}$",
+          "D": "$P^{2m}Q^n$",
+          "E": "$P^{2n}Q^m$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 7,
+        "problem": "The first three terms of an arithmetic sequence are $2x - 3$, $5x - 11$, and $3x + 1$ respectively. The $n$th term of the sequence is $2009$. What is $n$?",
+        "options": {
+          "A": "$255$",
+          "B": "$502$",
+          "C": "$1004$",
+          "D": "$1506$",
+          "E": "$8037$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 8,
+        "problem": "Four congruent rectangles are placed as shown. The area of the outer square is $4$ times that of the inner square. What is the ratio of the length of the longer side of each rectangle to the length of its shorter side? [IMG:AMC12_2009_A_8.png]",
+        "options": {
+          "A": "$3$",
+          "B": "$\\sqrt {10}$",
+          "C": "$2 + \\sqrt2$",
+          "D": "$2\\sqrt3$",
+          "E": "$4$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 9,
+        "problem": "Suppose that $f(x+3)=3x^2 + 7x + 4$ and $f(x)=ax^2 + bx + c$. What is $a+b+c$?",
+        "options": {
+          "A": "$-1$",
+          "B": "$0$",
+          "C": "$1$",
+          "D": "$2$",
+          "E": "$3$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 10,
+        "problem": "In quadrilateral $ABCD$, $AB = 5$, $BC = 17$, $CD = 5$, $DA = 9$, and $BD$ is an integer. What is $BD$? [IMG:AMC12_2009_A_10.png]",
+        "options": {
+          "A": "$11$",
+          "B": "$12$",
+          "C": "$13$",
+          "D": "$14$",
+          "E": "$15$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 11,
+        "problem": "The figures $F_1$, $F_2$, $F_3$, and $F_4$ shown are the first in a sequence of figures. For $n\\ge3$, $F_n$ is constructed from $F_{n - 1}$ by surrounding it with a square and placing one more diamond on each side of the new square than $F_{n - 1}$ had on each side of its outside square. For example, figure $F_3$ has $13$ diamonds. How many diamonds are there in figure $F_{20}$? [IMG:AMC12_2009_A_11.png]",
+        "options": {
+          "A": "$401$",
+          "B": "$485$",
+          "C": "$585$",
+          "D": "$626$",
+          "E": "$761$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 12,
+        "problem": "How many positive integers less than $1000$ are $6$ times the sum of their digits?",
+        "options": {
+          "A": "$0$",
+          "B": "$1$",
+          "C": "$2$",
+          "D": "$4$",
+          "E": "$12$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 13,
+        "problem": "A ship sails $10$ miles in a straight line from $A$ to $B$, turns through an angle between $45^{\\circ}$ and $60^{\\circ}$, and then sails another $20$ miles to $C$. Let $AC$ be measured in miles. Which of the following intervals contains $AC^2$? [IMG:AMC12_2009_A_13.png]",
+        "options": {
+          "A": "$[400,500]$",
+          "B": "$[500,600]$",
+          "C": "$[600,700]$",
+          "D": "$[700,800]$",
+          "E": "$[800,900]$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 14,
+        "problem": "A triangle has vertices $(0,0)$, $(1,1)$, and $(6m,0)$, and the line $y = mx$ divides the triangle into two triangles of equal area. What is the sum of all possible values of $m$?",
+        "options": {
+          "A": "$- \\!\\frac {1}{3}$",
+          "B": "$- \\!\\frac {1}{6}$",
+          "C": "$\\frac {1}{6}$",
+          "D": "$\\frac {1}{3}$",
+          "E": "$\\frac {1}{2}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 15,
+        "problem": "For what value of $n$ is $i + 2i^2 + 3i^3 + \\cdots + ni^n = 48 + 49i$? Note: here $i = \\sqrt { - 1}$.",
+        "options": {
+          "A": "$24$",
+          "B": "$48$",
+          "C": "$49$",
+          "D": "$97$",
+          "E": "$98$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 16,
+        "problem": "A circle with center $C$ is tangent to the positive $x$ and $y$-axes and externally tangent to the circle centered at $(3,0)$ with radius $1$. What is the sum of all possible radii of the circle with center $C$?",
+        "options": {
+          "A": "$3$",
+          "B": "$4$",
+          "C": "$6$",
+          "D": "$8$",
+          "E": "$9$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 17,
+        "problem": "Let $a + ar_1 + ar_1^2 + ar_1^3 + \\cdots$ and $a + ar_2 + ar_2^2 + ar_2^3 + \\cdots$ be two different infinite geometric series of positive numbers with the same first term. The sum of the first series is $r_1$, and the sum of the second series is $r_2$. What is $r_1 + r_2$?",
+        "options": {
+          "A": "$0$",
+          "B": "$\\frac {1}{2}$",
+          "C": "$1$",
+          "D": "$\\frac {1 + \\sqrt {5}}{2}$",
+          "E": "$2$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 18,
+        "problem": "For $k > 0$, let $I_k = 10\\ldots 064$, where there are $k$ zeros between the $1$ and the $6$. Let $N(k)$ be the number of factors of $2$ in the prime factorization of $I_k$. What is the maximum value of $N(k)$?",
+        "options": {
+          "A": "$6$",
+          "B": "$7$",
+          "C": "$8$",
+          "D": "$9$",
+          "E": "$10$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 19,
+        "problem": "Andrea inscribed a circle inside a regular pentagon, circumscribed a circle around the pentagon, and calculated the area of the region between the two circles. Bethany did the same with a regular heptagon (7 sides). The areas of the two regions were $A$ and $B$, respectively. Each polygon had a side length of $2$. Which of the following is true?",
+        "options": {
+          "A": "$A = \\frac {25}{49}B$",
+          "B": "$A = \\frac {5}{7}B$",
+          "C": "$A = B$",
+          "D": "$A$ $= \\frac {7}{5}B$",
+          "E": "$A = \\frac {49}{25}B$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 20,
+        "problem": "Convex quadrilateral $ABCD$ has $AB = 9$ and $CD = 12$. Diagonals $AC$ and $BD$ intersect at $E$, $AC = 14$, and $\\triangle AED$ and $\\triangle BEC$ have equal areas. What is $AE$?",
+        "options": {
+          "A": "$\\frac {9}{2}$",
+          "B": "$\\frac {50}{11}$",
+          "C": "$\\frac {21}{4}$",
+          "D": "$\\frac {17}{3}$",
+          "E": "$6$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 21,
+        "problem": "Let $p(x) = x^3 + ax^2 + bx + c$, where $a$, $b$, and $c$ are complex numbers. Suppose that $p(2009 + 9002\\pi i) = p(2009) = p(9002) = 0$ What is the number of nonreal zeros of $x^{12} + ax^8 + bx^4 + c$?",
+        "options": {
+          "A": "$4$",
+          "B": "$6$",
+          "C": "$8$",
+          "D": "$10$",
+          "E": "$12$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 22,
+        "problem": "A regular octahedron has side length $1$. A plane parallel to two of its opposite faces cuts the octahedron into the two congruent solids. The polygon formed by the intersection of the plane and the octahedron has area $\\frac {a\\sqrt {b}}{c}$, where $a$, $b$, and $c$ are positive integers, $a$ and $c$ are relatively prime, and $b$ is not divisible by the square of any prime. What is $a + b + c$?",
+        "options": {
+          "A": "$10$",
+          "B": "$11$",
+          "C": "$12$",
+          "D": "$13$",
+          "E": "$14$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 23,
+        "problem": "Functions $f$ and $g$ are quadratic, $g(x) = - f(100 - x)$, and the graph of $g$ contains the vertex of the graph of $f$. The four $x$-intercepts on the two graphs have $x$-coordinates $x_1$, $x_2$, $x_3$, and $x_4$, in increasing order, and $x_3 - x_2 = 150$. Then $x_4 - x_1 = m + n\\sqrt p$, where $m$, $n$, and $p$ are positive integers, and $p$ is not divisible by the square of any prime. What is $m + n + p$?",
+        "options": {
+          "A": "$602$",
+          "B": "$652$",
+          "C": "$702$",
+          "D": "$752$",
+          "E": "$802$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 24,
+        "problem": "The tower function of twos is defined recursively as follows: $T(1) = 2$ and $T(n + 1) = 2^{T(n)}$ for $n\\ge1$. Let $A = (T(2009))^{T(2009)}$ and $B = (T(2009))^A$. What is the largest integer $k$ such that [IMG:AMC12_2009_A_24.png] is defined?",
+        "options": {
+          "A": "$2009$",
+          "B": "$2010$",
+          "C": "$2011$",
+          "D": "$2012$",
+          "E": "$2013$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 25,
+        "problem": "The first two terms of a sequence are $a_1 = 1$ and $a_2 = \\frac {1}{\\sqrt3}$. For $n\\ge1$, [IMG:AMC12_2009_A_25.png] What is $|a_{2009}|$?",
+        "options": {
+          "A": "$0$",
+          "B": "$2 - \\sqrt3$",
+          "C": "$\\frac {1}{\\sqrt3}$",
+          "D": "$1$",
+          "E": "$2 + \\sqrt3$"
+        },
+        "answer": "A"
+      }
+    ],
+    "B": [
+      {
+        "number": 1,
+        "problem": "Each morning of her five-day workweek, Jane bought either a $50$-cent muffin or a $75$-cent bagel. Her total cost for the week was a whole number of dollars. How many bagels did she buy?",
+        "options": {
+          "A": "$1$",
+          "B": "$2$",
+          "C": "$3$",
+          "D": "$4$",
+          "E": "$5$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 2,
+        "problem": "Paula the painter had just enough paint for $30$ identically sized rooms. Unfortunately, on the way to work, three cans of paint fell off her truck, so she had only enough paint for $25$ rooms. How many cans of paint did she use for the $25$ rooms?",
+        "options": {
+          "A": "$10$",
+          "B": "$12$",
+          "C": "$15$",
+          "D": "$18$",
+          "E": "$25$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 3,
+        "problem": "Twenty percent less than $60$ is one-third more than what number?",
+        "options": {
+          "A": "$16$",
+          "B": "$30$",
+          "C": "$32$",
+          "D": "$36$",
+          "E": "$48$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 4,
+        "problem": "A rectangular yard contains two flower beds in the shape of congruent isosceles right triangles. The remainder of the yard has a trapezoidal shape, as shown. The parallel sides of the trapezoid have lengths $15$ and $25$ meters. What fraction of the yard is occupied by the flower beds? [IMG:AMC12_2009_B_4.png]",
+        "options": {
+          "A": "$\\frac18$",
+          "B": "$\\frac16$",
+          "C": "$\\frac15$",
+          "D": "$\\frac14$",
+          "E": "$\\frac13$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 5,
+        "problem": "Kiana has two older twin brothers. The product of their ages is $128$. What is the sum of their three ages?",
+        "options": {
+          "A": "$10$",
+          "B": "$12$",
+          "C": "$16$",
+          "D": "$18$",
+          "E": "$24$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 6,
+        "problem": "By inserting parentheses, it is possible to give the expression [IMG:AMC12_2009_B_6.png] several values. How many different values can be obtained?",
+        "options": {
+          "A": "$2$",
+          "B": "$3$",
+          "C": "$4$",
+          "D": "$5$",
+          "E": "$6$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 7,
+        "problem": "In a certain year the price of gasoline rose by $20\\%$ during January, fell by $20\\%$ during February, rose by $25\\%$ during March, and fell by $x\\%$ during April. The price of gasoline at the end of April was the same as it had been at the beginning of January. To the nearest integer, what is $x$?",
+        "options": {
+          "A": "$12$",
+          "B": "$17$",
+          "C": "$20$",
+          "D": "$25$",
+          "E": "$35$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 8,
+        "problem": "When a bucket is two-thirds full of water, the bucket and water weigh $a$ kilograms. When the bucket is one-half full of water the total weight is $b$ kilograms. In terms of $a$ and $b$, what is the total weight in kilograms when the bucket is full of water?",
+        "options": {
+          "A": "$\\frac23a + \\frac13b$",
+          "B": "$\\frac32a - \\frac12b$",
+          "C": "$\\frac32a + b$",
+          "D": "$\\frac32a + 2b$",
+          "E": "$3a - 2b$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 9,
+        "problem": "Triangle $ABC$ has vertices $A = (3,0)$, $B = (0,3)$, and $C$, where $C$ is on the line $x + y = 7$. What is the area of $\\triangle ABC$?",
+        "options": {
+          "A": "$6$",
+          "B": "$8$",
+          "C": "$10$",
+          "D": "$12$",
+          "E": "$14$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 10,
+        "problem": "A particular $12$-hour digital clock displays the hour and minute of a day. Unfortunately, whenever it is supposed to display a $1$, it mistakenly displays a $9$. For example, when it is 1:16 PM the clock incorrectly shows 9:96 PM. What fraction of the day will the clock show the correct time?",
+        "options": {
+          "A": "$\\frac12$",
+          "B": "$\\frac58$",
+          "C": "$\\frac34$",
+          "D": "$\\frac56$",
+          "E": "$\\frac {9}{10}$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 11,
+        "problem": "On Monday, Millie puts a quart of seeds, $25\\%$ of which are millet, into a bird feeder. On each successive day she adds another quart of the same mix of seeds without removing any seeds that are left. Each day the birds eat only $25\\%$ of the millet in the feeder, but they eat all of the other seeds. On which day, just after Millie has placed the seeds, will the birds find that more than half the seeds in the feeder are millet?",
+        "options": {
+          "A": "$\\text{Tuesday}$",
+          "B": "$\\text{Wednesday}$",
+          "C": "$\\text{Thursday}$",
+          "D": "$\\text{Friday}$",
+          "E": "$\\text{Saturday}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 12,
+        "problem": "The fifth and eighth terms of a geometric sequence of real numbers are $7!$ and $8!$ respectively. What is the first term?",
+        "options": {
+          "A": "$60$",
+          "B": "$75$",
+          "C": "$120$",
+          "D": "$225$",
+          "E": "$315$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 13,
+        "problem": "Triangle $ABC$ has $AB = 13$ and $AC = 15$, and the altitude to $\\overline{BC}$ has length $12$. What is the sum of the two possible values of $BC$?",
+        "options": {
+          "A": "$15$",
+          "B": "$16$",
+          "C": "$17$",
+          "D": "$18$",
+          "E": "$19$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 14,
+        "problem": "Five unit squares are arranged in the coordinate plane as shown, with the lower left corner at the origin. The slanted line, extending from $(c,0)$ to $(3,3)$, divides the entire region into two regions of equal area. What is $c$? [IMG:AMC12_2009_B_14.png]",
+        "options": {
+          "A": "$\\frac12$",
+          "B": "$\\frac35$",
+          "C": "$\\frac23$",
+          "D": "$\\frac34$",
+          "E": "$\\frac45$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 15,
+        "problem": "Assume $0 < r < 3$. Below are five equations for $x$. Which equation has the largest solution $x$?",
+        "options": {
+          "A": "$3(1 + r)^x = 7$",
+          "B": "$3(1 + r/10)^x = 7$",
+          "C": "$3(1 + 2r)^x = 7$",
+          "D": "$3(1 + \\sqrt {r})^x = 7$",
+          "E": "$3(1 + 1/r)^x = 7$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 16,
+        "problem": "Trapezoid $ABCD$ has $AD||BC$, $BD = 1$, $\\angle DBA = 23^{\\circ}$, and $\\angle BDC = 46^{\\circ}$. The ratio $BC: AD$ is $9: 5$. What is $CD$?",
+        "options": {
+          "A": "$\\frac {7}{9}$",
+          "B": "$\\frac {4}{5}$",
+          "C": "$\\frac {13}{15}$",
+          "D": "$\\frac {8}{9}$",
+          "E": "$\\frac {14}{15}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 17,
+        "problem": "Each face of a cube is given a single narrow stripe painted from the center of one edge to the center of its opposite edge. The choice of the edge pairing is made at random and independently for each face. What is the probability that there is a continuous stripe encircling the cube?",
+        "options": {
+          "A": "$\\frac {1}{8}$",
+          "B": "$\\frac {3}{16}$",
+          "C": "$\\frac {1}{4}$",
+          "D": "$\\frac {3}{8}$",
+          "E": "$\\frac {1}{2}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 18,
+        "problem": "Rachel and Robert run on a circular track. Rachel runs counterclockwise and completes a lap every $90$ seconds, and Robert runs clockwise and completes a lap every $80$ seconds. Both start from the start line at the same time. At some random time between $10$ minutes and $11$ minutes after they begin to run, a photographer standing inside the track takes a picture that shows one-fourth of the track, centered on the starting line. What is the probability that both Rachel and Robert are in the picture?",
+        "options": {
+          "A": "$\\frac {1}{16}$",
+          "B": "$\\frac18$",
+          "C": "$\\frac {3}{16}$",
+          "D": "$\\frac14$",
+          "E": "$\\frac {5}{16}$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 19,
+        "problem": "For each positive integer $n$, let $f(n) = n^4 - 360n^2 + 400$. What is the sum of all values of $f(n)$ that are prime numbers?",
+        "options": {
+          "A": "$794$",
+          "B": "$796$",
+          "C": "$798$",
+          "D": "$800$",
+          "E": "$802$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 20,
+        "problem": "A convex polyhedron $Q$ has vertices $V_1,V_2,\\ldots,V_n$, and $100$ edges. The polyhedron is cut by planes $P_1,P_2,\\ldots,P_n$ in such a way that plane $P_k$ cuts only those edges that meet at vertex $V_k$. In addition, no two planes intersect inside or on $Q$. The cuts produce $n$ pyramids and a new polyhedron $R$. How many edges does $R$ have?",
+        "options": {
+          "A": "$200$",
+          "B": "$2n$",
+          "C": "$300$",
+          "D": "$400$",
+          "E": "$4n$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 21,
+        "problem": "Ten women sit in $10$ seats in a line. All of the $10$ get up and then reseat themselves using all $10$ seats, each sitting in the seat she was in before or a seat next to the one she occupied before. In how many ways can the women be reseated?",
+        "options": {
+          "A": "$89$",
+          "B": "$90$",
+          "C": "$120$",
+          "D": "$2^{10}$",
+          "E": "$2^2 3^8$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 22,
+        "problem": "Parallelogram $ABCD$ has area $1,\\!000,\\!000$. Vertex $A$ is at $(0,0)$ and all other vertices are in the first quadrant. Vertices $B$ and $D$ are lattice points on the lines $y = x$ and $y = kx$ for some integer $k > 1$, respectively. How many such parallelograms are there?",
+        "options": {
+          "A": "$49$",
+          "B": "$720$",
+          "C": "$784$",
+          "D": "$2009$",
+          "E": "$2048$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 23,
+        "problem": "A region $S$ in the complex plane is defined by [IMG:AMC12_2009_B_23.png] A complex number $z = x + iy$ is chosen uniformly at random from $S$. What is the probability that $\\left(\\frac34 + \\frac34i\\right)z$ is also in $S$?",
+        "options": {
+          "A": "$\\frac12$",
+          "B": "$\\frac23$",
+          "C": "$\\frac34$",
+          "D": "$\\frac79$",
+          "E": "$\\frac78$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 24,
+        "problem": "For how many values of $x$ in $[0,\\pi]$ is $\\sin^{ - 1}(\\sin 6x) = \\cos^{ - 1}(\\cos x)$? Note: The functions $\\sin^{ - 1} = \\arcsin$ and $\\cos^{ - 1} = \\arccos$ denote inverse trigonometric functions.",
+        "options": {
+          "A": "$3$",
+          "B": "$4$",
+          "C": "$5$",
+          "D": "$6$",
+          "E": "$7$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 25,
+        "problem": "The set $G$ is defined by the points $(x,y)$ with integer coordinates, $3\\le|x|\\le7$, $3\\le|y|\\le7$. How many squares of side length at least $6$ have their four vertices in $G$? [IMG:AMC12_2009_B_25.png]",
+        "options": {
+          "A": "$125$",
+          "B": "$150$",
+          "C": "$175$",
+          "D": "$200$",
+          "E": "$225$"
+        },
+        "answer": "E"
+      }
+    ]
+  }
+}

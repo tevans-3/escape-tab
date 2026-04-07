@@ -1,0 +1,598 @@
+{
+  "year": 2007,
+  "contest": "AMC 10",
+  "variants": {
+    "A": [
+      {
+        "number": 1,
+        "problem": "One ticket to a show costs $\\$20$ at full price. Susan buys 4 tickets using a coupon that gives her a $25\\%$ discount. Pam buys 5 tickets using a coupon that gives her a $30\\%$ discount. How many more dollars does Pam pay than Susan?",
+        "options": {
+          "A": "$2$",
+          "B": "$5$",
+          "C": "$10$",
+          "D": "$15$",
+          "E": "$20$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 2,
+        "problem": "Define $a@b = ab - b^{2}$ and $a\\#b = a + b - ab^{2}$. What is $\\frac {6@2}{6\\#2}$?",
+        "options": {
+          "A": "$- \\frac {1}{2}$",
+          "B": "$- \\frac {1}{4}$",
+          "C": "$\\frac {1}{8}$",
+          "D": "$\\frac {1}{4}$",
+          "E": "$\\frac {1}{2}$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 3,
+        "problem": "An aquarium has a rectangular base that measures 100 cm by 40 cm and has a height of 50 cm. It is filled with water to a height of 40 cm. A brick with a rectangular base that measures 40 cm by 20 cm and a height of 10 cm is placed in the aquarium. By how many centimeters does the water rise?",
+        "options": {
+          "A": "$0.5$",
+          "B": "$1$",
+          "C": "$1.5$",
+          "D": "$2$",
+          "E": "$2.5$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 4,
+        "problem": "The larger of two consecutive odd integers is three times the smaller. What is their sum?",
+        "options": {
+          "A": "$4$",
+          "B": "$8$",
+          "C": "$12$",
+          "D": "$16$",
+          "E": "$20$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 5,
+        "problem": "A school store sells 7 pencils and 8 notebooks for $\\$4.15$. It also sells 5 pencils and 3 notebooks for $\\$1.77$. How much do 16 pencils and 10 notebooks cost?",
+        "options": {
+          "A": "$\\$1.76$",
+          "B": "$\\$5.84$",
+          "C": "$\\$6.00$",
+          "D": "$\\$6.16$",
+          "E": "$\\$6.32$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 6,
+        "problem": "At Euclid High School, the number of students taking the AMC 10 was $60$ in 2002, $66$ in 2003, $70$ in 2004, $76$ in 2005, $78$ in 2006, and is $85$ in 2007. Between what two consecutive years was there the largest percentage increase?",
+        "options": {
+          "A": "$2002\\ \\text{and}\\ 2003$",
+          "B": "$2003\\ \\text{and}\\ 2004$",
+          "C": "$2004\\ \\text{and}\\ 2005$",
+          "D": "$2005\\ \\text{and}\\ 2006$",
+          "E": "$2006\\ \\text{and}\\ 2007$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 8,
+        "problem": "Triangles $ABC$ and $ADC$ are isosceles with $AB=BC$ and $AD=DC$. Point $D$ is inside triangle $ABC$, angle $ABC$ measures 40 degrees, and angle $ADC$ measures 140 degrees. What is the degree measure of angle $BAD$?",
+        "options": {
+          "A": "$20$",
+          "B": "$30$",
+          "C": "$40$",
+          "D": "$50$",
+          "E": "$60$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 9,
+        "problem": "Real numbers $a$ and $b$ satisfy the equations $3^{a} = 81^{b + 2}$ and $125^{b} = 5^{a - 3}$. What is $ab$?",
+        "options": {
+          "A": "$-60$",
+          "B": "$-17$",
+          "C": "$9$",
+          "D": "$12$",
+          "E": "$60$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 10,
+        "problem": "The Dunbar family consists of a mother, a father, and some children. The average age of the members of the family is $20$, the father is $48$ years old, and the average age of the mother and children is $16$. How many children are in the family?",
+        "options": {
+          "A": "$2$",
+          "B": "$3$",
+          "C": "$4$",
+          "D": "$5$",
+          "E": "$6$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 11,
+        "problem": "The numbers from $1$ to $8$ are placed at the vertices of a cube in such a manner that the sum of the four numbers on each face is the same. What is this common sum?",
+        "options": {
+          "A": "$14$",
+          "B": "$16$",
+          "C": "$18$",
+          "D": "$20$",
+          "E": "$24$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 12,
+        "problem": "Two tour guides are leading six tourists. The guides decide to split up. Each tourist must choose one of the guides, but with the stipulation that each guide must take at least one tourist. How many different groupings of guides and tourists are possible?",
+        "options": {
+          "A": "$56$",
+          "B": "$58$",
+          "C": "$60$",
+          "D": "$62$",
+          "E": "$64$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 13,
+        "problem": "Yan is somewhere between his home and the stadium. To get to the stadium he can walk directly to the stadium, or else he can walk home and then ride his bicycle to the stadium. He rides 7 times as fast as he walks, and both choices require the same amount of time. What is the ratio of Yan's distance from his home to his distance from the stadium?",
+        "options": {
+          "A": "$\\frac 23$",
+          "B": "$\\frac 34$",
+          "C": "$\\frac 45$",
+          "D": "$\\frac 56$",
+          "E": "$\\frac 78$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 14,
+        "problem": "A triangle with side lengths in the ratio $3 : 4 : 5$ is inscribed in a circle with radius $3$. What is the area of the triangle?",
+        "options": {
+          "A": "$8.64$",
+          "B": "$12$",
+          "C": "$5\\pi$",
+          "D": "$17.28$",
+          "E": "$18$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 15,
+        "problem": "Four circles of radius $1$ are each tangent to two sides of a square and externally tangent to a circle of radius $2$, as shown. What is the area of the square? [IMG:AMC10_2007_A_15.png]",
+        "options": {
+          "A": "$32$",
+          "B": "$22 + 12\\sqrt {2}$",
+          "C": "$16 + 16\\sqrt {3}$",
+          "D": "$48$",
+          "E": "$36 + 16\\sqrt {2}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 16,
+        "problem": "Integers $a, b, c,$ and $d$, not necessarily distinct, are chosen independently and at random from 0 to 2007, inclusive. What is the probability that $ad-bc$ is even?",
+        "options": {
+          "A": "$\\frac 38$",
+          "B": "$\\frac 7{16}$",
+          "C": "$\\frac 12$",
+          "D": "$\\frac 9{16}$",
+          "E": "$\\frac 58$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 17,
+        "problem": "Suppose that $m$ and $n$ are positive integers such that $75m = n^{3}$. What is the minimum possible value of $m + n$?",
+        "options": {
+          "A": "$15$",
+          "B": "$30$",
+          "C": "$50$",
+          "D": "$60$",
+          "E": "$5700$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 18,
+        "problem": "Consider the $12$-sided polygon $ABCDEFGHIJKL$, as shown. Each of its sides has length $4$, and each two consecutive sides form a right angle. Suppose that $\\overline{AG}$ and $\\overline{CH}$ meet at $M$. What is the area of quadrilateral $ABCM$? [IMG:AMC10_2007_A_18.png]",
+        "options": {
+          "A": "$\\frac {44}{3}$",
+          "B": "$16$",
+          "C": "$\\frac {88}{5}$",
+          "D": "$20$",
+          "E": "$\\frac {62}{3}$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 19,
+        "problem": "A paint brush is swept along both diagonals of a square to produce the symmetric painted area, as shown. Half the area of the square is painted. What is the ratio of the side length of the square to the brush width? [IMG:AMC10_2007_A_19.png]",
+        "options": {
+          "A": "$2\\sqrt {2} + 1$",
+          "B": "$3\\sqrt {2}$",
+          "C": "$2\\sqrt {2} + 2$",
+          "D": "$3\\sqrt {2} + 1$",
+          "E": "$3\\sqrt {2} + 2$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 20,
+        "problem": "Suppose that the number $a$ satisfies the equation $4 = a + a^{ - 1}$. What is the value of $a^{4} + a^{ - 4}$?",
+        "options": {
+          "A": "$164$",
+          "B": "$172$",
+          "C": "$192$",
+          "D": "$194$",
+          "E": "$212$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 21,
+        "problem": "A sphere is inscribed in a cube that has a surface area of $24$ square meters. A second cube is then inscribed within the sphere. What is the surface area in square meters of the inner cube?",
+        "options": {
+          "A": "$3$",
+          "B": "$6$",
+          "C": "$8$",
+          "D": "$9$",
+          "E": "$12$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 22,
+        "problem": "A finite sequence of three-digit integers has the property that the tens and units digits of each term are, respectively, the hundreds and tens digits of the next term, and the tens and units digits of the last term are, respectively, the hundreds and tens digits of the first term. For example, such a sequence might begin with the terms 247, 475, and 756 and end with the term 824. Let $S$ be the sum of all the terms in the sequence. What is the largest prime factor that always divides $S$?",
+        "options": {
+          "A": "$3$",
+          "B": "$7$",
+          "C": "$13$",
+          "D": "$37$",
+          "E": "$43$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 23,
+        "problem": "How many ordered pairs $(m,n)$ of positive integers, with $m \\ge n$, have the property that their squares differ by $96$?",
+        "options": {
+          "A": "$3$",
+          "B": "$4$",
+          "C": "$6$",
+          "D": "$9$",
+          "E": "$12$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 24,
+        "problem": "Circles centered at $A$ and $B$ each have radius $2$, as shown. Point $O$ is the midpoint of $\\overline{AB}$, and $OA = 2\\sqrt {2}$. Segments $OC$ and $OD$ are tangent to the circles centered at $A$ and $B$, respectively, and $EF$ is a common tangent. What is the area of the shaded region $ECODF$? [IMG:AMC10_2007_A_24.png]",
+        "options": {
+          "A": "$\\frac {8\\sqrt {2}}{3}$",
+          "B": "$8\\sqrt {2} - 4 - \\pi$",
+          "C": "$4\\sqrt {2}$",
+          "D": "$4\\sqrt {2} + \\frac {\\pi}{8}$",
+          "E": "$8\\sqrt {2} - 2 - \\frac {\\pi}{2}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 25,
+        "problem": "For each positive integer $n$, let $S(n)$ denote the sum of the digits of $n.$ For how many values of $n$ is $n + S(n) + S(S(n)) = 2007?$",
+        "options": {
+          "A": "$1$",
+          "B": "$2$",
+          "C": "$3$",
+          "D": "$4$",
+          "E": "$5$"
+        },
+        "answer": "D"
+      }
+    ],
+    "B": [
+      {
+        "number": 1,
+        "problem": "Isabella's house has $3$ bedrooms. Each bedroom is $12$ feet long, $10$ feet wide, and $8$ feet high. Isabella must paint the walls of all the bedrooms. Doorways and windows, which will not be painted, occupy $60$ square feet in each bedroom. How many square feet of walls must be painted?",
+        "options": {
+          "A": "$678$",
+          "B": "$768$",
+          "C": "$786$",
+          "D": "$867$",
+          "E": "$876$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 2,
+        "problem": "Define the operation $\\star$ by $a \\star b = (a+b)b.$ What is $(3 \\star 5) - (5 \\star 3)?$",
+        "options": {
+          "A": "$-16$",
+          "B": "$-8$",
+          "C": "$0$",
+          "D": "$8$",
+          "E": "$16$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 3,
+        "problem": "A college student drove his compact car $120$ miles home for the weekend and averaged $30$ miles per gallon. On the return trip the student drove his parents' SUV and averaged only $20$ miles per gallon. What was the average gas mileage, in miles per gallon, for the round trip?",
+        "options": {
+          "A": "$22$",
+          "B": "$24$",
+          "C": "$25$",
+          "D": "$26$",
+          "E": "$28$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 4,
+        "problem": "The point $O$ is the center of the circle circumscribed about $\\triangle ABC,$ with $\\angle BOC=120^\\circ$ and $\\angle AOB=140^\\circ$. What is the degree measure of $\\angle ABC?$",
+        "options": {
+          "A": "$35$",
+          "B": "$40$",
+          "C": "$45$",
+          "D": "$50$",
+          "E": "$60$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 5,
+        "problem": "In a certain land, all Arogs are Brafs, all Crups are Brafs, all Dramps are Arogs, and all Crups are Dramps. Which of the following statements is implied by these facts?",
+        "options": {
+          "A": "$\\text{All Dramps are Brafs and are Crups.}\\\\ \\textbf{$",
+          "B": "$\\text{All Brafs are Crups and are Dramps.}\\\\ \\textbf{$",
+          "C": "$\\text{All Arogs are Crups and are Dramps.}\\\\ \\textbf{$",
+          "D": "$\\text{All Crups are Arogs and are Brafs.}\\\\ \\textbf{$",
+          "E": "$\\text{All Arogs are Dramps and some Arogs may not be Crups.}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 6,
+        "problem": "The $2007$ $\\text{AMC}$ $10$ will be scored by awarding $6$ points for each correct response, $0$ points for each incorrect response, and $1.5$ points for each problem left unanswered. After looking over the $25$ problems, Sarah has decided to attempt the first $22$ and leave only the last $3$ unanswered. How many of the first $22$ problems must she solve correctly in order to score at least $100$ points?",
+        "options": {
+          "A": "$13$",
+          "B": "$14$",
+          "C": "$15$",
+          "D": "$16$",
+          "E": "$17$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 7,
+        "problem": "All sides of the convex pentagon $ABCDE$ are of equal length, and $\\angle A= \\angle B = 90^\\circ.$ What is the degree measure of $\\angle E?$",
+        "options": {
+          "A": "$90$",
+          "B": "$108$",
+          "C": "$120$",
+          "D": "$144$",
+          "E": "$150$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 8,
+        "problem": "On the trip home from the meeting where this AMC10 was constructed, the Contest Chair noted that his airport parking receipt had digits of the form $bbcac,$ where $0 \\le a < b < c \\le 9,$ and $b$ was the average of $a$ and $c.$ How many different five-digit numbers satisfy all these properties?",
+        "options": {
+          "A": "$12$",
+          "B": "$16$",
+          "C": "$18$",
+          "D": "$20$",
+          "E": "$25$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 9,
+        "problem": "A cryptographic code is designed as follows. The first time a letter appears in a given message it is replaced by the letter that is $1$ place to its right in the alphabet (assuming that the letter $A$ is one place to the right of the letter $Z$). The second time this same letter appears in the given message, it is replaced by the letter that is $1+2$ places to the right, the third time it is replaced by the letter that is $1+2+3$ places to the right, and so on. For example, with this code the word \"banana\" becomes \"cbodqg\". What letter will replace the last letter $s$ in the message [IMG:AMC10_2007_B_9.png]",
+        "options": {
+          "A": "$g$",
+          "B": "$h$",
+          "C": "$o$",
+          "D": "$s$",
+          "E": "$t$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 10,
+        "problem": "Two points $B$ and $C$ are in a plane. Let $S$ be the set of all points $A$ in the plane for which $\\triangle ABC$ has area $1.$ Which of the following describes $S?$",
+        "options": {
+          "A": "$\\text{two parallel lines}$",
+          "B": "$\\text{a parabola}$",
+          "C": "$\\text{a circle}$",
+          "D": "$\\text{a line segment}$",
+          "E": "$\\text{two points}$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 11,
+        "problem": "A circle passes through the three vertices of an isosceles triangle that has two sides of length $3$ and a base of length $2.$ What is the area of this circle?",
+        "options": {
+          "A": "$2\\pi$",
+          "B": "$\\frac{5}{2}\\pi$",
+          "C": "$\\frac{81}{32}\\pi$",
+          "D": "$3\\pi$",
+          "E": "$\\frac{7}{2}\\pi$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 12,
+        "problem": "Tom's age is $T$ years, which is also the sum of the ages of his three children. His age $N$ years ago was twice the sum of their ages then. What is $T/N?$",
+        "options": {
+          "A": "$2$",
+          "B": "$3$",
+          "C": "$4$",
+          "D": "$5$",
+          "E": "$6$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 13,
+        "problem": "Two circles of radius $2$ are centered at $(2,0)$ and at $(0,2).$ What is the area of the intersection of the interiors of the two circles?",
+        "options": {
+          "A": "$\\pi -2$",
+          "B": "$\\frac{\\pi}{2}$",
+          "C": "$\\frac{\\pi \\sqrt{3}}{3}$",
+          "D": "$2(\\pi -2)$",
+          "E": "$\\pi$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 14,
+        "problem": "Some boys and girls are having a car wash to raise money for a class trip to China. Initially $40\\%$ of the group are girls. Shortly thereafter two girls leave and two boys arrive, and then $30\\%$ of the group are girls. How many girls were initially in the group?",
+        "options": {
+          "A": "$4$",
+          "B": "$6$",
+          "C": "$8$",
+          "D": "$10$",
+          "E": "$12$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 15,
+        "problem": "The angles of quadrilateral $ABCD$ satisfy $\\angle A=2 \\angle B=3 \\angle C=4 \\angle D.$ What is the degree measure of $\\angle A,$ rounded to the nearest whole number?",
+        "options": {
+          "A": "$125$",
+          "B": "$144$",
+          "C": "$153$",
+          "D": "$173$",
+          "E": "$180$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 16,
+        "problem": "A teacher gave a test to a class in which $10\\%$ of the students are juniors and $90\\%$ are seniors. The average score on the test was $84.$ The juniors all received the same score, and the average score of the seniors was $83.$ What score did each of the juniors receive on the test?",
+        "options": {
+          "A": "$85$",
+          "B": "$88$",
+          "C": "$93$",
+          "D": "$94$",
+          "E": "$98$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 17,
+        "problem": "Point $P$ is inside equilateral $\\triangle ABC.$ Points $Q, R,$ and $S$ are the feet of the perpendiculars from $P$ to $\\overline{AB}, \\overline{BC},$ and $\\overline{CA},$ respectively. Given that $PQ=1, PR=2,$ and $PS=3,$ what is $AB?$",
+        "options": {
+          "A": "$4$",
+          "B": "$3\\sqrt{3}$",
+          "C": "$6$",
+          "D": "$4\\sqrt{3}$",
+          "E": "$9$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 18,
+        "problem": "A circle of radius $1$ is surrounded by $4$ circles of radius $r$ as shown. What is $r$? [IMG:AMC10_2007_B_18.png]",
+        "options": {
+          "A": "$\\sqrt{2}$",
+          "B": "$1+\\sqrt{2}$",
+          "C": "$\\sqrt{6}$",
+          "D": "$3$",
+          "E": "$2+\\sqrt{2}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 19,
+        "problem": "The wheel shown is spun twice, and the randomly determined numbers opposite the pointer are recorded. The first number is divided by $4,$ and the second number is divided by $5.$ The first remainder designates a column, and the second remainder designates a row on the checkerboard shown. What is the probability that the pair of numbers designates a shaded square? [IMG:AMC10_2007_B_19.png]",
+        "options": {
+          "A": "$\\frac{1}{3}$",
+          "B": "$\\frac{4}{9}$",
+          "C": "$\\frac{1}{2}$",
+          "D": "$\\frac{5}{9}$",
+          "E": "$\\frac{2}{3}$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 20,
+        "problem": "A set of $25$ square blocks is arranged into a $5 \\times 5$ square. How many different combinations of $3$ blocks can be selected from that set so that no two are in the same row or column?",
+        "options": {
+          "A": "$100$",
+          "B": "$125$",
+          "C": "$600$",
+          "D": "$2300$",
+          "E": "$3600$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 21,
+        "problem": "Right $\\triangle ABC$ has $AB=3, BC=4,$ and $AC=5.$ Square $XYZW$ is inscribed in $\\triangle ABC$ with $X$ and $Y$ on $\\overline{AC}, W$ on $\\overline{AB},$ and $Z$ on $\\overline{BC}.$ What is the side length of the square?",
+        "options": {
+          "A": "$\\frac{3}{2}$",
+          "B": "$\\frac{60}{37}$",
+          "C": "$\\frac{12}{7}$",
+          "D": "$\\frac{23}{13}$",
+          "E": "$2}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 22,
+        "problem": "A player chooses one of the numbers $1$ through $4$. After the choice has been made, two regular four-sided (tetrahedral) dice are rolled, with the sides of the dice numbered $1$ through $4.$ If the number chosen appears on the bottom of exactly one die after it has been rolled, then the player wins $1$ dollar. If the number chosen appears on the bottom of both of the dice, then the player wins $2$ dollars. If the number chosen does not appear on the bottom of either of the dice, the player loses $1$ dollar. What is the expected return to the player, in dollars, for one roll of the dice?",
+        "options": {
+          "A": "$-\\frac{1}{8}$",
+          "B": "$-\\frac{1}{16}$",
+          "C": "$0$",
+          "D": "$\\frac{1}{16}$",
+          "E": "$\\frac{1}{8}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 23,
+        "problem": "A pyramid with a square base is cut by a plane that is parallel to its base and $2$ units from the base. The surface area of the smaller pyramid that is cut from the top is half the surface area of the original pyramid. What is the altitude of the original pyramid?",
+        "options": {
+          "A": "$2$",
+          "B": "$2+\\sqrt{2}$",
+          "C": "$1+2\\sqrt{2}$",
+          "D": "$4$",
+          "E": "$4+2\\sqrt{2}$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 24,
+        "problem": "Let $n$ denote the smallest positive integer that is divisible by both $4$ and $9,$ and whose base-$10$ representation consists of only $4$'s and $9$'s, with at least one of each. What are the last four digits of $n?$",
+        "options": {
+          "A": "$4444$",
+          "B": "$4494$",
+          "C": "$4944$",
+          "D": "$9444$",
+          "E": "$9944$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 25,
+        "problem": "How many pairs of positive integers $(a,b)$ are there such that $a$ and $b$ have no common factors greater than $1$ and [IMG:AMC10_2007_B_25.png] is an integer?",
+        "options": {
+          "A": "$4$",
+          "B": "$6$",
+          "C": "$9$",
+          "D": "$12$",
+          "E": "$\\text{infinitely many}$"
+        },
+        "answer": "A"
+      }
+    ]
+  }
+}

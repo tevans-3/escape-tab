@@ -1,0 +1,610 @@
+{
+  "year": 2003,
+  "contest": "AMC 10",
+  "variants": {
+    "A": [
+      {
+        "number": 1,
+        "problem": "What is the difference between the sum of the first $2003$ even counting numbers and the sum of the first $2003$ odd counting numbers? $\\mathrm{",
+        "options": {
+          "A": "$0$",
+          "B": "$1$",
+          "C": "$2$",
+          "D": "$2003$",
+          "E": "$4006$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 2,
+        "problem": "Members of the Rockham Soccer League buy socks and T-shirts. Socks cost &#36;4 per pair and each T-shirt costs &#36;5 more than a pair of socks. Each member needs one pair of socks and a shirt for home games and another pair of socks and a shirt for away games. If the total cost is &#36;2366, how many members are in the League? $\\mathrm{",
+        "options": {
+          "A": "$77$",
+          "B": "$91$",
+          "C": "$143$",
+          "D": "$182$",
+          "E": "$286$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 3,
+        "problem": "A solid box is $15$ cm by $10$ cm by $8$ cm. A new solid is formed by removing a cube $3$ cm on a side from each corner of this box. What percent of the original volume is removed? $\\mathrm{",
+        "options": {
+          "A": "$4.5$",
+          "B": "$9$",
+          "C": "$12$",
+          "D": "$18$",
+          "E": "$24$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 4,
+        "problem": "It takes Mary $30$ minutes to walk uphill $1$ km from her home to school, but it takes her only $10$ minutes to walk from school to her home along the same route. What is her average speed, in km/hr, for the round trip? $\\mathrm{",
+        "options": {
+          "A": "$3$",
+          "B": "$3.125$",
+          "C": "$3.5$",
+          "D": "$4$",
+          "E": "$4.5$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 5,
+        "problem": "Let $d$ and $e$ denote the solutions of $2x^{2}+3x-5=0$. What is the value of $(d-1)(e-1)$? $\\mathrm{",
+        "options": {
+          "A": "$-\\frac{5}{2}$",
+          "B": "$0$",
+          "C": "$3$",
+          "D": "$5$",
+          "E": "$6$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 6,
+        "problem": "Define $x \\heartsuit y$ to be $|x-y|$ for all real numbers $x$ and $y$. Which of the following statements is not true? $\\mathrm{",
+        "options": {
+          "A": "$x \\heartsuit y = y \\heartsuit x$ for all $x$ and $y$ $\\mathrm{$",
+          "B": "$2(x \\heartsuit y) = (2x) \\heartsuit (2y)$ for all $x$ and $y$ $\\mathrm{$",
+          "C": "$x \\heartsuit 0 = x$ for all $x$ $\\mathrm{$",
+          "D": "$x \\heartsuit x = 0$ for all $x$ $\\mathrm{$",
+          "E": "$x \\heartsuit y > 0$ if $x \\neq y$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 7,
+        "problem": "How many non-congruent triangles with perimeter $7$ have integer side lengths? $\\mathrm{",
+        "options": {
+          "A": "$1$",
+          "B": "$2$",
+          "C": "$3$",
+          "D": "$4$",
+          "E": "$5$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 8,
+        "problem": "What is the probability that a randomly drawn positive factor of $60$ is less than $7$? $\\mathrm{",
+        "options": {
+          "A": "$\\frac{1}{10}$",
+          "B": "$\\frac{1}{6}$",
+          "C": "$\\frac{1}{4}$",
+          "D": "$\\frac{1}{3}$",
+          "E": "$\\frac{1}{2}$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 9,
+        "problem": "Simplify $\\sqrt[3]{x\\sqrt[3]{x\\sqrt[3]{x\\sqrt{x}}}}$. $\\mathrm{",
+        "options": {
+          "A": "$\\sqrt{x}$",
+          "B": "$\\sqrt[3]{x^{2}}$",
+          "C": "$\\sqrt[27]{x^{2}}$",
+          "D": "$\\sqrt[54]{x}$",
+          "E": "$\\sqrt[81]{x^{80}}$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 10,
+        "problem": "The polygon enclosed by the solid lines in the figure consists of 4 congruent squares joined edge-to-edge. One more congruent square is attached to an edge at one of the nine positions indicated. How many of the nine resulting polygons can be folded to form a cube with one face missing? [IMG:AMC10_2003_A_10.png] $\\mathrm{",
+        "options": {
+          "A": "$2$",
+          "B": "$3$",
+          "C": "$4$",
+          "D": "$5$",
+          "E": "$6$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 11,
+        "problem": "The sum of the two 5-digit numbers $AMC10$ and $AMC12$ is $123422$. What is $A+M+C$? $\\mathrm{",
+        "options": {
+          "A": "$10$",
+          "B": "$11$",
+          "C": "$12$",
+          "D": "$13$",
+          "E": "$14$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 12,
+        "problem": "A point $(x,y)$ is randomly picked from inside the rectangle with vertices $(0,0)$, $(4,0)$, $(4,1)$, and $(0,1)$. What is the probability that $x<y$? $\\mathrm{",
+        "options": {
+          "A": "$\\frac{1}{8}$",
+          "B": "$\\frac{1}{4}$",
+          "C": "$\\frac{3}{8}$",
+          "D": "$\\frac{1}{2}$",
+          "E": "$\\frac{3}{4}$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 13,
+        "problem": "The sum of three numbers is $20$. The first is four times the sum of the other two. The second is seven times the third. What is the product of all three? $\\mathrm{",
+        "options": {
+          "A": "$28$",
+          "B": "$40$",
+          "C": "$100$",
+          "D": "$400$",
+          "E": "$800$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 14,
+        "problem": "Let $n$ be the largest integer that is the product of exactly 3 distinct prime numbers $d$, $e$, and $10d+e$, where $d$ and $e$ are single digits. What is the sum of the digits of $n$? $\\mathrm{",
+        "options": {
+          "A": "$12$",
+          "B": "$15$",
+          "C": "$18$",
+          "D": "$21$",
+          "E": "$24$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 15,
+        "problem": "What is the probability that an integer in the set $\\{1,2,3,...,100\\}$ is divisible by $2$ and not divisible by $3$? $\\mathrm{",
+        "options": {
+          "A": "$\\frac{1}{6}$",
+          "B": "$\\frac{33}{100}$",
+          "C": "$\\frac{17}{50}$",
+          "D": "$\\frac{1}{2}$",
+          "E": "$\\frac{18}{25}$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 16,
+        "problem": "What is the units digit of $13^{2003}$? $\\mathrm{",
+        "options": {
+          "A": "$1$",
+          "B": "$3$",
+          "C": "$7$",
+          "D": "$8$",
+          "E": "$9$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 17,
+        "problem": "The number of inches in the perimeter of an equilateral triangle equals the number of square inches in the area of its circumscribed circle. What is the radius, in inches, of the circle? $\\mathrm{",
+        "options": {
+          "A": "$\\frac{3\\sqrt{2}}{\\pi}$",
+          "B": "$\\frac{3\\sqrt{3}}{\\pi}$",
+          "C": "$\\sqrt{3}$",
+          "D": "$\\frac{6}{\\pi}$",
+          "E": "$\\sqrt{3}\\pi$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 18,
+        "problem": "What is the sum of the reciprocals of the roots of the equation $\\frac{2003}{2004}x+1+\\frac{1}{x}=0$? $\\mathrm{",
+        "options": {
+          "A": "$-\\frac{2004}{2003}$",
+          "B": "$-1$",
+          "C": "$\\frac{2003}{2004}$",
+          "D": "$1$",
+          "E": "$\\frac{2004}{2003}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 19,
+        "problem": "A semicircle of diameter $1$ sits at the top of a semicircle of diameter $2$, as shown. The shaded area inside the smaller semicircle and outside the larger semicircle is called a lune . Determine the area of this lune. [IMG:AMC10_2003_A_19.png] $\\mathrm{",
+        "options": {
+          "A": "$\\frac{1}{6}\\pi-\\frac{\\sqrt{3}}{4}$",
+          "B": "$\\frac{\\sqrt{3}}{4}-\\frac{1}{12}\\pi$",
+          "C": "$\\frac{\\sqrt{3}}{4}-\\frac{1}{24}\\pi$",
+          "D": "$\\frac{\\sqrt{3}}{4}+\\frac{1}{24}\\pi$",
+          "E": "$\\frac{\\sqrt{3}}{4}+\\frac{1}{12}\\pi$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 20,
+        "problem": "A base-10 three digit number $n$ is selected at random. Which of the following is closest to the probability that the base-9 representation and the base-11 representation of $n$ are both three-digit numerals? $\\mathrm{",
+        "options": {
+          "A": "$0.3$",
+          "B": "$0.4$",
+          "C": "$0.5$",
+          "D": "$0.6$",
+          "E": "$0.7$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 21,
+        "problem": "Pat is to select six cookies from a tray containing only chocolate chip, oatmeal, and peanut butter cookies. There are at least six of each of these three kinds of cookies on the tray. How many different assortments of six cookies can be selected? $\\mathrm{",
+        "options": {
+          "A": "$22$",
+          "B": "$25$",
+          "C": "$27$",
+          "D": "$28$",
+          "E": "$729$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 22,
+        "problem": "In rectangle $ABCD$, we have $AB=8$, $BC=9$, $H$ is on $BC$ with $BH=6$, $E$ is on $AD$ with $DE=4$, line $EC$ intersects line $AH$ at $G$, and $F$ is on line $AD$ with $GF \\perp AF$. Find the length of $GF$. [IMG:AMC10_2003_A_22.png] $\\mathrm{",
+        "options": {
+          "A": "$16$",
+          "B": "$20$",
+          "C": "$24$",
+          "D": "$28$",
+          "E": "$30$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 23,
+        "problem": "A large equilateral triangle is constructed by using toothpicks to create rows of small equilateral triangles. For example, in the figure we have $3$ rows of small congruent equilateral triangles, with $5$ small triangles in the base row. How many toothpicks would be needed to construct a large equilateral triangle if the base row of the triangle consists of $2003$ small equilateral triangles? [IMG:AMC10_2003_A_23.png] $\\mathrm{",
+        "options": {
+          "A": "$1,004,004$",
+          "B": "$1,005,006$",
+          "C": "$1,507,509$",
+          "D": "$3,015,018$",
+          "E": "$6,021,018$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 24,
+        "problem": "Sally has five red cards numbered $1$ through $5$ and four blue cards numbered $3$ through $6$. She stacks the cards so that the colors alternate and so that the number on each red card divides evenly into the number on each neighboring blue card. What is the sum of the numbers on the middle three cards? $\\mathrm{",
+        "options": {
+          "A": "$8$",
+          "B": "$9$",
+          "C": "$10$",
+          "D": "$11$",
+          "E": "$12$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 25,
+        "problem": "Let $n$ be a $5$-digit number, and let $q$ and $r$ be the quotient and the remainder, respectively, when $n$ is divided by $100$. For how many values of $n$ is $q+r$ divisible by $11$? $\\mathrm{",
+        "options": {
+          "A": "$8180$",
+          "B": "$8181$",
+          "C": "$8182$",
+          "D": "$9000$",
+          "E": "$9090$"
+        },
+        "answer": "B"
+      }
+    ],
+    "B": [
+      {
+        "number": 1,
+        "problem": "Which of the following is the same as [IMG:AMC10_2003_B_1.png]",
+        "options": {
+          "A": "$-1$",
+          "B": "$-\\frac{2}{3}$",
+          "C": "$frac{2}{3}$",
+          "D": "$1$",
+          "E": "$frac{14}{3}$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 2,
+        "problem": "Al gets the disease algebritis and must take one green pill and one pink pill each day for two weeks. A green pill costs $\\$$1$ more than a pink pill, and Al's pills cost a total of $\\$$546$ for the two weeks. How much does one green pill cost?",
+        "options": {
+          "A": "$\\$$7$",
+          "B": "$\\$ $14$",
+          "C": "$\\$$19$",
+          "D": "$\\$ $20$",
+          "E": "$\\$$39$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 3,
+        "problem": "The sum of $5$ consecutive even integers is $4$ less than the sum of the first $8$ consecutive odd counting numbers. What is the smallest of the even integers?",
+        "options": {
+          "A": "$6$",
+          "B": "$8$",
+          "C": "$10$",
+          "D": "$12$",
+          "E": "$14$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 4,
+        "problem": "Rose fills each of the rectangular and square regions of her rectangular flower bed with a different type of flower. The lengths, in feet, of the rectangular regions in her flower bed are as shown in the figure. She plants one flower per square foot in each region. Asters cost $\\$$1$ each, begonias $\\$$1.50$ each, cannas $\\$$2$ each, dahlias $\\$$2.50$ each, and Easter lilies $\\$$3$ each. What is the least possible cost, in dollars, for her garden? [IMG:AMC10_2003_B_4.png]",
+        "options": {
+          "A": "$108$",
+          "B": "$115$",
+          "C": "$132$",
+          "D": "$144$",
+          "E": "$156$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 5,
+        "problem": "Moe uses a mower to cut his rectangular $90$-foot by $150$-foot lawn. The swath he cuts is $28$ inches wide, but he overlaps each cut by $4$ inches to make sure that no grass is missed. He walks at the rate of $5000$ feet per hour while pushing the mower. Which of the following is closest to the number of hours it will take Moe to mow the lawn?",
+        "options": {
+          "A": "$0.75$",
+          "B": "$0.8$",
+          "C": "$1.35$",
+          "D": "$1.5$",
+          "E": "$3$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 6,
+        "problem": "Many television screens are rectangles that are measured by the length of their diagonals. The ratio of the horizontal length to the height in a standard television screen is $4 : 3$. The horizontal length of a \"$27$-inch\" television screen is closest, in inches, to which of the following?",
+        "options": {
+          "A": "$20$",
+          "B": "$20.5$",
+          "C": "$21$",
+          "D": "$21.5$",
+          "E": "$22$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 7,
+        "problem": "The symbolism $\\lfloor x \\rfloor$ denotes the largest integer not exceeding $x$. For example, $\\lfloor 3 \\rfloor = 3,$ and $\\lfloor 9/2 \\rfloor = 4$. Compute [IMG:AMC10_2003_B_7.png]",
+        "options": {
+          "A": "$35$",
+          "B": "$38$",
+          "C": "$40$",
+          "D": "$42$",
+          "E": "$136$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 8,
+        "problem": "The second and fourth terms of a geometric sequence are $2$ and $6$. Which of the following is a possible first term?",
+        "options": {
+          "A": "$-\\sqrt{3}$",
+          "B": "$-\\frac{2\\sqrt{3}}{3}$",
+          "C": "$-\\frac{\\sqrt{3}}{3}$",
+          "D": "$\\sqrt{3}$",
+          "E": "$3$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 9,
+        "problem": "Find the value of $x$ that satisfies the equation",
+        "options": {
+          "A": "$2$",
+          "B": "$3$",
+          "C": "$5$",
+          "D": "$6$",
+          "E": "$9$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 10,
+        "problem": "Nebraska, the home of the AMC, changed its license plate scheme. Each old license plate consisted of a letter followed by four digits. Each new license plate consists of three letters followed by three digits. By how many times is the number of possible license plates increased?",
+        "options": {
+          "A": "$\\frac{26}{10}$",
+          "B": "$\\frac{26^2}{10^2}$",
+          "C": "$\\frac{26^2}{10}$",
+          "D": "$\\frac{26^3}{10^3}$",
+          "E": "$\\frac{26^3}{10^2}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 11,
+        "problem": "A line with slope $3$ intersects a line with slope $5$ at point $(10,15)$. What is the distance between the $x$-intercepts of these two lines?",
+        "options": {
+          "A": "$2$",
+          "B": "$5$",
+          "C": "$7$",
+          "D": "$12$",
+          "E": "$20$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 12,
+        "problem": "Al, Betty, and Clare split $\\$$1000$ among them to be invested in different ways. Each begins with a different amount. At the end of one year, they have a total of $\\$$1500$. Betty and Clare have both doubled their money, whereas Al has managed to lose $\\$$100$. What was Al's original portion?",
+        "options": {
+          "A": "$\\$$250$",
+          "B": "$\\$ $350$",
+          "C": "$\\$$400$",
+          "D": "$\\$ $450$",
+          "E": "$\\$$500$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 13,
+        "problem": "Let $\\clubsuit(x)$ denote the sum of the digits of the positive integer $x$. For example, $\\clubsuit(8)=8$ and $\\clubsuit(123)=1+2+3=6$. For how many two-digit values of $x$ is $\\clubsuit(\\clubsuit(x))=3$?",
+        "options": {
+          "A": "$3$",
+          "B": "$4$",
+          "C": "$6$",
+          "D": "$9$",
+          "E": "$10$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 14,
+        "problem": "Given that $3^8\\cdot5^2=a^b,$ where both $a$ and $b$ are positive integers, find the smallest possible value for $a+b$.",
+        "options": {
+          "A": "$25$",
+          "B": "$34$",
+          "C": "$351$",
+          "D": "$407$",
+          "E": "$900$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 15,
+        "problem": "There are $100$ players in a single tennis tournament. The tournament is single elimination, meaning that a player who loses a match is eliminated. In the first round, the strongest $28$ players are given a bye, and the remaining $72$ players are paired off to play. After each round, the remaining players play in the next round. The tournament continues until only one player remains unbeaten. The total number of matches played is",
+        "options": {
+          "A": "$\\text{a prime number}$",
+          "B": "$\\text{divisible by 2}$",
+          "C": "$\\text{divisible by 5}$",
+          "D": "$\\text{divisible by 7}$",
+          "E": "$\\text{divisible by 11}$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 16,
+        "problem": "A restaurant offers three desserts, and exactly twice as many appetizers as main courses. A dinner consists of an appetizer, a main course, and a dessert. What is the least number of main courses that a restaurant should offer so that a customer could have a different dinner each night in the year $2003$?",
+        "options": {
+          "A": "$4$",
+          "B": "$5$",
+          "C": "$6$",
+          "D": "$7$",
+          "E": "$8$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 17,
+        "problem": "An ice cream cone consists of a sphere of vanilla ice cream and a right circular cone that has the same diameter as the sphere. If the ice cream melts, it will exactly fill the cone. Assume that the melted ice cream occupies $75\\%$ of the volume of the frozen ice cream. What is the ratio of the cone's height to its radius? (Note: a cone with radius $r$ and height $h$ has volume $\\pi r^2 h / 3$ and a sphere with radius $r$ has volume $4 \\pi r^3 / 3$.)",
+        "options": {
+          "A": "$2:1$",
+          "B": "$3:1$",
+          "C": "$4:1$",
+          "D": "$16:3$",
+          "E": "$6:1$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 18,
+        "problem": "What is the largest integer that is a divisor of [IMG:AMC10_2003_B_18.png] for all positive even integers $n$?",
+        "options": {
+          "A": "$3$",
+          "B": "$5$",
+          "C": "$11$",
+          "D": "$15$",
+          "E": "$165$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 19,
+        "problem": "Three semicircles of radius $1$ are constructed on diameter $\\overline{AB}$ of a semicircle of radius $2$. The centers of the small semicircles divide $\\overline{AB}$ into four line segments of equal length, as shown. What is the area of the shaded region that lies within the large semicircle but outside the smaller semicircles? [IMG:AMC10_2003_B_19.png]",
+        "options": {
+          "A": "$\\pi - \\sqrt{3}$",
+          "B": "$\\pi - \\sqrt{2}$",
+          "C": "$\\frac{\\pi + \\sqrt{2}}{2}$",
+          "D": "$\\frac{\\pi +\\sqrt{3}}{2}$",
+          "E": "$\\frac{7}{6}\\pi - \\frac{\\sqrt{3}}{2}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 20,
+        "problem": "In rectangle $ABCD, AB=5$ and $BC=3$. Points $F$ and $G$ are on $\\overline{CD}$ so that $DF=1$ and $GC=2$. Lines $AF$ and $BG$ intersect at $E$. Find the area of $\\triangle AEB$. [IMG:AMC10_2003_B_20.png]",
+        "options": {
+          "A": "$10$",
+          "B": "$\\frac{21}{2}$",
+          "C": "$12$",
+          "D": "$\\frac{25}{2}$",
+          "E": "$15$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 21,
+        "problem": "A bag contains two red beads and two green beads. You reach into the bag and pull out a bead, replacing it with a red bead regardless of the color you pulled out. What is the probability that all beads in the bag are red after three such replacements?",
+        "options": {
+          "A": "$\\frac{1}{8}$",
+          "B": "$\\frac{5}{32}$",
+          "C": "$\\frac{9}{32}$",
+          "D": "$\\frac{3}{8}$",
+          "E": "$\\frac{7}{16}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 22,
+        "problem": "A clock chimes once at $30$ minutes past each hour and chimes on the hour according to the hour. For example, at $1 \\text{PM}$ there is one chime and at noon and midnight there are twelve chimes. Starting at $11:15 \\text{AM}$ on $\\text{February 26, 2003},$ on what date will the $2003\\text{rd}$ chime occur?",
+        "options": {
+          "A": "$\\text{March 8}$",
+          "B": "$\\text{March 9}$",
+          "C": "$\\text{March 10}$",
+          "D": "$\\text{March 20}$",
+          "E": "$\\text{March 21}$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 23,
+        "problem": "A regular octagon $ABCDEFGH$ has an area of one square unit. What is the area of the rectangle $ABEF$? [IMG:AMC10_2003_B_23.png]",
+        "options": {
+          "A": "$1 - \\frac{\\sqrt{2}}{2}$",
+          "B": "$\\frac{\\sqrt{2}}{4}$",
+          "C": "$\\sqrt{2} - 1$",
+          "D": "$\\frac{1}{2}$",
+          "E": "$\\frac{1+\\sqrt{2}}{4}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 24,
+        "problem": "The first four terms in an arithmetic sequence are $x + y, x - y, xy,$ and $x/y,$ in that order. What is the \ufb01fth term?",
+        "options": {
+          "A": "$-\\frac{15}{8}$",
+          "B": "$-\\frac{6}{5}$",
+          "C": "$0$",
+          "D": "$\\frac{27}{20}$",
+          "E": "$\\frac{123}{40}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 25,
+        "problem": "How many distinct four-digit numbers are divisible by $3$ and have $23$ as their last two digits?",
+        "options": {
+          "A": "$27$",
+          "B": "$30$",
+          "C": "$33$",
+          "D": "$81$",
+          "E": "$90$"
+        },
+        "answer": "E"
+      }
+    ]
+  }
+}

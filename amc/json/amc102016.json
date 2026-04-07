@@ -1,0 +1,610 @@
+{
+  "year": 2016,
+  "contest": "AMC 10",
+  "variants": {
+    "A": [
+      {
+        "number": 1,
+        "problem": "What is the value of $\\dfrac{11!-10!}{9!}$?",
+        "options": {
+          "A": "$99$",
+          "B": "$100$",
+          "C": "$110$",
+          "D": "$121$",
+          "E": "$132$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 2,
+        "problem": "For what value $x$ does $10^{x}\\cdot 100^{2x}=1000^{5}$?",
+        "options": {
+          "A": "$1$",
+          "B": "$2$",
+          "C": "$3$",
+          "D": "$4$",
+          "E": "$5$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 3,
+        "problem": "For every dollar Ben spent on bagels, David spent $25$ cents less. Ben paid $\\$12.50$ more than David. How much did they spend in the bagel store together?",
+        "options": {
+          "A": "$\\$37.50$",
+          "B": "$\\$50.00$",
+          "C": "$\\$87.50$",
+          "D": "$\\$90.00$",
+          "E": "$\\$92.50$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 4,
+        "problem": "The remainder can be defined for all real numbers $x$ and $y$ with $y \\neq 0$ by [IMG:AMC10_2016_A_4.png] where $\\left \\lfloor \\dfrac{x}{y} \\right \\rfloor$ denotes the greatest integer less than or equal to $\\dfrac{x}{y}$. What is the value of $\\text{rem}\\left(\\dfrac{3}{8}, -\\dfrac{2}{5}\\right)$?",
+        "options": {
+          "A": "$-\\frac{3}{8}$",
+          "B": "$-\\frac{1}{40}$",
+          "C": "$0$",
+          "D": "$\\frac{3}{8}$",
+          "E": "$\\frac{31}{40}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 5,
+        "problem": "A rectangular box has integer side lengths in the ratio $1: 3: 4$. Which of the following could be the volume of the box?",
+        "options": {
+          "A": "$48$",
+          "B": "$56$",
+          "C": "$64$",
+          "D": "$96$",
+          "E": "$144$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 6,
+        "problem": "Ximena lists the whole numbers $1$ through $30$ once. Emilio copies Ximena's numbers, replacing each occurrence of the digit $2$ by the digit $1$. Ximena adds her numbers and Emilio adds his numbers. How much larger is Ximena's sum than Emilio's?",
+        "options": {
+          "A": "$13$",
+          "B": "$26$",
+          "C": "$102$",
+          "D": "$103$",
+          "E": "$110$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 7,
+        "problem": "The mean, median, and mode of the $7$ data values $60, 100, x, 40, 50, 200, 90$ are all equal to $x$. What is the value of $x$?",
+        "options": {
+          "A": "$50$",
+          "B": "$60$",
+          "C": "$75$",
+          "D": "$90$",
+          "E": "$100$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 8,
+        "problem": "Trickster Rabbit agrees with Foolish Fox to double Fox's money every time Fox crosses the bridge by Rabbit's house, as long as Fox pays $40$ coins in toll to Rabbit after each crossing. The payment is made after the doubling, Fox is excited about his good fortune until he discovers that all his money is gone after crossing the bridge three times. How many coins did Fox have at the beginning?",
+        "options": {
+          "A": "$20$",
+          "B": "$30$",
+          "C": "$35$",
+          "D": "$40$",
+          "E": "$45$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 9,
+        "problem": "A triangular array of $2016$ coins has $1$ coin in the first row, $2$ coins in the second row, $3$ coins in the third row, and so on up to $N$ coins in the $N$th row. What is the sum of the digits of $N$?",
+        "options": {
+          "A": "$6$",
+          "B": "$7$",
+          "C": "$8$",
+          "D": "$9$",
+          "E": "$10$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 10,
+        "problem": "A rug is made with three different colors as shown. The areas of the three differently colored regions form an arithmetic progression. The inner rectangle is one foot wide, and each of the two shaded regions is $1$ foot wide on all four sides. What is the length in feet of the inner rectangle? [IMG:AMC10_2016_A_10.png]",
+        "options": {
+          "A": "$1$",
+          "B": "$2$",
+          "C": "$4$",
+          "D": "$6$",
+          "E": "$8$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 11,
+        "problem": "Find the area of the shaded region. [IMG:AMC10_2016_A_11.png]",
+        "options": {
+          "A": "$4\\dfrac{3}{5}$",
+          "B": "$5$",
+          "C": "$5\\dfrac{1}{4}$",
+          "D": "$6\\dfrac{1}{2}$",
+          "E": "$8$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 12,
+        "problem": "Three distinct integers are selected at random between $1$ and $2016$, inclusive. Which of the following is a correct statement about the probability $p$ that the product of the three integers is odd?",
+        "options": {
+          "A": "$p<\\dfrac{1}{8}$",
+          "B": "$p=\\dfrac{1}{8}$",
+          "C": "$\\dfrac{1}{8}<p<\\dfrac{1}{3}$",
+          "D": "$p=\\dfrac{1}{3}$",
+          "E": "$p>\\dfrac{1}{3}$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 13,
+        "problem": "Five friends sat in a movie theater in a row containing $5$ seats, numbered $1$ to $5$ from left to right. (The directions \"left\" and \"right\" are from the point of view of the people as they sit in the seats.) During the movie Ada went to the lobby to get some popcorn. When she returned, she found that Bea had moved two seats to the right, Ceci had moved one seat to the left, and Dee and Edie had switched seats, leaving an end seat for Ada. In which seat had Ada been sitting before she got up?",
+        "options": {
+          "A": "$1$",
+          "B": "$2$",
+          "C": "$3$",
+          "D": "$4$",
+          "E": "$5$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 14,
+        "problem": "How many ways are there to write $2016$ as the sum of twos and threes, ignoring order? (For example, $1008\\cdot 2 + 0\\cdot 3$ and $402\\cdot 2 + 404\\cdot 3$ are two such ways.)",
+        "options": {
+          "A": "$236$",
+          "B": "$336$",
+          "C": "$337$",
+          "D": "$403$",
+          "E": "$672$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 15,
+        "problem": "Seven cookies of radius $1$ inch are cut from a circle of cookie dough, as shown. Neighboring cookies are tangent, and all except the center cookie are tangent to the edge of the dough. The leftover scrap is reshaped to form another cookie of the same thickness. What is the radius in inches of the scrap cookie? [IMG:AMC10_2016_A_15.png]",
+        "options": {
+          "A": "$\\sqrt{2}$",
+          "B": "$1.5$",
+          "C": "$\\sqrt{\\pi}$",
+          "D": "$\\sqrt{2\\pi}$",
+          "E": "$\\pi$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 16,
+        "problem": "A triangle with vertices $A(0, 2)$, $B(-3, 2)$, and $C(-3, 0)$ is reflected about the $x$-axis, then the image $\\triangle A&#39;B&#39;C&#39;$ is rotated counterclockwise about the origin by $90^{\\circ}$ to produce $\\triangle A&#39;&#39;B&#39;&#39;C&#39;&#39;$. Which of the following transformations will return $\\triangle A&#39;&#39;B&#39;&#39;C&#39;&#39;$ to $\\triangle ABC$?",
+        "options": {
+          "A": "$ counterclockwise rotation about the origin by $90^{\\circ}$.$",
+          "B": "$ clockwise rotation about the origin by $90^{\\circ}$.$",
+          "C": "$ reflection about the $x$-axis$",
+          "D": "$ reflection about the line $y = x$",
+          "E": "$ reflection about the $y$-axis.$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 17,
+        "problem": "Let $N$ be a positive multiple of $5$. One red ball and $N$ green balls are arranged in a line in random order. Let $P(N)$ be the probability that at least $\\tfrac{3}{5}$ of the green balls are on the same side of the red ball. Observe that $P(5)=1$ and that $P(N)$ approaches $\\tfrac{4}{5}$ as $N$ grows large. What is the sum of the digits of the least value of $N$ such that $P(N) < \\tfrac{321}{400}$?",
+        "options": {
+          "A": "$12$",
+          "B": "$14$",
+          "C": "$16$",
+          "D": "$18$",
+          "E": "$20$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 18,
+        "problem": "Each vertex of a cube is to be labeled with an integer $1$ through $8$, with each integer being used once, in such a way that the sum of the four numbers on the vertices of a face is the same for each face. Arrangements that can be obtained from each other through rotations of the cube are considered to be the same. How many different arrangements are possible?",
+        "options": {
+          "A": "$1$",
+          "B": "$3$",
+          "C": "$6$",
+          "D": "$12$",
+          "E": "$24$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 19,
+        "problem": "In rectangle $ABCD,$ $AB=6$ and $BC=3$. Point $E$ between $B$ and $C$, and point $F$ between $E$ and $C$ are such that $BE=EF=FC$. Segments $\\overline{AE}$ and $\\overline{AF}$ intersect $\\overline{BD}$ at $P$ and $Q$, respectively. The ratio $BP:PQ:QD$ can be written as $r:s:t$ where the greatest common factor of $r,s$ and $t$ is 1. What is $r+s+t$?",
+        "options": {
+          "A": "$7$",
+          "B": "$9$",
+          "C": "$12$",
+          "D": "$15$",
+          "E": "$20$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 20,
+        "problem": "For some particular value of $N$, when $(a+b+c+d+1)^N$ is expanded and like terms are combined, the resulting expression contains exactly $1001$ terms that include all four variables $a, b,c,$ and $d$, each to some positive power. What is $N$?",
+        "options": {
+          "A": "$9$",
+          "B": "$14$",
+          "C": "$16$",
+          "D": "$17$",
+          "E": "$19$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 21,
+        "problem": "Circles with centers $P, Q$ and $R$, having radii $1, 2$ and $3$, respectively, lie on the same side of line $l$ and are tangent to $l$ at $P&#39;, Q&#39;$ and $R&#39;$, respectively, with $Q&#39;$ between $P&#39;$ and $R&#39;$. The circle with center $Q$ is externally tangent to each of the other two circles. What is the area of triangle $PQR$?",
+        "options": {
+          "A": "$0$",
+          "B": "$\\sqrt{6}/3$",
+          "C": "$1$",
+          "D": "$\\sqrt{6}-\\sqrt{2}$",
+          "E": "$\\sqrt{6}/2$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 22,
+        "problem": "For some positive integer $n$, the number $110n^3$ has $110$ positive integer divisors, including $1$ and the number $110n^3$. How many positive integer divisors does the number $81n^4$ have?",
+        "options": {
+          "A": "$110$",
+          "B": "$191$",
+          "C": "$261$",
+          "D": "$325$",
+          "E": "$425$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 23,
+        "problem": "A binary operation $\\diamondsuit$ has the properties that $a\\,\\diamondsuit\\, (b\\,\\diamondsuit \\,c) = (a\\,\\diamondsuit \\,b)\\cdot c$ and that $a\\,\\diamondsuit \\,a=1$ for all nonzero real numbers $a, b,$ and $c$. (Here $\\cdot$ represents multiplication). The solution to the equation $2016 \\,\\diamondsuit\\, (6\\,\\diamondsuit\\, x)=100$ can be written as $\\tfrac{p}{q}$, where $p$ and $q$ are relatively prime positive integers. What is $p+q?$",
+        "options": {
+          "A": "$109$",
+          "B": "$201$",
+          "C": "$301$",
+          "D": "$3049$",
+          "E": "$33,601$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 24,
+        "problem": "A quadrilateral is inscribed in a circle of radius $200\\sqrt{2}$. Three of the sides of this quadrilateral have length $200$. What is the length of the fourth side?",
+        "options": {
+          "A": "$200$",
+          "B": "$200\\sqrt{2}$",
+          "C": "$200\\sqrt{3}$",
+          "D": "$300\\sqrt{2}$",
+          "E": "$500$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 25,
+        "problem": "How many ordered triples $(x,y,z)$ of positive integers satisfy $\\text{lcm}(x,y) = 72, \\text{lcm}(x,z) = 600$ and $\\text{lcm}(y,z)=900$?",
+        "options": {
+          "A": "$15$",
+          "B": "$16$",
+          "C": "$24$",
+          "D": "$27$",
+          "E": "$64$"
+        },
+        "answer": "A"
+      }
+    ],
+    "B": [
+      {
+        "number": 1,
+        "problem": "What is the value of $\\frac{2a^{-1}+\\frac{a^{-1}}{2}}{a}$ when $a= \\tfrac{1}{2}$?",
+        "options": {
+          "A": "$1$",
+          "B": "$2$",
+          "C": "$\\frac{5}{2}$",
+          "D": "$10$",
+          "E": "$20$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 2,
+        "problem": "If $n\\heartsuit m=n^3m^2$, what is $\\frac{2\\heartsuit 4}{4\\heartsuit 2}$?",
+        "options": {
+          "A": "$\\frac{1}{4}$",
+          "B": "$\\frac{1}{2}$",
+          "C": "$1$",
+          "D": "$2$",
+          "E": "$4$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 3,
+        "problem": "Let $x=-2016$. What is the value of",
+        "options": {
+          "A": "$-2016$",
+          "B": "$0$",
+          "C": "$2016$",
+          "D": "$4032$",
+          "E": "$6048$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 4,
+        "problem": "Zoey read $15$ books, one at a time. The first book took her $1$ day to read, the second book took her $2$ days to read, the third book took her $3$ days to read, and so on, with each book taking her $1$ more day to read than the previous book. Zoey finished the first book on a Monday, and the second on a Wednesday. On what day of the week did she finish her $15$th book?",
+        "options": {
+          "A": "$\\text{Sunday}$",
+          "B": "$\\text{Monday}$",
+          "C": "$\\text{Wednesday}$",
+          "D": "$\\text{Friday}$",
+          "E": "$\\text{Saturday}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 5,
+        "problem": "The mean age of Amanda's $4$ cousins is $8$, and their median age is $5$. What is the sum of the ages of Amanda's youngest and oldest cousins?",
+        "options": {
+          "A": "$13$",
+          "B": "$16$",
+          "C": "$19$",
+          "D": "$22$",
+          "E": "$25$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 6,
+        "problem": "Isaac added two three-digit positive integers. All six digits in these numbers are different. Isaac's sum is a three-digit number $S$. What is the smallest possible value for the sum of the digits of $S$?",
+        "options": {
+          "A": "$1$",
+          "B": "$4$",
+          "C": "$5$",
+          "D": "$15$",
+          "E": "$20$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 7,
+        "problem": "The ratio of the measures of two acute angles is $5:4$, and the complement of one of these two angles is twice as large as the complement of the other. What is the sum of the degree measures of the two angles?",
+        "options": {
+          "A": "$75$",
+          "B": "$90$",
+          "C": "$135$",
+          "D": "$150$",
+          "E": "$270$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 8,
+        "problem": "What is the tens digit of $2015^{2016}-2017?$",
+        "options": {
+          "A": "$0$",
+          "B": "$1$",
+          "C": "$3$",
+          "D": "$5$",
+          "E": "$8$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 9,
+        "problem": "All three vertices of $\\bigtriangleup ABC$ are lying on the parabola defined by $y=x^2$, with $A$ at the origin and $\\overline{BC}$ parallel to the $x$-axis. The area of the triangle is $64$. What is the length of $BC$?",
+        "options": {
+          "A": "$4$",
+          "B": "$6$",
+          "C": "$8$",
+          "D": "$10$",
+          "E": "$16$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 10,
+        "problem": "A thin piece of wood of uniform density in the shape of an equilateral triangle with side length $3$ inches weighs $12$ ounces. A second piece of the same type of wood, with the same thickness, also in the shape of an equilateral triangle, has side length of $5$ inches. Which of the following is closest to the weight, in ounces, of the second piece?",
+        "options": {
+          "A": "$14.0$",
+          "B": "$16.0$",
+          "C": "$20.0$",
+          "D": "$33.3$",
+          "E": "$55.6$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 11,
+        "problem": "Sola decided to fence in his rectangular garden. He bought $20$ fence posts, placed one on each of the four corners, and spaced out the rest evenly along the edges of the garden, leaving exactly $4$ yards between neighboring posts. The longer side of his garden, including the corners, has twice as many posts as the shorter side, including the corners. What is the area, in square yards, of Sola\u2019s garden?",
+        "options": {
+          "A": "$256$",
+          "B": "$336$",
+          "C": "$384$",
+          "D": "$448$",
+          "E": "$512$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 12,
+        "problem": "Two different numbers are selected at random from $( 1, 2, 3, 4, 5)$ and multiplied together. What is the probability that the product is even?",
+        "options": {
+          "A": "$0.2$",
+          "B": "$0.4$",
+          "C": "$0.5$",
+          "D": "$0.7$",
+          "E": "$0.8$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 13,
+        "problem": "At Megapolis Hospital one year, multiple-birth statistics were as follows: Sets of twins, triplets, and quadruplets accounted for $1000$ of the babies born. There were four times as many sets of triplets as sets of quadruplets, and there was three times as many sets of twins as sets of triplets. How many of these $1000$ babies were in sets of quadruplets?",
+        "options": {
+          "A": "$25$",
+          "B": "$40$",
+          "C": "$64$",
+          "D": "$100$",
+          "E": "$160$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 14,
+        "problem": "How many squares whose sides are parallel to the axis and whose vertices have coordinates that are integers lie entirely within the region bounded by the line $y=\\pi x$, the line $y=-0.1$ and the line $x=5.1?$",
+        "options": {
+          "A": "$30$",
+          "B": "$41$",
+          "C": "$45$",
+          "D": "$50$",
+          "E": "$57$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 15,
+        "problem": "All the numbers $1, 2, 3, 4, 5, 6, 7, 8, 9$ are written in a $3\\times3$ array of squares, one number in each square, in such a way that if two numbers are consecutive then they occupy squares that share an edge. The numbers in the four corners add up to $18$. What is the number in the center?",
+        "options": {
+          "A": "$5$",
+          "B": "$6$",
+          "C": "$7$",
+          "D": "$8$",
+          "E": "$9$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 16,
+        "problem": "The sum of an infinite geometric series is a positive number $S$, and the second term in the series is $1$. What is the smallest possible value of $S?$",
+        "options": {
+          "A": "$\\frac{1+\\sqrt{5}}{2}$",
+          "B": "$2$",
+          "C": "$\\sqrt{5}$",
+          "D": "$3$",
+          "E": "$4$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 17,
+        "problem": "All the numbers $2, 3, 4, 5, 6, 7$ are assigned to the six faces of a cube, one number to each face. For each of the eight vertices of the cube, a product of three numbers is computed, where the three numbers are the numbers assigned to the three faces that include that vertex. What is the greatest possible value of the sum of these eight products?",
+        "options": {
+          "A": "$312$",
+          "B": "$343$",
+          "C": "$625$",
+          "D": "$729$",
+          "E": "$1680$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 18,
+        "problem": "In how many ways can $345$ be written as the sum of an increasing sequence of two or more consecutive positive integers?",
+        "options": {
+          "A": "$1$",
+          "B": "$3$",
+          "C": "$5$",
+          "D": "$6$",
+          "E": "$7$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 19,
+        "problem": "Rectangle $ABCD$ has $AB=5$ and $BC=4$. Point $E$ lies on $\\overline{AB}$ so that $EB=1$, point $G$ lies on $\\overline{BC}$ so that $CG=1$. and point $F$ lies on $\\overline{CD}$ so that $DF=2$. Segments $\\overline{AG}$ and $\\overline{AC}$ intersect $\\overline{EF}$ at $Q$ and $P$, respectively. What is the value of $\\frac{PQ}{EF}$? [IMG:AMC10_2016_B_19.png]",
+        "options": {
+          "A": "$~\\frac{\\sqrt{13}}{16}$",
+          "B": "$~\\frac{\\sqrt{2}}{13}$",
+          "C": "$~\\frac{9}{82}$",
+          "D": "$~\\frac{10}{91}$",
+          "E": "$~\\frac19$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 20,
+        "problem": "A dilation of the plane\u2014that is, a size transformation with a positive scale factor\u2014sends the circle of radius $2$ centered at $A(2,2)$ to the circle of radius $3$ centered at $A\u2019(5,6)$. What distance does the origin $O(0,0)$, move under this transformation?",
+        "options": {
+          "A": "$0$",
+          "B": "$3$",
+          "C": "$\\sqrt{13}$",
+          "D": "$4$",
+          "E": "$5$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 21,
+        "problem": "What is the area of the region enclosed by the graph of the equation $x^2+y^2=|x|+|y|?$",
+        "options": {
+          "A": "$\\pi+\\sqrt{2}$",
+          "B": "$\\pi+2$",
+          "C": "$\\pi+2\\sqrt{2}$",
+          "D": "$2\\pi+\\sqrt{2}$",
+          "E": "$2\\pi+2\\sqrt{2}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 22,
+        "problem": "A set of teams held a round-robin tournament in which every team played every other team exactly once. Every team won $10$ games and lost $10$ games; there were no ties. How many sets of three teams $\\{A, B, C\\}$ were there in which $A$ beat $B$, $B$ beat $C$, and $C$ beat $A?$",
+        "options": {
+          "A": "$385$",
+          "B": "$665$",
+          "C": "$945$",
+          "D": "$1140$",
+          "E": "$1330$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 23,
+        "problem": "In regular hexagon $ABCDEF$, points $W$, $X$, $Y$, and $Z$ are chosen on sides $\\overline{BC}$, $\\overline{CD}$, $\\overline{EF}$, and $\\overline{FA}$ respectively, so lines $AB$, $ZW$, $YX$, and $ED$ are parallel and equally spaced. What is the ratio of the area of hexagon $WCXYFZ$ to the area of hexagon $ABCDEF$?",
+        "options": {
+          "A": "$\\frac{1}{3}$",
+          "B": "$\\frac{10}{27}$",
+          "C": "$\\frac{11}{27}$",
+          "D": "$\\frac{4}{9}$",
+          "E": "$\\frac{13}{27}$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 24,
+        "problem": "How many four-digit integers $abcd$, with $a \\neq 0$, have the property that the three two-digit integers $ab<bc<cd$ form an increasing arithmetic sequence? One such number is $4692$, where $a=4$, $b=6$, $c=9$, and $d=2$.",
+        "options": {
+          "A": "$9$",
+          "B": "$15$",
+          "C": "$16$",
+          "D": "$17$",
+          "E": "$20$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 25,
+        "problem": "Let $f(x)=\\sum_{k=2}^{10}(\\lfloor kx \\rfloor -k \\lfloor x \\rfloor)$, where $\\lfloor r \\rfloor$ denotes the greatest integer less than or equal to $r$. How many distinct values does $f(x)$ assume for $x \\ge 0$?",
+        "options": {
+          "A": "$32$",
+          "B": "$36$",
+          "C": "$45$",
+          "D": "$46$",
+          "E": "$\\text{infinitely many}$"
+        },
+        "answer": "A"
+      }
+    ]
+  }
+}

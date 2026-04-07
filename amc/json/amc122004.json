@@ -1,0 +1,502 @@
+{
+  "year": 2004,
+  "contest": "AMC 12",
+  "variants": {
+    "A": [
+      {
+        "number": 1,
+        "problem": "Alicia earns $20$ dollars per hour, of which $1.45\\%$ is deducted to pay local taxes. How many cents per hour of Alicia's wages are used to pay local taxes?",
+        "options": {
+          "A": "$0.0029$",
+          "B": "$0.029$",
+          "C": "$0.29$",
+          "D": "$2.9$",
+          "E": "$29$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 2,
+        "problem": "On the AMC 12, each correct answer is worth $6$ points, each incorrect answer is worth $0$ points, and each problem left unanswered is worth $2.5$ points. If Charlyn leaves $8$ of the $25$ problems unanswered, how many of the remaining problems must she answer correctly in order to score at least $100$?",
+        "options": {
+          "A": "$11$",
+          "B": "$13$",
+          "C": "$14$",
+          "D": "$16$",
+          "E": "$17$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 3,
+        "problem": "For how many ordered pairs of positive integers $(x,y)$ is $x+2y=100$?",
+        "options": {
+          "A": "$33$",
+          "B": "$49$",
+          "C": "$50$",
+          "D": "$99$",
+          "E": "$100$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 4,
+        "problem": "Bertha has $6$ daughters and no sons. Some of her daughters have $6$ daughters, and the rest have none. Bertha has a total of $30$ daughters and granddaughters, and no great-granddaughters. How many of Bertha's daughters and grand-daughters have no daughters?",
+        "options": {
+          "A": "$22$",
+          "B": "$23$",
+          "C": "$24$",
+          "D": "$25$",
+          "E": "$26$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 5,
+        "problem": "The graph of the line $y=mx+b$ is shown. Which of the following is true? [IMG:AMC12_2004_A_5.png]",
+        "options": {
+          "A": "$mb<-1$",
+          "B": "$-1<mb<0$",
+          "C": "$mb=0$",
+          "D": "$0<mb<1$",
+          "E": "$mb>1$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 6,
+        "problem": "Let $U=2\\cdot 2004^{2005}$, $V=2004^{2005}$, $W=2003\\cdot 2004^{2004}$, $X=2\\cdot 2004^{2004}$, $Y=2004^{2004}$ and $Z=2004^{2003}$. Which of the following is the largest?",
+        "options": {
+          "A": "$U-V$",
+          "B": "$V-W$",
+          "C": "$W-X$",
+          "D": "$X-Y$",
+          "E": "$Y-Z \\qquad$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 7,
+        "problem": "A game is played with tokens according to the following rules. In each round, the player with the most tokens gives one token to each of the other players and also places one token into a discard pile. The game ends when some player runs out of tokens. Players $A$, $B$ and $C$ start with $15$, $14$ and $13$ tokens, respectively. How many rounds will there be in the game?",
+        "options": {
+          "A": "$36$",
+          "B": "$37$",
+          "C": "$38$",
+          "D": "$39$",
+          "E": "$40 \\qquad$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 8,
+        "problem": "In the overlapping triangles $\\triangle{ABC}$ and $\\triangle{ABE}$ sharing common side $AB$, $\\angle{EAB}$ and $\\angle{ABC}$ are right angles, $AB=4$, $BC=6$, $AE=8$, and $\\overline{AC}$ and $\\overline{BE}$ intersect at $D$. What is the difference between the areas of $\\triangle{ADE}$ and $\\triangle{BDC}$?",
+        "options": {
+          "A": "$2$",
+          "B": "$4$",
+          "C": "$5$",
+          "D": "$8$",
+          "E": "$9 \\qquad$ [Diagram]$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 9,
+        "problem": "A company sells peanut butter in cylindrical jars. Marketing research suggests that using wider jars would increase sales. If the diameter of the jars is increased by $25\\%$ without altering the volume, by what percent must the height be decreased? $\\text {",
+        "options": {
+          "A": "$10\\% \\qquad \\text {$",
+          "B": "$25\\% \\qquad \\text {$",
+          "C": "$36\\% \\qquad \\text {$",
+          "D": "$50\\% \\qquad \\text {$",
+          "E": "$60\\%$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 10,
+        "problem": "The sum of $49$ consecutive integers is $7^5$. What is their median? $\\text {",
+        "options": {
+          "A": "$7 \\qquad \\text {$",
+          "B": "$7^2\\qquad \\text {$",
+          "C": "$7^3\\qquad \\text {$",
+          "D": "$7^4\\qquad \\text {$",
+          "E": "$7^5$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 11,
+        "problem": "The average value of all the pennies, nickels, dimes, and quarters in Paula's purse is $20$ cents. If she had one more quarter, the average value would be $21$ cents. How many dimes does she have in her purse? $\\text {",
+        "options": {
+          "A": "$0 \\qquad \\text {$",
+          "B": "$1 \\qquad \\text {$",
+          "C": "$2 \\qquad \\text {$",
+          "D": "$3\\qquad \\text {$",
+          "E": "$4$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 12,
+        "problem": "Let $A = (0,9)$ and $B = (0,12)$. Points $A&#39;$ and $B&#39;$ are on the line $y = x$, and $\\overline{AA&#39;}$ and $\\overline{BB&#39;}$ intersect at $C = (2,8)$. What is the length of $\\overline{A&#39;B&#39;}$? $\\text {",
+        "options": {
+          "A": "$2 \\qquad \\text {$",
+          "B": "$2\\sqrt2 \\qquad \\text {$",
+          "C": "$3 \\qquad \\text {$",
+          "D": "$2 + \\sqrt 2\\qquad \\text {$",
+          "E": "$3\\sqrt 2$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 13,
+        "problem": "Let $S$ be the set of points $(a,b)$ in the coordinate plane, where each of $a$ and $b$ may be $- 1$, $0$, or $1$. How many distinct lines pass through at least two members of $S$? $\\text {",
+        "options": {
+          "A": "$8 \\qquad \\text {$",
+          "B": "$20 \\qquad \\text {$",
+          "C": "$24 \\qquad \\text {$",
+          "D": "$27\\qquad \\text {$",
+          "E": "$36$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 14,
+        "problem": "A sequence of three real numbers forms an arithmetic progression with a first term of $9$. If $2$ is added to the second term and $20$ is added to the third term, the three resulting numbers form a geometric progression. What is the smallest possible value for the third term in the geometric progression? $\\text {",
+        "options": {
+          "A": "$1 \\qquad \\text {$",
+          "B": "$4 \\qquad \\text {$",
+          "C": "$36 \\qquad \\text {$",
+          "D": "$49 \\qquad \\text {$",
+          "E": "$81$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 15,
+        "problem": "Brenda and Sally run in opposite directions on a circular track, starting at diametrically opposite points. They first meet after Brenda has run $100$ meters. They next meet after Sally has run $150$ meters past their first meeting point. Each girl runs at a constant speed. What is the length of the track in meters? $\\text {",
+        "options": {
+          "A": "$250 \\qquad \\text {$",
+          "B": "$300 \\qquad \\text {$",
+          "C": "$350 \\qquad \\text {$",
+          "D": "$400\\qquad \\text {$",
+          "E": "$500$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 16,
+        "problem": "The set of all real numbers $x$ for which [IMG:AMC12_2004_A_16.png] is defined is $\\{x\\mid x > c\\}$. What is the value of $c$? $\\textbf {",
+        "options": {
+          "A": "$0\\qquad \\textbf {$",
+          "B": "$2001^{2002} \\qquad \\textbf {$",
+          "C": "$2002^{2003} \\qquad \\textbf {$",
+          "D": "$2003^{2004} \\qquad \\textbf {$",
+          "E": "$2001^{2002^{2003}}$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 18,
+        "problem": "Square $ABCD$ has side length $2$. A semicircle with diameter $\\overline{AB}$ is constructed inside the square, and the tangent to the semicircle from $C$ intersects side $\\overline{AD}$ at $E$. What is the length of $\\overline{CE}$? [IMG:AMC12_2004_A_18.png] $\\text {",
+        "options": {
+          "A": "$\\frac {2 + \\sqrt5}{2} \\qquad \\text {$",
+          "B": "$\\sqrt 5 \\qquad \\text {$",
+          "C": "$\\sqrt 6 \\qquad \\text {$",
+          "D": "$\\frac52 \\qquad \\text {$",
+          "E": "$5 - \\sqrt5$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 19,
+        "problem": "Circles $A, B$ and $C$ are externally tangent to each other, and internally tangent to circle $D$. Circles $B$ and $C$ are congruent. Circle $A$ has radius $1$ and passes through the center of $D$. What is the radius of circle $B$? [IMG:AMC12_2004_A_19.png]",
+        "options": {
+          "A": "$\\frac23$",
+          "B": "$\\frac {\\sqrt3}{2}$",
+          "C": "$\\frac78$",
+          "D": "$\\frac89$",
+          "E": "$\\frac {1 + \\sqrt3}{3}$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 20,
+        "problem": "Select numbers $a$ and $b$ between $0$ and $1$ independently and at random, and let $c$ be their sum. Let $A, B$ and $C$ be the results when $a, b$ and $c$, respectively, are rounded to the nearest integer. What is the probability that $A + B = C$? $\\text {",
+        "options": {
+          "A": "$\\frac14 \\qquad \\text {$",
+          "B": "$\\frac13 \\qquad \\text {$",
+          "C": "$\\frac12 \\qquad \\text {$",
+          "D": "$\\frac23 \\qquad \\text {$",
+          "E": "$\\frac34$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 21,
+        "problem": "If $\\sum_{n = 0}^{\\infty}\\cos^{2n}\\theta = 5$, what is the value of $\\cos{2\\theta}$? $\\text {",
+        "options": {
+          "A": "$\\frac15 \\qquad \\text {$",
+          "B": "$\\frac25 \\qquad \\text {$",
+          "C": "$\\frac {\\sqrt5}{5}\\qquad \\text {$",
+          "D": "$\\frac35 \\qquad \\text {$",
+          "E": "$\\frac45$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 22,
+        "problem": "Three mutually tangent spheres of radius $1$ rest on a horizontal plane. A sphere of radius $2$ rests on them. What is the distance from the plane to the top of the larger sphere? $\\text {",
+        "options": {
+          "A": "$3 + \\frac {\\sqrt {30}}{2} \\qquad \\text {$",
+          "B": "$3 + \\frac {\\sqrt {69}}{3} \\qquad \\text {$",
+          "C": "$3 + \\frac {\\sqrt {123}}{4}\\qquad \\text {$",
+          "D": "$\\frac {52}{9}\\qquad \\text {$",
+          "E": "$3 + 2\\sqrt2$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 23,
+        "problem": "A polynomial [IMG:AMC12_2004_A_23_0.png] [IMG:AMC12_2004_A_23_1.png] has real coefficients with $c_{2004}\\not = 0$ and $2004$ distinct complex zeroes $z_k = a_k + b_ki$, $1\\leq k\\leq 2004$ with $a_k$ and $b_k$ real, $a_1 = b_1 = 0$, and [IMG:AMC12_2004_A_23_0.png] [IMG:AMC12_2004_A_23_1.png] Which of the following quantities can be a nonzero number? $\\text {",
+        "options": {
+          "A": "$c_0 \\qquad \\text {$",
+          "B": "$c_{2003} \\qquad \\text {$",
+          "C": "$b_2b_3...b_{2004} \\qquad \\text {$",
+          "D": "$\\sum_{k = 1}^{2004}{a_k} \\qquad \\text {$",
+          "E": "$\\sum_{k = 1}^{2004}{c_k}$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 24,
+        "problem": "A plane contains points $A$ and $B$ with $AB = 1$. Let $S$ be the union of all disks of radius $1$ in the plane that cover $\\overline{AB}$. What is the area of $S$? $\\text {",
+        "options": {
+          "A": "$2\\pi + \\sqrt3 \\qquad \\text {$",
+          "B": "$\\frac {8\\pi}{3} \\qquad \\text {$",
+          "C": "$3\\pi - \\frac {\\sqrt3}{2} \\qquad \\text {$",
+          "D": "$\\frac {10\\pi}{3} - \\sqrt3 \\qquad \\text {$",
+          "E": "$4\\pi - 2\\sqrt3$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 25,
+        "problem": "For each integer $n\\geq 4$, let $a_n$ denote the base-$n$ number $0.\\overline{133}_n$. The product $a_4a_5...a_{99}$ can be expressed as $\\frac {m}{n!}$, where $m$ and $n$ are positive integers and $n$ is as small as possible. What is the value of $m$? $\\text {",
+        "options": {
+          "A": "$98 \\qquad \\text {$",
+          "B": "$101 \\qquad \\text {$",
+          "C": "$132\\qquad \\text {$",
+          "D": "$798\\qquad \\text {$",
+          "E": "$962$"
+        },
+        "answer": "E"
+      }
+    ],
+    "B": [
+      {
+        "number": 9,
+        "problem": "The point $(-3,2)$ is rotated $90^\\circ$ clockwise around the origin to point $B$. Point $B$ is then reflected over the line $x=y$ to point $C$. What are the coordinates of $C$?",
+        "options": {
+          "A": "$(-3,-2)$",
+          "B": "$(-2,-3)$",
+          "C": "$(2,-3)$",
+          "D": "$(2,3)$",
+          "E": "$(3,2)$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 10,
+        "problem": "An annulus is the region between two concentric circles. The concentric circles in the \ufb01gure have radii $b$ and $c$, with $b>c$. Let $OX$ be a radius of the larger circle, let $XZ$ be tangent to the smaller circle at $Z$, and let $OY$ be the radius of the larger circle that contains $Z$. Let $a=XZ$, $d=YZ$, and $e=XY$. What is the area of the annulus? [IMG:AMC12_2004_B_10.png]",
+        "options": {
+          "A": "$\\pi a^2$",
+          "B": "$\\pi b^2$",
+          "C": "$\\pi c^2$",
+          "D": "$\\pi d^2$",
+          "E": "$\\pi e^2$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 11,
+        "problem": "All the students in an algebra class took a $100$-point test. Five students scored $100$, each student scored at least $60$, and the mean score was $76$. What is the smallest possible number of students in the class?",
+        "options": {
+          "A": "$10$",
+          "B": "$11$",
+          "C": "$12$",
+          "D": "$13$",
+          "E": "$14$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 12,
+        "problem": "In the sequence $2001$, $2002$, $2003$, $\\ldots$ , each term after the third is found by subtracting the previous term from the sum of the two terms that precede that term. For example, the fourth term is $2001 + 2002 - 2003 = 2000$. What is the $2004^\\textrm{th}$ term in this sequence?",
+        "options": {
+          "A": "$-2004$",
+          "B": "$-2$",
+          "C": "$0$",
+          "D": "$4003$",
+          "E": "$6007$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 13,
+        "problem": "If $f(x) = ax+b$ and $f^{-1}(x) = bx+a$ with $a$ and $b$ real, what is the value of $a+b$?",
+        "options": {
+          "A": "$-2$",
+          "B": "$-1$",
+          "C": "$0$",
+          "D": "$1$",
+          "E": "$2$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 14,
+        "problem": "In $\\triangle ABC$, $AB=13$, $AC=5$, and $BC=12$. Points $M$ and $N$ lie on $AC$ and $BC$, respectively, with $CM=CN=4$. Points $J$ and $K$ are on $AB$ so that $MJ$ and $NK$ are perpendicular to $AB$. What is the area of pentagon $CMJKN$? [IMG:AMC12_2004_B_14.png]",
+        "options": {
+          "A": "$15$",
+          "B": "$\\frac{81}{5}$",
+          "C": "$\\frac{205}{12}$",
+          "D": "$\\frac{240}{13}$",
+          "E": "$20$"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 15,
+        "problem": "The two digits in Jack's age are the same as the digits in Bill's age, but in reverse order. In five years Jack will be twice as old as Bill will be then. What is the difference in their current ages?",
+        "options": {
+          "A": "$9$",
+          "B": "$18$",
+          "C": "$27$",
+          "D": "$36$",
+          "E": "$45$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 16,
+        "problem": "A function $f$ is defined by $f(z) = i\\overline{z}$, where $i=\\sqrt{-1}$ and $\\overline{z}$ is the complex conjugate of $z$. How many values of $z$ satisfy both $|z| = 5$ and $f(z) = z$?",
+        "options": {
+          "A": "$0$",
+          "B": "$1$",
+          "C": "$2$",
+          "D": "$4$",
+          "E": "$8$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 17,
+        "problem": "For some real numbers $a$ and $b$, the equation [IMG:AMC12_2004_B_17.png] has three distinct positive roots. If the sum of the base-$2$ logarithms of the roots is $5$, what is the value of $a$?",
+        "options": {
+          "A": "$-256$",
+          "B": "$-64$",
+          "C": "$-8$",
+          "D": "$64$",
+          "E": "$256$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 18,
+        "problem": "Points $A$ and $B$ are on the parabola $y=4x^2+7x-1$, and the origin is the midpoint of $AB$. What is the length of $AB$?",
+        "options": {
+          "A": "$2\\sqrt5$",
+          "B": "$5+\\frac{\\sqrt2}{2}$",
+          "C": "$5+\\sqrt2$",
+          "D": "$7$",
+          "E": "$5\\sqrt2$"
+        },
+        "answer": "E"
+      },
+      {
+        "number": 19,
+        "problem": "A truncated cone has horizontal bases with radii $18$ and $2$. A sphere is tangent to the top, bottom, and lateral surface of the truncated cone. What is the radius of the sphere?",
+        "options": {
+          "A": "$6$",
+          "B": "$4\\sqrt{5}$",
+          "C": "$9$",
+          "D": "$10$",
+          "E": "$6\\sqrt{3}$"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 20,
+        "problem": "Each face of a cube is painted either red or blue, each with probability $1/2$. The color of each face is determined independently. What is the probability that the painted cube can be placed on a horizontal surface so that the four vertical faces are all the same color?",
+        "options": {
+          "A": "$\\frac14$",
+          "B": "$\\frac {5}{16}$",
+          "C": "$\\frac38$",
+          "D": "$\\frac {7}{16}$",
+          "E": "$\\frac12$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 21,
+        "problem": "The graph of $2x^2 + xy + 3y^2 - 11x - 20y + 40 = 0$ is an ellipse in the first quadrant of the $xy$-plane. Let $a$ and $b$ be the maximum and minimum values of $\\frac yx$ over all points $(x,y)$ on the ellipse. What is the value of $a+b$?",
+        "options": {
+          "A": "$3$",
+          "B": "$\\sqrt{10}$",
+          "C": "$\\frac 72$",
+          "D": "$\\frac 92$",
+          "E": "$2\\sqrt{14}$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 22,
+        "problem": "The square $\\begin{tabular}{|c|c|c|} \\hline 50 & \\textit{b} & \\textit{c} \\\\ \\hline \\textit{d} & \\textit{e} & \\textit{f} \\\\ \\hline \\textit{g} & \\textit{h} & 2 \\\\ \\hline \\end{tabular}$ is a multiplicative magic square. That is, the product of the numbers in each row, column, and diagonal is the same. If all the entries are positive integers, what is the sum of the possible values of $g$?",
+        "options": {
+          "A": "$10$",
+          "B": "$25$",
+          "C": "$35$",
+          "D": "$62$",
+          "E": "$136$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 23,
+        "problem": "The polynomial $x^3 - 2004 x^2 + mx + n$ has integer coefficients and three distinct positive zeros. Exactly one of these is an integer, and it is the sum of the other two. How many values of $n$ are possible?",
+        "options": {
+          "A": "$250,000$",
+          "B": "$250,250$",
+          "C": "$250,500$",
+          "D": "$250,750$",
+          "E": "$251,000$"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 24,
+        "problem": "In $\\triangle ABC$, $AB = BC$, and $\\overline{BD}$ is an altitude . Point $E$ is on the extension of $\\overline{AC}$ such that $BE = 10$. The values of $\\tan \\angle CBE$, $\\tan \\angle DBE$, and $\\tan \\angle ABE$ form a geometric progression , and the values of $\\cot \\angle DBE,$ $\\cot \\angle CBE,$ $\\cot \\angle DBC$ form an arithmetic progression . What is the area of $\\triangle ABC$? [IMG:AMC12_2004_B_24.png]",
+        "options": {
+          "A": "$16$",
+          "B": "$\\frac {50}3$",
+          "C": "$10\\sqrt{3}$",
+          "D": "$8\\sqrt{5}$",
+          "E": "$18$"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 25,
+        "problem": "Given that $2^{2004}$ is a $604$- digit number whose first digit is $1$, how many elements of the set $S = \\{2^0,2^1,2^2,\\ldots ,2^{2003}\\}$ have a first digit of $4$?",
+        "options": {
+          "A": "$194$",
+          "B": "$195$",
+          "C": "$196$",
+          "D": "$197$",
+          "E": "$198$"
+        },
+        "answer": "B"
+      }
+    ]
+  }
+}
