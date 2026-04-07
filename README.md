@@ -1,5 +1,5 @@
 # escape-tab
-An escape room in a browser tab. Solve 10 competition math problems in order to exit the tab.
+An escape room in a browser tab. Solve 3 competition math problems in order to exit the tab.
 
 ## How It Works
 Uses this person's [CITATION] web-scraping script to fetch every past American Mathematics Competition problem from the Art of Problem Solving's 
