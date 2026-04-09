@@ -6,5 +6,3 @@ Pulls AMC10,12, and AIME problems from a bank (scraped from AOPS' website) and t
 Problems are selected at random, 3 at a time. 
 
 Uses the PointerClick API to disable your operating system's native cursor. A "Problem Solved" count is incremented for each one of your successful solves. When you hit 3 solved problems, your cursor functionality is restored and you're free to leave. Or to play again :P
-
-(It's very easy to escape the room if you actually want; you don't really need to surrender your cursor. This is mainly just a way to "force" yourself to do a few competition math problems.) 
